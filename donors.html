@@ -1,0 +1,225 @@
+<html>
+    <head>
+        <script src="papaparse.min.js"></script>
+        <style>
+        #previewtable {
+            border-collapse: collapse;
+        }
+
+        #previewtable td {
+            border: 1px solid #999;
+            padding: 0;
+            padding-left: 5px;
+            padding-right: 5px;
+            vertical-align:top;
+            font-family:monospace
+        }
+        
+        #previewtable th {
+            border: 1px solid #999;
+            padding: 0;
+            padding-left: 5px;
+            padding-right: 5px;
+            vertical-align:top;
+            font-family:monospace;
+
+            background-color: #ccc;
+            padding: 1px 3px;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        </style>
+    </head>
+    <body>
+        <h1>Work with GoogleContacts.csv and HelloAssoPaiements.csv</h1>
+        <label for="fileupload" style="font-family:monospace">Input CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <input type="file" id="fileupload" name="fileupload" accept=".csv" onchange="onchange_fileupload()" />
+        <br />
+        <label for="download" style="font-family:monospace">Process CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <button id="iconv" name="iconv" onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
+        <button id="iconv" name="iconv" onclick="onclick_process(prepare_helloasso, '.prepare_helloasso.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
+        <br />
+        <label for="download" style="font-family:monospace">Download output CSV&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <a id="download">after processing, click here to download the output CSV:&nbsp;<span id="outputfilename"></span></a>
+        <br />
+
+        <hr />
+
+        <table id="previewtable" />
+
+        <script>
+
+        function show_table(res, only_nonempttycols = false, ellipsis_threshold = 50)
+        {
+            const cols = only_nonempttycols ? find_nonemptycols(res, false) : res.meta.fields;
+            
+            const previewtable = document.getElementById("previewtable");
+            previewtable.innerHTML = "";
+            
+            const thead = previewtable.createTHead();
+            const thead_tr = thead.insertRow(-1);
+            for(const col of [" "].concat(cols))
+            {
+                const th = document.createElement("th");
+                th.innerText = col;
+                thead_tr.appendChild(th);
+            }
+
+            const tbody = previewtable.createTBody();
+            for(let i = 0; i < res.data.length; i++)
+            {
+                const tr = tbody.insertRow(-1);
+                const th = document.createElement("th");
+                th.innerText = (i + 1).toString();
+                tr.appendChild(th);
+                
+                for(const col of cols)
+                {
+                    const val = res.data[i][col];
+                    const tc = tr.insertCell(-1);
+                    const valstr = val.toString();
+                    tc.innerText = valstr.length < ellipsis_threshold ? valstr : valstr.substring(0, ellipsis_threshold) + "...";
+                    tc.title = valstr;
+                }
+            }
+        }
+
+        function onchange_fileupload()
+        {
+            document.getElementById("previewtable").innerHTML = "";
+
+            const fileupload = document.getElementById("fileupload");
+            if(fileupload.files.length == 0)
+                return;
+            const file = fileupload.files[0];
+
+            Papa.parse(file, {header: true, skipEmptyLines: true, complete: res => show_table(res, true)});
+        }
+
+        function onclick_process(fn, suffix = ".download.csv")
+        {
+            const download = document.getElementById("download");
+            const outputfilename = document.getElementById("outputfilename");
+
+            const fileupload = document.getElementById("fileupload");
+            if(fileupload.files.length == 0)
+                return;
+            const file = fileupload.files[0];
+
+            const input_file_name = fileupload.value.slice(1 + Math.max(fileupload.value.lastIndexOf('/'), fileupload.value.lastIndexOf('\\')));
+            const output_file_name = input_file_name + suffix;
+
+            Papa.parse(file, {header: true, skipEmptyLines : true, complete: res =>
+            {
+                const processed = fn(res);
+                const csvString = Papa.unparse(processed);
+                download.href = URL.createObjectURL(new Blob([csvString], {type: "text/csv;charset=utf-8;"}));;
+                download.setAttribute("download", output_file_name);
+                outputfilename.innerText = output_file_name;
+                show_table(processed, false);
+            }});
+        }
+
+        function find_nonemptycols(res, star_means_empty = true)
+        {
+            const nonemptycols = [];
+            for(const col of res.meta.fields)
+            {
+                let is_empty = true;
+                for(const row of res.data)
+                {
+                    if(row[col] != "" && (star_means_empty ? row[col].trim() != "*" : true))
+                        is_empty = false;
+                }
+                if(!is_empty)
+                    nonemptycols.push(col);
+            }
+            return nonemptycols;
+        }
+
+        function groupby(items, key_fn)
+        {
+            const res = {};
+            for(const item of items)
+            {
+                const key = key_fn(item);
+                if(key in res)
+                    res[key].push(item)
+                else
+                    res[key] = [item];
+            }
+            return res;
+        }
+
+        function analyze_googlecontacts(res,
+            col_total = "AnalyzedTotalEur",
+            col_numtransactions = "AnalyzedNumTransactions", 
+            col_maxyeartransaction = "AnalyzedMaxTransactionYear"
+        )
+        {
+            const nonemptycols = find_nonemptycols(res);
+            const data = [];
+            for(const row of res.data)
+            {
+                let col_googlecontacts_transactionsvalue = "";
+                for(const col of Object.keys(row))
+                    if(col.startsWith("Custom Field ") && col.endsWith(" - Type") && row[col] == "transactions")
+                        col_googlecontacts_transactionsvalue = col.replace(" - Type", " - Value");
+                const newrow = {};
+                for(const col of nonemptycols)
+                    newrow[col] = row[col];
+                const transactions = row[col_googlecontacts_transactionsvalue] ? row[col_googlecontacts_transactionsvalue].split(" ::: ") : [];
+                newrow[col_numtransactions] = transactions.length.toString();
+                newrow[col_maxyeartransaction] = (transactions ? Math.max(...transactions.map(s => parseInt(s.substring(0, 4)))) : 0).toString();
+                newrow[col_total] = transactions.map(s => parseInt(s.split('_').pop().replace(",", "."))).reduce((acc, x) => acc + x, 0).toString();
+                data.push(newrow)
+            }
+            nonemptycols.push(col_maxyeartransaction, col_numtransactions, col_total);
+            return {data : data, meta : {fields : nonemptycols}};
+        }
+
+        function prepare_helloasso(res,
+            col_googlecontacts_firstname = "Given Name",
+            col_googlecontacts_lastname = "Family Name",
+            col_googlecontacts_notes = "Notes",
+            col_googlecontacts_emailkey = "E-mail 1 - Type",
+            col_googlecontacts_emailvalue = "E-mail 1 - Value",
+            col_googlecontacts_transactionskey = "Custom Field 1 - Type",
+            col_googlecontacts_transactionsvalue = "Custom Field 1 - Value",
+            col_helloasso_firstname = "Prénom payeur",
+            col_helloasso_lastname = "Nom payeur",
+            col_helloasso_emailvalue = "Email payeur",
+            col_helloasso_transactionsvalue = "Montant total",
+            col_helloasso_transactionsdate = "Date du paiement" 
+        )
+        {
+            const normalize_name = name => name.split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
+            const sortkey_helloasso = r => r[col_helloasso_emailvalue].toLowerCase()
+            const grouped = groupby(res.data, sortkey_helloasso);
+
+            const data = [];
+            const nonemptycols = [];
+            for(const k of Object.keys(grouped).sort())
+            {
+                g = grouped[k];
+                g0 = g[0]
+                const newrow = {
+                    [col_googlecontacts_firstname] : normalize_name(g0[col_helloasso_firstname]), 
+                    [col_googlecontacts_lastname] : normalize_name(g0[col_helloasso_lastname]), 
+                    [col_googlecontacts_emailkey] : "* ", 
+                    [col_googlecontacts_emailvalue] : g0[col_helloasso_emailvalue].toLowerCase(), 
+                    [col_googlecontacts_transactionskey] : "transactions", 
+                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "_" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString()).join(" ::: ")
+                };
+                data.push(newrow);
+            }
+            nonemptycols.push(col_googlecontacts_firstname, col_googlecontacts_lastname, col_googlecontacts_emailkey, col_googlecontacts_emailvalue, col_googlecontacts_transactionskey, col_googlecontacts_transactionsvalue);
+            return {data : data, meta : {fields : nonemptycols}};
+        }
+        
+        </script>
+
+    </body>
+</html>
