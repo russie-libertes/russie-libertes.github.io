@@ -155,7 +155,8 @@
         function analyze_googlecontacts(res,
             col_total = "AnalyzedTotalEur",
             col_numtransactions = "AnalyzedNumTransactions", 
-            col_maxyeartransaction = "AnalyzedLastTransactionYear"
+            col_maxyeartransaction = "AnalyzedLastTransactionYear",
+            col_alltransactiontypes = "AnalyzedTransactionTypes"
         )
         {
             const nonemptycols = find_nonemptycols(res);
@@ -172,11 +173,12 @@
                 const transactions = row[col_googlecontacts_transactionsvalue] ? row[col_googlecontacts_transactionsvalue].split(" ::: ") : [];
                 newrow[col_numtransactions] = transactions.length.toString();
                 newrow[col_maxyeartransaction] = (transactions ? Math.max(...transactions.map(s => parseInt(s.substring(0, 4)))) : 0).toString();
-                newrow[col_total] = transactions.map(s => parseInt(s.split('=').pop().replace(",", "."))).reduce((acc, x) => acc + x, 0).toString();
+                newrow[col_total] = transactions.map(s => parseInt(s.split("=").pop().replace(",", ".").replace("EUR", ""))).reduce((acc, x) => acc + x, 0).toString();
+                newrow[col_alltransactiontypes] = Array.from(new Set(transctions.map(s => s.split("=")[1]))).sort().join("|");
                 data.push(newrow)
             }
             data = data.sort((r1, r2) => parseInt(r2[col_total]) - parseInt(r1[col_total]));
-            nonemptycols.push(col_maxyeartransaction, col_numtransactions, col_total);
+            nonemptycols.push(col_maxyeartransaction, col_numtransactions, col_total, col_alltransactiontypes);
             return {data : data, meta : {fields : nonemptycols}};
         }
 
@@ -192,11 +194,13 @@
             col_helloasso_lastname = "Nom payeur",
             col_helloasso_emailvalue = "Email payeur",
             col_helloasso_transactionsvalue = "Montant total",
-            col_helloasso_transactionsdate = "Date du paiement"
+            col_helloasso_transactionsdate = "Date du paiement",
+            col_helloasso_typedecampagne = "Type de campagne"
         )
         {
             const normalize_name = name => name.split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
             const normalize_email = email => email.toLowerCase();
+            const normalize_transactiontype = transactiontype => transactiontype.replaceAll("é", e).toLowerCase();
             const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
             const sortkey_helloasso = r => r[col_helloasso_emailvalue].toLowerCase()
             const grouped = groupby(res.data, sortkey_helloasso);
@@ -217,7 +221,7 @@
                     [col_googlecontacts_emailkey] : "* ", 
                     [col_googlecontacts_emailvalue] : normalize_email(g0[col_helloasso_emailvalue]), 
                     [col_googlecontacts_transactionskey] : "transactions", 
-                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString()).join(" ::: ")
+                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + normalize_transactiontype(r[col_helloasso_typedecampagne]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString() + "EUR").join(" ::: ")
                 };
                 data.push(newrow);
             }
