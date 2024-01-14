@@ -159,7 +159,7 @@
         )
         {
             const nonemptycols = find_nonemptycols(res);
-            const data = [];
+            let data = [];
             for(const row of res.data)
             {
                 let col_googlecontacts_transactionsvalue = "";
@@ -172,9 +172,10 @@
                 const transactions = row[col_googlecontacts_transactionsvalue] ? row[col_googlecontacts_transactionsvalue].split(" ::: ") : [];
                 newrow[col_numtransactions] = transactions.length.toString();
                 newrow[col_maxyeartransaction] = (transactions ? Math.max(...transactions.map(s => parseInt(s.substring(0, 4)))) : 0).toString();
-                newrow[col_total] = transactions.map(s => parseInt(s.split('_').pop().replace(",", "."))).reduce((acc, x) => acc + x, 0).toString();
+                newrow[col_total] = transactions.map(s => parseInt(s.split('=').pop().replace(",", "."))).reduce((acc, x) => acc + x, 0).toString();
                 data.push(newrow)
             }
+            data = data.sort((r1, r2) => parseInt(r2[col_total]) - parseInt(r1[col_total]));
             nonemptycols.push(col_maxyeartransaction, col_numtransactions, col_total);
             return {data : data, meta : {fields : nonemptycols}};
         }
@@ -211,7 +212,7 @@
                     [col_googlecontacts_emailkey] : "* ", 
                     [col_googlecontacts_emailvalue] : g0[col_helloasso_emailvalue].toLowerCase(), 
                     [col_googlecontacts_transactionskey] : "transactions", 
-                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "_" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString()).join(" ::: ")
+                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString()).join(" ::: ")
                 };
                 data.push(newrow);
             }
