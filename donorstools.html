@@ -107,8 +107,10 @@
                 return;
             const file = fileupload.files[0];
 
+            const datestamp = new Date().toISOString().replaceAll(":", "_");
+
             const input_file_name = fileupload.value.slice(1 + Math.max(fileupload.value.lastIndexOf('/'), fileupload.value.lastIndexOf('\\')));
-            const output_file_name = input_file_name + suffix;
+            const output_file_name = input_file_name + "." + datestamp + "." suffix;
 
             Papa.parse(file, {header: true, skipEmptyLines : true, complete: res =>
             {
