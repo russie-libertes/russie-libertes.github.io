@@ -174,7 +174,7 @@
                 newrow[col_numtransactions] = transactions.length.toString();
                 newrow[col_maxyeartransaction] = (transactions ? Math.max(...transactions.map(s => parseInt(s.substring(0, 4)))) : 0).toString();
                 newrow[col_total] = transactions.map(s => parseInt(s.split("=").pop().replace(",", ".").replace("EUR", ""))).reduce((acc, x) => acc + x, 0).toString();
-                newrow[col_alltransactiontypes] = Array.from(new Set(transctions.map(s => s.split("=")[1]))).sort().join("|");
+                newrow[col_alltransactiontypes] = Array.from(new Set(transactions.map(s => s.split("=")[1]))).sort().join("|");
                 data.push(newrow)
             }
             data = data.sort((r1, r2) => parseInt(r2[col_total]) - parseInt(r1[col_total]));
