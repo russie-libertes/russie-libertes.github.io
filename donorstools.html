@@ -183,7 +183,7 @@
         function prepare_helloasso(res,
             col_googlecontacts_firstname = "Given Name",
             col_googlecontacts_lastname = "Family Name",
-            col_googlecontacts_notes = "Notes",
+            col_googlecontacts_groupmembership = "Group Membership",
             col_googlecontacts_emailkey = "E-mail 1 - Type",
             col_googlecontacts_emailvalue = "E-mail 1 - Value",
             col_googlecontacts_transactionskey = "Custom Field 1 - Type",
@@ -192,10 +192,11 @@
             col_helloasso_lastname = "Nom payeur",
             col_helloasso_emailvalue = "Email payeur",
             col_helloasso_transactionsvalue = "Montant total",
-            col_helloasso_transactionsdate = "Date du paiement" 
+            col_helloasso_transactionsdate = "Date du paiement"
         )
         {
             const normalize_name = name => name.split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const normalize_email = email => email.toLowerCase();
             const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
             const sortkey_helloasso = r => r[col_helloasso_emailvalue].toLowerCase()
             const grouped = groupby(res.data, sortkey_helloasso);
@@ -209,14 +210,15 @@
                 const newrow = {
                     [col_googlecontacts_firstname] : normalize_name(g0[col_helloasso_firstname]), 
                     [col_googlecontacts_lastname] : normalize_name(g0[col_helloasso_lastname]), 
+                    [col_googlecontacts_groupmembership] : "* myContacts", 
                     [col_googlecontacts_emailkey] : "* ", 
-                    [col_googlecontacts_emailvalue] : g0[col_helloasso_emailvalue].toLowerCase(), 
+                    [col_googlecontacts_emailvalue] : normalize_email(g0[col_helloasso_emailvalue]), 
                     [col_googlecontacts_transactionskey] : "transactions", 
                     [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString()).join(" ::: ")
                 };
                 data.push(newrow);
             }
-            nonemptycols.push(col_googlecontacts_firstname, col_googlecontacts_lastname, col_googlecontacts_emailkey, col_googlecontacts_emailvalue, col_googlecontacts_transactionskey, col_googlecontacts_transactionsvalue);
+            nonemptycols.push(col_googlecontacts_firstname, col_googlecontacts_lastname, col_googlecontacts_groupmembership, col_googlecontacts_emailkey, col_googlecontacts_emailvalue, col_googlecontacts_transactionskey, col_googlecontacts_transactionsvalue);
             return {data : data, meta : {fields : nonemptycols}};
         }
         
