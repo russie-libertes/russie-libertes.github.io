@@ -205,6 +205,9 @@
             const nonemptycols = [];
             for(const k of Object.keys(grouped).sort())
             {
+                if(!k)
+                    continue;
+                
                 g = grouped[k];
                 g0 = g[0]
                 const newrow = {
