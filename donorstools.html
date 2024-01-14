@@ -198,9 +198,9 @@
             col_helloasso_typedecampagne = "Type de campagne"
         )
         {
-            const normalize_name = name => name.split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
-            const normalize_email = email => email.toLowerCase();
-            const normalize_transactiontype = transactiontype => transactiontype.replaceAll("é", e).toLowerCase();
+            const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const normalize_email = email => (email || "").toLowerCase();
+            const normalize_transactiontype = transactiontype => (transactiontype || "").replaceAll("é", "e").toLowerCase();
             const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
             const sortkey_helloasso = r => r[col_helloasso_emailvalue].toLowerCase()
             const grouped = groupby(res.data, sortkey_helloasso);
