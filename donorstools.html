@@ -40,6 +40,7 @@
         <button onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
         <button onclick="onclick_process(prepare_helloasso_for_googlecontacts, '.prepare_helloasso.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
         <button onclick="onclick_process(prepare_helloasso_for_mailchimp, '.prepare_helloasso.csv')">Prepare HelloAssoMembers.csv for import to Mailchimp</button>
+        <button onclick="onclick_process(prepare_googlecontacts_for_mailchimp, '.prepare_helloasso.csv')">Prepare GoogleContacts.csv for import to Mailchimp</button>
         <br />
         <label for="download" style="font-family:monospace">Download output CSV&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
         <a id="download">after processing, click here to download the output CSV:&nbsp;<span id="outputfilename"></span></a>
@@ -188,7 +189,24 @@
         function prepare_helloasso_for_mailchimp(res,
             col_helloasso_firstname = "Prénom adhérent",
             col_helloasso_lastname = "Nom adhérent",
-            col_helloasso_emailvalue = "Email"
+            col_helloasso_emailvalue = "Email",
+
+            col_mailchimp_firstname = "FirstName",
+            col_mailchimp_lastname = "LastName",
+            col_mailchimp_email = "Email"
+        )
+        {
+            
+        }
+
+        function prepare_googlecontacts_for_mailchimp(res,
+            col_googlecontacts_firstname = "Given Name",
+            col_googlecontacts_lastname = "Family Name",
+            col_googlecontacts_emailvalue = "E-mail 1 - Value",
+
+            col_mailchimp_firstname = "FirstName",
+            col_mailchimp_lastname = "LastName",
+            col_mailchimp_email = "Email"
         )
         {
             
