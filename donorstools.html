@@ -37,8 +37,9 @@
         <input type="file" id="fileupload" name="fileupload" accept=".csv" onchange="onchange_fileupload()" />
         <br />
         <label for="download" style="font-family:monospace">Process CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
-        <button id="iconv" name="iconv" onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
-        <button id="iconv" name="iconv" onclick="onclick_process(prepare_helloasso, '.prepare_helloasso.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
+        <button onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
+        <button onclick="onclick_process(prepare_helloasso_for_googlecontacts, '.prepare_helloasso.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
+        <button onclick="onclick_process(prepare_helloasso_for_mailchimp, '.prepare_helloasso.csv')">Prepare HelloAssoMembers.csv for import to Mailchimp</button>
         <br />
         <label for="download" style="font-family:monospace">Download output CSV&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
         <a id="download">after processing, click here to download the output CSV:&nbsp;<span id="outputfilename"></span></a>
@@ -184,20 +185,30 @@
             return {data : data, meta : {fields : nonemptycols}};
         }
 
-        function prepare_helloasso(res,
+        function prepare_helloasso_for_mailchimp(res,
+            col_helloasso_firstname = "Prénom adhérent",
+            col_helloasso_lastname = "Nom adhérent",
+            col_helloasso_emailvalue = "Email"
+        )
+        {
+            
+        }
+
+        function prepare_helloasso_for_googlecontacts(res,
+            col_helloasso_firstname = "Prénom payeur",
+            col_helloasso_lastname = "Nom payeur",
+            col_helloasso_emailvalue = "Email payeur",
+            col_helloasso_transactionsvalue = "Montant total",
+            col_helloasso_transactionsdate = "Date du paiement",
+            col_helloasso_typedecampagne = "Type de campagne",
+                                                      
             col_googlecontacts_firstname = "Given Name",
             col_googlecontacts_lastname = "Family Name",
             col_googlecontacts_groupmembership = "Group Membership",
             col_googlecontacts_emailkey = "E-mail 1 - Type",
             col_googlecontacts_emailvalue = "E-mail 1 - Value",
             col_googlecontacts_transactionskey = "Custom Field 1 - Type",
-            col_googlecontacts_transactionsvalue = "Custom Field 1 - Value",
-            col_helloasso_firstname = "Prénom payeur",
-            col_helloasso_lastname = "Nom payeur",
-            col_helloasso_emailvalue = "Email payeur",
-            col_helloasso_transactionsvalue = "Montant total",
-            col_helloasso_transactionsdate = "Date du paiement",
-            col_helloasso_typedecampagne = "Type de campagne"
+            col_googlecontacts_transactionsvalue = "Custom Field 1 - Value"
         )
         {
             const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
