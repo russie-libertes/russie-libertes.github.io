@@ -38,9 +38,8 @@
         <br />
         <label for="download" style="font-family:monospace">Process CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
         <button onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
-        <button onclick="onclick_process(prepare_helloasso_for_googlecontacts, '.prepare_helloasso.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
-        <button onclick="onclick_process(prepare_helloasso_for_mailchimp, '.prepare_helloasso.csv')">Prepare HelloAssoMembers.csv for import to Mailchimp</button>
-        <button onclick="onclick_process(prepare_googlecontacts_for_mailchimp, '.prepare_helloasso.csv')">Prepare GoogleContacts.csv for import to Mailchimp</button>
+        <button onclick="onclick_process(prepare_helloasso_for_googlecontacts, '.prepare_helloasso_for_googlecontacts.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
+        <button onclick="onclick_process(prepare_helloasso_for_mailchimp, '.prepare_helloasso_for_mailchimp.csv')">Prepare HelloAssoMembres.csv or HelloAssoParticipants.csv for import to Mailchimp</button>
         <br />
         <label for="download" style="font-family:monospace">Download output CSV&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
         <a id="download">after processing, click here to download the output CSV:&nbsp;<span id="outputfilename"></span></a>
@@ -99,7 +98,7 @@
             Papa.parse(file, {header: true, skipEmptyLines: true, complete: res => show_table(res, true)});
         }
 
-        function onclick_process(fn, suffix = ".download.csv")
+        function onclick_process(fn, suffix = ".download.csv", utf8_bom_for_buggy_excel = '\uFEFF')
         {
             const download = document.getElementById("download");
             const outputfilename = document.getElementById("outputfilename");
@@ -118,7 +117,7 @@
             {
                 const processed = fn(res);
                 const csvString = Papa.unparse(processed);
-                download.href = URL.createObjectURL(new Blob([csvString], {type: "text/csv;charset=utf-8;"}));;
+                download.href = URL.createObjectURL(new Blob([utf8_bom_for_buggy_excel + csvString], {type: "text/csv;charset=utf-8;"}));;
                 download.setAttribute("download", output_file_name);
                 outputfilename.innerText = output_file_name;
                 show_table(processed, false);
@@ -187,28 +186,47 @@
         }
 
         function prepare_helloasso_for_mailchimp(res,
-            col_helloasso_firstname = "Prénom adhérent",
-            col_helloasso_lastname = "Nom adhérent",
-            col_helloasso_emailvalue = "Email",
-
-            col_mailchimp_firstname = "FirstName",
-            col_mailchimp_lastname = "LastName",
-            col_mailchimp_email = "Email"
-        )
-        {
+            col_helloasso_firstname_member = "Prénom adhérent",
+            col_helloasso_lastname_member = "Nom adhérent",
+            col_helloasso_email_member = "Email",
             
-        }
-
-        function prepare_googlecontacts_for_mailchimp(res,
-            col_googlecontacts_firstname = "Given Name",
-            col_googlecontacts_lastname = "Family Name",
-            col_googlecontacts_emailvalue = "E-mail 1 - Value",
+            col_helloasso_firstname_participant = "Prénom participant",
+            col_helloasso_lastname_participant = "Nom participant",
+            col_helloasso_email_participant = "Email payeur",
 
             col_mailchimp_firstname = "FirstName",
             col_mailchimp_lastname = "LastName",
             col_mailchimp_email = "Email"
         )
         {
+            const nonemptycols = [col_mailchimp_email, col_mailchimp_firstname, col_mailchimp_lastname]
+
+            const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const normalize_email = email => (email || "").toLowerCase()
+            
+            const sortkey_helloasso = r => (r[col_helloasso_email_member] || r[col_helloasso_email_participant] || '').toLowerCase()
+            const grouped = groupby(res.data, sortkey_helloasso);
+
+            const data = [];
+            for(const k of Object.keys(grouped).sort())
+            {
+                if(!k)
+                    continue;
+                
+                const row = grouped[k].pop();
+
+                const firstname = row[col_helloasso_firstname_member] || row[col_helloasso_firstname_participant];
+                const lastname = row[col_helloasso_lastname_member] || row[col_helloasso_lastname_participant];
+                const email = row[col_helloasso_email_member] || row[col_helloasso_email_participant];
+                const newrow = {
+                    [col_mailchimp_firstname] : normalize_name(firstname), 
+                    [col_mailchimp_lastname] : normalize_name(lastname), 
+                    [col_mailchimp_email] : normalize_email(email), 
+                };
+                data.push(newrow);
+            }
+            
+            return {data : data, meta : {fields : nonemptycols}};
             
         }
 
@@ -233,7 +251,7 @@
             const normalize_email = email => (email || "").toLowerCase();
             const normalize_transactiontype = transactiontype => (transactiontype || "").replaceAll("é", "e").toLowerCase();
             const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
-            const sortkey_helloasso = r => r[col_helloasso_emailvalue].toLowerCase()
+            const sortkey_helloasso = r => (r[col_helloasso_emailvalue] || '').toLowerCase()
             const grouped = groupby(res.data, sortkey_helloasso);
 
             const data = [];
@@ -243,14 +261,14 @@
                 if(!k)
                     continue;
                 
-                g = grouped[k];
-                g0 = g[0]
+                const g = grouped[k];
+                const row = g[0]
                 const newrow = {
-                    [col_googlecontacts_firstname] : normalize_name(g0[col_helloasso_firstname]), 
-                    [col_googlecontacts_lastname] : normalize_name(g0[col_helloasso_lastname]), 
+                    [col_googlecontacts_firstname] : normalize_name(row[col_helloasso_firstname]), 
+                    [col_googlecontacts_lastname] : normalize_name(row[col_helloasso_lastname]), 
                     [col_googlecontacts_groupmembership] : "* myContacts", 
                     [col_googlecontacts_emailkey] : "* ", 
-                    [col_googlecontacts_emailvalue] : normalize_email(g0[col_helloasso_emailvalue]), 
+                    [col_googlecontacts_emailvalue] : normalize_email(row[col_helloasso_emailvalue]), 
                     [col_googlecontacts_transactionskey] : "transactions", 
                     [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + normalize_transactiontype(r[col_helloasso_typedecampagne]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString() + "EUR").join(" ::: ")
                 };
