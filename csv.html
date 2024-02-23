@@ -186,13 +186,17 @@
         }
 
         function prepare_helloasso_for_mailchimp(res,
+            col_helloasso_email = "Email",
+            col_helloasso_email_payer = "Email payeur",
+            
             col_helloasso_firstname_member = "Prénom adhérent",
             col_helloasso_lastname_member = "Nom adhérent",
-            col_helloasso_email_member = "Email",
             
             col_helloasso_firstname_participant = "Prénom participant",
             col_helloasso_lastname_participant = "Nom participant",
-            col_helloasso_email_participant = "Email payeur",
+            
+            col_helloasso_firstname_payer = "Prénom payeur",
+            col_helloasso_lastname_payer = "Nom payeur",
 
             col_mailchimp_firstname = "FirstName",
             col_mailchimp_lastname = "LastName",
@@ -204,7 +208,7 @@
             const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
             const normalize_email = email => (email || "").toLowerCase()
             
-            const sortkey_helloasso = r => (r[col_helloasso_email_member] || r[col_helloasso_email_participant] || '').toLowerCase()
+            const sortkey_helloasso = r => (r[col_helloasso_email] || r[col_helloasso_email_payer] || '').toLowerCase()
             const grouped = groupby(res.data, sortkey_helloasso);
 
             const data = [];
@@ -215,9 +219,9 @@
                 
                 const row = grouped[k].pop();
 
-                const firstname = row[col_helloasso_firstname_member] || row[col_helloasso_firstname_participant];
-                const lastname = row[col_helloasso_lastname_member] || row[col_helloasso_lastname_participant];
-                const email = row[col_helloasso_email_member] || row[col_helloasso_email_participant];
+                const firstname = row[col_helloasso_firstname_payer] || row[col_helloasso_firstname_member] || row[col_helloasso_firstname_participant];
+                const lastname = row[col_helloasso_lastname_payer] || row[col_helloasso_lastname_member] || row[col_helloasso_lastname_participant];
+                const email = row[col_helloasso_email] || row[col_helloasso_email_payer];
                 const newrow = {
                     [col_mailchimp_firstname] : normalize_name(firstname), 
                     [col_mailchimp_lastname] : normalize_name(lastname), 
