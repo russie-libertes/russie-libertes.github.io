@@ -61,9 +61,6 @@ def main(args):
     chrome_exe = os.getenv('CHROME_EXE', 'google-chrome-stable')
     config = json.load(open(args.config_path)) if args.config_path and os.path.exists(args.config_path) else {}
 
-    print('helloasso.py client_id', os.getenv('HELLOASSO_CLIENT_ID', ''), 'END')
-    print('helloasso.py cleint_secret', os.getenv('HELLOASSO_CLIENT_SECRET', ''), 'END')
-
     helloasso_client_id = config.get('helloasso_client_id', os.getenv('HELLOASSO_CLIENT_ID', ''))
     helloasso_client_secret = config.get('helloasso_client_secret', os.getenv('HELLOASSO_CLIENT_SECRET', ''))
     helloasso_organization_slug = config.get('helloasso_organization_slug', '')

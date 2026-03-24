@@ -63,7 +63,9 @@ jobs:
           #cache: npm 
           #cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
       - name: Install dependencies
-        run: pip install -r requirements.txt && npm install
+        run: |
+          pip install -r requirements.txt && npm install
+          sudo apt update && sudo apt install upower
         working-directory: ${{ env.BUILD_PATH }}
 
 #      - name: Restore Astro cache
@@ -82,9 +84,6 @@ jobs:
           HELLOASSO_CLIENT_SECRET: ${{ secrets.HELLOASSO_CLIENT_SECRET }}
         
         run: |
-          #sudo apt update
-          #sudo apt install upower
-          #ls /var/run/dbus/
           #export DBUS_SESSION_BUS_ADDRESS=unix:path=/var/run/dbus/system_bus_socket
           npm run helloasso
           #sudo xvfb-run --server-args='-screen 0, 1024x768x16' -a -e /dev/stdout npm run helloasso
