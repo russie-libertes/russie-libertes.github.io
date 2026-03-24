@@ -1,0 +1,25 @@
+---
+
+import { rehype } from 'rehype';
+
+
+const {config} = Astro.props;
+
+const content = await Astro.slots.render('default');
+
+let pipeline = rehype();
+
+for(const elem of config)
+{
+    if(Array.isArray(elem))
+        pipeline = pipeline.use(elem[0], elem[1]);
+    else
+        pipeline = pipeline.use(elem);
+}
+
+const html = await pipeline.process(content);
+//const { html } = processSteps(content);
+
+---
+
+<Fragment set:html={html} />

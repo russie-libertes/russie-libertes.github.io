@@ -1,0 +1,19 @@
+---
+import {getTopLevelEntries, getPages, makeMarkdownRoute, makePageRoute, filterNonDefaultLocales} from '../../scripts/utils.js';
+
+export async function getStaticPaths()
+{
+  const markdown_entries = await getTopLevelEntries();
+  const markdown_routes = filterNonDefaultLocales(markdown_entries.map(makeMarkdownRoute));
+  
+  const astro_pages = getPages();
+  const astro_routes = filterNonDefaultLocales(astro_pages.map(makePageRoute));
+  
+  return markdown_routes.concat(astro_routes);
+}
+
+import MarkdownContent from '../[slug].astro';
+const { entry, contentLocale, contentLocales, isMarkdown } = Astro.props;
+const Content = isMarkdown ? MarkdownContent : entry.default;
+---
+<Content entry={entry} contentLocale={contentLocale} contentLocales={contentLocales} />

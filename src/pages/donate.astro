@@ -1,0 +1,96 @@
+---
+import { getCollection, render } from 'astro:content';
+import { getMarkdownEntryForLocale, getCurrentLocale } from '../scripts/utils.js';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Lspan from '../components/LocalizedSpan.astro'
+import La from '../components/LocalizedLink.astro'
+import DonateHelloassoEmbed from '../components/DonateHelloassoEmbed.astro'
+import DonatePaypalForm from '../components/DonatePaypalForm.astro'
+import DonatePaypalButton from '../components/DonatePaypalButton.astro'
+import CampaignsHelloassoPreview from '../components/CampaignsHelloassoPreview.astro'
+
+import SiteConfig from '../../content/site.config.json';
+import SocialMarkdown from '../../content/main/social.md';
+
+import helloasso_campaigns_all from '../../content/scrape/helloasso.json'
+
+
+const main = await getCollection('main');
+const currentLocale = getCurrentLocale(Astro);
+const DonateMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'donate.md'));
+
+---
+<BaseLayout pageTitle="Russie-Libertés">
+    <main>
+        <section id="donate">
+			<h1>
+				<La href="/action">
+					<Lspan lang="fr">Faire un don</Lspan>
+					<Lspan lang="ru">Поддержать деньгами</Lspan>
+				</La>
+			</h1>
+            <div>
+                <DonateMarkdown.Content />
+            </div>
+
+            <section id="benevity">
+                <h2>Benevity</h2>
+                <div style="display:flex; margin: 1em">
+                    <a href={SiteConfig.benevity_url} class="link-button">Benevity page</a>
+                </div>
+            </section>
+        
+            <section id="paypal">
+                <h2>PayPal</h2>
+
+                <div style="display:flex; margin: 1em">
+                    <a href="https://www.paypal.com/fr/fundraiser/charity/4864486" class="link-button">PayPal Giving Fund charity page</a>
+                </div>
+            
+                <div style="display:flex; margin: 1em">
+                    <a href="https://www.paypal.com/donate/?hosted_button_id=JYQZQRW85XRK4" class="link-button">PayPal Donate hosted button</a> 
+                </div>
+                
+                
+                <div>
+                    <DonatePaypalForm business="contact@russie-libertes.org" currency_code="EUR" amounts="20 50 100" default_amount="50">
+                        <span slot="button">Donate via PayPal</span>
+                    </DonatePaypalForm>
+                </div>
+                <div>
+                    <DonatePaypalButton business="contact@russie-libertes.org" currency_code="EUR" item_name="Donation">
+                        <span>Donate via PayPal: choose your amount</span>
+                    </DonatePaypalButton>
+                </div>
+            </section>
+
+            <section id="helloasso">
+                <h2>HelloAsso</h2>
+                <DonateHelloassoEmbed helloasso_donate_widget_url={SiteConfig.helloasso_donate_widget_url} />
+            </section>
+        </section>
+        
+        <section id="crowdfunding">
+            <h1>
+                <a href={SiteConfig.helloasso_crowdfunding}>
+                    <Lspan lang="fr">Nos campagnes crowdfunding</Lspan>
+                    <Lspan lang="ru">Наши сборы</Lspan>
+                </a>
+            </h1>
+            <CampaignsHelloassoPreview campaigns={helloasso_campaigns_all} />
+        </section>
+        
+        <section id="social">
+            <h1>
+                <Lspan lang="fr">Suivre nous sur les réseaux</Lspan>
+                <Lspan lang="ru">Подписывайтесь на наши соцсети</Lspan>
+            </h1>
+            <div class="social-container">
+                <SocialMarkdown />
+            </div>
+        </section>
+
+
+    </main>
+</BaseLayout>

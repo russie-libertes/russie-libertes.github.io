@@ -1,0 +1,26 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Lspan from '../components/LocalizedSpan.astro'
+import La from '../components/LocalizedLink.astro'
+import ChangeorgPreview from '../components/ChangeorgPreview.astro'
+
+import changeorg_petitions_all from '../../content/scrape/changeorg.json'
+
+---
+<BaseLayout pageTitle="Russie-Libertés">
+    <main>
+        <section id="petitions" class="petitions-section">
+            <h1>
+                <La href="/petitions">
+                    <Lspan lang="fr">Nos pétitions</Lspan>
+                    <Lspan lang="ru">Наши петиции</Lspan>
+                </La>
+            </h1>
+            <div class="card-grid">
+                <ChangeorgPreview petitions={changeorg_petitions_all} />
+            </div>
+        </section>
+    </main>
+</BaseLayout>

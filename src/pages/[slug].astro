@@ -1,0 +1,49 @@
+---
+import { getTopLevelEntries, getLocaleIndexRoutes, makeMarkdownRoute, filterDefaultLocales} from '../scripts/utils.js';
+
+
+export async function getStaticPaths()
+{
+  
+  const markdown_entries = await getTopLevelEntries();
+  const markdown_routes = filterDefaultLocales(markdown_entries.map(makeMarkdownRoute));
+
+  const index_routes = getLocaleIndexRoutes();
+
+  return markdown_routes.concat(index_routes);
+}
+
+import { render } from 'astro:content';
+import IndexContent from './index.astro';
+import HtmlLayout from '../layouts/HtmlLayout.astro';
+import MarkdownLayout from '../layouts/MarkdownLayout.astro';
+const { entry, contentLocale, contentLocales, isMarkdown } = Astro.props;
+
+let MarkdownContent = {};
+if(isMarkdown)
+{
+  const { Content, remarkPluginFrontmatter  } = await render(entry);
+  MarkdownContent = Content;
+  //console.log('remarkPluginFrontmatter', remarkPluginFrontmatter);
+  //console.log('entry.data', entry.data);
+}
+
+
+
+---
+{isMarkdown ? (
+<MarkdownLayout frontmatter={entry.data}>
+  <div>
+      <ul>
+        {contentLocales.map(locale => 
+           <li>
+            {locale == contentLocale ? <strong>{locale}</strong> : <span>{locale}</span>}
+           </li>
+        )}
+      </ul>
+  </div>
+  <MarkdownContent />
+</MarkdownLayout>
+) : (
+  <IndexContent />
+)}

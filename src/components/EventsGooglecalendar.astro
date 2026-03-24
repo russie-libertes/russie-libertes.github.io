@@ -1,0 +1,113 @@
+---
+import ICAL from 'ical.js';
+
+import { formatDateTime, getCurrentLocale, excerpt, isProd } from '../scripts/utils.js';
+
+function formatMapsLink(location)
+{
+    if(!location)
+        return '';
+
+    const google_maps_prefix = 'https://www.google.com/maps/search/?api=1&query=';
+    const query = location.split().join('+');
+    const url = google_maps_prefix + query;
+    return url;
+}
+
+function formatIcsFileName(evt)
+{
+    return evt.startDate.toJSDate().toISOString().replaceAll(':', '-').replaceAll('.', '-') + '.ics';
+}
+
+function formatIcsDataUri(vevent)
+{
+    // https://stackoverflow.com/a/18847018/445810
+    const vcal = new ICAL.Component(['vcalendar', [], []]);
+    vcal.addSubcomponent(vevent);
+    const icalsample = vcal.toString();
+    return "data:text/calendar," + encodeURIComponent(icalsample);
+}
+
+const currentLocale = getCurrentLocale(Astro);
+
+const { googlecalendar_id, future, past, auto, embed, subscribe, now } = Astro.props;
+
+const withoutTime = dt => dt.setHours(0,0,0,0);
+
+const now_without_time = withoutTime(now || new Date());
+
+const embed_url     = `https://calendar.google.com/calendar/embed?src=${googlecalendar_id}`;
+const subscribe_url = `https://calendar.google.com/calendar/r?cid=${googlecalendar_id}`;
+const ical_url      = `https://calendar.google.com/calendar/ical/${googlecalendar_id}/public/basic.ics?orderby=starttime&sortorder=descending`;
+
+// &futureevents=true
+// https://www.googleapis.com/calendar/v3/calendars/${googlecalendar_id}/events
+
+const ics = await fetch(ical_url).then(r => {if(!r.ok) throw r; return r.text()}).catch(() => (''));
+let events = [];
+if(ics !== '')
+{
+    const jcalData = ICAL.parse(ics);
+    const comp = new ICAL.Component(jcalData);
+    const vevents_events = Array.from(comp.getAllSubcomponents("vevent")).map(vevent => [vevent, new ICAL.Event(vevent)]);
+    
+    const future_events = vevents_events.filter(([vevent, evt]) => withoutTime(evt.startDate.toJSDate()) >= now_without_time).map(([vevent, evt]) => [vevent, evt, false]);; 
+    const past_events = vevents_events.filter(([vevent, evt]) => withoutTime(evt.startDate.toJSDate()) < now_without_time).map(([vevent, evt]) => [vevent, evt, true]);
+    
+    if(auto)
+    {
+        events = future_events.length > 0 ? future_events : past_events;
+    }
+    else
+    {
+        if(!past && future)
+        {
+            events = future_events;
+        }
+        else if(past && !future)
+        {
+            events = past_events;
+        }
+        else if(!past && !future)
+        {
+            events = [];
+        }
+    }
+}
+
+---
+
+<div class="card-grid">
+    {events.map(([vevent, evt, past]) => (
+        <article class="card">
+            { past ? (
+                <h2 class="card-title">{evt.summary}</h2>
+            ) : (
+            <a download={formatIcsFileName(evt)} href={formatIcsDataUri(vevent)}>
+                <h2 class="card-title">{evt.summary}</h2>
+            </a>
+            )}
+            <div class="card-meta">
+                <time datetime={evt.startDate.toJSDate().toISOString()}>{formatDateTime(evt.startDate.toJSDate(), currentLocale)}</time>
+                <a href={formatMapsLink(evt.location)}>
+                    <address>{evt.location}</address>
+                </a>
+            </div>
+            <div class="card-excerpt">{excerpt(evt.description)}<div/>
+        </article>
+    ))}
+</div>
+{events.length == 0 && (<p><slot /></p>)}
+
+{!embed && subscribe && (
+<div style="display:flex; margin-top:1em">
+<a style="margin:auto" href={subscribe_url} class="link-button" target="_blank">Add to Google Calendar</a>
+</div>
+)}
+
+{(embed && isProd()) ? (
+<iframe  style="border: 0" width="100%" height="600" frameborder="0" scrolling="no" src={embed_url}></iframe>
+) : embed ? (
+<p>Not displaying Google Calendar embed in development to avoid bans</p>
+) : (<p></p>)
+}

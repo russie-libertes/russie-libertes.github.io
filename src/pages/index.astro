@@ -1,0 +1,218 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import { rehypeAddListClasses } from '../plugins/rehypeAddListClasses.mjs';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import BlogPreview from '../components/BlogPreview.astro'
+
+import RehypePostproc from '../components/RehypePostproc.astro'
+import LeadBanner from '../components/LeadBanner.astro'
+import LeadColumns from '../components/LeadColumns.astro'
+import ProjectsPreview from '../components/ProjectsPreview.astro'
+import InstagramPreview from '../components/InstagramPreview.astro'
+import ChangeorgPreview from '../components/ChangeorgPreview.astro'
+import MediaPreview from '../components/MediaPreview.astro'
+import SubscribeMailchimp from '../components/SubscribeMailchimp.astro'
+import DonateHelloassoEmbed from '../components/DonateHelloassoEmbed.astro'
+import CampaignsHelloassoPreview from '../components/CampaignsHelloassoPreview.astro'
+import EventsGooglecalendar from '../components/EventsGooglecalendar.astro' 
+import Lspan from '../components/LocalizedSpan.astro'
+import La from '../components/LocalizedLink.astro'
+
+import { getMarkdownEntryForLocale, getRecentByDate, getCurrentLocale } from '../scripts/utils.js';
+
+import SiteConfig from '../../content/site.config.json';
+
+import instagram_posts_all from '../../content/scrape/instagram.json';
+import changeorg_petitions_all from '../../content/scrape/changeorg.json'
+import helloasso_campaigns_all from '../../content/scrape/helloasso.json'
+import media_all from '../../content/scrape/media.json'
+
+const currentLocale = getCurrentLocale(Astro);
+
+const main = await getCollection('main');
+const projects = await getCollection('projects');
+const posts = await getCollection('posts');
+const posts_recent = getRecentByDate(posts, currentLocale, 4);
+const instagram_posts = instagram_posts_all.slice(0, 4);
+const media_posts = media_all.filter(m => m.meta).slice(0, 4);
+
+const PartnersMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'partners.md'));
+const TeamIntroMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'teamintro.md'));
+const TeamMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'team.md'));
+const PhotosMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'photos.md'));
+const LeadColumnsMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'leadcolumns.md'));
+const LeadBanner2 = getMarkdownEntryForLocale(main, currentLocale, 'leadbanner2.md');
+const LeadBanner2Markdown = await render(LeadBanner2);
+const LeadBanner2Frontmatter = LeadBanner2.data;
+
+
+const team_rehype_config = [
+	[rehypeAddListClasses, {ulClass: 'card-grid', liClass: 'card', imgClass: 'card-cover-image' }]
+];
+
+---
+<BaseLayout pageTitle="Russie-Libertés">
+	<main>
+		
+		<section class="banner-section">
+			<LeadBanner lead={LeadBanner2Markdown} frontmatter={LeadBanner2Frontmatter} />
+		</section>
+		
+		<!--
+		<section>
+			<LeadColumns lead={LeadBanner1Markdown} />
+		</section>
+		-->
+
+		<section>
+			<h1>
+				<Lspan lang="fr">Bienvenue!</Lspan>
+				<Lspan lang="ru">Добро пожаловать!</Lspan>
+			</h1>
+			<LeadColumns lead={LeadColumnsMarkdown} />
+		</section>
+
+		<section id="subscribe">
+			<h1>
+				<La href="/follow">
+					<Lspan lang="fr">Newsletter</Lspan>
+					<Lspan lang="ru">Рассылка</Lspan>
+				</La>
+			</h1>
+			<SubscribeMailchimp mailchimp_subscribe_form={SiteConfig.mailchimp_subscribe_form} placeholder="Email Address (*)">
+				<Lspan lang="fr">S'inscrire</Lspan>
+				<Lspan lang="ru">Подписаться</Lspan>
+			</SubscribeMailchimp>
+		</section>
+
+		<section id="donate">
+			<h1>
+				<La href="/action">
+					<Lspan lang="fr">Faire un don</Lspan>
+					<Lspan lang="ru">Поддержать деньгами</Lspan>
+				</La>
+			</h1>
+			<DonateHelloassoEmbed helloasso_donate_widget_url={SiteConfig.helloasso_donate_widget_url} />
+		</section>
+
+		<section id="blog" class="blog-section">
+			<h1>
+				<La href="/blog">
+					<Lspan lang="fr">Actualités / Blog</Lspan>
+					<Lspan lang="ru">Новости</Lspan>
+				</La>
+			</h1>
+			<div class="card-grid">
+				<BlogPreview posts={posts_recent} />
+			</div>
+		</section>
+
+		
+		<section id="projects">
+			<h1>
+				<Lspan lang="fr">Nos projets</Lspan>
+				<Lspan lang="ru">Наши проекты</Lspan>
+			</h1>
+			<div class="card-grid">
+				<ProjectsPreview projects={projects} />
+			</div>
+		</section>
+
+		<section id="events">
+			<h1>
+				<La href="/events">
+					<Lspan lang="fr">Nos événements</Lspan>
+					<Lspan lang="ru">Мероприятия</Lspan>
+				</La>
+			</h1>
+			<EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} auto={true} subscribe={true}>
+				<div style="text-align:center">
+					<Lspan lang="fr">Pas d'événements prévu</Lspan>
+					<Lspan lang="ru">В ближайшее время нет запланированных мероприятий</Lspan>
+				</div>
+			</EventsGooglecalendar>
+		</section>
+
+		<section id="crowdfunding">
+			<h1>
+				<a href={SiteConfig.helloasso_crowdfunding}>
+					<Lspan lang="fr">Nos campagnes crowdfunding</Lspan>
+					<Lspan lang="ru">Наши сборы</Lspan>
+				</a>
+			</h1>
+			<div class="crowdfuncting-container">
+				<CampaignsHelloassoPreview campaigns={helloasso_campaigns_all} />
+			</div>
+		</section>
+
+		
+		<section id="photos" class="photos-section">
+			<h1>
+				<Lspan lang="fr">Nos photos</Lspan>
+				<Lspan lang="ru">Наши фотографии</Lspan>
+			</h1>
+			<div class="carousel-container">
+		 		<PhotosMarkdown.Content />
+			</div>
+		</section>
+
+		<section id="team" class="team-section">
+			<h1>
+				<Lspan lang="fr">Notre équipe</Lspan>
+				<Lspan lang="ru">Наша команда</Lspan>
+			</h1>
+			<div class="team">
+				<TeamIntroMarkdown.Content />
+			</div>
+			<RehypePostproc config={team_rehype_config}>
+				<TeamMarkdown.Content />
+			</RehypePostproc>
+		</section>
+
+		<section id="instagram" class="instagram-section">
+			<h1><a href={SiteConfig.instagram_url}>Instagram</a></h1>
+			<div class="card-grid">
+				<InstagramPreview posts={instagram_posts} />
+			</div>
+		</section>
+
+		<section id="petitions" class="petitions-section">
+			<h1>
+				<La href="/petitions">
+					<Lspan lang="fr">Nos pétitions</Lspan>
+					<Lspan lang="ru">Наши петиции</Lspan>
+				</La>
+			</h1>
+			<div class="card-grid">
+				<ChangeorgPreview petitions={changeorg_petitions_all}>
+					<Lspan lang="fr">signatures</Lspan>
+					<Lspan lang="ru">подписей</Lspan>
+				</ChangeorgPreview>
+			</div>
+		</section>
+
+		<section id="media" class="media-section">
+			<h1>
+				<La href="/media">
+					<Lspan lang="fr">Presse</Lspan>
+					<Lspan lang="ru">Пресса о нас</Lspan>
+				</La>
+			</h1>
+			<div class="card-grid">
+				<MediaPreview media={media_posts} />
+			</div>
+		</section>
+
+		<section id="partners" class="partners-section">
+			<h1>
+				<Lspan lang="fr">Nos partenaires</Lspan>
+				<Lspan lang="ru">Наши партнеры</Lspan>
+			</h1>
+			<div class="partners">
+				<PartnersMarkdown.Content />
+			</div>
+		</section>
+	</main>
+</BaseLayout>

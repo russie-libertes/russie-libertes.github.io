@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://russie-libertes.org/sitemap-index.xml

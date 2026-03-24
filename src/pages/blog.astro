@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+import { sorterByDate, isDefaultLocale, filterEntriesByLocale, getCurrentLocale } from '../scripts/utils.js';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import BlogPreview from '../components/BlogPreview.astro'
+import La from '../components/LocalizedLink.astro'
+
+const posts = await getCollection('posts');
+const sorted_posts = posts.sort(sorterByDate);
+const currentLocale = getCurrentLocale(Astro);
+const selected_posts = isDefaultLocale(currentLocale) ? sorted_posts : filterEntriesByLocale(sorted_posts, currentLocale);
+
+const grouped_by_year = Object.entries(Object.groupBy(selected_posts.filter(entry => entry.data.date), entry => new Date(entry.data.date).getFullYear().toString())).sort().reverse();
+
+---
+<BaseLayout>
+  <main>
+    {grouped_by_year.map(([year, posts]) => (
+
+      <section class="blog-section">
+        <h1 id={year}>{year}</h1>
+        <div class="card-grid">
+          <BlogPreview posts={posts} />
+        </div>
+      </section>
+      
+    ))}
+  </main>
+</BaseLayout>

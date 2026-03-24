@@ -1,0 +1,8 @@
+---
+import { getRelativeLocaleUrl } from 'astro:i18n';
+const {href} = Astro.props;
+const currentLocale = Astro.currentLocale || '';
+const href_without_leading_slash = href[0] == '/' ? href.substring(1) : href;
+---
+
+<a href={getRelativeLocaleUrl(currentLocale, href_without_leading_slash )}><slot /></a>

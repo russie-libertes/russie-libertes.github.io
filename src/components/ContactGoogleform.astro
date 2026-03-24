@@ -1,0 +1,16 @@
+---
+
+const { googleform_prefill_id, googleform_prefill_entryid_name, googleform_prefill_entryid_message } = Astro.props;
+
+const googleform_prefill_url = `https://docs.google.com/forms/d/e/${googleform_prefill_id}/viewform`;
+
+// https://medium.com/@maheshlangote779/how-to-integrate-google-forms-with-your-custom-coded-contact-form-1153cbeadb61
+---
+
+<form method="get" action={googleform_prefill_url} id="googleform_contact" form="googleform_contact" style="display:flex; flex-direction:column">
+    <input type="text" required="" placeholder="Name (*)" name={googleform_prefill_entryid_name} />
+    <textarea type="text" id="googleform_message_long" rows="10" name={googleform_prefill_entryid_message} required="" placeholder="Message (*)"></textarea>
+    <button type="submit" name="send" class="link-button">
+        <slot />
+    </button>
+</form>	

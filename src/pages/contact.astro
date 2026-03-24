@@ -1,0 +1,53 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Lspan from '../components/LocalizedSpan.astro'
+import La from '../components/LocalizedLink.astro'
+import ContactGoogleform from '../components/ContactGoogleform.astro'
+
+import SocialMarkdown from '../../content/main/social.md';
+
+import SiteConfig from '../../content/site.config.json';
+
+import { getMarkdownEntryForLocale, getCurrentLocale } from '../scripts/utils.js';
+
+const main = await getCollection('main');
+const currentLocale = getCurrentLocale(Astro);
+const ContactMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'contact.md'));
+
+---
+<BaseLayout pageTitle="Russie-Libertés">
+    <main>
+        <section id="contact">
+            <h1>
+                <Lspan lang="fr">Contacter nous</Lspan>
+                <Lspan lang="ru">Связаться с нами</Lspan>
+            </h1>
+            <div class="contact-container">
+                <ContactMarkdown.Content />
+            </div>
+        </section>
+
+        <section id="social">
+            <h1>
+                <Lspan lang="fr">Suivre nous sur les réseaux</Lspan>
+                <Lspan lang="ru">Подписывайтесь на наши соцсети</Lspan>
+            </h1>
+            <div class="social-container">
+                <SocialMarkdown />
+            </div>
+        </section>
+
+        <section id="feedback">
+            <h1>
+                <Lspan lang="fr">Envoyer-nous un message</Lspan>
+                <Lspan lang="ru">Отправьте нам сообщение</Lspan>
+            </h1>
+            <ContactGoogleform googleform_prefill_id={SiteConfig.googleform_prefill_id} googleform_prefill_entryid_name={SiteConfig.googleform_prefill_entryid_name} googleform_prefill_entryid_message={SiteConfig.googleform_prefill_entryid_message}>
+                <Lspan lang="fr">Envoyer message</Lspan>
+                <Lspan lang="ru">Отправить сообщение</Lspan>
+            </ContactGoogleform>
+        </section>
+    </main>
+</BaseLayout>

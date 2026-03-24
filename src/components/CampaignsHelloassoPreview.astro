@@ -1,0 +1,47 @@
+---
+// https://dev.helloasso.com/reference/get_organizations-organizationslug-forms
+// https://dev.helloasso.com/reference/get_organizations-organizationslug-forms-formtype-formslug-public
+// https://dev.helloasso.com/reference/obtenir-un-access_token
+import {excerpt, getCurrentLocale, formatDate} from '../scripts/utils.js'
+const currentLocale = getCurrentLocale(Astro);
+
+function formatHelloassoDate(optional_date)
+{
+  if(!optional_date)
+    return ['', ''];
+
+  return [new Date(optional_date).toISOString(), formatDate(new Date(optional_date), currentLocale)];
+}
+
+const {campaigns, embed} = Astro.props;
+
+---
+{embed ? (
+
+<ul>
+{campaigns.map(entry => (
+    <li><iframe height="400px" width="100%" allowtransparency="true" src={entry.widgetVignetteHorizontalUrl}></iframe></li>
+))}
+</ul>
+
+) : (
+
+<div class="card-grid">
+{campaigns.map(entry => (
+    <article class="card">
+    <a href={entry.url}>
+      <figure>
+        <img src={(entry.logo || {}).publicUrl} alt="" class="card-cover-image" />
+        <figcaption>
+          <h2 class="card-title">{entry.title}</h2>
+          <time class="card-meta" datetime={formatHelloassoDate((entry.meta || {}).createdAt)[0]}>{formatHelloassoDate((entry.meta || {}).createdAt)[1]}</time>
+          <div class="card-excerpt">{excerpt(entry.description)}</div>
+          <div class="card-desc">{entry.scraped_collected_eur} {entry.currency} / {entry.scraped_goal_eur} {entry.currency}</div> 
+        </figcaption>
+      </figure>
+    </a>
+</article>
+))}
+</div>
+
+)}

@@ -1,0 +1,26 @@
+---
+import { getCollection, render } from 'astro:content';
+
+import BaseLayout from '../layouts/BaseLayout.astro'
+import Lspan from '../components/LocalizedSpan.astro'
+import La from '../components/LocalizedLink.astro'
+import MediaPreview from '../components/MediaPreview.astro'
+
+import media_all from '../../content/scrape/media.json'
+
+---
+<BaseLayout pageTitle="Russie-Libertés">
+    <main>
+        <section id="media" class="media-section">
+            <h1>
+                <La href="/media">
+                    <Lspan lang="fr">Presse</Lspan>
+                    <Lspan lang="ru">Пресса о нас</Lspan>
+                </La>
+            </h1>
+            <div class="card-grid">
+                <MediaPreview media={media_all} />
+            </div>
+        </section>
+    </main>
+</BaseLayout>

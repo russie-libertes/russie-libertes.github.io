@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Russie-Libertés — Donations Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        :root {
+            --primary: #0d1b2a;
+            --secondary: #1565C0;
+            --accent: #e74c3c;
+            --success: #27ae60;
+            --bg: #f0f4f8;
+            --card-bg: #ffffff;
+            --text: #0d1b2a;
+            --border: #d0d7de;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:var(--bg); color:var(--text); line-height:1.6; }
+        .container { max-width:1400px; margin:0 auto; padding:20px; }
+        header {
+            background: linear-gradient(135deg, #0d1b2a 0%, #1565C0 100%);
+            color:white; padding:30px 20px; text-align:center;
+            border-radius:8px; margin-bottom:30px;
+            box-shadow:0 2px 10px rgba(0,0,0,0.2);
+        }
+        .header-logo { margin-bottom:15px; }
+        .header-logo img { height:70px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.4); }
+        header h1 { font-size:2.2em; margin-bottom:8px; letter-spacing:0.02em; }
+        header p { font-size:1.05em; opacity:0.85; }
+        .upload-section { background:var(--card-bg); padding:30px; border-radius:8px; margin-bottom:30px; box-shadow:0 2px 10px rgba(0,0,0,0.05); }
+        .upload-section h2 { margin-bottom:20px; color:var(--primary); }
+        .file-inputs { display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-bottom:20px; }
+        .file-input-group { display:flex; flex-direction:column; }
+        .file-input-group label { font-weight:600; margin-bottom:10px; color:var(--primary); }
+        input[type="file"] { padding:10px; border:2px solid var(--border); border-radius:4px; cursor:pointer; transition:border-color 0.3s; }
+        input[type="file"]:hover { border-color:var(--secondary); }
+        .button-group { display:flex; gap:10px; flex-wrap:wrap; }
+        button { padding:12px 24px; border:none; border-radius:4px; cursor:pointer; font-size:1em; font-weight:600; transition:all 0.3s; }
+        .btn-primary { background:var(--secondary); color:white; }
+        .btn-primary:hover { background:#0d47a1; transform:translateY(-2px); box-shadow:0 4px 8px rgba(21,101,192,0.3); }
+        .btn-danger { background:var(--accent); color:white; }
+        .btn-danger:hover { background:#c0392b; transform:translateY(-2px); }
+        .status { padding:12px; border-radius:4px; margin-top:15px; }
+        .status.success { background:#d4edda; color:#155724; border:1px solid #c3e6cb; }
+        .status.error { background:#f8d7da; color:#721c24; border:1px solid #f5c6cb; }
+        .status.info { background:#d1ecf1; color:#0c5460; border:1px solid #bee5eb; }
+        .analysis-section { display:none; }
+        .analysis-section.active { display:block; }
+        .tabs { display:flex; gap:10px; margin-bottom:20px; border-bottom:2px solid var(--border); flex-wrap:wrap; }
+        .tab-btn { padding:12px 20px; background:none; border:none; cursor:pointer; font-weight:600; color:var(--text); border-bottom:3px solid transparent; transition:all 0.3s; font-size:0.95em; }
+        .tab-btn:hover { color:var(--secondary); }
+        .tab-btn.active { color:var(--secondary); border-bottom-color:var(--secondary); }
+        .results-container { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:20px; margin-bottom:30px; }
+        .card { background:var(--card-bg); padding:20px; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.05); border-left:4px solid var(--secondary); }
+        .card h3 { margin-bottom:15px; color:var(--primary); font-size:1.05em; }
+        .card-value { font-size:2em; font-weight:bold; color:var(--secondary); margin-bottom:10px; }
+        .card-subtitle { font-size:0.9em; color:#7f8c8d; }
+        .card.accent-green { border-left-color:var(--success); }
+        .card.accent-green .card-value { color:var(--success); }
+        table { width:100%; border-collapse:collapse; background:var(--card-bg); border-radius:8px; overflow:hidden; box-shadow:0 2px 10px rgba(0,0,0,0.05); margin-bottom:30px; }
+        th { background:var(--primary); color:white; padding:15px; text-align:left; font-weight:600; }
+        td { padding:12px 15px; border-bottom:1px solid var(--border); }
+        tr:hover { background:rgba(21,101,192,0.04); }
+        .table-section { margin-bottom:30px; }
+        .table-section h3 { margin-bottom:15px; color:var(--primary); }
+        .chart-container { background:var(--card-bg); padding:25px; border-radius:8px; box-shadow:0 2px 10px rgba(0,0,0,0.05); margin-bottom:30px; }
+        .chart-container h3 { margin-bottom:15px; color:var(--primary); }
+        .chart-wrapper { position:relative; height:320px; }
+        .badge-izettle { display:inline-block; background:#f39c12; color:white; font-size:0.72em; padding:2px 7px; border-radius:10px; margin-left:6px; font-weight:600; vertical-align:middle; }
+        .badge-recurring { display:inline-block; background:#27ae60; color:white; font-size:0.72em; padding:2px 7px; border-radius:10px; margin-left:6px; font-weight:600; vertical-align:middle; }
+        .age-bar-bg { background:#ecf0f1; border-radius:4px; height:18px; min-width:60px; }
+        .age-bar-fill { background:var(--secondary); border-radius:4px; height:18px; }
+        @media(max-width:768px) {
+            .file-inputs { grid-template-columns:1fr; }
+            .results-container { grid-template-columns:1fr; }
+            header h1 { font-size:1.6em; }
+            .tabs { overflow-x:auto; }
+            .tab-btn { white-space:nowrap; font-size:0.85em; padding:10px 15px; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <div class="header-logo">
+            <!--<img src="cropped-russie-libertes.jpg" alt="Russie-Libertés" onerror="this.style.display='none'">-->
+        </div>
+        <h1>Russie-Libertés — Donations Dashboard</h1>
+        <p>Analyze donations from PayPal and HelloAsso</p>
+    </header>
+
+    <section class="upload-section">
+        <h2>📤 Upload CSV Files</h2>
+        <div class="file-inputs">
+            <div class="file-input-group">
+                <label for="paypalFile">PayPal Export (CSV)</label>
+                <input type="file" id="paypalFile" accept=".csv" />
+            </div>
+            <div class="file-input-group">
+                <label for="helloassoFile">HelloAsso Export (CSV)</label>
+                <input type="file" id="helloassoFile" accept=".csv" />
+            </div>
+        </div>
+        <div class="button-group">
+            <button class="btn-primary" onclick="analyzeData()">📊 Analyze Data</button>
+            <button class="btn-danger" onclick="resetData()">🔄 Clear All</button>
+        </div>
+        <div id="status"></div>
+    </section>
+
+    <section id="analysisSection" class="analysis-section">
+        <div class="tabs">
+            <button class="tab-btn active" onclick="showTab('overview')">Overview</button>
+            <button class="tab-btn" onclick="showTab('helloasso-summary')">HelloAsso Summary</button>
+            <button class="tab-btn" onclick="showTab('paypal-summary')">PayPal Summary</button>
+            <button class="tab-btn" onclick="showTab('donation-sizes')">Donation Sizes</button>
+            <button class="tab-btn" onclick="showTab('campaigns')">Campaigns</button>
+            <button class="tab-btn" onclick="showTab('geography')">Geography</button>
+            <button class="tab-btn" onclick="showTab('donors')">Top Donors</button>
+            <button class="tab-btn" onclick="showTab('recurring')">🔁 Recurring</button>
+            <button class="tab-btn" onclick="showTab('age')">👥 Age</button>
+        </div>
+
+        <!-- Overview Tab -->
+        <div id="overview" class="tab-content">
+            <div class="results-container">
+                <div class="card"><h3>Total Revenue</h3><div class="card-value" id="totalRevenue">€0.00</div><div class="card-subtitle">From all sources</div></div>
+                <div class="card"><h3>Total Donors</h3><div class="card-value" id="totalDonors">0</div><div class="card-subtitle">Unique individuals</div></div>
+                <div class="card"><h3>Average Donation</h3><div class="card-value" id="avgDonation">€0.00</div><div class="card-subtitle">Mean per donation</div></div>
+                <div class="card"><h3>HelloAsso</h3><div class="card-value" id="helloassoTotal">€0.00</div><div class="card-subtitle" id="helloassoDonorCount">0 donors</div></div>
+                <div class="card"><h3>PayPal</h3><div class="card-value" id="paypalTotal">€0.00</div><div class="card-subtitle" id="paypalDonorCount">0 donors</div></div>
+            </div>
+            <div class="chart-container">
+                <h3>📅 Monthly Revenue — All Sources</h3>
+                <div class="chart-wrapper"><canvas id="monthlyChart"></canvas></div>
+            </div>
+        </div>
+
+        <!-- HelloAsso Summary Tab -->
+        <div id="helloasso-summary" class="tab-content" style="display:none;">
+            <div class="results-container">
+                <div class="card"><h3>HelloAsso Total</h3><div class="card-value" id="ha-total">€0.00</div><div class="card-subtitle" id="ha-count">0 donations</div></div>
+                <div class="card"><h3>HelloAsso Average</h3><div class="card-value" id="ha-avg">€0.00</div><div class="card-subtitle">per donation</div></div>
+            </div>
+            <div class="table-section"><h3>HelloAsso Payments by Date</h3><table id="helloassoPaymentsList"></table></div>
+        </div>
+
+        <!-- PayPal Summary Tab -->
+        <div id="paypal-summary" class="tab-content" style="display:none;">
+            <div class="results-container">
+                <div class="card"><h3>PayPal Total</h3><div class="card-value" id="pp-total">€0.00</div><div class="card-subtitle" id="pp-count">0 donations</div></div>
+                <div class="card"><h3>PayPal Average</h3><div class="card-value" id="pp-avg">€0.00</div><div class="card-subtitle">per donation</div></div>
+            </div>
+            <div class="table-section"><h3>PayPal Donations (Online Only)</h3><table id="paypalDonationsList"></table></div>
+        </div>
+
+        <!-- Donation Sizes Tab -->
+        <div id="donation-sizes" class="tab-content" style="display:none;">
+            <div class="chart-container">
+                <h3>🥧 Donation Distribution by Amount</h3>
+                <div class="chart-wrapper" style="height:340px;max-width:560px;margin:0 auto;"><canvas id="donationSizePieChart"></canvas></div>
+            </div>
+            <div class="table-section"><h3>Donation Distribution by Size (HelloAsso)</h3><table id="donationSizesTable"></table></div>
+            <div class="table-section"><h3>Donors by Size Category</h3><table id="donorsBySize"></table></div>
+        </div>
+
+        <!-- Campaigns Tab -->
+        <div id="campaigns" class="tab-content" style="display:none;">
+            <div class="chart-container">
+                <h3>📊 Revenue by Campaign</h3>
+                <div class="chart-wrapper" style="height:380px;"><canvas id="campaignsChart"></canvas></div>
+            </div>
+            <div class="table-section"><h3>Donations by Campaign</h3><table id="campaignsList"></table></div>
+        </div>
+
+        <!-- Geography Tab -->
+        <div id="geography" class="tab-content" style="display:none;">
+            <div class="chart-container">
+                <h3>🗺️ Donations by Region</h3>
+                <div class="chart-wrapper" style="height:380px;"><canvas id="geographyChart"></canvas></div>
+            </div>
+            <div class="table-section"><h3>Donations by Metropolitan Area / Region</h3><table id="geographyTable"></table></div>
+        </div>
+
+        <!-- Top Donors Tab -->
+        <div id="donors" class="tab-content" style="display:none;">
+            <div class="chart-container">
+                <h3>🏆 Top 15 Donors by Total Amount</h3>
+                <div class="chart-wrapper" style="height:420px;"><canvas id="topDonorsChart"></canvas></div>
+            </div>
+            <div class="table-section"><h3>Top Donors</h3><table id="topDonorsTable"></table></div>
+        </div>
+
+        <!-- Recurring Donors Tab -->
+        <div id="recurring" class="tab-content" style="display:none;">
+            <div class="results-container">
+                <div class="card accent-green"><h3>Monthly Recurring Revenue (MRR)</h3><div class="card-value" id="mrr-value">€0.00</div><div class="card-subtitle" id="mrr-subtitle">Active recurring donors</div></div>
+                <div class="card accent-green"><h3>Recurring Donors</h3><div class="card-value" id="recurring-donors">0</div><div class="card-subtitle" id="recurring-total">Total recurring collected</div></div>
+                <div class="card"><h3>One-time Donors</h3><div class="card-value" id="onetime-donors">0</div><div class="card-subtitle" id="onetime-total">Total one-time collected</div></div>
+                <div class="card"><h3>Recurring Share</h3><div class="card-value" id="recurring-share">0%</div><div class="card-subtitle">Of HelloAsso revenue</div></div>
+            </div>
+            <div class="chart-container"><h3>📈 Monthly Recurring Revenue — by Month</h3><div class="chart-wrapper"><canvas id="mrrChart"></canvas></div></div>
+            <div class="table-section"><h3>Active Recurring Donors</h3><table id="recurringDonorsTable"></table></div>
+            <div class="table-section"><h3>One-time Donations</h3><table id="onetimeDonationsTable"></table></div>
+        </div>
+
+        <!-- Age Distribution Tab -->
+        <div id="age" class="tab-content" style="display:none;">
+            <div class="results-container">
+                <div class="card"><h3>Donors with Birth Date</h3><div class="card-value" id="age-known-count">0</div><div class="card-subtitle" id="age-known-pct">% of HelloAsso donors</div></div>
+                <div class="card"><h3>Average Age</h3><div class="card-value" id="age-avg">—</div><div class="card-subtitle">Among donors with known DOB</div></div>
+                <div class="card"><h3>Median Age</h3><div class="card-value" id="age-median">—</div><div class="card-subtitle">Among donors with known DOB</div></div>
+            </div>
+            <div class="chart-container"><h3>👥 Donors by Age Bracket</h3><div class="chart-wrapper"><canvas id="ageChart"></canvas></div></div>
+            <div class="table-section"><h3>Age Bracket Breakdown</h3><table id="ageTable"></table></div>
+        </div>
+    </section>
+</div>
+
+<script>
+    const metropolitanAreas = {
+        'paris':'Île-de-France (Paris)','boulogne-billancourt':'Île-de-France (Paris)',
+        'neuilly-sur-seine':'Île-de-France (Paris)','vincennes':'Île-de-France (Paris)',
+        'montreuil':'Île-de-France (Paris)','creteil':'Île-de-France (Paris)',
+        'ivry-sur-seine':'Île-de-France (Paris)','clichy':'Île-de-France (Paris)',
+        'issy-les-moulineaux':'Île-de-France (Paris)','chatillon':'Île-de-France (Paris)',
+        'versailles':'Île-de-France (Paris)','saint-germain-en-laye':'Île-de-France (Paris)',
+        'pontoise':'Île-de-France (Paris)','meaux':'Île-de-France (Paris)',
+        'melun':'Île-de-France (Paris)','evry':'Île-de-France (Paris)',
+        'villiers-sur-orge':'Île-de-France (Paris)','la-frette-sur-seine':'Île-de-France (Paris)',
+        'pontault-combault':'Île-de-France (Paris)','solers':'Île-de-France (Paris)',
+        'lyon':'Rhône-Alpes (Lyon)','villeurbanne':'Rhône-Alpes (Lyon)',
+        'marseille':'Provence-Alpes-Côte d\'Azur (Marseille)',
+        'toulouse':'Occitanie (Toulouse)',
+        'nice':'Provence-Alpes-Côte d\'Azur (Nice)',
+        'grenoble':'Auvergne-Rhône-Alpes (Grenoble)',
+        'annecy':'Auvergne-Rhône-Alpes (Annecy)',
+        'bordeaux':'Nouvelle-Aquitaine (Bordeaux)',
+        'la-teste-de-buch':'Nouvelle-Aquitaine (Bordeaux)',
+        'lille':'Hauts-de-France (Lille)',
+        'nantes':'Pays de la Loire (Nantes)',
+        'dijon':'Bourgogne-Franche-Comté (Dijon)',
+        'marennes':'Nouvelle-Aquitaine (Bordeaux)',
+        'lorient':'Bretagne (Lorient)',
+        'annecy':'Auvergne-Rhône-Alpes (Annecy)'
+    };
+
+    function normalizeCity(city) {
+        if (!city) return 'Unknown';
+        return metropolitanAreas[city.toLowerCase().trim().replace(/ /g,'-')] || 'France (Other)';
+    }
+
+    function formatCurrency(value) {
+        const num = parseFloat((value||0).toString().replace(/,/g,'.')) || 0;
+        return num.toLocaleString('fr-FR',{style:'currency',currency:'EUR'});
+    }
+
+    function parseHelloAssoData(data) {
+        const donations = [];
+        for (let i = 1; i < data.length; i++) {
+            const row = data[i];
+            if (!row || row.length < 3 || row[2] == null) continue;
+            const amount = parseFloat(row[2].toString().replace(/,/g,'.')) || 0;
+            const status = row[4] || '';
+            if (amount > 0 && status.toLowerCase() === 'payé') {
+                const country = row[29] || '';
+                const city    = row[28] || '';
+                donations.push({
+                    amount      : amount,
+                    campaign    : row[14] || '',
+                    date        : row[3]  || '',
+                    donor       : ((row[7]||'') + ' ' + (row[8]||'')).trim(),
+                    city        : country.toUpperCase() === 'FRA' ? city : country,
+                    country     : country,
+                    email       : (row[9] || '').toLowerCase(),
+                    type        : row[15] || '',
+                    donationType: (row[16] || '').trim(),
+                    birthDate   : (row[10] || '').trim(),
+                    source      : 'HelloAsso'
+                });
+            }
+        }
+        return donations;
+    }
+
+    function parsePayPalData(data) {
+        const donations = [];
+        for (let i = 1; i < data.length; i++) {
+            const row = data[i];
+            if (!row || row.length < 8) continue;
+            const gross  = parseFloat((row[7]||'0').replace(/,/g,'.')) || 0;
+            const status = (row[5]||'').toLowerCase();
+            const type   = (row[4]||'').toLowerCase();
+            if (gross > 0 && status === 'completed' &&
+                (type === 'donation payment' || type === 'mass pay payment' || type === 'general payment')) {
+                const donor     = row[3] || '';
+                const fromEmail = (row[10]||'').toLowerCase();
+                if (donor && fromEmail) {
+                    donations.push({
+                        amount   : gross,
+                        campaign : row[37] || 'PayPal Donation',
+                        date     : row[0]  || '',
+                        donor    : donor,
+                        city     : row[32] || row[35] || '',
+                        country  : row[35] || '',
+                        email    : fromEmail,
+                        type     : 'Donation',
+                        isIzettle: fromEmail === 'paypal@izettle.com',
+                        source   : 'PayPal'
+                    });
+                }
+            }
+        }
+        return donations;
+    }
+
+    function getDonationSize(amount) {
+        if (amount >= 1000) return '>1000';
+        if (amount >= 500)  return '500-1000';
+        if (amount >= 100)  return '100-500';
+        if (amount >= 50)   return '50-100';
+        if (amount >= 20)   return '20-50';
+        if (amount >= 5)    return '5-20';
+        return '<5';
+    }
+
+    function analyzeData() {
+        const paypalFile    = document.getElementById('paypalFile').files[0];
+        const helloassoFile = document.getElementById('helloassoFile').files[0];
+        if (!paypalFile && !helloassoFile) { showStatus('Please select at least one CSV file','error'); return; }
+
+        let processed = 0, allDonations = [];
+        const total = (paypalFile ? 1 : 0) + (helloassoFile ? 1 : 0);
+
+        const fileHandler = (text, source) => {
+            try {
+                const clean   = text.charCodeAt(0) === 0xFEFF ? text.slice(1) : text;
+                const results = Papa.parse(clean, { delimiter: source === 'paypal' ? ',' : ';', skipEmptyLines: true });
+                allDonations  = allDonations.concat(
+                    source === 'paypal' ? parsePayPalData(results.data) : parseHelloAssoData(results.data)
+                );
+                if (++processed === total) {
+                    displayAnalysis(allDonations);
+                    showStatus('✅ Analysis complete!','success');
+                    document.getElementById('analysisSection').classList.add('active');
+                }
+            } catch(e) { showStatus('Error parsing ' + source + ' file: ' + e.message,'error'); }
+        };
+
+        if (paypalFile)    { const r=new FileReader(); r.onload=e=>fileHandler(e.target.result,'paypal');    r.readAsText(paypalFile); }
+        if (helloassoFile) { const r=new FileReader(); r.onload=e=>fileHandler(e.target.result,'helloasso'); r.readAsText(helloassoFile); }
+    }
+
+    function displayAnalysis(donations) {
+        if (!donations.length) { showStatus('No valid donations found','error'); return; }
+
+        const ha       = donations.filter(d => d.source === 'HelloAsso');
+        const pp       = donations.filter(d => d.source === 'PayPal');
+        const ppHuman  = pp.filter(d => !d.isIzettle);
+        const ppIzettle= pp.filter(d =>  d.isIzettle);
+
+        const total    = donations.reduce((s,d) => s+d.amount, 0);
+        const haTotal  = ha.reduce((s,d) => s+d.amount, 0);
+        const ppTotal  = pp.reduce((s,d) => s+d.amount, 0);
+        const humanEmails = new Set([...ha.map(d=>d.email),...ppHuman.map(d=>d.email)]);
+
+        document.getElementById('totalRevenue').textContent       = formatCurrency(total);
+        document.getElementById('totalDonors').textContent        = humanEmails.size;
+        document.getElementById('avgDonation').textContent        = formatCurrency(donations.length ? total/donations.length : 0);
+        document.getElementById('helloassoTotal').textContent     = formatCurrency(haTotal);
+        document.getElementById('helloassoDonorCount').textContent= new Set(ha.map(d=>d.email)).size + ' donors';
+        document.getElementById('paypalTotal').textContent        = formatCurrency(ppTotal);
+        document.getElementById('paypalDonorCount').textContent   = new Set(ppHuman.map(d=>d.email)).size + ' donors (+ iZettle in-person)';
+
+        document.getElementById('ha-total').textContent = formatCurrency(haTotal);
+        document.getElementById('ha-count').textContent = ha.length + ' donations';
+        document.getElementById('ha-avg').textContent   = formatCurrency(ha.length ? haTotal/ha.length : 0);
+        displayHelloAssoPayments(ha);
+
+        document.getElementById('pp-total').textContent = formatCurrency(ppTotal);
+        document.getElementById('pp-count').textContent = pp.length + ' donations';
+        document.getElementById('pp-avg').textContent   = formatCurrency(pp.length ? ppTotal/pp.length : 0);
+        displayPayPalDonations(ppHuman, ppIzettle);
+
+        displayDonationSizes(ha);
+        displayCampaigns(ha);
+        displayGeography(ha);
+        displayTopDonors([...ha, ...ppHuman]);
+        displayMonthlyChart(donations);
+        displayRecurringAnalysis(ha);
+        displayAgeDistribution(ha);
+    }
+
+    function displayHelloAssoPayments(donations) {
+        const sorted = [...donations].sort((a,b) => new Date(b.date)-new Date(a.date));
+        let html = '<tr><th>Date</th><th>Donor</th><th>Email</th><th>Amount</th><th>Campaign</th></tr>';
+        sorted.forEach(d => { html += `<tr><td>${d.date}</td><td>${d.donor}</td><td>${d.email}</td><td><strong>${formatCurrency(d.amount)}</strong></td><td>${d.campaign}</td></tr>`; });
+        document.getElementById('helloassoPaymentsList').innerHTML = html;
+    }
+
+    function displayPayPalDonations(human, zettle) {
+        const sorted = [...human].sort((a,b) => new Date(b.date)-new Date(a.date));
+        let html = '<tr><th>Date</th><th>Donor</th><th>Email</th><th>Amount</th><th>Note</th></tr>';
+        sorted.forEach(d => { html += `<tr><td>${d.date}</td><td>${d.donor}</td><td>${d.email}</td><td><strong>${formatCurrency(d.amount)}</strong></td><td>${d.campaign}</td></tr>`; });
+        document.getElementById('paypalDonationsList').innerHTML = html;
+
+        let ix = '<div class="table-section" style="margin-top:20px;"><h3>💳 iZettle In-person Payments <span class="badge-izettle">Event / Physical</span></h3><table><tr><th>Date</th><th>Amount</th></tr>';
+        [...zettle].sort((a,b)=>new Date(b.date)-new Date(a.date)).forEach(d => { ix += `<tr><td>${d.date}</td><td><strong>${formatCurrency(d.amount)}</strong></td></tr>`; });
+        ix += `<tr style="background:#fef9e7;font-weight:bold;"><td>Total</td><td>${formatCurrency(zettle.reduce((s,d)=>s+d.amount,0))}</td></tr></table></div>`;
+        const prev = document.getElementById('izzettleSection');
+        if (prev) prev.remove();
+        const div = document.createElement('div'); div.id='izzettleSection'; div.innerHTML=ix;
+        document.getElementById('paypal-summary').appendChild(div);
+    }
+
+    function displayDonationSizes(donations) {
+        const sizeOrder = ['<5','5-20','20-50','50-100','100-500','500-1000','>1000'];
+        const sizes = {};
+        sizeOrder.forEach(s => { sizes[s] = {count:0, total:0, donors:new Set()}; });
+        donations.forEach(d => { const s=getDonationSize(d.amount); sizes[s].count++; sizes[s].total+=d.amount; sizes[s].donors.add(d.email); });
+
+        let html = '<tr><th>Size Range</th><th>Count</th><th>Total</th><th>Average</th></tr>';
+        sizeOrder.forEach(s => { if(sizes[s].count>0) html+=`<tr><td><strong>€${s}</strong></td><td>${sizes[s].count}</td><td>${formatCurrency(sizes[s].total)}</td><td>${formatCurrency(sizes[s].total/sizes[s].count)}</td></tr>`; });
+        document.getElementById('donationSizesTable').innerHTML = html;
+
+        const totalU = new Set(donations.map(d=>d.email)).size;
+        let html2 = '<tr><th>Size Range</th><th>Unique Donors</th><th>% of Total</th></tr>';
+        sizeOrder.forEach(s => { if(sizes[s].count>0) html2+=`<tr><td><strong>€${s}</strong></td><td>${sizes[s].donors.size}</td><td>${totalU>0?(sizes[s].donors.size/totalU*100).toFixed(1)+'%':'—'}</td></tr>`; });
+        document.getElementById('donorsBySize').innerHTML = html2;
+
+        // Pie chart
+        const activeS = sizeOrder.filter(s => sizes[s].count > 0);
+        const colors  = ['#3498db','#2ecc71','#f39c12','#e74c3c','#9b59b6','#1abc9c','#e67e22'];
+        makeChart('donationSizePieChart', {
+            type: 'doughnut',
+            data: { labels: activeS.map(s=>'€'+s), datasets: [{ data: activeS.map(s=>parseFloat(sizes[s].total.toFixed(2))), backgroundColor: colors.slice(0,activeS.length), borderWidth:2 }] },
+            options: { responsive:true, maintainAspectRatio:false, plugins: { legend:{position:'right'}, tooltip:{callbacks:{label:ctx=>' '+ctx.label+': '+formatCurrency(ctx.parsed)}} } }
+        });
+    }
+
+    function displayCampaigns(donations) {
+        const camps = {};
+        donations.forEach(d => { if(!camps[d.campaign]) camps[d.campaign]={total:0,count:0}; camps[d.campaign].total+=d.amount; camps[d.campaign].count++; });
+        const sorted = Object.entries(camps).sort((a,b)=>b[1].total-a[1].total);
+        let html = '<tr><th>Campaign</th><th>Donations</th><th>Total</th><th>Average</th></tr>';
+        sorted.forEach(([c,d]) => { html+=`<tr><td>${c}</td><td>${d.count}</td><td><strong>${formatCurrency(d.total)}</strong></td><td>${formatCurrency(d.total/d.count)}</td></tr>`; });
+        document.getElementById('campaignsList').innerHTML = html;
+
+        const top = sorted.slice(0,12);
+        makeChart('campaignsChart', {
+            type:'bar',
+            data: { labels: top.map(([c])=>c.length>35?c.substring(0,35)+'…':c), datasets:[{ label:'Total (€)', data:top.map(([,d])=>parseFloat(d.total.toFixed(2))), backgroundColor:'rgba(21,101,192,0.82)', borderRadius:4 }] },
+            options: { indexAxis:'y', responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' '+formatCurrency(ctx.parsed.x)}}}, scales:{x:{ticks:{callback:v=>formatCurrency(v)}}} }
+        });
+    }
+
+    function displayGeography(donations) {
+        const regions = {};
+        donations.forEach(d => {
+            const r = (d.country && d.country.toUpperCase()!=='FRA') ? d.country : normalizeCity(d.city);
+            if (!regions[r]) regions[r]={total:0,count:0};
+            regions[r].total+=d.amount; regions[r].count++;
+        });
+        const sorted = Object.entries(regions).sort((a,b)=>b[1].total-a[1].total);
+        let html = '<tr><th>Region</th><th>Donations</th><th>Total</th></tr>';
+        sorted.forEach(([r,d]) => { html+=`<tr><td>${r}</td><td>${d.count}</td><td><strong>${formatCurrency(d.total)}</strong></td></tr>`; });
+        document.getElementById('geographyTable').innerHTML = html;
+
+        const top = sorted.slice(0,14);
+        makeChart('geographyChart', {
+            type:'bar',
+            data: { labels:top.map(([r])=>r), datasets:[{ label:'Total (€)', data:top.map(([,d])=>parseFloat(d.total.toFixed(2))), backgroundColor:'rgba(21,101,192,0.82)', borderRadius:4 }] },
+            options: { indexAxis:'y', responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' '+formatCurrency(ctx.parsed.x)}}}, scales:{x:{ticks:{callback:v=>formatCurrency(v)}}} }
+        });
+    }
+
+    function displayTopDonors(donations) {
+        const donors = {};
+        donations.forEach(d => { if(!donors[d.email]) donors[d.email]={donor:d.donor,email:d.email,total:0,count:0}; donors[d.email].total+=d.amount; donors[d.email].count++; });
+        const sorted = Object.values(donors).sort((a,b)=>b.total-a.total).slice(0,20);
+        let html = '<tr><th>Rank</th><th>Donor</th><th>Email</th><th>Total</th><th>Donations</th></tr>';
+        sorted.forEach((d,i) => { html+=`<tr><td>${i+1}</td><td>${d.donor}</td><td>${d.email}</td><td><strong>${formatCurrency(d.total)}</strong></td><td>${d.count}</td></tr>`; });
+        document.getElementById('topDonorsTable').innerHTML = html;
+
+        const top15 = sorted.slice(0,15);
+        makeChart('topDonorsChart', {
+            type:'bar',
+            data: { labels:top15.map(d=>d.donor||d.email), datasets:[{ label:'Total Donated', data:top15.map(d=>parseFloat(d.total.toFixed(2))), backgroundColor:'rgba(21,101,192,0.82)', borderRadius:4 }] },
+            options: { indexAxis:'y', responsive:true, maintainAspectRatio:false, plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' '+formatCurrency(ctx.parsed.x)}}}, scales:{x:{ticks:{callback:v=>formatCurrency(v)}}} }
+        });
+    }
+
+    function parseYearMonth(s) {
+        if (!s) return null;
+        const p = s.trim().split(' ')[0].split('/');
+        return p.length < 3 ? null : p[2] + '-' + p[1].padStart(2,'0');
+    }
+
+    const _charts = {};
+    function makeChart(id, config) { if(_charts[id]) _charts[id].destroy(); _charts[id]=new Chart(document.getElementById(id),config); }
+
+    function displayMonthlyChart(donations) {
+        const ms = new Set(); donations.forEach(d=>{const m=parseYearMonth(d.date);if(m)ms.add(m);});
+        const months = [...ms].sort();
+        const labels = months.map(m=>{const[y,mo]=m.split('-');return new Date(+y,+mo-1,1).toLocaleString('fr-FR',{month:'short',year:'2-digit'});});
+        const ha = months.map(m=>donations.filter(d=>d.source==='HelloAsso'&&parseYearMonth(d.date)===m).reduce((s,d)=>s+d.amount,0));
+        const pp = months.map(m=>donations.filter(d=>d.source==='PayPal'&&!d.isIzettle&&parseYearMonth(d.date)===m).reduce((s,d)=>s+d.amount,0));
+        const ix = months.map(m=>donations.filter(d=>d.isIzettle&&parseYearMonth(d.date)===m).reduce((s,d)=>s+d.amount,0));
+        makeChart('monthlyChart',{type:'bar',data:{labels,datasets:[
+            {label:'HelloAsso',data:ha,backgroundColor:'rgba(52,152,219,0.82)',stack:'a'},
+            {label:'PayPal (online)',data:pp,backgroundColor:'rgba(39,174,96,0.82)',stack:'a'},
+            {label:'iZettle (in-person)',data:ix,backgroundColor:'rgba(243,156,18,0.82)',stack:'a'}
+        ]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'top'},tooltip:{callbacks:{label:ctx=>' '+ctx.dataset.label+': '+formatCurrency(ctx.parsed.y)}}},scales:{x:{stacked:true},y:{stacked:true,ticks:{callback:v=>formatCurrency(v)}}}}});
+    }
+
+    function displayRecurringAnalysis(ha) {
+        const rec = ha.filter(d=>d.donationType==='Don mensuel');
+        const ot  = ha.filter(d=>d.donationType!=='Don mensuel');
+        const byEmail={};
+        rec.forEach(d=>{const ym=parseYearMonth(d.date)||'';if(!byEmail[d.email]||ym>(parseYearMonth(byEmail[d.email].date)||''))byEmail[d.email]=d;});
+        const active=Object.values(byEmail);
+        const mrr=active.reduce((s,d)=>s+d.amount,0);
+        const haT=ha.reduce((s,d)=>s+d.amount,0), recT=rec.reduce((s,d)=>s+d.amount,0), otT=ot.reduce((s,d)=>s+d.amount,0);
+        document.getElementById('mrr-value').textContent=formatCurrency(mrr);
+        document.getElementById('mrr-subtitle').textContent=active.length+' active recurring donors';
+        document.getElementById('recurring-donors').textContent=new Set(rec.map(d=>d.email)).size;
+        document.getElementById('recurring-total').textContent=formatCurrency(recT)+' total collected';
+        document.getElementById('onetime-donors').textContent=new Set(ot.map(d=>d.email)).size;
+        document.getElementById('onetime-total').textContent=formatCurrency(otT)+' total collected';
+        document.getElementById('recurring-share').textContent=haT>0?(recT/haT*100).toFixed(1)+'%':'—';
+
+        const ms=new Set(rec.map(d=>parseYearMonth(d.date)).filter(Boolean));
+        const months=[...ms].sort();
+        const mrrData=months.map(m=>rec.filter(d=>parseYearMonth(d.date)===m).reduce((s,d)=>s+d.amount,0));
+        const labels=months.map(m=>{const[y,mo]=m.split('-');return new Date(+y,+mo-1,1).toLocaleString('fr-FR',{month:'short',year:'2-digit'});});
+        makeChart('mrrChart',{type:'bar',data:{labels,datasets:[{label:'Recurring revenue',data:mrrData,backgroundColor:'rgba(39,174,96,0.82)',borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' '+formatCurrency(ctx.parsed.y)}}},scales:{y:{ticks:{callback:v=>formatCurrency(v)}}}}});
+
+        let html='<tr><th>Donor</th><th>Email</th><th>Monthly Amount</th><th>Since</th></tr>';
+        [...active].sort((a,b)=>b.amount-a.amount).forEach(d=>{const since=rec.filter(r=>r.email===d.email).map(r=>parseYearMonth(r.date)).sort()[0]||'';html+=`<tr><td>${d.donor} <span class="badge-recurring">Monthly</span></td><td>${d.email}</td><td><strong>${formatCurrency(d.amount)}</strong></td><td>${since}</td></tr>`;});
+        document.getElementById('recurringDonorsTable').innerHTML=html;
+
+        let otH='<tr><th>Date</th><th>Donor</th><th>Email</th><th>Amount</th><th>Type</th></tr>';
+        [...ot].sort((a,b)=>b.amount-a.amount).forEach(d=>{otH+=`<tr><td>${d.date}</td><td>${d.donor}</td><td>${d.email}</td><td><strong>${formatCurrency(d.amount)}</strong></td><td>${d.donationType||d.type}</td></tr>`;});
+        document.getElementById('onetimeDonationsTable').innerHTML=otH;
+    }
+
+    function displayAgeDistribution(ha) {
+        const REF=2025, donors={};
+        ha.forEach(d=>{if(!d.birthDate||!d.email)return;const p=d.birthDate.split('/');if(p.length<3)return;const yr=parseInt(p[2]);if(yr<1900||yr>REF-10)return;if(!donors[d.email])donors[d.email]={age:REF-yr,total:0};donors[d.email].total+=d.amount;});
+        const entries=Object.values(donors), known=entries.length, total=new Set(ha.map(d=>d.email)).size;
+        document.getElementById('age-known-count').textContent=known;
+        document.getElementById('age-known-pct').textContent=total>0?(known/total*100).toFixed(0)+'% of HelloAsso donors':'—';
+        if(!known)return;
+        const ages=entries.map(e=>e.age).sort((a,b)=>a-b);
+        document.getElementById('age-avg').textContent=(ages.reduce((s,a)=>s+a,0)/ages.length).toFixed(1);
+        document.getElementById('age-median').textContent=ages.length%2===0?((ages[ages.length/2-1]+ages[ages.length/2])/2).toFixed(0):ages[Math.floor(ages.length/2)];
+        const brackets=[{l:'< 30',min:0,max:30},{l:'30–39',min:30,max:40},{l:'40–49',min:40,max:50},{l:'50–59',min:50,max:60},{l:'60–69',min:60,max:70},{l:'70+',min:70,max:999}];
+        const bd=brackets.map(b=>{const g=entries.filter(e=>e.age>=b.min&&e.age<b.max);const t=g.reduce((s,e)=>s+e.total,0);return{label:b.l,count:g.length,total:t,avg:g.length?t/g.length:0};});
+        const mx=Math.max(...bd.map(b=>b.count),1);
+        makeChart('ageChart',{type:'bar',data:{labels:bd.map(b=>b.label),datasets:[{label:'Donors',data:bd.map(b=>b.count),backgroundColor:'rgba(52,152,219,0.82)',borderRadius:4,yAxisID:'y'},{label:'Avg donation (€)',data:bd.map(b=>parseFloat(b.avg.toFixed(2))),type:'line',borderColor:'#e74c3c',backgroundColor:'rgba(231,76,60,0.1)',tension:0.3,yAxisID:'y2',pointRadius:5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'top'},tooltip:{callbacks:{label:ctx=>ctx.datasetIndex===0?' '+ctx.parsed.y+' donors':' avg '+formatCurrency(ctx.parsed.y)}}},scales:{y:{beginAtZero:true,title:{display:true,text:'Number of donors'}},y2:{beginAtZero:true,position:'right',title:{display:true,text:'Avg donation (€)'},grid:{drawOnChartArea:false}}}}});
+        let t='<tr><th>Age Bracket</th><th>Donors</th><th>Bar</th><th>Total Donated</th><th>Avg per Donor</th></tr>';
+        bd.forEach(b=>{const pct=(b.count/mx*100).toFixed(0);t+=`<tr><td><strong>${b.label}</strong></td><td>${b.count}</td><td><div class="age-bar-bg"><div class="age-bar-fill" style="width:${pct}%"></div></div></td><td>${formatCurrency(b.total)}</td><td>${b.count>0?formatCurrency(b.avg):'—'}</td></tr>`;});
+        document.getElementById('ageTable').innerHTML=t;
+    }
+
+    function showTab(name) {
+        document.querySelectorAll('.tab-content').forEach(t=>t.style.display='none');
+        document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+        document.getElementById(name).style.display='block';
+        event.target.classList.add('active');
+    }
+
+    function resetData() {
+        document.getElementById('paypalFile').value='';
+        document.getElementById('helloassoFile').value='';
+        document.getElementById('analysisSection').classList.remove('active');
+        document.getElementById('status').innerHTML='';
+        showStatus('All data cleared','info');
+    }
+
+    function showStatus(msg, type) {
+        const el = document.getElementById('status');
+        el.innerHTML = `<div class="status ${type}">${msg}</div>`;
+    }
+</script>
+</body>
+<!--
+<html>
+    <head>
+        <script src="papaparse.min.js"></script>
+        <style>
+        #previewtable {
+            border-collapse: collapse;
+        }
+
+        #previewtable td {
+            border: 1px solid #999;
+            padding: 0;
+            padding-left: 5px;
+            padding-right: 5px;
+            vertical-align:top;
+            font-family:monospace
+        }
+        
+        #previewtable th {
+            border: 1px solid #999;
+            padding: 0;
+            padding-left: 5px;
+            padding-right: 5px;
+            vertical-align:top;
+            font-family:monospace;
+
+            background-color: #ccc;
+            padding: 1px 3px;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        </style>
+    </head>
+    <body>
+        <h1>Work with GoogleContacts.csv and HelloAssoPaiements.csv</h1>
+        <label for="fileupload" style="font-family:monospace">Input CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <input type="file" id="fileupload" name="fileupload" accept=".csv" onchange="onchange_fileupload()" />
+        <br />
+        <label for="download" style="font-family:monospace">Process CSV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <button onclick="onclick_process(analyze_googlecontacts, '.analyze_googlecontacts.csv')">Analyze GoogleContacts.csv</button>
+        <button onclick="onclick_process(prepare_helloasso_for_googlecontacts, '.prepare_helloasso_for_googlecontacts.csv')">Prepare HelloAssoPaiements.csv for import to GoogleContacts</button>
+        <button onclick="onclick_process(prepare_helloasso_for_mailchimp, '.prepare_helloasso_for_mailchimp.csv')">Prepare HelloAssoMembres.csv or HelloAssoParticipants.csv for import to Mailchimp</button>
+        <br />
+        <label for="download" style="font-family:monospace">Download output CSV&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;</label>
+        <a id="download">after processing, click here to download the output CSV:&nbsp;<span id="outputfilename"></span></a>
+        <br />
+
+        <hr />
+
+        <table id="previewtable" />
+
+        <script>
+
+        function show_table(res, only_nonempttycols = false, ellipsis_threshold = 50)
+        {
+            const cols = only_nonempttycols ? find_nonemptycols(res, false) : res.meta.fields;
+            
+            const previewtable = document.getElementById("previewtable");
+            previewtable.innerHTML = "";
+            
+            const thead = previewtable.createTHead();
+            const thead_tr = thead.insertRow(-1);
+            for(const col of [" "].concat(cols))
+            {
+                const th = document.createElement("th");
+                th.innerText = col;
+                thead_tr.appendChild(th);
+            }
+
+            const tbody = previewtable.createTBody();
+            for(let i = 0; i < res.data.length; i++)
+            {
+                const tr = tbody.insertRow(-1);
+                const th = document.createElement("th");
+                th.innerText = (i + 1).toString();
+                tr.appendChild(th);
+                
+                for(const col of cols)
+                {
+                    const val = res.data[i][col];
+                    const tc = tr.insertCell(-1);
+                    const valstr = val.toString();
+                    tc.innerText = valstr.length < ellipsis_threshold ? valstr : valstr.substring(0, ellipsis_threshold) + "...";
+                    tc.title = valstr;
+                }
+            }
+        }
+
+        function onchange_fileupload()
+        {
+            document.getElementById("previewtable").innerHTML = "";
+
+            const fileupload = document.getElementById("fileupload");
+            if(fileupload.files.length == 0)
+                return;
+            const file = fileupload.files[0];
+
+            Papa.parse(file, {header: true, skipEmptyLines: true, complete: res => show_table(res, true)});
+        }
+
+        function onclick_process(fn, suffix = ".download.csv", utf8_bom_for_buggy_excel = '\uFEFF')
+        {
+            const download = document.getElementById("download");
+            const outputfilename = document.getElementById("outputfilename");
+
+            const fileupload = document.getElementById("fileupload");
+            if(fileupload.files.length == 0)
+                return;
+            const file = fileupload.files[0];
+
+            const datestamp = new Date().toISOString().replaceAll(":", "_");
+
+            const input_file_name = fileupload.value.slice(1 + Math.max(fileupload.value.lastIndexOf('/'), fileupload.value.lastIndexOf('\\')));
+            const output_file_name = input_file_name + "." + datestamp + "." + suffix;
+
+            Papa.parse(file, {header: true, skipEmptyLines : true, complete: res =>
+            {
+                const processed = fn(res);
+                const csvString = Papa.unparse(processed);
+                download.href = URL.createObjectURL(new Blob([utf8_bom_for_buggy_excel + csvString], {type: "text/csv;charset=utf-8;"}));;
+                download.setAttribute("download", output_file_name);
+                outputfilename.innerText = output_file_name;
+                show_table(processed, false);
+            }});
+        }
+
+        function find_nonemptycols(res, star_means_empty = true)
+        {
+            const nonemptycols = [];
+            for(const col of res.meta.fields)
+            {
+                let is_empty = true;
+                for(const row of res.data)
+                {
+                    if(row[col] != "" && (star_means_empty ? row[col].trim() != "*" : true))
+                        is_empty = false;
+                }
+                if(!is_empty)
+                    nonemptycols.push(col);
+            }
+            return nonemptycols;
+        }
+
+        function groupby(items, key_fn)
+        {
+            const res = {};
+            for(const item of items)
+            {
+                const key = key_fn(item);
+                if(key in res)
+                    res[key].push(item)
+                else
+                    res[key] = [item];
+            }
+            return res;
+        }
+
+        function analyze_googlecontacts(res,
+            col_total = "AnalyzedTotalEur",
+            col_numtransactions = "AnalyzedNumTransactions", 
+            col_maxyeartransaction = "AnalyzedLastTransactionYear",
+            col_alltransactiontypes = "AnalyzedTransactionTypes"
+        )
+        {
+            const nonemptycols = find_nonemptycols(res);
+            let data = [];
+            for(const row of res.data)
+            {
+                let col_googlecontacts_transactionsvalue = "";
+                for(const col of Object.keys(row))
+                    if(col.startsWith("Custom Field ") && col.endsWith(" - Type") && row[col] == "transactions")
+                        col_googlecontacts_transactionsvalue = col.replace(" - Type", " - Value");
+                const newrow = {};
+                for(const col of nonemptycols)
+                    newrow[col] = row[col];
+                const transactions = row[col_googlecontacts_transactionsvalue] ? row[col_googlecontacts_transactionsvalue].split(" ::: ") : [];
+                newrow[col_numtransactions] = transactions.length.toString();
+                newrow[col_maxyeartransaction] = (transactions ? Math.max(...transactions.map(s => parseInt(s.substring(0, 4)))) : 0).toString();
+                newrow[col_total] = transactions.map(s => parseInt(s.split("=").pop().replace(",", ".").replace("EUR", ""))).reduce((acc, x) => acc + x, 0).toString();
+                newrow[col_alltransactiontypes] = Array.from(new Set(transactions.map(s => s.split("=")[1]))).sort().join("|");
+                data.push(newrow)
+            }
+            data = data.sort((r1, r2) => parseInt(r2[col_total]) - parseInt(r1[col_total]));
+            nonemptycols.push(col_maxyeartransaction, col_numtransactions, col_total, col_alltransactiontypes);
+            return {data : data, meta : {fields : nonemptycols}};
+        }
+
+        function prepare_helloasso_for_mailchimp(res,
+            col_helloasso_email = "Email",
+            col_helloasso_email_payer = "Email payeur",
+            
+            col_helloasso_firstname_member = "Prénom adhérent",
+            col_helloasso_lastname_member = "Nom adhérent",
+            
+            col_helloasso_firstname_participant = "Prénom participant",
+            col_helloasso_lastname_participant = "Nom participant",
+            
+            col_helloasso_firstname_payer = "Prénom payeur",
+            col_helloasso_lastname_payer = "Nom payeur",
+
+            col_mailchimp_firstname = "FirstName",
+            col_mailchimp_lastname = "LastName",
+            col_mailchimp_email = "Email"
+        )
+        {
+            const nonemptycols = [col_mailchimp_email, col_mailchimp_firstname, col_mailchimp_lastname]
+
+            const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const normalize_email = email => (email || "").toLowerCase()
+            
+            const sortkey_helloasso = r => (r[col_helloasso_email] || r[col_helloasso_email_payer] || '').toLowerCase()
+            const grouped = groupby(res.data, sortkey_helloasso);
+
+            const data = [];
+            for(const k of Object.keys(grouped).sort())
+            {
+                if(!k)
+                    continue;
+                
+                const row = grouped[k].pop();
+
+                const firstname = row[col_helloasso_firstname_payer] || row[col_helloasso_firstname_member] || row[col_helloasso_firstname_participant];
+                const lastname = row[col_helloasso_lastname_payer] || row[col_helloasso_lastname_member] || row[col_helloasso_lastname_participant];
+                const email = row[col_helloasso_email] || row[col_helloasso_email_payer];
+                const newrow = {
+                    [col_mailchimp_firstname] : normalize_name(firstname), 
+                    [col_mailchimp_lastname] : normalize_name(lastname), 
+                    [col_mailchimp_email] : normalize_email(email), 
+                };
+                data.push(newrow);
+            }
+            
+            return {data : data, meta : {fields : nonemptycols}};
+            
+        }
+
+        function prepare_helloasso_for_googlecontacts(res,
+            col_helloasso_firstname = "Prénom payeur",
+            col_helloasso_lastname = "Nom payeur",
+            col_helloasso_emailvalue = "Email payeur",
+            col_helloasso_transactionsvalue = "Montant total",
+            col_helloasso_transactionsdate = "Date du paiement",
+            col_helloasso_typedecampagne = "Type de campagne",
+                                                      
+            col_googlecontacts_firstname = "Given Name",
+            col_googlecontacts_lastname = "Family Name",
+            col_googlecontacts_groupmembership = "Group Membership",
+            col_googlecontacts_emailkey = "E-mail 1 - Type",
+            col_googlecontacts_emailvalue = "E-mail 1 - Value",
+            col_googlecontacts_transactionskey = "Custom Field 1 - Type",
+            col_googlecontacts_transactionsvalue = "Custom Field 1 - Value"
+        )
+        {
+            const normalize_name = name => (name || "").split("-").map(s => s.charAt(0).toUpperCase() + s.slice(1).toLowerCase()).join("-");
+            const normalize_email = email => (email || "").toLowerCase();
+            const normalize_transactiontype = transactiontype => (transactiontype || "").replaceAll("é", "e").toLowerCase();
+            const ddmmyyyy2yyyymmdd = s => s.split(" ")[0].split("/").reverse().join("/");
+            const sortkey_helloasso = r => (r[col_helloasso_emailvalue] || '').toLowerCase()
+            const grouped = groupby(res.data, sortkey_helloasso);
+
+            const data = [];
+            const nonemptycols = [];
+            for(const k of Object.keys(grouped).sort())
+            {
+                if(!k)
+                    continue;
+                
+                const g = grouped[k];
+                const row = g[0]
+                const newrow = {
+                    [col_googlecontacts_firstname] : normalize_name(row[col_helloasso_firstname]), 
+                    [col_googlecontacts_lastname] : normalize_name(row[col_helloasso_lastname]), 
+                    [col_googlecontacts_groupmembership] : "* myContacts", 
+                    [col_googlecontacts_emailkey] : "* ", 
+                    [col_googlecontacts_emailvalue] : normalize_email(row[col_helloasso_emailvalue]), 
+                    [col_googlecontacts_transactionskey] : "transactions", 
+                    [col_googlecontacts_transactionsvalue] :  g.map(r => ddmmyyyy2yyyymmdd(r[col_helloasso_transactionsdate]) + "=" + normalize_transactiontype(r[col_helloasso_typedecampagne]) + "=" + parseInt(r[col_helloasso_transactionsvalue].replace(",", ".")).toString() + "EUR").join(" ::: ")
+                };
+                data.push(newrow);
+            }
+            nonemptycols.push(col_googlecontacts_firstname, col_googlecontacts_lastname, col_googlecontacts_groupmembership, col_googlecontacts_emailkey, col_googlecontacts_emailvalue, col_googlecontacts_transactionskey, col_googlecontacts_transactionsvalue);
+            return {data : data, meta : {fields : nonemptycols}};
+        }
+        
+        </script>
+
+    </body>
+</html>
+-->
+</html>

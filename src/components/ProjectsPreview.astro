@@ -1,0 +1,24 @@
+---
+import { Image } from 'astro:assets';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+import {getCurrentLocale, excerpt } from '../scripts/utils.js';
+const currentLocale = getCurrentLocale(Astro);
+
+const { projects } = Astro.props;
+
+---
+
+{projects.map(entry => (
+    <article class="card">
+      <a href={getRelativeLocaleUrl(currentLocale, entry.id)}>
+        <figure>
+          {entry.data.coverImage !== undefined && (<Image src={entry.data.coverImage} alt={entry.data.title || ''} class="card-cover-image" />)}
+        
+          <figcaption>
+            <h2 class="card-title">{entry.data.title}</h2>
+            <div class="card-excerpt">{excerpt(entry.data.description)}</div>
+          </figcaption>
+        </figure>
+      </a>
+    </article>
+))}

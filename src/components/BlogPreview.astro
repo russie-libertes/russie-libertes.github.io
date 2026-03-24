@@ -1,0 +1,35 @@
+---
+import { Image } from 'astro:assets';
+import { getRelativeLocaleUrl } from 'astro:i18n';
+
+import {excerpt, getCurrentLocale, formatDate} from '../scripts/utils.js'
+
+const { posts } = Astro.props;
+
+const currentLocale = getCurrentLocale(Astro);
+
+function formatBlogDateTime(optional_date)
+{
+  if(!optional_date)
+    return ['', ''];
+
+  return [optional_date.toISOString(), formatDate(optional_date, currentLocale)];
+}
+
+---
+
+{posts.map(entry => (
+  <article class="card">
+    <a href={getRelativeLocaleUrl(currentLocale, entry.id)}>
+      <figure>
+        {entry.data.coverImage !== undefined && (<Image src={entry.data.coverImage} alt={entry.data.title || ''} class="card-cover-image" />)}
+        <figcaption>
+          <h2 class="card-title">{entry.data.title}</h2>
+          <time class="card-meta" datetime={formatBlogDateTime(entry.data.date)[0]}>{formatBlogDateTime(entry.data.date)[1]}</time>
+          <div class="card-excerpt">{excerpt(entry.body)}</div>
+        </figcaption>
+      </figure>
+    </a>
+  </article>
+))}
+

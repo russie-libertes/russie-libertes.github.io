@@ -1,0 +1,26 @@
+<div class="cookieconsentbox" hidden>
+    <slot />
+</div>
+
+<script is:inline>
+    window.addEventListener("hashchange", () => 
+    {
+        if(window.location.hash == '#cookieaccept')
+        {
+            document.cookie = 'cookieaccepted=1; Path=/;';
+            document.querySelector('.cookieconsentbox').hidden = true;
+            window.location.hash = '';
+        }
+        if(window.location.hash == '#cookiereject')
+        {
+            document.cookie = 'cookieaccepted=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            document.querySelector('.cookieconsentbox').hidden = false;
+            window.location.hash = '';
+        }
+    });
+    
+    if(!document.cookie || !document.cookie.includes('cookieaccepted=1'))
+    {
+        document.querySelector(".cookieconsentbox").removeAttribute("hidden");
+    }
+</script>

@@ -1,0 +1,30 @@
+---
+
+import {excerpt, formatDate, getCurrentLocale} from '../scripts/utils.js'
+
+const { posts } = Astro.props;
+
+const currentLocale = getCurrentLocale(Astro);
+
+function formatInstagramDateTime(str_datetime_iso)
+{
+    return formatDate(new Date(Date.parse(str_datetime_iso)), currentLocale);
+}
+
+---
+
+{posts.map(entry => (
+
+<article class="card">
+  <a href={entry.url}>
+    <figure>
+        <img src=`instagram/${entry.image_basename}` alt="" class="card-cover-image" />
+        <figcaption>
+          <h2><time class="card-meta" datetime={entry.date}>{formatInstagramDateTime(entry.date)}</time></h2>
+          <div class="card-excerpt">{excerpt(entry.body)}</div>
+        </figcaption>
+    </figure>
+  </a>
+</article>
+
+))}

@@ -1,0 +1,86 @@
+[
+  {
+    "currency": "EUR",
+    "description": "Aidons l’Ukraine, avec un don vous pouvez apporter la lumière et l’espoir !",
+    "endDate": "2026-02-28T23:59:59+01:00",
+    "logo": {
+      "fileName": "croppedimage-e31104765b9541b6aa0d8dfc27cc047c.png",
+      "publicUrl": "https://cdn.helloasso.com/img/photos/collectes/croppedimage-e31104765b9541b6aa0d8dfc27cc047c.png"
+    },
+    "meta": {
+      "createdAt": "2026-02-04T12:11:20.71+01:00",
+      "updatedAt": "2026-02-07T16:45:34.203+01:00"
+    },
+    "state": "Public",
+    "title": "Apportons de la chaleur à l'Ukraine",
+    "widgetButtonUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine/widget-bouton",
+    "widgetFullUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine/widget",
+    "widgetVignetteHorizontalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine/widget-vignette-horizontale",
+    "widgetVignetteVerticalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine/widget-vignette",
+    "widgetCounterUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine/widget-compteur",
+    "formSlug": "apportons-la-chaleur-pour-l-ukraine",
+    "formType": "CrowdFunding",
+    "url": "https://www.helloasso.com/associations/russie-libertes/collectes/apportons-la-chaleur-pour-l-ukraine",
+    "organizationSlug": "russie-libertes",
+    "scraped_goal_eur": 2000,
+    "scraped_collected_eur": 1000,
+    "scraped_contrib_num": 16,
+    "scraped_img_src": ""
+  },
+  {
+    "banner": {
+      "fileName": "croppedimage-53420c227df54388baa6b02cae2529fd.png",
+      "publicUrl": "https://cdn.helloasso.com/img/photos/collectes/croppedimage-53420c227df54388baa6b02cae2529fd.png"
+    },
+    "currency": "EUR",
+    "description": "Support Political Prisoners of Russia : Ne les laissons pas seuls face à la dictature! \nDo not leave them alone in the face of dictatorship",
+    "endDate": "2025-12-31T23:59:59+01:00",
+    "logo": {
+      "fileName": "croppedimage-10ec203510aa488d8096ecfd22cb244e.png",
+      "publicUrl": "https://cdn.helloasso.com/img/photos/collectes/croppedimage-10ec203510aa488d8096ecfd22cb244e.png"
+    },
+    "meta": {
+      "createdAt": "2025-03-30T11:36:05.37+02:00",
+      "updatedAt": "2025-11-05T21:30:06.02+01:00"
+    },
+    "state": "Public",
+    "title": "FREE THEM ALL : Support Political Prisoners of Russia ",
+    "widgetButtonUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas/widget-bouton",
+    "widgetFullUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas/widget",
+    "widgetVignetteHorizontalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas/widget-vignette-horizontale",
+    "widgetVignetteVerticalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas/widget-vignette",
+    "widgetCounterUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas/widget-compteur",
+    "formSlug": "1-500-voix-reduites-au-silence-ne-les-oublions-pas",
+    "formType": "CrowdFunding",
+    "url": "https://www.helloasso.com/associations/russie-libertes/collectes/1-500-voix-reduites-au-silence-ne-les-oublions-pas",
+    "organizationSlug": "russie-libertes",
+    "scraped_goal_eur": 5000,
+    "scraped_collected_eur": 2523,
+    "scraped_contrib_num": 26,
+    "scraped_img_src": ""
+  },
+  {
+    "currency": "EUR",
+    "description": "Il faut sauver le déserteur Ryan\nSaving Private Ryan",
+    "endDate": "2026-01-30T23:59:59+01:00",
+    "meta": {
+      "createdAt": "2024-06-17T15:57:28.507+02:00",
+      "updatedAt": "2025-12-10T11:47:25.4+01:00"
+    },
+    "state": "Public",
+    "title": "Il faut sauver le déserteur Ryan / Saving Private Ryan",
+    "widgetButtonUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan/widget-bouton",
+    "widgetFullUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan/widget",
+    "widgetVignetteHorizontalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan/widget-vignette-horizontale",
+    "widgetVignetteVerticalUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan/widget-vignette",
+    "widgetCounterUrl": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan/widget-compteur",
+    "formSlug": "il-faut-sauver-le-deserteur-ryan",
+    "formType": "CrowdFunding",
+    "url": "https://www.helloasso.com/associations/russie-libertes/collectes/il-faut-sauver-le-deserteur-ryan",
+    "organizationSlug": "russie-libertes",
+    "scraped_goal_eur": 5000,
+    "scraped_collected_eur": 3080,
+    "scraped_contrib_num": 31,
+    "scraped_img_src": ""
+  }
+]

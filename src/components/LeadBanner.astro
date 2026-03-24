@@ -1,0 +1,9 @@
+---
+const {lead, frontmatter} = Astro.props;
+const bg = frontmatter.coverImage;
+---
+
+<div class="lead-heading" style={`background-image: url(${bg.src}); background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten; height: 800px; background-repeat: no-repeat; background-size: cover`}>
+    <lead.Content />
+</div>

@@ -1,0 +1,29 @@
+{
+    "siteurl": "https://vadimkantorov.github.io",
+    "basurl": "/russie-libertes/",
+
+    "helloasso_organization_slug": "russie-libertes",
+    "helloasso_donate_widget_url": "https://www.helloasso.com/associations/russie-libertes/formulaires/1/widget?view=form",
+    "helloasso_crowdfunding": "https://www.helloasso.com/associations/russie-libertes#crowdfunding",
+    
+    "benevity_url": "https://causes.benevity.org/causes/250-5587454580385_5923",
+
+    "mailchimp_subscribe_form": "https://russie-libertes.us21.list-manage.com/subscribe/post?u=87e02574ae5b641fa5496fde1&amp;id=d5e809b7a4&amp;f_id=000c45e6f0",
+    
+    "googlecalendar_id": "c_8b8659dad12e20ac1130806694372259da336128023574166b99a96057a2c6ad@group.calendar.google.com",
+    "googlecalendar_ctz": "Europe/Paris",
+    "googleform_prefill_id": "1FAIpQLSdT-E85ihEGyPtP0q4FAWwLrsqX0cYsqNecLWmhX0mdSAiJjg",
+    "googleform_prefill_entryid_name": "entry.1556626638",
+    "googleform_prefill_entryid_message": "entry.1594299574",
+    
+    "instagram_url": "https://instagram.com/russie.libertes",
+    "instagram_topk": 9,
+
+    "media_google_spreadsheet_url" : "https://docs.google.com/spreadsheets/d/1sG6EfjC9XAz9nhL0KOrGCjtpJSZ-7cUPSKGqMasXof0/edit?usp=sharing",
+
+    "i18n" : {
+        "locales": ["fr", "ru"],
+        "defaultLocale": "fr",
+        "fallback": { "ru": "fr" }
+    }
+}

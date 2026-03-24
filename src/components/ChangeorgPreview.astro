@@ -1,0 +1,39 @@
+---
+import {getCurrentLocale, formatDate} from '../scripts/utils.js'
+const currentLocale = getCurrentLocale(Astro);
+const {petitions} = Astro.props
+
+const posts = petitions.map(petition => ({
+  'title' :  petition.meta['og:description'],
+  'url': petition.meta['og:url'], 
+  'img_src': petition.meta['og:image'],
+  'description': petition.meta['og:title'],
+  'date': petition.ld_json[0].datePublished,
+  'signatures' : (((petition.hydration || [{}])[0].petition || {}).signatureCount || {}).displayed || 0
+}))
+
+function formatChangeorgDate(optional_date)
+{
+  if(!optional_date)
+    return ['', ''];
+
+  return [new Date(optional_date).toISOString(), formatDate(new Date(optional_date), currentLocale)];
+}
+---
+
+{posts.map(entry => (
+
+<article class="card">
+    <a href={entry.url}>
+      <figure>
+        <img src={entry.img_src} alt="" class="card-cover-image" />
+        <figcaption>
+          <h2 class="card-title">Change.org: {entry.title}</h2>
+          <time class="card-meta" datetime={formatChangeorgDate(entry.date)[0]}>{formatChangeorgDate(entry.date)[1]}</time>
+          <div class="card-excerpt">{entry.signatures} <slot /></div>
+        </figcaption>
+      </figure>
+    </a>
+</article>
+
+))}

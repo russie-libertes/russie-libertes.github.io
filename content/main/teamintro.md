@@ -1,0 +1,1 @@
+Note organisation est déclarée indésirable en Russie, ce qui force certains membres de notre équipe de garder l'anonymat. Voici des membres de notre conseil d'administration qui ont choisi d'être publiques:

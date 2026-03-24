@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import EventsGooglecalendar from '../components/EventsGooglecalendar.astro' 
+
+import SiteConfig from '../../content/site.config.json';
+---
+<BaseLayout>
+    <main>
+        <section>
+            <EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} future={true} past={false} subscribe={true} embed={true} />
+        </section>
+
+        <section>
+            <h1>Archive</h1>
+            <EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} future={false} past={true} subscribe={false} embed={false} />
+        </section>
+    </main>
+</BaseLayout>

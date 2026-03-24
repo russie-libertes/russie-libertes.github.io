@@ -1,0 +1,219 @@
+{
+    "load_config_file": false,
+    "logo_url": "/russie-libertes/logo.png",
+    "backend": {
+      "name": "github",
+      "repo": "vadimkantorov/russie-libertes",
+      "branch": "master"
+    },
+    "i18n": {
+      "structure": "multiple_files",
+      "locales": ["fr", "ru"],
+      "default_locale": "fr",
+      "initial_locales": ["fr"],
+      "omit_default_locale_from_filename" : true
+    },
+    "publish_mode": "editorial_workflow",
+    "slug": {
+      "encoding": "ascii",
+      "clean_accents": true,
+      "sanitize_replacement": "-"
+    },
+    "media_folder": "content/images",
+    "public_folder": "/images",
+    "collections": [
+      {
+        "name": "main",
+        "label": "Main",
+        "editor": {"preview": false},
+        "label_singular": "Main",
+        "folder": "content/main",
+        "i18n": true,
+        "extension": "md",
+        "summary": "'{{title}}', '{{locales}}', content/main/{{filename}}.{{extension}}",
+        
+        "fields": [
+          {
+            "name": "body",
+            "widget": "markdown",
+            "label": "Body",
+            "i18n": true
+          }
+        ]
+      },
+      {
+        "name": "pages",
+        "label": "Pages",
+        "editor": {"preview": false},
+        "label_singular": "Page",
+        "folder": "content/pages",
+        "i18n": true,
+        "extension": "md",
+        "summary": "'{{title}}', '{{locales}}', 'content/pages/{{filename}}.{{extension}}'",
+        "fields": [
+          {
+            "name": "title",
+            "widget": "string",
+            "label": "Title",
+            "i18n": true
+          },
+          {
+            "name": "date",
+            "widget": "datetime",
+            "label": "Publish Date",
+            "i18n": true,
+            "time_format": false
+          },
+          {
+            "name": "coverImage",
+            "widget": "image",
+            "label": "Cover",
+            "i18n": true
+          },
+          {
+            "name": "body",
+            "widget": "markdown",
+            "label": "Body",
+            "i18n": true
+          }
+        ]
+      },
+      {
+        "name": "projects",
+        "label": "Projects",
+        "editor": {"preview": false},
+        "label_singular": "Project",
+        "folder": "content/projects",
+        "i18n": true,
+        "extension": "md",
+        "summary": "'{{title}}', 'content/projects/{{filename}}.{{extension}}'",
+        "fields": [
+          {
+            "name": "title",
+            "widget": "string",
+            "label": "Title"
+          },
+          {
+            "name": "date",
+            "widget": "datetime",
+            "label": "Publish Date"
+          },
+          {
+            "name": "coverImage",
+            "widget": "image",
+            "label": "Cover"
+          },
+          {
+            "name": "body",
+            "widget": "markdown",
+            "label": "Body"
+          }
+        ]
+      },
+      {
+        "name": "posts",
+        "label": "Posts",
+        "editor": {"preview": false},
+        "label_singular": "Post",
+        "folder": "content/posts",
+        "i18n": true,
+        "slug": "{{year}}-{{month}}-{{day}}-{{slug}}",
+        "path": "{{year}}-{{month}}-{{day}}-{{slug}}",
+        "extension": "md",
+        "summary": "'{{title}}', {{date | date('YYYY-MM-DD')}}, 'content/posts/{{filename}}.{{extension}}'",
+        
+        "sortable_fields": {
+          "fields": [
+            "date"
+          ],
+          "default": {
+            "field": "date",
+            "direction": "descending"
+          }
+        },
+        "view_groups": {
+          "groups": [
+            {
+              "label": "Year",
+              "field": "date",
+              "pattern": "\\d{4}"
+            }
+          ],
+          "default": "year"
+        },
+        "fields": [
+          {
+            "name": "title",
+            "widget": "string",
+            "label": "Title"
+          },
+          {
+            "name": "date",
+            "widget": "datetime",
+            "label": "Publish Date",
+            "time_format": false
+          },
+          {
+            "name": "coverImage",
+            "widget": "image",
+            "label": "Cover"
+          },
+          {
+            "name": "body",
+            "widget": "markdown",
+            "label": "Body"
+          }
+        ]
+      },
+
+      {
+        "name": "config",
+        "label": "Site Configuration",
+        "editor": {"preview": false},
+        "files": [
+            {
+              "name": "packagejson",
+              "label": "Package Config",
+              "file": "package.json",
+              "format": "raw",
+              "fields": [{"name": "body", "label": "package.json", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "json"}]
+            },
+            {
+              "name": "astroconfigmjs",
+              "label": "Astro Config",
+              "file": "astro.config.mjs",
+              "format": "raw",
+              "fields": [{"name": "body", "label": "astro.config.mjs", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "javascript"}]
+            },
+            {
+                "name": "siteconfigjson",
+                "label": "Site Config",
+                "file": "content/site.config.json",
+                "format": "raw",
+                "fields": [{"name": "body", "label": "content/site.config.json", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "json"}]
+            },
+            {
+                "name": "sveltiaconfigjson",
+                "label": "Sveltia Config",
+                "file": "content/sveltia.config.json",
+                "format": "raw",
+                "fields": [{"name": "body", "label": "content/sveltia.config.json", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "json"}]
+            },
+            {
+                "name": "contentconfigts",
+                "label": "Astro Content Config",
+                "file": "content.config.ts",
+                "format": "raw",
+                "fields": [{"name": "body", "label": "content.config.ts", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "typescript"}]
+            },
+            {
+              "name": "redirects",
+              "label": "Redirects",
+              "file": "content/redirects.md",
+              "format": "raw",
+              "fields": [{"name": "body", "label": "content/redirects.md", "widget": "code", "output_code_only": true, "allow_language_selection": false, "default_language": "markdown"}]
+          }
+        ]
+      }
+    ]
+  }

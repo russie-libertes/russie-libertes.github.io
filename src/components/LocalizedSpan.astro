@@ -1,0 +1,10 @@
+---
+//import { i18n } from "astro:config/client";
+//const defaultLocale = i18n?.defaultLocale || '';
+//const locales = i18n?.locales || [];
+
+const {lang} = Astro.props;
+const currentLocale = Astro.currentLocale || '';
+const do_render = currentLocale == lang;
+---
+{do_render && <span lang={lang}><slot /></span> }

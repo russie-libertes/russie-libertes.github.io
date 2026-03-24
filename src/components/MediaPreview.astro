@@ -1,0 +1,27 @@
+---
+const {media} = Astro.props
+
+const posts = media.filter(m => m.meta).map(m => ({
+  'title' :  m.meta['og:description'],
+  'url': m.meta['og:url'], 
+  'img_src': m.meta['og:image'],
+  'description': m.meta['og:title']
+}))
+
+---
+
+{posts.map(entry => (
+
+<article class="card">
+    <a href={entry.url}>
+      <figure>
+        <img src={entry.img_src} alt="" class="card-cover-image" />
+        <figcaption>
+          <h2 class="card-title">Article: {entry.title}</h2>
+          <div class="card-excerpt">{entry.description}</div>
+        </figcaption>
+      </figure>
+    </a>
+</article>
+
+))}

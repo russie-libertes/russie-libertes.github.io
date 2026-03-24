@@ -1,0 +1,119 @@
+# Sample workflow for building and deploying an Astro site to GitHub Pages
+#
+# To get started with Astro see: https://docs.astro.build/en/getting-started/
+#
+name: Deploy Astro site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["master"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      node-version:
+        description: "The node version to use"
+        required: false
+        default: "24"
+      cache:
+        description: "Enable Astro cache to speed up subsequent builds (caches optimized images and other assets)"
+        required: false
+        default: "true"
+      cache-dir:
+        description: "Path to the Astro cache directory (relative to 'path' input). Defaults to 'node_modules/.astro'"
+        required: false
+        default: "node_modules/.astro"
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true # false
+
+env:
+  BUILD_PATH: "." # default value when not using subfolders
+  # BUILD_PATH: subfolder
+
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          install-dependencies: 'true'
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          #cache: npm 
+          #cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
+      - name: Install dependencies
+        run: pip install -r requirements.txt && npm install
+        working-directory: ${{ env.BUILD_PATH }}
+
+#      - name: Restore Astro cache
+#        if: ${{ inputs.cache == 'true' }}
+#        id: astro-cache-restore
+#        uses: actions/cache/restore@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
+#        with:
+#          path: ${{ inputs.path }}/${{ inputs.cache-dir }}
+#          key: astro-cache-${{ runner.os }}-${{ github.sha }}
+#          restore-keys: |
+#            astro-cache-${{ runner.os }}-
+      
+      - name: Scrape
+        env: 
+          HELLOASSO_CLIENT_ID: ${{ secrets.HELLOASSO_CLIENT_ID }}
+          HELLOASSO_CLIENT_SECRET: ${{ secrets.HELLOASSO_CLIENT_SECRET }}
+        run: |
+          sudo apt update
+          sudo apt install upower
+          ls /var/run/dbus/
+          export DBUS_SESSION_BUS_ADDRESS=unix:path=/var/run/dbus/system_bus_socket
+          sudo xvfb-run --server-args='-screen 0, 1024x768x16' -a -e /dev/stdout npm run helloasso
+          #npm run changeorg
+          #npm run instagram
+          #npm run media
+
+      - name: Build with Astro
+        run: npm run build -- --site "${{ steps.pages.outputs.origin }}" --base "${{ steps.pages.outputs.base_path }}" # --mode staging  #--outDir ./_site
+        working-directory: ${{ env.BUILD_PATH }}
+
+#      - name: Save Astro cache
+#        if: ${{ inputs.cache == 'true' && steps.astro-cache-restore.outputs.cache-hit != 'true' }}
+#        uses: actions/cache/save@9255dc7a253b0ccc959486e2bca901246202afeb # v5.0.1
+#        with:
+#          path: ${{ inputs.path }}/${{ inputs.cache-dir }}
+#          key: ${{ steps.astro-cache-restore.outputs.cache-primary-key }}
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.BUILD_PATH }}/dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-24.04
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,20 @@
+---
+const {currency_code, amount, business, item_name} = Astro.props;
+
+---
+
+<form action="https://www.paypal.com/donate" method="get" target="_top">
+    <input type="hidden" name="no_recurring" value="0" />
+    <input type="hidden" name="item_name" value={item_name}/>
+    <input type="hidden" name="business" value={business} />
+    <input type="hidden" name="currency_code" value={currency_code} />
+    <input type="hidden" name="amount" value={amount || ''} />
+
+    <div>
+        <div style="display:flex; margin: 1em">
+                <button class="link-button" type="submit"><slot /> {amount ? `${amount} ${currency_code}` : ""}</button>
+        </div>
+        
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </div>
+</form>

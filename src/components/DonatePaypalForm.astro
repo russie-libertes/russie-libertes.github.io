@@ -1,0 +1,48 @@
+---
+// https://www.paypal.com/donate/buttons/manage/ 
+// https://github.com/rijadhodzic/PayPal-Donation-Form-for-WebSite/tree/main
+// https://developer.paypal.com/docs/archive/paypal-payments-standard/integration-guide/html-example-donate/#fixed-contribution-amount
+// https://neculaifantanaru.com/fr/comment-puis-je-creer-en-css-html-un-formulaire-de-don-en-utilisant-les-boutons-paypal.html
+// https://developer.paypal.com/docs/archive/paypal-payments-standard/integration-guide/html-example-subscribe/#basic-subscribe-button
+// https://fr.wordpress.org/plugins/recurring-donation
+// https://www.paypal.com/donate?business=contact@russie-libertes.org&no_recurring=0&item_name=Donation&amount=25&currency_code=EUR
+// https://developer.paypal.com/docs/archive/paypal-payments-standard/integration-guide/Appx-websitestandard-htmlvariables/?_ga=2.193567085.1559200539.1769179936-540359305.1769179936
+// https://django-paypal.readthedocs.io/en/stable/standard/subscriptions.html
+
+const {currency_code, amounts, default_amount, business} = Astro.props;
+let amounts_list = amounts ? (typeof(amounts) == 'string' ? amounts.replaceAll(',', ' ').split(' ').filter(x => x) : amounts) : [20, 50, 100];
+
+---
+
+<form action="https://www.paypal.com/donate" method="post" target="_top" style="border: 1px solid black">
+    <!--
+    <input type="hidden" name="hosted_button_id" value="VY6EDXTL2PCPY" />
+                                                        
+    -->
+
+    
+    <input type="hidden" name="cmd" value="_donations" />
+    <input type="hidden" name="no_recurring" value="0" />
+    <input type="hidden" name="item_name" value="Donation"/>
+    <input type="hidden" name="business" value={business} />
+    <input type="hidden" name="currency_code" value={currency_code} />
+
+    <fieldset>
+        <legend>Donation Amount</legend>
+        {amounts_list.map(amount => 
+            (
+            <label><input type="radio" name="amount" value={amount.toString()} checked={amount.toString() == default_amount.toString()} />{amount.toString()} {currency_code}</label>
+            )
+        )}
+    </fieldset>
+                        
+    <div>
+        <!--<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> -->
+        <div style="display:flex; margin: 1em">
+            <button class="link-button" type="submit"><slot name="button" /></button>
+        </div>
+        
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </div>
+    
+</form>

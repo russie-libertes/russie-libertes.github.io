@@ -1,0 +1,6 @@
+- [О нас](./ru/about)
+- [Вступить](./ru/adherer)
+- [Поддержать деньгами](./ru/action)
+- [Мероприятия](./ru/events)
+- [Espace Libertés | Reforum Space Paris](./ru/espace-libertes-reforum-space-paris)
+- [Контакты](./ru/contact)

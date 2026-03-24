@@ -1,0 +1,58 @@
+---
+// https://github.com/jonasmerlin/astro-seo/blob/main/src/SEO.astro
+// https://github.com/vadimkantorov/nanojekyll/blob/master/nanojekyll.py#L950
+const { openGraph, siteurl, baseurl, pageTitle } = Astro.props;
+
+//const { image } = openGraph.basic; 
+//const { secureUrl, type, width, height, alt } = openGraph.image;
+
+---
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    
+    <!--<noscript><meta http-equiv="refresh" content="0;url=/noscript/"></noscript>-->
+
+    <meta name="generator" content={Astro.generator} />
+    <meta name="astro-site" content={siteurl} />
+    <meta name="astro-base" content={baseurl} />
+
+    <meta property="og:title" content={openGraph.basic.title} />
+    <meta property="og:type" content={openGraph.basic.type} />
+    <meta property="og:image" content={openGraph.basic.image} />
+    <meta property="og:url" content={openGraph.basic.url} />
+
+    <!--
+    <meta property="og:image:url" content={image} />
+    {secureUrl ? <meta property="og:image:secure_url" content={secureUrl} /> : null}
+    {type ? <meta property="og:image:type" content={type} /> : null}
+    {width ? <meta property="og:image:width" content={width} /> : null}
+    {height ? <meta property="og:image:height" content={height} /> : null}
+    {alt ? <meta property="og:image:alt" content={alt} /> : null}
+    -->
+
+    <base href={baseurl != '/' ? `${siteurl}${baseurl}` : '/'} />
+
+    <link rel="icon" type="image/png" href="logo.png" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap-index.xml" />
+
+    <title>{pageTitle}</title>
+
+    <!--
+
+    <meta name="twitter:site"               content="" />
+    <meta name="twitter:card"               content="summary_large_image or summary" />
+    <meta name="description"                content="foobar..." />
+    <meta property="article:published_time" content="2024-03-11T17:54:07+00:00" />
+    <meta property="og:description"         content="foobar..." />
+    <meta property="og:site_name"           content="astro" />
+    <meta property="og:locale"              content="en_EN" />
+    <meta property="og:title"               content="Foo bar"/>
+    <meta property="og:url"                 content="file:///foobar.html" />
+    <meta property="og:image" content="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+    <meta property="og:image:height"        content="400" />
+    <meta property="og:image:width"         content="400" />
+    <meta property="og:image:alt"           content="foobar..." />
+    <meta property="og:type"                content="article" />
+    -->
+</head>

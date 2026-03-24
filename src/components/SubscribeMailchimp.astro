@@ -1,0 +1,10 @@
+---
+const {mailchimp_subscribe_form, placeholder} = Astro.props;
+---
+
+<form class="subscribe-form" action={mailchimp_subscribe_form} method="post" name="mc-embedded-subscribe-form" target="_blank">
+  <input class="subscribe-input-email" type="email" pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]+" required="" placeholder={placeholder} name="EMAIL" value="" />
+  <button class="subscribe-button-submit" type="submit" name="subscribe">
+    <slot />
+  </button>
+</form>
