@@ -80,12 +80,14 @@ jobs:
         env: 
           HELLOASSO_CLIENT_ID: ${{ secrets.HELLOASSO_CLIENT_ID }}
           HELLOASSO_CLIENT_SECRET: ${{ secrets.HELLOASSO_CLIENT_SECRET }}
+        
         run: |
           sudo apt update
           sudo apt install upower
           ls /var/run/dbus/
           export DBUS_SESSION_BUS_ADDRESS=unix:path=/var/run/dbus/system_bus_socket
-          sudo xvfb-run --server-args='-screen 0, 1024x768x16' -a -e /dev/stdout npm run helloasso
+          echo $HELLOASSO_CLIENT_ID $HELLOASSO_CLIENT_SECRET
+          #sudo xvfb-run --server-args='-screen 0, 1024x768x16' -a -e /dev/stdout npm run helloasso
           #npm run changeorg
           #npm run instagram
           #npm run media
