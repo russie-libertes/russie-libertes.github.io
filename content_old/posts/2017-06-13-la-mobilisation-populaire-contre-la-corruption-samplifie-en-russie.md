@@ -1,0 +1,18 @@
+---
+title: "La mobilisation populaire contre la corruption s’amplifie en Russie."
+date: 2017-06-13
+coverImage: "images/2017_06_photos-manif-12-juin-2017.jpeg"
+author: "ruslibinfo"
+categories:
+  - "non-classe"
+---
+
+Ce lundi 12 juin, à l’occasion de la fête nationale russe, des milliers de citoyens russes, dans plus de 200 villes à travers tout le pays, se sont mobilisés pour protester, sur fond de crise économique et sociale, contre la corruption des autorités et les mesures portant atteinte aux libertés. A Moscou, Irkoutsk, Omsk, Ekaterinbourg, Vladivostok, Samara, Saint-Pétersbourg... la contestation a été de nouveau très importante. Cependant, les autorités ont encore une fois refusé tout dialogue et les manifestations ont été brutalement dispersées. Plus de 1200 personnes ont été arrêtées.
+Voici le récit de l’intervention de la police anti-émeute contre les manifestants rassemblés aujourd’hui à Moscou (source : journal Novaya Gazeta) : « Nous étions avec mon mari à côté de la place Pouchkine. Vers 17h, un groupe d’OMON (forces anti-émeutes) en cortège s’est rué sur nous. Ils nous ont d’abord renversés par terre, je suis tombée et me suis cognée puis, j’ai reçu un coup de poing dans le visage. »
+D’autres arrestations tout aussi violentes ont eu lieu dans toute la Russie, ramenant le chiffre global des interpellations à plus de 1200 personnes uniquement à Moscou et Saint-Pétersbourg (source : Novaya Gazeta). Un grand nombre de manifestants pacifiques ont subi des violences démesurées. Plusieurs journalistes ont été arrêtés malgré leur carte de presse. Des avocats n’ont pas pu rencontrer plusieurs personnes interpellées.
+L’opposant Alexei Navalny a été arrêté dès le matin, près de son domicile, au moment où il s’apprêtait à se rendre à la manifestation. Il a été condamné à 30 jours de prison ferme. Ilya Yashin, un autre opposant, a été arrêté lors de la manifestation et risque jusqu’à 15 jours de prison.
+La contestation citoyenne en Russie s’est amplifiée depuis le 26 mars 2017, date de la première grande manifestation anti-corruption depuis 2012. De nouveau, les manifestations se sont déroulées dans plusieurs villes du pays. Ces manifestations symbolisent un « ras-le-bol » populaire dans un contexte de crise économique et sociale : après le scandale de corruption autour du patrimoine du Premier ministre Dimitri Medvedev, l’entrée en vigueur d’une loi sur la rénovation des immeubles votée le 9 juin dernier a été la goutte d’eau de trop. Celle-ci prévoit la destruction de plus de 4500 immeubles anciens à Moscou et porte atteinte, selon certains manifestants, à la propriété privée. D’autres décisions tout aussi arbitraires, prises sans concertation avec la population, amènent la société vers cet état d’indignation populaire généralisée.
+L'ONG spécialisée OVD-Info et le site d’info Meduza.io ont reconstitué une carte des manifestations et arrestations du 26 mars, que vous pouvez consulter ici :
+[https://meduza.io/feature/2017/06/07/protestnaya-karta-rossii](https://meduza.io/feature/2017/06/07/protestnaya-karta-rossii)
+Après la manifestation du 26 mars et celle du 12 juin, nous constatons encore une fois que la contestation en Russie est bien vivante mais que le pouvoir refuse tout dialogue.
+Nous apportons tout notre soutien à la société civile russe dans sa quête du respect des droits humains en Russie. Nous exigeons que les arrestations arbitraires cessent et les droits et libertés des citoyens russes soient respectés. Russie-Libertés exige la libération immédiate et inconditionnelle de tous les manifestants pacifiques et notamment des opposants Alexei Navalny et Ilya Yashin.

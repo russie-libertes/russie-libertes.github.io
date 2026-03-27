@@ -1,0 +1,39 @@
+---
+title: "Lettre de Nadejda Tolokonnikova – 11 (12 ?) octobre 2013"
+date: 2013-10-19
+author: "rus-lib"
+categories:
+  - "non-classe"
+---
+
+Portail «Lenta.ru »
+17:38, 12 octobre 2013
+
+Traduit par Tania Moguilevskaia
+
+Hier, vendredi 11 octobre, on a permis à mon avocat de me voir, pour la première fois depuis deux semaines. Jusque-là, je me trouvais entièrement coupée de toute information, d’abord dans le camp de correction n°14, puis dans l’hôpital pénitentiaire n°21. Les médecins ne m’avaient pas interdit d’avoir des contacts avec d’autres personnes, comme le prétend le FSIN (Service Fédéral d’accomplissement des peines), puisque, pendant tout ce temps, j’ai eu des contacts avec des collaborateurs de ces institutions. Grâce aux conversations que j’ai eues avec du personnel haut placé de l’administration pénitentiaire, il m’est apparu clairement que les causes de ce blocus informatif étaient de nature, non pas médicales, mais politiques.
+Je veux annoncer à tous ceux qui sont impliqués dans ce blocus informatif : si vous pensez que, privée de lien avec mes camarades, je deviendrai plus docile et renoncerai à mes opinions sur l’état des camps de Mordovie, des opinions acquises au prix des souffrances que j’ai endurées lors ma détention, vous vous trompez lourdement. Quand vous faites pression sur moi et violez mes droits, y compris mon droit légal de voir mes avocats, ma fermeté sans compromis, en ce qui concerne la situation dans les camps de Mordovie (Mordovlag), ne fait que croître.
+
+Merci à tous ceux qui ont soutenu ma protestation contre l’arbitraire régnant dans les camps de Mordovie, un arbitraire cynique qui se cache derrière des slogans sur l’efficacité économique. L’être humain ne peut pas être un moyen, il doit constituer un but. Quant à l’intimidation et l’humiliation, elles ne peuvent pas servir de méthode pour éduquer et corriger un être humain.
+
+Depuis l’époque soviétique, les camps de Mordovie ont servi aux autorités d’ultime moyen pour tenter de briser la volonté des détenus politiques qui ne s’étaient pas repentis au cours de procès non respectueux du droit. Je suis heureuse de pouvoir changer aujourd’hui, un tant soit peu, la situation dans les camps de Mordovie (Mordovlag), afin d’arracher cet instrument de torture des mains de l’Etat. En mémoire de Martchenko et de Galanskov, ces dissidents morts dans les camps soviétiques. Je suis fière d’eux.
+Je remercie mes avocats et mes amis qui, restés en liberté, continuent de diffuser des informations sur ma protestation. Je ne crois pas que qui que ce soit aurait pu avoir l’idée de reprocher, par exemple, à Larissa Bogoraz de raconter les actions de Iouli Daniel dans les camps de Mordovie (Mordovlag). C’est la manifestation d’une éthique civique et amicale de base.
+
+Je remercie les commissions de défense des droits humains, qui ont visité le camp 14 après que j’ai annoncé commencer une grève de la faim. Je suis heureuse, car même ceux qui étaient venus pour couvrir les crimes commis par le FSIN ont fait preuve d’une honnêteté qui les a empêchés de contester l’évidence : les violations grossières de la législation du travail et de la loi sur l’application des peines dans le camp 14, des violations sur lesquels il est impossible de fermer les yeux, même en le souhaitant. Certains m’ont écoutée attentivement, mais un autre (il ne s’est pas présenté, mais j’ai compris plus tard que c’était Monsieur Evguéni Myslovski, ancien juge d’instruction pour les affaires sensibles à la Procurature générale de la Fédération de la Russie) a essayé de se retirer au plus vite : il ne souhaitait pas prêter attention à mes conclusions ni à mes plaintes, se fiant davantage aux dépositions de l’administration du camp.
+Je me suis sentie offensée par les conclusions établies par certains membres du Conseil présidentiel des droits humains, qui insinuaient que ma grève de la faim avait été initiée de l’extérieur. Il faut vraiment me mépriser et ne pas me respecter, pour faire une telle déclaration ! C’est ma peine de prison, ma lutte, mes droits, ma santé et ma vie. Il y a un an et demi, pendant l’instruction, je pouvais renoncer à ma position politique, me repentir comme l’avaient fait les dissidents Iakir et Krassine en 1973, et retrouver ainsi la liberté. Mais personne ne me forcera à faire cela. J’ai choisi la voie de la cohérence et de l’honnêteté. Alors, comment peut-on imaginer aujourd’hui que je me permettrai d’agir, en fonction d’un scenario élaboré par un autre, et d’être un jouet sans volonté dans d’autres mains ?
+
+J’espère que les inspections, menées dans les camps de Mordovie par les défenseurs des droits humains, ne se limiteront pas à une courte visite du camp 14. Je sais que les droits humains sont violés aussi dans d’autres camps relevant de la même administration. J’ai vu des femmes qui sortaient du camp n°2, un camp pour femmes, dans la localité de Yavas, tout près de mon ancien camp : leurs yeux étaient pleins de fatalité et d’un effroi rentré. Alors que, dans le camp 14, l’administration préfère faire punir les gênantes par les autres détenues, ce sont les employés qui, dans le camp n°2, tabassent les détenues tentant de protester et de s’opposer aux règles, et ils les tourmentent dans les cellules d’isolement, là où n’existent que deux « arguments » : le froid et les coups.
+Je m’adresse à ceux qui souhaitent que les droits humains soient respectés en Russie. Les camps font partie de la Russie. Certains pensent même que les prisons sont le visage d’un pays. Je veux que des améliorations importantes aient lieu dans ce système des camps de Mordovie, dans lequel le destin m’a conduite. La plupart des détenues ne croient pas que quoi que ce soit puisse changer, et c’est pour cette seule raison qu’elles se taisent. Beaucoup ne croient pas aux défenseurs des droits humains, à leurs commissions, et encore moins aux inspections envoyées par la Procurature et l’UFSIN (Direction du Service Fédéral d’accomplissement des peines). Pourquoi ? Parce que une inspection arrive et repart, alors que nous, les détenues, resterons là, dans le camp. Nous avons besoin de l’aide que peuvent nous apporter des défenseurs des droits humains, prêts à s’engager dans un travail long et sérieux.
+
+Pour l’instant, seuls des détenues « kamikazes », prêtes à subir des répressions, peuvent apporter des témoignages véridiques sur la situation dans les camps. Il n’y a rien d’étonnant à ce que ces détenues soient si peu nombreuses. Je considère qu’une réelle défense des droits humains ne pourra commencer que lorsqu’une déposition honnête ne sera plus considérée comme un acte héroïque. Nous, les détenues, avons besoin d’une garantie : celle que, au lendemain du départ d’une commission, ne commencera pas la destruction morale et physique de la personne qui se sera plainte. Créer des conditions sûres est, incontestablement, le devoir de tout défenseur des droits humains, si celui-ci se respecte vraiment et respecte son travail.
+
+Un contrôle permanent et des garanties de sécurité, voilà ce qu’il faut créer en premier lieu en Mordovie. C’est seulement après avoir obtenu cela ensemble que nous pourrons lancer une investigation sur ce qui se passe réellement dans les camps. Je crois possible d’obtenir une amélioration des conditions dans lesquelles les détenues vivent et travaillent ici, en Mordovie, et partout en Russie. Et, dans ce but, je suis prête à faire tout ce qui est dans la mesure de mes forces. Mais ma conviction et mon désir ne suffisent pas.
+
+J’ai vraiment besoin de votre aide.
+
+Je vous remercie d’avance.
+
+Hôpital de camp, LPU-21
+Localité Barachévo, Mordovie
+Nadia Tolokonnikova
+11 octobre 2013

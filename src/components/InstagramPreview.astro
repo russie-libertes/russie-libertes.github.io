@@ -21,7 +21,7 @@ function formatInstagramDateTime(str_datetime_iso)
         <img src=`instagram/${entry.image_basename}` alt="" class="card-cover-image" />
         <figcaption>
           <h2><time class="card-meta" datetime={entry.date}>{formatInstagramDateTime(entry.date)}</time></h2>
-          <div class="card-excerpt">{excerpt(entry.body)}</div>
+          <blockquote class="card-excerpt">{excerpt(entry.body)}</blockquote>
         </figcaption>
     </figure>
   </a>

@@ -16,7 +16,7 @@ const { projects } = Astro.props;
         
           <figcaption>
             <h2 class="card-title">{entry.data.title}</h2>
-            <div class="card-excerpt">{excerpt(entry.data.description)}</div>
+            <blockquote class="card-excerpt">{excerpt(entry.data.description)}</blockquote>
           </figcaption>
         </figure>
       </a>

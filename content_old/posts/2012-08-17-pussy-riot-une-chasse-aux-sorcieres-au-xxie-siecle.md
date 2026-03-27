@@ -1,0 +1,37 @@
+---
+title: "Pussy Riot: une chasse aux sorcières au XXIe siècle?"
+date: 2012-08-17
+author: "rus-lib"
+categories:
+  - "infos"
+---
+
+Trubine sur
+[Youphil.com](http://www.youphil.com/fr/article/05590-pussy-riot-une-chasse-aux-sorcieres-au-xxie-siecle)
+par Maria Khachaturyan
+**Les trois jeunes femmes du groupe de punk sont devenues les symboles d'une liberté d’expression bafouée en Russie.**
+**__[Mise à jour 17 août 16h10] [Les Pussy Riot ont été condamnées à deux ans de camp pour "hooliganisme".](http://www.slate.fr/lien/60635/pussy-riot-verdict-soutien)__** Le procès des Pussy Riot, trois jeunes femmes du groupe féministe qui ont participé à la prière punk "Sainte Vierge, chasse Poutine", arrive à son terme. Nous avons pu observer en direct ce spectacle avec toutes les [dérives](http://russie-libertes.org/2012/08/07/pussy-riot-le-proces-infernal-jour-6-extrait-en-francais/) dignes des [procès](http://www.lemonde.fr/europe/article/2012/08/08/une-membre-de-pussy-riot-denonce-un-proces-de-type-stalinien_1743576_3214.html) des [dissidents dans les années 60-70](http://www.lemonde.fr/idees/article/2012/08/14/le-proces-des-pussy-riot-revele-l-arbitraire-qui-ronge-la-russie-de-poutine_1745772_3232.html) . La décision du juge est donc attendue ce vendredi 17 août.
+
+Le procureur demande trois ans de camps, les avocats des jeunes femmes insistent sur leur [non-culpabilité](http://www.lemonde.fr/europe/article/2012/07/30/les-punkettes-anti-poutine-des-pussy-riot-clament-leur-innocence-et-regrettent_1740228_3214.html) et demandent une libération immédiate.
+
+Poutine a vainement cherché une image exportable de la Russie, censée être jeune, moderne, progressiste. Et voilà: maintenant que les stars, de [Red Hot Chili Peppers](http://www.lesinrocks.com/2012/08/15/actualite/madonna-bjork-les-red-hot-dix-artistes-qui-soutiennent-les-pussy-riot-11285494/) à [Madonna,](http://www.hollywoodreporter.com/sites/default/files/2012/08/madonna-pussy-riot-p.jpg) et les politiques, du maire de [Reykjavik](http://en.rian.ru/russia/20120811/175152276.html) au [Premier ministre britannique](http://www.lemonde.fr/europe/article/2012/08/03/vladimir-poutine-demande-la-clemence-pour-les-pussy-riot_1741932_3214.html) , ont affirmé leur soutien aux chanteuses, cette image semble écornée. **Un procès qui divise les Russes** Les trois jeunes femmes suscitent l'intérêt des médias, tout comme l'a fait, à une autre époque, le prisonnier politique russe [Mikhaïl Khodorkovsky](http://www.khodorkovsky.com/) . Les deux affaires ont beaucoup en commun.
+
+Le fait de s’opposer à Poutine tout d'abord. Puis les accusations absurdes: les Pussy Riot sont accusées du "sabotage des valeurs et du fondement spirituel du pays" tandis que Khodorkovsky aurait volé tout le pétrole extrait par sa compagnie de 1998 à 2003.
+
+Il est essentiel que ces quatre détenus soient tout à fait innocentés. Cependant, il restera toujours des faits difficiles à prouver: on pense notamment à la légitimité douteuse du capital gagné pendant les années 90 pour Khodorkovskiy et les règles de "morale" transgressées par Pussy Riot.
+
+Ces faits ( [visibles en vidéo](http://www.youtube.com/watch?v=PtwxkKLTr-s) pour ces dernières) et l’iniquité des procès divisent la société russe sur ces deux affaires.
+
+Pour les uns, le droit a une priorité sur la morale et les jugements a priori, pour les autres, c’est l’inverse. Les uns demandent une procédure juste et en son absence ou dans l'impossibilité de l’établir exigent la décharge de l’accusé.
+
+Les autres encouragent la persécution judiciaire même si cela implique un vice de forme. Les uns peuvent être appelés libéraux, les autres conservateurs, les uns sont pour un droit démocratique, les autres pour un droit totalitaire ou – pourquoi pas – [médiéval](http://www.lecourrierderussie.com/2012/08/06/khodorkovski-compare-le-proces-pussy-riot-a-linquisition/) .
+
+Pour la plupart des Russes, Khodorkovsky est un oligarque qui s’enrichissait alors que le peuple souffrait de la faim (et en plus, a-t-on pu entendre, [un juif](http://fr.wikipedia.org/wiki/Antis%C3%A9mitisme_de_Joseph_Staline) ). Il présentait donc le profil idéal pour en faire l'ennemi à abattre. Pussy Riot, c’est toute une autre histoire: des femmes, des étudiantes, des jeunes mères. Pourquoi s'acharner ainsi sur elles? **La religion, nouvel opium du peuple russe** La réponse est simple: le retour massif et passionné du peuple à [la religion](http://www.youtube.com/watch?v=TcqQHhdfYVU) . On peut facilement imaginer que pour les persécuteurs, les jeunes filles ont bien commis un " [blasphème](http://www.lefigaro.fr/international/2012/07/13/01003-20120713ARTFIG00409-la-justice-russe-poursuit-les-pussy-riot-pour-blaspheme.php) " et méritent par conséquent trois ans de prison – des coups de fouets et une amende honorable seraient également bienvenus, à en croire certains.
+
+Patriarche Kirill [a bien ancré cette idée](http://www.youtube.com/watch?v=Gn2k6ooeViU) pour ceux qui encore doutaient. Le procureur ont raison: l’orthodoxie est devenue un vrai fondement spirituel du pays – et en même temps juridique.
+
+On cite à cette occasion la loi contre la ["propagande homosexuelle"](http://www.lepoint.fr/societe/premiere-condamnation-en-russie-pour-propagande-homosexuelle-04-05-2012-1458096_23.php) , la loi qui vise à restreindre [les avortements](http://larussiedaujourdhui.fr/articles/2011/09/07/lois_sur_lavortement_une_attaque_contre_les_femmes_12687.html) , un projet de loi qui [pénalise les offenses des sentiments des croyants](http://www.baltinfo.ru/2012/03/02/Gosdume-predlozhili-uzhestochit-nakazanie-za-oskorblenie-chuvstv-veruyuschikh-263199) .L'affaire de Pussy Riot, quant à elle, est une véritable chasse aux sorcières qui se cache derrière un soi-disant procès juridique.
+
+La fusion de l’Etat et de l’Eglise en Russie (un pays pourtant laïc) est un phénomène. Après 70 ans d’athéisme comme religion officielle, après la persécution sévère des prêtres qui a marqué le début de l’histoire soviétique, le [Patriarche](http://www.russie.net/afp/francais/topics/russie/120814063254.5juueng2.php) orthodoxe russe vient bénir la construction [d’une cathédrale de l’Académie de FSB](http://newtimes.ru/articles/detail/54854/) qui est cependant un héritier direct du KGB et appelle à voter pour Poutine, un ancien KGBiste. Le nouveau opium pour le peuple est un opium bien oublié.
+
+L’affaire de Pussy Riot a dévoilé ce sur quoi les jeunes femmes ont voulu attirer l’attention. Le pouvoir russe a clairement montré qu’il fait ce qu’il veut avec les gens. Aujourd’hui, nous n’avons pas beaucoup d’espoir par rapport au verdict. Mais nous avons pour autant des raisons de croire que la situation ne va pas durer. Car les Russes ont déjà connu cette pression de l’orthodoxie, soutenue par un pouvoir pris dans des dérives totalitaires : c’étaient les fameuses [Centaines Noires](http://en.wikipedia.org/wiki/Black_Hundreds) . Et juste avant la Révolution. [**Rassemblement de soutien de Pussy Riot**](http://russie-libertes.org/2012/08/14/vendredi-17-aout-2012-rassemblement-pour-la-liberation-des-membres-du-groupe-punk-feministe-russe-pussy-riot/) le vendredi 17 août 2012, place Igor Stravinsky, Paris, 12:30-14:00. __Crédit Photo:__ [__Loren Cupcake__](http://www.flickr.com/photos/julietbanana/) __/ FlickR.__

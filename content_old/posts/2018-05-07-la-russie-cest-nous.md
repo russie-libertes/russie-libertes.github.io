@@ -1,0 +1,26 @@
+---
+title: "LA RUSSIE – C’EST NOUS!"
+date: 2018-05-07
+coverImage: "images/2018_05_Novaya.jpg"
+author: "ruslibinfo"
+categories:
+  - "non-classe"
+---
+
+« Il n’est pas notre Tsar ». C’est le nom de la manifestation qui s’est déroulée le 5 mai dernier à Moscou et dans plus de 90 villes de Russie. L’action a réuni les sympathisants d’Alexei Navalny, l’un des opposants du Kremlin le plus populaire. Elle a été organisée deux jours avant l’investiture de Vladimir Poutine au poste de président de Russie. Navalny a appelé les gens à venir manifester partout dans les rues pour le « droit de chacun d’être citoyen de son pays ».
+La majorité des opposants s’est rassemblée autour du monument de Pouchkine. L’action s’est soldée une fois de plus par des arrestations :
+**[712 personnes arrêtées à Moscou et plus de 1 600 à travers le pays](https://ovdinfo.org/news/2018/05/06/spiski-zaderzhannyh-na-akciyah-nam-ne-car)**
+. Comme le 26 mars 2017 lors de la manifestation contre la corruption, les participants sont jeunes, souvent adolescents, lycéens et collégiens. Leur leader Alexei Navalny a été également arrêté et relâché le lendemain.
+Une différence notable a démarqué les événements de ce 5 mai : la jeunesse russe s’est retrouvée face à non seulement aux agents de forces de la police spéciale, mais aussi face aux activistes du NOD (mouvement nationaliste) et des Cosaques. [Agressions physiques, insultes, coups de fouet, coups de matraque](https://www.novayagazeta.ru/articles/2018/05/05/76379-bertsy-dubinki-nagayki) à l’intérieur même des fourgons de police
+: voici la réponse du régime aux opposants.
+[Le média The Bell](https://thebell.io/napavshie-na-mitinguyushhih-v-moskve-kazaki-okazalis-svyazany-s-meriej-moskvy) nous révèle
+que l’ « Armée Centrale Cosaque » a été financée par la Mairie de Moscou. Le soutien aux cosaques est ouvertement confirmé sur le [site officiel](https://www.mos.ru/news/item/37338073) de la Mairie
+. Selon les données communiquées par The Bell, en 2016-2018 « l’Armée Centrale Cosaque » a signé trois contrats du Département de la Politique Nationale et des Relations Interrégionales du Gouvernement de Moscou pour 15,9 millions de roubles. Le but de ces contrats est « de former et de consolider les connaissances et compétences nécessaires pour mener des activités visant à protéger l'ordre public et à assurer la sécurité lors des manifestations publiques et de masse dans la ville de Moscou ».
+Il y a 6 ans, le 6 mai 2012 à la place Bolotnaïa la manifestation a marqué un moment tournant dans l’histoire du régime actuel : l’Etat a dressé les forces de police et le système judiciaire contre des manifestants et opposants pacifiques. Ce 5 mai 2018, nous constatons que le régime a donné le feu vert aux militants nationalistes, Cosaques et autres partisans de mouvements ultras pour agresser ces manifestants.
+Les mêmes méthodes agressives employées contre les manifestants ont été signalées à Saint-Pétersbourg, Iakutsk et d’autres villes russes. Les côtes cassées, des brulures provoquées par taser électrique, le refus des soins médicaux aux victimes - un bilan déplorable de cette journée de mobilisation citoyenne.
+De plus, le gérant de l’association juridique de défense des droits de l'homme « Agora » Pavel Chikov a rapporté sur sa chaîne Telegram que « le service de police de Moscou avait annoncé le plan "Forteresse" - une convocation urgente du personnel pour empêcher l’accès aux installations particulièrement importantes. Ce qui implique un accès limité aux avocats ». Autrement dit, le droit à la protection juridique des personnes interpellées et détenues aux postes de police risque d’être limitée ou bafouée. Alors que l’affaire de Bolotnaïa vient d'être close après l'expiration du délai de prescription, des nouvelles affaires judiciaires s’ouvrent suite aux interpellations du 5 mai 2018. Ainsi l’habitant de Saint Petesrbourg [Mikhail Tsakounov](https://snob.ru/selected/entry/137154)
+est accusé d’agression sur l’agent de police lors de la manifestation du 5 mai. Selon Mikhail, il a été arrêté par la police dans la rue, en dehors du lieu de manifestation, tabassé dans le fourgon de police et ce n’est que lendemain qu’il a appris qu’il est accusé d’agression d’un policier. Les enquêteurs n’ont aucune pièce à conviction ni enregistrement vidéo prouvant cette agression, l’accusation se base uniquement sur le témoignage du policier. Des affaires similaires montées de toutes pièces ont servi à condamner les manifestants de Bolotnaïa pour des peines de 2 à 3 ans de prison. Nous déplorons que le système judiciaire se serve des mêmes techniques dans cette nouvelle affaire.
+Dans cette ambiance se déroulera l’investiture du président Poutine, le président qui proclame une « Russie forte, unie, ferme ».
+Nous soutenons l’aspiration du peuple russe de vivre dans un pays ouvert, sous un régime démocratique, qui respecte sa volonté.
+Nous exigeons la libération immédiate de tous les manifestants pacifiques et l’arrêt de toutes actions juridiques infondées contre de simples citoyens qui osent élever leurs voix.
+Photo: Victoria Odissonova, Novaya gazeta

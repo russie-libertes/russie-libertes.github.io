@@ -18,7 +18,7 @@ const posts = media.filter(m => m.meta).map(m => ({
         <img src={entry.img_src} alt="" class="card-cover-image" />
         <figcaption>
           <h2 class="card-title">Article: {entry.title}</h2>
-          <div class="card-excerpt">{entry.description}</div>
+          <blockquote class="card-excerpt">{entry.description}</blockquote>
         </figcaption>
       </figure>
     </a>

@@ -26,7 +26,7 @@ function formatBlogDateTime(optional_date)
         <figcaption>
           <h2 class="card-title">{entry.data.title}</h2>
           <time class="card-meta" datetime={formatBlogDateTime(entry.data.date)[0]}>{formatBlogDateTime(entry.data.date)[1]}</time>
-          <div class="card-excerpt">{excerpt(entry.body)}</div>
+          <blockquote class="card-excerpt">{excerpt(entry.body)}</blockquote>
         </figcaption>
       </figure>
     </a>

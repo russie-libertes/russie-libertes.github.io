@@ -30,7 +30,7 @@ function formatChangeorgDate(optional_date)
         <figcaption>
           <h2 class="card-title">Change.org: {entry.title}</h2>
           <time class="card-meta" datetime={formatChangeorgDate(entry.date)[0]}>{formatChangeorgDate(entry.date)[1]}</time>
-          <div class="card-excerpt">{entry.signatures} <slot /></div>
+          <blockquote class="card-excerpt">{entry.signatures} <slot /></blockquote>
         </figcaption>
       </figure>
     </a>

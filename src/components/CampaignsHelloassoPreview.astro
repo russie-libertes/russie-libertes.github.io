@@ -35,7 +35,7 @@ const {campaigns, embed} = Astro.props;
         <figcaption>
           <h2 class="card-title">{entry.title}</h2>
           <time class="card-meta" datetime={formatHelloassoDate((entry.meta || {}).createdAt)[0]}>{formatHelloassoDate((entry.meta || {}).createdAt)[1]}</time>
-          <div class="card-excerpt">{excerpt(entry.description)}</div>
+          <blockquote class="card-excerpt">{excerpt(entry.description)}</blockquote>
           <div class="card-desc">{entry.scraped_collected_eur} {entry.currency} / {entry.scraped_goal_eur} {entry.currency}</div> 
         </figcaption>
       </figure>

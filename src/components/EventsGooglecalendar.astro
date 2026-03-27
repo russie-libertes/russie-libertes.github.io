@@ -38,7 +38,9 @@ const now_without_time = withoutTime(now || new Date());
 
 const embed_url     = `https://calendar.google.com/calendar/embed?src=${googlecalendar_id}`;
 const subscribe_url = `https://calendar.google.com/calendar/r?cid=${googlecalendar_id}`;
-const ical_url      = `https://calendar.google.com/calendar/ical/${googlecalendar_id}/public/basic.ics?orderby=starttime&sortorder=descending`;
+const ical_url      = `https://calendar.google.com/calendar/ical/${googlecalendar_id}/public/basic.ics?orderby=starttime&sortorder=descending`; 
+
+// curl -L 'https://calendar.google.com/calendar/ical/c_8b8659dad12e20ac1130806694372259da336128023574166b99a96057a2c6ad@group.calendar.google.com/public/basic.ics?orderby=starttime&sortorder=descending&iCalUID=1npf1hn8t83cgismpm26ofnm5j@google.com'
 
 // &futureevents=true
 // https://www.googleapis.com/calendar/v3/calendars/${googlecalendar_id}/events
@@ -93,7 +95,7 @@ if(ics !== '')
                     <address>{evt.location}</address>
                 </a>
             </div>
-            <div class="card-excerpt">{excerpt(evt.description)}<div/>
+            <blockquote class="card-excerpt">{excerpt(evt.description)}<blockquote/>
         </article>
     ))}
 </div>
