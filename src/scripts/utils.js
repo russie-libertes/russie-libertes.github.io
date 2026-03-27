@@ -69,12 +69,10 @@ export function makeNonDefaultLocalesRoutes(slug)
 
 export function sorterByDate(a, b)
 {
-    if(!a.data.date && !b.data.date)
-        return 0;
     if(!a.data.date)
-        return -1;
-    if(!b.data.date)
         return 1;
+    if(!b.data.date)
+        return -1;
     return b.data.date.valueOf() - a.data.date.valueOf();
 }
 
