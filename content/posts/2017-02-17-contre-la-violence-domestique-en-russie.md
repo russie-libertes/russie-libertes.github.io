@@ -1,7 +1,7 @@
 ---
 title: "Contre la violence domestique en Russie"
 date: 2017-02-17
-coverImage: "images/2017_02_Screen-Shot-2017-02-17-at-00.51.57.png"
+#coverImage: "images/2017_02_Screen-Shot-2017-02-17-at-00.51.57.png"
 author: "ruslibinfo"
 categories:
   - "non-classe"

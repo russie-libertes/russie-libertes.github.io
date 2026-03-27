@@ -1,7 +1,7 @@
 ---
 title: "Libérez Golunov!"
 date: 2019-06-08
-coverImage: "images/2019_06_IMG_20190608_104218.jpg"
+#coverImage: "images/2019_06_IMG_20190608_104218.jpg"
 author: "ruslibinfo"
 categories:
   - "non-classe"
