@@ -1,9 +1,9 @@
-2012-06-05-alexandra-18-ans-encourre-de-3-a-8-ans-de-prison.md
-2012-08-10-vendredi-17-aout-a-12h30-rassemblement-en-soutien-aux-pussy-riot-a-paris.md
 2014-11-25-conference-quelle-reponse-democratique-face-a-loffensive-du-regime-de-vladimir-poutine-en-europe.md
 2014-12-03-interview-dans-lemission-c-dans-lair-sur-france-5.md
 2014-12-05-interview-sur-france-24.md
+
 2015-10-27-forum-concert-pour-votre-liberte-et-pour-la-notre-edition-2015-форум-концерт-за-вашу-и-н.md
+
 2019-06-23-les-citoyens-russes-doivent-continuer-a-beneficier-de-la-protection-de-la-cedh-mais-pas-a-nimporte-quel-prix.md
 2019-07-16-la-journaliste-natalia-estemirova-a-ete-assassinee-il-y-a-dix-an-jour-pour-jour-dans-le-caucase-russe.md
 2019-07-27-les-manifestants-participaient-ce-samedi-a-un-rassemblement-de-lopposition-devant-la-mairie-de-moscou-pour-reclamer-des-elections-libres.md
@@ -11,6 +11,7 @@
 2019-08-04-lambassade-russe-a-paris-etait-visitee-par-les-manifestants.md
 2019-10-07-le-7-octobre-2006-la-journaliste-anna-politkovskaia-etait-assassinee-dans-son-immeuble.md
 2019-10-19-repenser-le-projet-nord-stream-2.md
+
 2020-01-16-la-reforme-constitutionnelle-en-russie-risque-de-reduire-encore-les-droits-et-libertes-des-citoyens-russes.md
 2020-03-11-non-au-coup-constitutionnel-de-vladimir-poutine.md
 2020-05-23-la-naissance-dassociation-memorial-france.md
