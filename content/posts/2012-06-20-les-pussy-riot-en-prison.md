@@ -2,7 +2,7 @@
 title: "Les PUSSY RIOT toujours en prison"
 date: 2012-06-20
 author: "rus-lib"
-coverImage: "images/2012/06/photo-1-au-tribunal-en-menottes-20-06-2012.jpg"
+coverImage: "images/2012_06_photo-1-au-tribunal-en-menottes-20-06-2012.jpg"
 categories:
   - "infos"
 tags:

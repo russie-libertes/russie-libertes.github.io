@@ -17,7 +17,7 @@ En mémoire de Stanislav et Anastasia et en solidarité avec les organisations d
 - ![Anna Zaytseva](images/2014_01_anna_zaytseva-e1390207384356.jpg)
 - ![Denis_Solopov](images/2014_01_denis_solopov.jpg)
 - ![Elena Colombo](images/2014_01_elena-colombo.jpg)
-- ![Eric Aragon](images/2014/01/eric_aragon.jpg)
+- ![Eric Aragon](images/2014_01_eric_aragon.jpg)
 - ![Guillaume Lemiale](images/2014_01_guillaume_lemiale-e1390207361943.jpg)
 - ![Myakinchenko](http://russie-libertes.info/wp-content/uploads/2014/01/myakinchenko.jpg)
 - ![Nicolas Krameyer](http://russie-libertes.info/wp-content/uploads/2014/01/nicolas-krameyer-amnesty-international-france.jpg)

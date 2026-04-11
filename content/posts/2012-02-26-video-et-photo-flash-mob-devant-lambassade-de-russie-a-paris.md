@@ -2,6 +2,7 @@
 title: "Vidéo et photo : flash-mob devant l'ambassade de Russie à Paris"
 date: 2012-02-26
 author: "rus-lib"
+coverImage: "images/2012_02_photo3.jpg"
 categories:
   - "infos"
 tags:
