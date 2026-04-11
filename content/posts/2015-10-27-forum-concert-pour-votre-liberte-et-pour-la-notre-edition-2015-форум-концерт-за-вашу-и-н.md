@@ -1,6 +1,6 @@
 ---
 title: "FORUM-CONCERT « POUR VOTRE LIBERTÉ ET POUR LA NÔTRE » Édition 2015 - ФОРУМ-КОНЦЕРТ « ЗА ВАШУ И НАШУ СВОБОДУ » 2015" 
-description: "FORUM-CONCERT « POUR VOTRE LIBERTÉ ET POUR LA NÔTRE » Édition 2015 - ФОРУМ-КОНЦЕРТ « ЗА ВАШУ И НАШУ СВОБОДУ » 2015 (на русском языке ниже). Samedi 14 nove…" />
+description: "FORUM-CONCERT « POUR VOTRE LIBERTÉ ET POUR LA NÔTRE » Édition 2015 - ФОРУМ-КОНЦЕРТ « ЗА ВАШУ И НАШУ СВОБОДУ » 2015 (на русском языке ниже). Samedi 14 nove…"
 #url: "http://russie-libertes.org/2015/10/27/forum-concert2015/" 
 date: 2015-10-27
 coverImage: "images/2015_10_14nov-bannerfb-new4.png"

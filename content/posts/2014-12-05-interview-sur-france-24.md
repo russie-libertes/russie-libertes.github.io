@@ -4,12 +4,10 @@ title: "Interview sur France 24"
 description: "Interview sur France 24 : liens entre le Kremlin et les partis nationalistes en Europe. Vidéo à revoir en cliquant ici."
 date: 2014-12-05
 author: "rus-lib"
-coverImage: "http://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1024px-Logos_FRANCE24_RVB_2013.svg.png"
+coverImage: "images/2014_12_Logos_FRANCE24_RVB_2013.svg.png"
 categories:
 - "infos"
 ---
-
-![](http://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1024px-Logos_FRANCE24_RVB_2013.svg.png)
 
 Interview sur France 24 : liens entre le Kremlin et les partis nationalistes en Europe.
 
