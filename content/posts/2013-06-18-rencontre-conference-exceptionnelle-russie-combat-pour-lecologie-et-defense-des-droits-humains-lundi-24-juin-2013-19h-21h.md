@@ -2,7 +2,7 @@
 title: "Rencontre-conférence exceptionnelle « Russie : combat pour l’écologie et défense des droits humains » Lundi 24 juin 2013 – 19h – 21h"
 date: 2013-06-18
 author: "rus-lib"
-coverImage: "2013_06_russia-highway-vs-forest-912074686_v2-grid-8x2.jpg"
+coverImage: "images/2013_06_russia-highway-vs-forest-912074686_v2-grid-8x2.jpg"
 categories:
   - "nos-actions"
 tags:

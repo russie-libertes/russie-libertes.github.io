@@ -1,7 +1,7 @@
 ---
 title: "Paris aussi - pour la libération des  prisonniers du 6 mai  et d'autres prisonniers politiques en Russie"
 date: 2013-05-07
-coverImage: "2013_05_1367862872_212873_67.jpg"
+coverImage: "images/2013_05_1367862872_212873_67.jpg"
 author: "rus-lib"
 #![](http://russielibertes.files.wordpress.com/2013/05/5-mai-2-jpg.png)
 categories:

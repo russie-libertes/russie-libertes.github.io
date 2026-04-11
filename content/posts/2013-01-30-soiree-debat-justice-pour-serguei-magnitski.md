@@ -2,6 +2,7 @@
 title: "Soirée-débat « JUSTICE POUR SERGUEI MAGNITSKI »"
 date: 2013-01-30
 author: "rus-lib"
+coverImage: "images/2013_01_webpostera3.jpg"
 categories:
   - "nos-actions"
 tags:
@@ -9,7 +10,7 @@ tags:
 ---
 
 
-- ![](images2013_01_280px-Amnesty_International_2008_logo.svg.png)
+- ![](images/2013_01_280px-Amnesty_International_2008_logo.svg.png)
 - ![](images/2012_02_logo2.jpg)
 - ![](images/2013_01_46989_1580068632074_1546437857_31430083_3918126_n_m.jpg)
 
@@ -20,7 +21,6 @@ tags:
  | ---- | 
 
 
-![](images/2013_01_webpostera3.jpg)
 **Programme :**
 
 * Introduction par **Galia Ackerman** , écrivaine, historienne, journaliste et traductrice franco-russe spécialiste du monde russe et ex-soviétique.
