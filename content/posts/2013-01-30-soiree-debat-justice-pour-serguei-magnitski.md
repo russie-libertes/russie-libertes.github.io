@@ -9,9 +9,9 @@ tags:
 ---
 
 
-![](http://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Amnesty_International_2008_logo.svg/280px-Amnesty_International_2008_logo.svg.png)
- ![](images/2012_02_logo2.jpg)
- ![](http://www.lapeniche.net/actualite/public/PierreSautreuil/.46989_1580068632074_1546437857_31430083_3918126_n_m.jpg)
+- ![](images2013_01_280px-Amnesty_International_2008_logo.svg.png)
+- ![](images/2012_02_logo2.jpg)
+- ![](images/2013_01_46989_1580068632074_1546437857_31430083_3918126_n_m.jpg)
 
 
 **INVITATION EVENEMENT**
@@ -20,7 +20,7 @@ tags:
  | ---- | 
 
 
-[](http://russielibertes.files.wordpress.com/2013/01/webpostera3.jpg)
+![](images/2013_01_webpostera3.jpg)
 **Programme :**
 
 * Introduction par **Galia Ackerman** , écrivaine, historienne, journaliste et traductrice franco-russe spécialiste du monde russe et ex-soviétique.
@@ -42,11 +42,12 @@ Une traduction simultanée sera assurée.
 Inscriptions pour assister à la soirée-débat : amnesty.sciencespo@gmail.com
 
 Organisateurs :
-[https://www.facebook.com/AmnestyPersonnesEnDanger?fref=ts](https://www.facebook.com/AmnestyPersonnesEnDanger?fref=ts)
-[https://www.facebook.com/amnestyscpo](https://www.facebook.com/amnestyscpo)
-[https://www.facebook.com/RussieLibertes?ref=ts&fref=ts](https://www.facebook.com/RussieLibertes?ref=ts&fref=ts)
-[https://www.facebook.com/rhinoceros.sciencespo?ref=ts&fref=ts](https://www.facebook.com/rhinoceros.sciencespo?ref=ts&fref=ts)
-[https://www.facebook.com/samovar.sciencespo?ref=ts&fref=ts](https://www.facebook.com/samovar.sciencespo?ref=ts&fref=ts)
+- [https://www.facebook.com/AmnestyPersonnesEnDanger?fref=ts](https://www.facebook.com/AmnestyPersonnesEnDanger?fref=ts)
+- [https://www.facebook.com/amnestyscpo](https://www.facebook.com/amnestyscpo)
+- [https://www.facebook.com/RussieLibertes?ref=ts&fref=ts](https://www.facebook.com/RussieLibertes?ref=ts&fref=ts)
+- [https://www.facebook.com/rhinoceros.sciencespo?ref=ts&fref=ts](https://www.facebook.com/rhinoceros.sciencespo?ref=ts&fref=ts)
+- [https://www.facebook.com/samovar.sciencespo?ref=ts&fref=ts](https://www.facebook.com/samovar.sciencespo?ref=ts&fref=ts)
+
 Pour info :
 - Entretien de Galia Ackerman avec Bill Browder :
 [http://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis](http://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis)

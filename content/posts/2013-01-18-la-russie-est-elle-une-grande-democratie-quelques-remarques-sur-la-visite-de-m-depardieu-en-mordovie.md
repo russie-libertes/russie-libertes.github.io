@@ -2,6 +2,7 @@
 title: "La Russie est-elle une grande démocratie ? Quelques remarques sur la visite de M.Depardieu en Mordovie."
 date: 2013-01-18
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2013/01/depardieu-saransk.jpg)
 categories:
   - "infos"
 tags:
@@ -9,10 +10,6 @@ tags:
   - "mordovie"
   - "saransk"
 ---
-
-...
-[](http://russielibertes.files.wordpress.com/2013/01/depardieu-saransk.jpg)
-Source photo : Mordovmedia/AP
 
 La semaine dernière, tous les médias se sont emparés de l'affaire du passeport russe de Gérard Depardieu. J'ai aussi été sollicitée pour répondre à
 [leurs questions en direct à la télé](http://www.canalplus.fr/c-divertissement/pid3351-c-le-petit-journal.html?vid=787116)

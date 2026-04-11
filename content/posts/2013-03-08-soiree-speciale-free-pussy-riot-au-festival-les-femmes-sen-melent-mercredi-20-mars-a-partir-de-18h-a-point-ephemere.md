@@ -2,15 +2,13 @@
 title: "Soirée spéciale  FREE PUSSY RIOT  au festival Les Femmes S'en Mêlent - Mercredi 20 mars à partir de 18h à Point éphémère"
 date: 2013-03-08
 author: "rus-lib"
+coverImage: "images/2013_03_73077_393496010727416_330675509_n.jpg"
 categories:
   - "nos-actions"
 tags:
   - "free-pussy-riot-2"
   - "pussy-riot"
 ---
-
-
-[](http://russielibertes.files.wordpress.com/2013/03/73077_393496010727416_330675509_n.jpg)
 
 Mercredi 20 mars, à partir de 18h à Point Éphémère
 

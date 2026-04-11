@@ -2,13 +2,13 @@
 title: "Elus parisiens : votez pour la proposition de nomination des membres du collectif russe Pussy Riot comme « Citoyennes d’honneur » de la ville de Paris !"
 date: 2013-02-04
 author: "rus-lib"
+coverImage: "images/2012_06_photo-2-au-tribunal-en-menottes-20-06-2012.jpg"
 categories:
   - "communique-de-presse"
 tags:
   - "pussy-riot"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/06/photo-2-au-tribunal-en-menottes-20-06-2012.jpg)
 Paris, 04/02/13
 
 Communiqué de presse

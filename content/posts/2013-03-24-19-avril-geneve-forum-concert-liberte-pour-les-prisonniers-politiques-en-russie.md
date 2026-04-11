@@ -1,12 +1,11 @@
 ---
 title: "19 avril - Genève - Forum-Concert  LIBERTÉ POUR LES PRISONNIERS POLITIQUES EN RUSSIE "
 date: 2013-03-24
+coverImage: "images/2013_03_poster19avril.jpg"
 author: "rus-lib"
 categories:
   - "nos-actions"
 ---
-
-[](http://russielibertes.files.wordpress.com/2013/03/poster19avril.jpg)
 
 Événement culturel et associatif
 

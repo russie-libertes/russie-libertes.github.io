@@ -1,6 +1,7 @@
 ---
 title: "Soirée  Justice pour Sergueï Magnitski  à SciencesPo Paris"
 date: 2013-02-12
+coverImage: "images/2013_02_olga.png"
 author: "rus-lib"
 categories:
   - "infos"
@@ -26,7 +27,7 @@ Pendant 358 jours dans les prisons à Moscou, Sergueï Magnitski a écrit 450 pl
 Deux étudiants de l'association « Rhinocéros » Sciences-Po ainsi que la responsable de l’Amnesty International France, Anne Nerdrum, ont lu des extraits de la pièce qui comporte les témoignages de Sergueï et des déclarations qu’on peut imaginer si on interroge les travailleurs dans les prisons russes. Exemples : un juge ne se considère pas comme un être humain, mais comme un outil dans le système, une femme qui travaille comme médecin dans la prison et qui est sûre que les détenus sont coupables avant que le procès ait lieu !
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/02/olga.png)
+![](images/2013_02_olga.png)
 Olga Kokorina (Russie-Libertés), Charles-Henri Ménival (Rhinocéros, Sciences-Po) et Anne Nerdrum (Amnesty International France). Source photo: François Christophe et Alexander Ivanov
 
 L’affaire Magnitski met en lumière une multitude de cas similaires qui se produisent chaque année en Russie et qui montrent le niveau affolant de corruption au cœur du régime. A ce jour, aucune personne parmi celles qui ont détourné ces fonds, accusé, emprisonné puis torturé Magnitsky n’a été arrêtée. Au contraire, ils sont nombreux à avoir été promus à des postes plus importants.
@@ -34,7 +35,7 @@ L’affaire Magnitski met en lumière une multitude de cas similaires qui se pro
 Bill Browder (ex-employeur de Sergueï Magnitski) et Zoïa Svetova (journaliste de "The New Times", spécialiste dans le domaine des droits de l’homme en Russie) ont parlé de l’impossibilité de trouver la justice en Russie pour des cas comme celui de Sergueï Magnitski. Selon eux, c’est maintenant aux hommes politiques français et européens de relever la question sur la possibilité des lois comme « Magnitsky Act » signé par le président américain en décembre dernier. Bill Browder a insisté sur l'importance de faire adopter une telle loi en France où on peut supposer trouver beaucoup de fonds et d'immobilier appartenant aux fonctionnaires russes. Zoïa Svetova a souligné que des centaines, voire des milliers, de procès inéquitables comme celui de Magnitski se déroulent chaque année en Russie, comme les enquêtes lancées récemment par le parquet contre plusieurs opposants.
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/02/zoia.png)
+![](images/2013_02_zoia.png)
 Zoïa Svetova, Bill Browder et Galia Ackerman. Source photo: François Christophe
 
 * Extrait de la lecture d'une pièce documentaire écrite par Elena Gremina au Théâtre.doc, Moscou. Traduit du russe par Tania Moguilevskaia et Gilles Morel.

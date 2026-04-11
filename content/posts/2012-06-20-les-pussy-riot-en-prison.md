@@ -7,8 +7,9 @@ categories:
   - "infos"
 tags:
   - "post-format-link"
-#[](http://russielibertes.files.wordpress.com/2012/06/photo-2-au-tribunal-en-menottes-20-06-2012.jpg)
 ---
+
+![](images/2012_06_photo-2-au-tribunal-en-menottes-20-06-2012.jpg)
 
 Par
 [Gazeta.ru](http://www.gazeta.ru/social/news/2012/06/20/n_2399189.shtml)

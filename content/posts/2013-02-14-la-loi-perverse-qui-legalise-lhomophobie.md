@@ -1,6 +1,7 @@
 ---
 title: "La loi perverse qui légalise l’homophobie"
 date: 2013-02-14
+coverImage: "images/2013_02_homophobie_douma.jpg"
 author: "rus-lib"
 categories:
   - "infos"
@@ -8,7 +9,6 @@ categories:
 
 __Alors que la majorité des français fête l'adoption en première lecture de la loi ouvrant le mariage aux couples du même sexe, la Russie est en train de faire un grand pas dans la diréction opposée: adopter  une loi fédérale contre la  « propagande homosexuelle ».__
 ...
-[](http://russielibertes.files.wordpress.com/2013/02/homophobie_douma.jpg)
 Des activistes de l'extrême-droite attaquent des manifestants contre la loi homophobe
 [Le projet de loi contre la propagande homosexuelle](http://tempsreel.nouvelobs.com/monde/20130125.OBS6702/une-loi-contre-la-propagande-homosexuelle-adoptee-en-russie.html)
 a été adopté en première lecture le 25 janvier dernier. Le vote définitif aura lieu à la fin du printemps. Depuis 2011, des lois semblables ont déjà été adoptées dans plusieurs villes russes, notamment à
