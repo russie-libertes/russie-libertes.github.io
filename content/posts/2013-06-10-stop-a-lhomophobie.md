@@ -1,12 +1,12 @@
 ---
 title: "L'action devant l'Ambassade russe: stop à la loi homophobe !"
 date: 2013-06-10
+coverImage: "images/2013_06_homophobie_paris.jpg"
 author: "rus-lib"
 categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/06/homophobie_paris.jpg)
 Aujourd’hui le 11 juin, la Douma russe, la Chambre basse du parlement, vote
 [la loi contre la propagande homosexuelle](http://asozd2.duma.gov.ru/main.nsf/%28SpravkaNew%29?OpenAgent&RN=44554-6&02)
 . En réponse aux critiques, les termes de « propagande » « et d’homosexualité » ont été explicités. Le terme d « l’homosexualité » a été remplacé par celui de « relations sexuelles non-traditionnelles ».

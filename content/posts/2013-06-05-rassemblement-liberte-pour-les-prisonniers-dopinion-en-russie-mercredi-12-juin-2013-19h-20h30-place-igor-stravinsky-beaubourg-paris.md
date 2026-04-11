@@ -1,14 +1,14 @@
 ---
 title: "Rassemblement  Liberté pour les prisonniers d'opinion en Russie !  Mercredi 12 juin 2013, 19h – 20h30 Place Igor Stravinsky – Beaubourg - Paris"
 date: 2013-06-05
+coverImage: "images/2013_06_logos.jpg"
 author: "rus-lib"
 categories:
   - "communique-de-presse"
   - "nos-actions"
 ---
 
-
-[](http://russielibertes.files.wordpress.com/2013/06/logos.jpg) **Rassemblement**
+**Rassemblement**
 
 **"Liberté pour les prisonniers d'opinion en Russie !"** **Mercredi 12 juin 2013, 19h – 20h30** **Place Igor Stravinsky – Beaubourg - Paris**
 
@@ -26,5 +26,7 @@ La loi demandant aux ONG russes recevant des fonds étrangers de s’enregistrer
 Plusieurs ont déjà été condamnées. Désormais, les défenseurs des droits humains sont passibles de poursuites pénales et risquent à leur tour de grossir les rangs des prisonniers d’opinion en Russie.
 
 Toutes les informations sur le rassemblement :
+
 https://www.facebook.com/events/52668793403334z1/
+
 http://www.amnesty.fr/Mobilisez-vous/Bougez/Rassemblement-pour-la-liberation-de-tous-les-prisonniers-d-opinion-en-Russie-8719

@@ -2,6 +2,7 @@
 title: "Mort du journaliste russe M. Beketov : trouver les responsables, continuer le combat !"
 date: 2013-04-09
 author: "rus-lib"
+coverImage: "images/2013_04_beketov.jpg"
 categories:
   - "communique-de-presse"
 tags:
@@ -9,7 +10,6 @@ tags:
   - "khimki"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/04/beketov.jpg)
 
 Communiqué de presse
 

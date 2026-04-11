@@ -2,13 +2,13 @@
 title: "Forum-Concert  Liberté pour les prisonniers politiques en Russie  à Genève"
 date: 2013-04-21
 author: "rus-lib"
+coverImage: "images/2013_04_img_7086.jpg"
 categories:
   - "infos"
   - "nos-actions"
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/04/img_7086.jpg)
 Vidéo-conférence avec Yekaterina Samutsevich
 
 Ce vendredi 19 avril la ville de Genève (Suisse) a accueilli un
@@ -19,7 +19,7 @@ Ce vendredi 19 avril la ville de Genève (Suisse) a accueilli un
 de Amnesty International (Section suisse) a rappelé l'importance du travail réalisé par les ONG en Russie et les difficultés, voire les menaces, qu'elles subissent. Il a également souligné l'importance du soutien apporté par Amnesty International au niveau mondial aux "prisonniers de conscience" en Russie.
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/04/img_7091.jpg)
+![](images/2013_04_img_7091.jpg)
 Table-ronde
 
 Après la projection du
@@ -39,13 +39,13 @@ La table-ronde s'est conclue par une vidéo-conférence avec
 , membre des Pussy Riot, actuellement en liberté très surveillé à Moscou. Elle a pu donner au public des nouvelles de ses amies Nadia et Maria actuellement enfermée dans deux camps en Mordovie et dans la région de Perm. Lors des questions-réponses avec la salle elle a également fait part de son désir de continuer le combat artistique et militant pour les libertés en Russie.
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/04/img_7182.jpg)
+![](images/2013_04_img_7182.jpg)
 Barto
 
 La soirée s'est poursuivie à la Gravière avec un double concert du groupe français Orties et du groupe russe Barto qui était pour la première fois en Suisse. Les artistes ont enflammé la salle avec des vibrations positives portant l'espoir et la demande de libérer les prisonniers politiques en Russie.
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/04/img_7178.jpg)
+![](images/2013_04_img_7178.jpg)
 Orties
 
 Photos : Nina Berezner

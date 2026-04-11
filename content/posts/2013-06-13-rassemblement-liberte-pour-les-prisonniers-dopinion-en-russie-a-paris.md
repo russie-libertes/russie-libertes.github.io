@@ -2,12 +2,12 @@
 title: "Rassemblement  Liberté pour les prisonniers d’opinion en Russie !  à Paris"
 date: 2013-06-13
 author: "rus-lib"
+coverImage: "images/2013_06_1003886_10152903602435302_922146322_n.jpg"
 categories:
   - "nos-actions"
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/06/1003886_10152903602435302_922146322_n.jpg)
 "Liberté pour les prisonniers d’opinion en Russie !"
 
 Hier, le 12 juin 2013, jour de fête nationale en Russie, plusieurs dizaines de personnes se sont rassemblées place Igor Stravinsky à Paris pour exiger la libération des prisonniers d'opinion en Russie.

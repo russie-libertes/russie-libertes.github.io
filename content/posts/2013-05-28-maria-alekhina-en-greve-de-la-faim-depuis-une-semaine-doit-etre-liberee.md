@@ -2,6 +2,7 @@
 title: "Maria Alekhina, en grève de la faim depuis une semaine, doit être libérée !"
 date: 2013-05-28
 author: "rus-lib"
+coverImage: "images/2012_06_photo-1-au-tribunal-en-menottes-20-06-2012.jpg"
 categories:
   - "communique-de-presse"
 tags:
@@ -9,7 +10,6 @@ tags:
   - "pussy-riot"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/06/photo-1-au-tribunal-en-menottes-20-06-2012.jpg)
 Paris, 28/05/2013
 
 Communiqué de presse
@@ -24,6 +24,8 @@ Russie-Libertés exige la libération immédiate de Maria Alekhina et de tous le
 Facebook du rassemblement :
 [https://www.facebook.com/events/526687934033341/](https://www.facebook.com/events/526687934033341/)
 Russie-Libertés
-[](http://russielibertes.files.wordpress.com/2013/05/photo-2.jpg)
-[](http://russielibertes.files.wordpress.com/2013/05/27may_msh_zayava.jpg)
+
+- ![](images/2013_05_photo-2.jpg)
+- ![](images/2013_05_27may_msh_zayava.jpg)
+
 La situation dans la colonie est très difficile. Toutes les condamnées qui habitent ou travaillent à côté de moi sont isolées, ce qui les prive de la possibilité de recevoir l’aide médicale et aggrave la situation. Ça fait 6 jours déjà que je suis en grève de la faim demandant de cesser la pression sous laquelle me met la situation avec d’autres prisonnières. L’administration ne fait aucune attention à la grève. Le parquet et les défenseurs des droits de l’homme dans la région ne font aucun signe de vie. Je veux continuer la grève parce que je ne vois pas d’autre moyen pour pousser l’administration aux négociations. Je suis privée du droit des appels téléphoniques sans motivation, mais je ferai tout possible pour faire connaître ma situation et celle la colonie 28 chère à mon coeur.

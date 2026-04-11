@@ -2,6 +2,7 @@
 title: "Visitez l'exposition militante « L'AMOUR DANS TOUS SES ÉTATS » jusqu'au 14 mai 2013"
 date: 2013-04-15
 author: "rus-lib"
+coverImage: "images/2013_04_poster_final.jpg"
 categories:
   - "nos-actions"
 tags:
@@ -10,52 +11,37 @@ tags:
   - "homophobie"
 ---
 
-
-[](http://russielibertes.files.wordpress.com/2013/04/poster_final.jpg)
-
-------
-
 **Vernissage de l'exposition militante** **« L'AMOUR DANS TOUS SES ÉTATS »** **Vendredi 26/04/2013 19h–22h**
 
 **Librairie-galerie Les Mots à la Bouche** **6, rue Sainte Croix de la Bretonnerie - 75004 Paris** **------**
 
 L’association ARTKARA réunissant des artistes russes à Paris, la Fédération internationale des ligues des droits de l'homme (FIDH), Inter-LGBT, la librairie-galerie « Les Mots à la Bouche » et l’association « Russie-Libertés » vous invitent à l’inauguration de l’exposition militante « L'AMOUR DANS TOUS SES ÉTATS».
+
 **---- Programme ----**
+
 19h : Ouverture de l'exposition
 
 19h15 : Conférence de presse - Inauguration avec
 
 * Vladimir Kara, artiste, association ArtKara ;
-
 * Dorothée Delaunay, Amnesty International France, section LGBT ;
-
 * Nicolas Gougain, Porte-parole de Inter-LGBT ;
-
 * Sacha Koulaeva, Responsable du Bureau Europe de l'est et Asie centrale, FIDH ;
-
 * Patrick Bloche, député PS, Président de la commission des affaires culturelles et de l'éducation de l'Assemblée nationale ;
-
 * Pierre Serne, Délégué national EELV "Genre, orientation sexuelle, société", Vice-Président de la région IDF ;
-
 * Grégory Bernard, responsable de la section Parti Socialiste du 4ème arrondissement ;
-
 * Ian Brossat, Président du groupe PCF/PG au Conseil de Paris ;
-
 * Pacôme Rupin, Président de l'association Divercity de diplômés LGBT de grandes écoles, militant Parti Socialiste ;
-
 * Alexis Prokopiev, Président de « Russie-Libertés ».
 
 **Artistes participants :**
-PIERRE Pentchev -
-[www.pierrepentchev.com](http://www.pierrepentchev.com/)
-MASHA S. (SCHMIDT) -
-[www.mashaschmidt.com](http://www.mashaschmidt.com/)
-VLADIMIR KARA -
-[www.artkara.com](http://www.artkara.com/)
-YANA BYSTROVA -
-[www.yanamorphoze.com](http://www.yanamorphoze.com/)
-VLADIMIR SICHOV -
-[www.vladimirsichov.me](http://www.vladimirsichov.me/)
+
+* PIERRE Pentchev - [www.pierrepentchev.com](http://www.pierrepentchev.com/)
+* MASHA S. (SCHMIDT) - [www.mashaschmidt.com](http://www.mashaschmidt.com/)
+* VLADIMIR KARA - [www.artkara.com](http://www.artkara.com/)
+* YANA BYSTROVA - [www.yanamorphoze.com](http://www.yanamorphoze.com/)
+* VLADIMIR SICHOV - [www.vladimirsichov.me](http://www.vladimirsichov.me/)
+
 **Présentation de l'exposition :**
 L’association ARTKARA des artistes russes à Paris réunit des artistes qui ont choisi cette ville pour des raisons diverses, mais qui cherchent tous à perpétuer la tradition des liens franco-russes. Paris a longtemps été une terre d’asile et de création pour des artistes venus du monde entier à la recherche de la possibilité de s’exprimer librement. Ce fut le cas de nombreux Russes de l’Ecole de Paris, puis de ceux fuyant l’oppression bréjniévienne dans les années 1970–80.
 

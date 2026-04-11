@@ -2,6 +2,7 @@
 title: "Gérard Depardieu a-t-il rejoint l'opposition russe ?"
 date: 2013-04-01
 author: "rus-lib"
+coverImage: "images/2013_04_Gerard-Depardieu-reu.jpg"
 categories:
   - "communique-de-presse"
 tags:
@@ -9,9 +10,8 @@ tags:
 ---
 
 ...
-![](http://www.independent.co.uk/incoming/article8510584.ece/ALTERNATES/w460/Gerard-Depardieu-reu.jpg)
-
 Source de l'image : www.independent.co.uk
+
 __Gérard Depardieu aurait-il tourné le dos à Poutine et Kadyrov pour rejoindre l'opposition russe ?__
 __En tout cas l'acteur, qui n'en est pas à son premier revirement, aurait subit dans la nuit de dimanche à lundi des perquisitions et un contrôle du fisc russe à son domicile en Mordovie. Les policiers l'auraient déclaré "agent de l'étranger" selon la nouvelle loi russe, une enquête aurait également été ouverte.__
 Les proches de l'acteur auraient déclaré ce matin leur stupéfaction : "La police russe a défoncé la porte de sa maison en pleine nuit, il était nu, menotté, il ne comprenait pas ce qui lui arrivait."
@@ -24,4 +24,4 @@ Russie-Libertés
 
 (cette information est bien évidemment une fiction pour le 1er avril !)
 
-[](http://russielibertes.files.wordpress.com/2013/04/dep.jpg)
+![](images/2013_04_dep.jpg)
