@@ -6,6 +6,8 @@ categories:
   - "infos"
 tags:
   - "post-format-link"
+
+#[](http://russielibertes.files.wordpress.com/2012/03/5-d0bcd0b0d180d182d0b0.jpg)
 ---
 
 [http://leplus.nouvelobs.com/contribution/364197-poutine-president-nous-avons-assiste-a-un-coup-d-etat-electoral.html](http://leplus.nouvelobs.com/contribution/364197-poutine-president-nous-avons-assiste-a-un-coup-d-etat-electoral.html)
@@ -16,7 +18,6 @@ Comme en témoignent les très nombreux observateurs indépendants du scrutin pr
 à tous les niveaux et dans toutes les régions, sans la moindre tentative de dissimulation des fraudes ou de justifications juridiques.
 
 Pour être précis, prenons l'exemple de Saint-Pétersbourg, deuxième ville du pays avec presque 5 millions d'habitants et un nombre conséquent d'observateurs qualifiés.
-[](http://russielibertes.files.wordpress.com/2012/03/5-d0bcd0b0d180d182d0b0.jpg)
 (c) Serguei Evseev
 [](http://axelus.livejournal.com/profile)
 [**axelus**](http://axelus.livejournal.com/)

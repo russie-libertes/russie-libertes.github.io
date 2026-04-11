@@ -4,12 +4,13 @@ date: 2012-06-05
 author: "rus-lib"
 categories:
   - "infos"
+#[](http://russielibertes.files.wordpress.com/2012/06/d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-2012-2.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/06/d0b7d0b0d0b4d0b5d180d0b6d0b0d0bdd0b8d0b5-d0b4d183d185d0b0d0bdd0b8d0bdd0bed0b9-6-d0bcd0b0d18f-2012.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/06/d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-20121.jpg)
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/06/d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-2012-2.jpg)
 Alexandra Doukhanina, jeune femme de 18 ans, encourt une peine de prison pouvant aller jusqu'à 8 ans pour «participation aux désordres de masse» (art. 212-2 du Code pénal) et «violence contre un représentant de l’autorité publique» (art.318.1). Alexandra a été arrêtée par la police le dimanche 27 mai.
-[](http://russielibertes.files.wordpress.com/2012/06/d0b7d0b0d0b4d0b5d180d0b6d0b0d0bdd0b8d0b5-d0b4d183d185d0b0d0bdd0b8d0bdd0bed0b9-6-d0bcd0b0d18f-2012.jpg)
-[](http://russielibertes.files.wordpress.com/2012/06/d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-20121.jpg)
+
 L'argument de la police est qu'Alexandra aurait jeté des morceaux de bitume sur la police et blessé des policiers lors de la manifestation du 6 mai à Moscou. Des "preuves" ont été vite réunies et les "victimes" protégées de casques et gilets par-balles ont immédiatement reconnu en Alexandra leur agresseur. Quant à Alexandra, elle déclare ne pas avoir participé à de quelconques actions illicites lors de cette manifestation. Elle insiste sur sa participante pacifique à une manifestation organisée en toute légalité.
 
 Le cas d’Alexandra est le premier cas de poursuites judiciaires suite à la manifestation du 6 mai. Mais deux autres personnes ont également été arrêtées le 30 mai, il s’agit de Maxime Lousianine et Andreï Barabanov. Ce dernier a commencé une grève de faim.

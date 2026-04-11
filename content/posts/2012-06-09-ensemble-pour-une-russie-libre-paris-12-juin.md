@@ -2,6 +2,7 @@
 title: "Manifestation à Paris le 12 juin - Ensemble pour une Russie libre"
 date: 2012-06-09
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2012/06/12-juin-poster-glogowski.jpg)
 categories:
   - "communique-de-presse"
   - "infos"
@@ -14,7 +15,6 @@ tags:
 ---
 
 
-[](http://russielibertes.files.wordpress.com/2012/06/12-juin-poster-glogowski.jpg)
 
 [Ensemble pour une Russie libre - PARIS 12 juin](http://www.facebook.com/events/375478775845796/)
 Face à

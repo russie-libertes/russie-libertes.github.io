@@ -7,5 +7,4 @@ categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/02/juliki_vory.gif)
 Nous sommes pour des élections justes et la démocratie en Russie !

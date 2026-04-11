@@ -2,11 +2,11 @@
 title: "Russie-libertes.org becomes a mirror for freepussyriot.org"
 date: 2012-07-02
 author: "rus-lib"
+coverImage: "images/2012_07_pussyriot_500.jpg"
 categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/07/pussyriot_500.jpg)
 UPDATE - 17 JULY
 **As of today [freepussyriot.org](http://freepussyriot.org/) IS accessible**
 -------------------

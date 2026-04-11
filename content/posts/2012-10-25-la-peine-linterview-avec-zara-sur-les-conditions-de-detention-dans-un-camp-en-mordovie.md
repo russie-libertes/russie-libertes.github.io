@@ -2,14 +2,13 @@
 title: "Le châtiment: entretien avec Zara Mourtazaliéva sur la vie dans le camp de Mordovie où l'une des Pussy Riot va purger sa peine. Partie 1."
 date: 2012-10-25
 author: "rus-lib"
+coverImage: "images/2012_10_zara-louvre.jpg" 
 categories:
   - "infos"
 ---
 
 
 Cette semaine, les deux membres du groupe punk Pussy Riot sont envoyées en camp de détention. Maria Alekhina purgera sa peine dans un camp dans la ville de Perm et Nadia Tolokonnikova en Mordovie, dans une région connue sous le nom de "MordovLAG". C'est de ce camp en Mordovie, que Zara Mourtazaliéva, une autre prisonnière d'une affaire fabriquée, vient de sortir après plus de 8 ans d'internement. 
-
- [](http://russielibertes.files.wordpress.com/2012/10/zara-louvre.jpg) 
 
  L’association Russie-Libertés a interviewé Zara Mourtazaliéva, l’héroïne du [livre docu-fiction de Zoïa Svétova « Les Innocents seront coupables : comment la justice est manipulée en Russie »](http://www.youtube.com/watch?v=vk1b8PVYFbk&feature=plcp) , sur les conditions de détention dans la colonie pénitentiaire. Nous allons publier ce grand interview en 3 parties. Voici la première :
 

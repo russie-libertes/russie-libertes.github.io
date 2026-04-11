@@ -2,6 +2,7 @@
 title: "NOUS SOMMES TOUTES et TOUS DES PUSSY RIOT !!!"
 date: 2012-04-18
 author: "rus-lib"
+coverImage: "images/2012_04_s640x480.png"
 categories:
   - "communique-de-presse"
 tags:
@@ -9,7 +10,6 @@ tags:
   - "russie"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/04/s640x480.png)
 Le 19 avril 2012 à Moscou le tribunal du district de Taganka se prononcera sur la mesure de détention précédant le procès de Nadézhda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch - trois membres présumées du groupe punk-féministe Pussy Riot.
 
 Les trois jeunes femmes ont été jetées en prison pour avoir soi-disant participé à la prière punk « Sainte Vierge délivre nous de Poutine » dans la Cathédrale du Christ Saint-Sauveur à Moscou le 21 février dernier.

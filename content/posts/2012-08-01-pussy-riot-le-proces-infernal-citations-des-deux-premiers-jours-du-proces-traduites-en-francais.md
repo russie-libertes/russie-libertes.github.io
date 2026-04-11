@@ -2,6 +2,7 @@
 title: "Pussy Riot :  le procès infernal . Citations en français des deux premiers jours."
 date: 2012-08-01
 author: "rus-lib"
+coverImage: "images/2012_06_pussy-riot-500x282.jpg"
 categories:
   - "non-classe"
 tags:
@@ -9,7 +10,6 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2012/06/pussy-riot-500x282.jpg)
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch en détention provisoire depuis presque 6 mois.
 __Rappel, article 14 de la Constitution russe :__
 __1. La Fédération de Russie est un Etat laïc. Aucune religion ne peut s'instaurer en qualité de religion d'Etat ou obligatoire.__

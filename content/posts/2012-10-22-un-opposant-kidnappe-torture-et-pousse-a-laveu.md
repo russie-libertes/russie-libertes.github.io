@@ -2,6 +2,7 @@
 title: "Un opposant kidnappé, torturé et poussé à l'aveu"
 date: 2012-10-22
 author: "rus-lib"
+coverImage: "images/2012_10_anatomy1.jpg"
 categories:
   - "infos"
 tags:
@@ -36,6 +37,6 @@ alors que l’expertise commanditée par le Comité d’Investigation aurait pro
 [grotesque](http://www.youtube.com/watch?v=_7sEUCRX0QU)
 [montage](http://www.youtube.com/watch?v=_7sEUCRX0QU)
 .
-[](http://russielibertes.files.wordpress.com/2012/10/anatomy1.jpg)
+
 Le 17 octobre M. Razvozjaev est parti à Kiev pour demander l'asile politique hors de Russie. Le 19 octobre Il s’est adressé [à l'ONG](http://www.hias.org/) HIAS (Hebrew Immigrant Aid Society), partenaire du [Haut Commissariat des Nations Unies pour les réfugiés en Ukraine](http://www.unhcr.org.ua/en/2011-08-26-06-58-56/news-archive/827-press-release-the-un-refugee-agency-is-deeply-concerned-about-the-disappearance-of-asylum-seeker-from-russian-federation) . Il est sorti de l’immeuble pour une pause, laissant ses affaires, et n’est pas revenu. D’après de nombreuses sources, dont l’avocate de M. Razvozjaev Violetta Volkova et Ilya Ponomarev, [il aurait été kidnappé](http://top.rbc.ru/politics/21/10/2012/675388.shtml) par les services secrets russes et emmené à Moscou.Le 21 octobre le tribunal à huis clos, auquel même l’avocate du prévenu n’a pu assister, l'a placé en détention provisoire pour deux mois. [La vidéo](http://www.youtube.com/watch?v=3xkLMzS-mSg) publiée par un journaliste montre Razvozjaev  à la sortie du tribunal criant: «Pendant deux jours ils m'ont torturé, ils m’ont kidnappé en Ukraine». Le même jour le Comité d’Investigation a annoncé que Razvozjaev aurait déposé une autodénonciation et reconnu tous les faits. On comprend vite dans quelles conditions il aurait écrit ce document.
 Le bilan des répressions s'alourdit tous les jours en Russie. Il ne s’agit plus seulement d’un assujettissement des médias et de la justice par le pouvoir. La propagande officielle cesse d’être le porte-voix d'autorités illégitimes et commence à créer son propre ordre de jour. Des autodénonciations précédées par la torture sont utilisées pour alimenter cet ordre du jour. Un article dans la «Pravda» suivi d'arrestations sommaires, de tortures et d'autodénonciations: ce cycle est malheureusement bien connu et  a déjà prouvé son efficacité au siècle dernier. Garder le silence s’apparente à de la complicité avec les crimes très sérieux du régime actuel en Russie. **L'association Russie-Libertés dénonce cette nouvelle vague de répressions en Russie et demande une véritable mobilisation, y compris internationale, pour que cesse ce glissement rapide vers un passé totalitaire, sanglant et peu glorieux.**

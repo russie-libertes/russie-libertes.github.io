@@ -2,12 +2,11 @@
 title: "Rassemblement pour des élections justes en Russie"
 date: 2012-03-09
 author: "rus-lib"
+coverImage: "images/2012_03_84082167_4000491_bolotnaya_obshaya.jpg"
 categories:
   - "infos"
 ---
 
-
-[](http://russielibertes.files.wordpress.com/2012/03/84082167_4000491_bolotnaya_obshaya.jpg)
 
 Samedi 10 mars, nous témoignerons à Paris notre soutien aux mouvements de contestation, pour un autre avenir de notre pays, pour une Russie libre!
 

@@ -2,6 +2,7 @@
 title: "Pussy Riot : “le procès infernal” JOUR 4 . (Citations en français)"
 date: 2012-08-03
 author: "rus-lib"
+coverImage: "images/2012_06_pussy-riot-500x282.jpg"
 categories:
   - "non-classe"
 tags:
@@ -10,7 +11,6 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2012/06/pussy-riot-500x282.jpg)
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch en détention provisoire depuis presque 3 mois.
 
 Vous pouvez retrouver

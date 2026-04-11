@@ -2,11 +2,11 @@
 title: "Flash-mob  NON à la censure ! OUI à la démocratie en Russie ! "
 date: 2012-02-21
 author: "rus-lib"
+coverImage: "images/2012_02_dyn010_original_512_384_pjpeg_32031_57ef01cf12090e49da61587be3a16ce6.jpg"
 categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/02/dyn010_original_512_384_pjpeg_32031_57ef01cf12090e49da61587be3a16ce6.jpg)
 Association "Russie-Libertés"
 
 Invitation médias :

@@ -2,6 +2,7 @@
 title: "Vendredi 17 août 2012 - Rassemblement pour la libération des membres du groupe punk féministe russe Pussy Riot"
 date: 2012-08-14
 author: "rus-lib"
+coverImage: "images/2012_07_pussyriot_500.jpg"
 categories:
   - "communique-de-presse"
 tags:
@@ -10,7 +11,6 @@ tags:
 ---
 
 
-[](http://russielibertes.files.wordpress.com/2012/07/pussyriot_500.jpg)
 
 **FREE PUSSY RIOT !**
 

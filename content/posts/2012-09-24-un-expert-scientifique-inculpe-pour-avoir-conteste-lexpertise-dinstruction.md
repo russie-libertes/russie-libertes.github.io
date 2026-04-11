@@ -2,6 +2,7 @@
 title: "Une scientifique poursuivie pour avoir contesté une expertise d’instruction"
 date: 2012-09-24
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2012/09/zelenina.jpg)
 categories:
   - "communique-de-presse"
   - "infos"
@@ -12,7 +13,6 @@ tags:
   - "repressions-2"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/09/zelenina.jpg)
 Olga Zélénina, chercheuse au Laboratoire agronomique de Penza, à 600 km au sud-est de Moscou,
 [est accusée](http://www.nature.com/news/outcry-over-jailed-russian-chemist-1.11462)
 de complicité dans une affaire de trafic de drogue. Ses conclusions, dans le cadre d'une expertise scientifique d'un lot de pavot pâtissier contenant soi-disant de la drogue, contredisent en effet les conclusions de l’instruction.

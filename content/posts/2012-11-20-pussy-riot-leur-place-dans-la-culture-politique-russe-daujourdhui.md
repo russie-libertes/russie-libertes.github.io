@@ -2,16 +2,29 @@
 title: "Pussy Riot : leur place dans la culture politique russe d'aujourd'hui"
 date: 2012-11-20
 author: "rus-lib"
+coverImage: "images/2012_11_picture13.jpg"
+#[](http://russielibertes.files.wordpress.com/2012/11/picture12.jpg)
+#[](images/2012_11_picture32.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture23.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/calendar.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture111.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/contest.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture121.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/harms.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture101.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture10.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture61.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture71.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture81.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture41.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture51.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/11/picture91.jpg)
 categories:
   - "infos"
 ---
 
 Présentation d’Olga Nikolaeva, Association Russie-Libertés, à la conférence de Samovar Sciences-Po, Paris, 8 novembre 2012.
-[](http://russielibertes.files.wordpress.com/2012/11/picture13.jpg)
 Avertissement : la présentation contient les images interdites au moins de 18 ans !
-[](http://russielibertes.files.wordpress.com/2012/11/picture12.jpg)
-[](http://russielibertes.files.wordpress.com/2012/11/picture32.jpg)
-[](http://russielibertes.files.wordpress.com/2012/11/picture23.jpg)
 ![Picture3](images/2012_11_picture32.jpg)
 
 **Notes :**
@@ -25,11 +38,11 @@ Les Pussy Riot se définissent elles-mêmes comme “un groupe punk (
 Les Pussy Riot parlent un langage qui tient à la fois du discours politique (chansons « Poutine a eu la frousse » / Путин зассал, « A bas la prison, libérez la contestation!»/ Смерть тюрьме, свободу протесту!) et du discours féministe (« Tuez le sexiste » / Убей сексиста). Mais elles s’adressent à tous les citoyen(ne)s actifs(-ves)  , notamment à travers leur dernière chanson intitulée « Le pays en marche ! » / Страна идет!).
 **Féministes aux visages cagoulés contre sexistes-poutinistes**
 Les Pussy Riot dévoilent le caractère sexiste du pouvoir russe d’aujourd’hui, en phase avec l’image machiste de M. Poutine, qui se présente par exemple dans les médias torse nu et seul (bien qu’étant un homme marié). Pour faire la genèse de cette imagerie macho, on se souvient du cadeau offert par de jeunes étudiantes de la  faculté de journalisme de Moscou, qui ont publié un calendrier érotique le jour de l’anniversaire de Poutine (source : http://krispotupchik.livejournal.com/92592.html).
-[](http://russielibertes.files.wordpress.com/2012/11/calendar.jpg)
+
 La couverture du calendrier, et l’illustration du mois de février, intitulée « Et si l’on faisait ça une troisième fois », une allusion à la possibilité pour Poutine de se présenter à la présidentielle pour la troisième fois.
 
 On peut aussi citer l’exemple du concours « Déchire pour Poutine » visant à sélectionner la meilleure vidéo d’une jeune fille déchirant ses vêtements pour « son président » (source : http://www.youtube.com/watch?v=1Easr8WTwxs).
-[](http://russielibertes.files.wordpress.com/2012/11/contest.jpg)
+
 **L’hypocrisie de bureaucrates n’a pas de foi**
 L’Eglise orthodoxe comme cible ?
 L’action des Pussy Riot à la Cathédrale du Christ Sauveur visait l’alliance entre le pouvoir exécutif et le patriarche. Leur mise en scène dans la Cathédrale était une réponse au discours du patriarche Cyrille aux croyants orthodoxes, qu’il a appelés à voter pour Poutine aux élections présidentielles. Cette déclaration du patriarche faisait elle-même suite à une série de révélations scandaleuses sur le fonctionnement de la cathédrale (comparé à celui d’un centre commercial) et les montres de luxe portées par le patriarche, lesquelles disparaissent des photos grâce aux miracles de Photoshop.
@@ -37,8 +50,7 @@ L’action des Pussy Riot à la Cathédrale du Christ Sauveur visait l’allianc
 #### Le contexte qui a vu naître les Pussy Riot
 
 
-**[](http://russielibertes.files.wordpress.com/2012/11/picture41.jpg)**
-**[](http://russielibertes.files.wordpress.com/2012/11/picture51.jpg) **Notes :****
+**Notes :**
 **Par rapport aux Pussy Riot, les médias se demandent souvent à quoi est liée cette apparition de l’activisme artistique en Russie.**
 **Premièrement**
 , les Pussy Riot ne marquent pas l'« apparition de l’activisme artistique », car les actions artistiques de ce genre ont toujours existé en Russie. La question est de savoir pourquoi on a attendu jusqu’à aujourd’hui pour commencer à parler de ces actions.
@@ -68,8 +80,6 @@ L’exposition en soutien aux Pussy Riot était aussi inacceptable par le pouvoi
 #### D'autres phénomènes artistiques qui portent l'idée de contestation en Russie aujourd'hui
 
 
-[](http://russielibertes.files.wordpress.com/2012/11/picture61.jpg)
-[](http://russielibertes.files.wordpress.com/2012/11/picture71.jpg)
 **Notes :**
 Nadia Tolokonnikova, une des Pussy Riot condamnée à 2 ans de peine en Mordovie, était dans les années 2007-2011 membre du collectif « Voïna ». Elle décrit ainsi ce groupe artistique : « la naissance de « Voïna » a résulté de ma rencontre avec Piotr Verzilov, Oleg Vorotnikov et Natalia Sokol. Ils avaient tous un bagage commun : de la sympathie pour une culture rebelle, et le refus de se chercher une place dans les milieux artistiques et politiques établis. […] Le format du groupe « Voïna » allait devenir un genre auquel tous ceux qui souhaitent se révolter pourraient  avoir recours. C’est le but ultime de ce groupe : montrer la voie » (source – http://wisegizmo.livejournal.com/57735.html)
 
@@ -86,20 +96,19 @@ Ici, il faut se souvenir des déclarations alarmantes du pouvoir sur la situatio
 Les artivistes du groupe « Voïna » ont répondu à cet appel par leur séance de coït collectif dans un lieu public, manière de signifier que pour les membres de ce groupe, l’acte sexuel est protégé par le droit de l’individu à sa vie privée, et ne peut pas être soumis aux ordres du pouvoir. (“…По замыслу участников эта акция должна была показать, что контроль над обществом – это контроль над сексуальной сферой. И единственный возможный протест, который не будет вписан в политический спектакль, – это демонстрация сексуальной свободы” – Alek D. Epstein « Totalnaya Voïna », page 83).
 
 La photo de l'action « Flic en soutane » témoigne de l'effet que l'image d'uniforme et de la soutane produit sur les gens en Russie. Un activiste du groupe « Voïna » est entré dans un supermarché moscovite en portant la casquette d'un policier et la robe d'un prêtre. Il a rempli son panier de produits dans son panier (l'alcool, magazines pour hommes, etc.) et il est sorti sans payer ses courses. Preuve que la casquette du policier fait peur, et que la croix demeure un symbole de la légitimité.
-[](http://russielibertes.files.wordpress.com/2012/11/picture81.jpg)
+
 **Notes :**
 La réaction des artistes à la vie politique en Russie n’est pas tout à fait « silencieuse » (même si beaucoup d’artistes le sont). Il faut réaliser que la chanson ainsi que la littérature et le théâtre étaient et restent de puissants moyens d’exprimer sa révolte contre le système politique (je veux ici faire référence à des artistes comme Victor Tsoï, star de la contre-culture soviétique). Mais dès que les artistes se mettent à critiquer le système politique, ils s’exposent à de vraies sanctions, directes ou indirectes. Voilà deux exemples d‘artistes engagés qui ont subi tous deux l’interdiction de leurs concerts ou même 10 jours de prison (Ivan Alekseev).
-[](http://russielibertes.files.wordpress.com/2012/11/picture91.jpg)
-**Notes**
-:
+
+**Notes**:
 
 La lutte des habitants de la ville de Khimki pour le sauvetage de la forêt attira l'attention de beaucoup d'artistes activistes : les membres du groupe  «Voïna » ainsi que Noize MC étaient là pour protéger ce qu'on surnomme « le poumon de la ville de Moscou » - la forêt risque d'être détruite par la construction d'une autoroute (les travaux sont menés par une entreprise française, Vinci).
 
 Les photos de ce diapo illustrent la controverse lancée par l'artiste Sergueï Chnourov, du groupe «Leningrad », qui a créé une vidéo sur Youtube, dans laquelle il critiquait l'engagement civile et politique des artistes (en référence directe à Iouri Chevtchouk) affirmant que l'artiste se promeut d'abord lui-même en prétendant promouvoir la démocratie. Deux semaines plus tard, Ivan Alekseev, aka Noize MC répondit à Chnourov, également sur Youtube, par une nouvelle chanson où il dénonce la réaction de Chnourov, exemple de jalousie vis à vis d'un engagement qui n'entend pas vendre des ticket de concerts, mais défendre des valeurs importantes pour la société, comme  la protection de la forêt de Khimki.
-[](http://russielibertes.files.wordpress.com/2012/11/picture101.jpg)
+
 **Notes :**
 Parmi d’autres exemples de contestation revêtant une forme artistique figurent les actions de « Sinéé védro » (le sceau bleu en russe, - ndt). Des voitures avec des sceaux d’enfant sur le toit symbolisant le gyrophare ont commencé à défiler lors de rallyes dans plusieurs villes de Russie, afin d’exprimer la désapprobation des citoyens ordinaires envers les privilèges des fonctionnaires, à qui on permet de commettre des infractions au code de la route grâce à un gyrophare spécial.
-[](http://russielibertes.files.wordpress.com/2012/11/picture10.jpg)
+
 **Notes**
 :
 
@@ -115,7 +124,7 @@ L’auteur de la première « monstration » est un artiste de la ville de Novos
 A l’origine de ce concept, il y a aussi la participation du groupe SVOÏ 2000 à la manifestation du 1
 er
 mai 2000, avec des slogans absurdes promouvant les services de particuliers à particuliers : «Сочинения. Рефераты», «Нелинейный монтаж. Видеосъёмка», «Уроки химии» и др.
-[](http://russielibertes.files.wordpress.com/2012/11/picture111.jpg)
+
 **Notes**
 :
 
@@ -128,12 +137,12 @@ Mais la parole cherche toujours des moyens de s’exprimer. Des manifestations a
 ).
 
 La photo de droite montre la performance d’Oleg Kulik à Zurich, où il s’est présenté sous la forme d’un chien, nu et gardant l’entrée du vernissage. L’interprétation de son action est la suivante : « Je voulais protéger les gens de cet art effrayant, l’art commercial. Je voulais dire que la chose la plus importante dans l’art, c’est l’homme, sa vie, son énergie, ses sentiments et ses souffrances. Et en Suisse, c’était très visible, cette approche marketing par rapport à l’art. Beaux objets de meuble, tout est beau, protégé. Et c’est mieux que ça soit de l’art abstrait que l’on puisse déposer dans une banque. Mais ce n’est pas une bonne conception de l’art : l’art est un expérience de l’esprit, c’est sale, ça fait mal, c’est une souffrance. Ce n’est pas la vitrine d’un magasin ». (Source : le film d’Evguéni Mitta « Oleg Kulik : le défi et la provocation », 2011). Il a également déclaré : « L’artiste nu est une métaphore de sa sincérité ». (Soure : le film d’Evguéni Mitta, «Напряжение в искусстве создается только той страстью, которую он в него вкладывает. Если человек что-то так яростно защищает, то там что-то есть, там что-то важное. И они войдут в галерею, а там ничего нет – чистый воздух. И они поймут, что самое важное – это та страсть, энергия, которую ты проявляешь в искусстве. Любовь, а не какие-то те или иные построения. […] Художник голый – это некая метафора его искренности »).
-[](http://russielibertes.files.wordpress.com/2012/11/picture121.jpg)
+
 Et pour conclure, voici la phrase du célèbre Daniil Harms, l’écrivain qui a résumé ce crédo protestataire pour tous les artistes : « Il faut écrire les poèmes de telle sorte que, si l’on jette un vers contre la fenêtre, la vitre se brise ».
 
 En fait, en URSS, beaucoup d’écrivains qui ne pouvaient pas publier leurs ouvrages ont dû se convertir en écrivain pour enfants. Harms lui-même est devenu écrivain pour enfants, mais la forme nouvelle de son discours n’a pas desservi son sens original. Voici un extrait de son ouvrage intitulé « La victoire de Mychine » (source : Gérald Auclin « Incidents, d’après des textes de Daniil Harms, traduits du russe par Anna Zaytseva », The Hoochie Coochie, 2011) :
 -         Ce n’est pas convenable de se reposer ici. Où vivez-vous, citoyen ? Où est votre chambre ?
 -         Ici.
 -         Il est enregistré dans notre appartement, mais il n’a pas de chambre à lui.
-[](http://russielibertes.files.wordpress.com/2012/11/harms.jpg)
+
 L'auteure de la présentation remercie François Christophe pour la relecture du texte et l’association Samovar Sciences-Po pour l’organisation de la conférence.

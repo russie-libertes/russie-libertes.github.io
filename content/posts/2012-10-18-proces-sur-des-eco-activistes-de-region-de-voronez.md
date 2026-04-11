@@ -2,6 +2,7 @@
 title: "Procès et condamnations sans avocats pour des éco-activistes de la région de Voronezh"
 date: 2012-10-18
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2012/10/kenorj4jzvg1.jpg)
 categories:
   - "infos"
 ---
@@ -15,6 +16,3 @@ Le 7 août dernier, à la veille de la visite du gouverneur Gordeïev dans la vi
 Toutefois, les policiers et les représentants du « centre E» de lutte contre l’extrémisme (une nouvelle forme de police politique) ont perçu la situation autrement. Le 9 août, ils ont rendu visite à Alexeï Kovtoune chez lui pour l’interroger sur son rôle dans l’organisation de cette manifestation. Un mois plus tard, Alexeï a reçu un appel du secrétaire de la juge qui lui a demandé de se présenter au procès le 13 septembre. Bien que la forme d’une telle demande ne soit pas légale (il faut l’envoyer par courrier recommandé) et qu’il n’etait pas possible de trouver un avocat aussi vite, Alexeï ainsi que trois autres participant de la rencontre avec le gouverneur Gordeïev ont été condamné.
 
 L’association Russie-Libertés et l’organisation Ecology21 appelle à l’annulation de ces jugements politiques et au soutien à la lutte des éco-activistes dans la région de Voronezh.
-...
-[](http://russielibertes.files.wordpress.com/2012/10/kenorj4jzvg1.jpg)
-Auteur Konstantin Roubakhine

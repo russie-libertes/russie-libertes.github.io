@@ -2,11 +2,11 @@
 title: "Flash-mob  Pour des élections justes à Astrakhan ! Soutenons Oleg Cheïne ! "
 date: 2012-04-13
 author: "rus-lib"
+coverImage: "images/2012_04_sheine.jpg"
 categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/04/sheine.jpg)
 flash-mob de solidarité avec Oleg Cheïne
 
 Le 14 avril à 15.00,  place de la Sorbonne.

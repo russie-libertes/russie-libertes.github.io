@@ -2,13 +2,11 @@
 title: "Manifestation simultanée le 31 juillet 2012 à Paris et à Londres pour la libération des prisonniers politiques en Russie"
 date: 2012-07-31
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2012/07/olympic-logo-page-001.jpg)
 categories:
   - "communique-de-presse"
   - "nos-actions"
 ---
-
-
-[](http://russielibertes.files.wordpress.com/2012/07/olympic-logo-page-001.jpg)
 
 **A Paris l'action aura lieu le 31 juillet à 19h sur le Parvis des Droits de l’Homme au Trocadéro.**
 La manifestation est organisée par l’association Russie-Libertés et le mouvement international «Speak Up !» à l'occasion de l'ouverture des JO de Londres et en lien avec la visite de représentants illégitimes des autorités russes.

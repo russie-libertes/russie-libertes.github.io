@@ -2,14 +2,14 @@
 title: "A la une de «Libé» : Les punkettes qui font peur à Poutine"
 date: 2012-08-03
 author: "rus-lib"
+#[](http://russielibertes.files.wordpress.com/2012/08/le-une-de-libc3a9-pussy-riot.jpg)
+#[](http://russielibertes.files.wordpress.com/2012/08/libc3a9-2-3.png)
 categories:
   - "infos"
 tags:
   - "pussy-riot"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/08/le-une-de-libc3a9-pussy-riot.jpg)
-[](http://russielibertes.files.wordpress.com/2012/08/libc3a9-2-3.png)
 
 #### [EDITO - 2 août 2012](http://www.liberation.fr/monde/2012/08/02/sauveur_837340)
 

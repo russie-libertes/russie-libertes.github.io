@@ -2,12 +2,12 @@
 title: "FORUM-CONCERT EXCEPTIONNEL  RUSSIE: EN LUTTE POUR LA LIBERTÉ  - SAMEDI 6 OCTOBRE A MONTREUIL"
 date: 2012-09-21
 author: "rus-lib"
+coverImage: "images/2012_09_577008_10152141833040302_1776390294_n.jpg"
 categories:
   - "infos"
   - "nos-actions"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/09/577008_10152141833040302_1776390294_n.jpg)
 **SAMEDI 6 OCTOBRE - MAIRIE DE MONTREUIL**
 **FORUM-CONCERT EXCEPTIONNEL "RUSSIE: EN LUTTE POUR LA LIBERTÉ"**
 **CONCERT DE CLÔTURE**
@@ -36,4 +36,4 @@ Programme :
 
 · 18h30 : concert « Free Pussy Riot » avec Bielka, Jeanne Cherhal, Noize MC
 **Inscription facultative au FORUM-CONCERT EXCEPTIONNEL "RUSSIE: EN LUTTE POUR LA LIBERTÉ" le samedi 6 octobre à Montreuil :**
-[contact-form to='inscription6oct@gmail.com' subject='Inscription 6 oct'][contact-field label='Nom Prénom' type='name' required='1'/][contact-field label='Email' type='email' required='1'/][contact-field label='Numéro de téléphone' type='text'/][contact-field label='Je m%26#039;inscris au forum-concert' type='checkbox' required='1'/][/contact-form]
+[Inscription 6 oct](mailto:inscription6oct@gmail.com)

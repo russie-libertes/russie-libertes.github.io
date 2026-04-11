@@ -2,12 +2,12 @@
 title: "Détention des Pussy Riot prolongée: la Russie retourne-t-elle au Moyen Âge ?"
 date: 2012-07-21
 author: "rus-lib"
+coverImage: "images/2012_06_pussy-riot-500x282.jpg"
 categories:
   - "communique-de-presse"
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2012/06/pussy-riot-500x282.jpg)
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoutsevitch
 
 

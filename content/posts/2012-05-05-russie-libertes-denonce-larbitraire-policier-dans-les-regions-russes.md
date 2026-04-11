@@ -2,12 +2,12 @@
 title: "Russie-Libertés dénonce l'arbitraire policier dans les régions russes"
 date: 2012-05-05
 author: "rus-lib"
+coverImage: "images/2012_05_oufa-gare.jpg"
 categories:
   - "infos"
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2012/05/oufa-gare.jpg)
 La gare d'Oufa où ont eu lieu les interpellations
 
 9 activistes de l’opposition ont été interpellés le vendredi 4 mai à la gare d’Oufa, la capitale de la République de Bachkirie, pour un petit délit mis en scène à cette occasion par la police. Ces jeunes gens comptaient rejoindre Moscou par train pour participer à la Marche du Million, une manifestation géante de l'opposition qui aura lieu сe dimanche 6 mai à l’occasion de l’investiture présidentielle de Vladimir Poutine, soi-disant élu à l'issu d'un scrutin totalement falsifié.

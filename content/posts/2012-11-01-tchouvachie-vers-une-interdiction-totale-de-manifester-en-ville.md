@@ -1,6 +1,7 @@
 ---
 title: "Tchouvachie: vers une interdiction totale de manifester en ville."
 date: 2012-11-01
+coverImage: "images/2012_10_800px-chuvash_in_russia.png"
 author: "rus-lib"
 categories:
   - "communique-de-presse"
@@ -27,4 +28,3 @@ Ce vendredi 2 novembre des habitants de Tcheboksary sortiront dans les rues de l
 **L’association Russie-Libertés exprime son soutien aux personnes en lutte**
 **pour leur droit de manifester librement et demande l’abandon de ce projet de loi qui contredit l'esprit et la lettre de la Constitution russe.**
 La Tchouvachie sur la carte de la Russie
-[](http://russielibertes.files.wordpress.com/2012/10/800px-chuvash_in_russia.png)

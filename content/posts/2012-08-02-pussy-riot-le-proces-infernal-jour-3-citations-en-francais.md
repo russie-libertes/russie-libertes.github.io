@@ -2,6 +2,7 @@
 title: "Pussy Riot : “le procès infernal” JOUR 3. (Citations en français)"
 date: 2012-08-02
 author: "rus-lib"
+coverImage: "images/2012_06_pussy-riot-500x282.jpg"
 categories:
   - "non-classe"
 tags:
@@ -12,7 +13,6 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2012/06/pussy-riot-500x282.jpg)
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch en détention provisoire depuis presque 3 mois.
 **[Les citations des jours 1 et 2 sont disponibles ici.](http://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)**
 __Rappel, article 14 de la Constitution russe :__

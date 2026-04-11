@@ -2,6 +2,7 @@
 title: "Paris « pour une Russie libre »: rapport de manifestation"
 date: 2012-06-16
 author: "rus-lib"
+coverImage: "images/2012_06_plan_general1.jpg"
 categories:
   - "infos"
 ---
@@ -11,8 +12,7 @@ categories:
 La manifestation
 [«Ensemble pour une Russie libre»](http://russie-libertes.org/2012/06/09/ensemble-pour-une-russie-libre-paris-12-juin/)
 s'est tenue le 12 juin en face de l’ambassade de Russie à Paris.
-[](http://russielibertes.files.wordpress.com/2012/06/plan_general1.jpg)
-[Add Media](http://russielibertes.wordpress.com/wp-admin/media-upload.php?post_id=846&TB_iframe=1&width=640&height=816)
+
 Organisée conjointement  par l’association Russie-Libertés, des représentants de la diaspora tchétchène en France et des militants français des droits humains, elle a réuni une cinquantaine de personnes et était dédiée à deux événements importants.
 
 Les participants ont exprimé leur solidarité avec les dizaines de milliers de personnes qui ont défilé dans les rue de Moscou à l'occasion de la
