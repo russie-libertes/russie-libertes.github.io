@@ -1,6 +1,6 @@
 ---
 title: "Conférence « Quelle réponse démocratique face à l’offensive du régime de Vladimir Poutine en Europe ? »"
-# http://russie-libertes.org/2014/11/25/conference-quelle-reponse-democratique-face-a-loffensive-du-regime-de-vladimir-poutine-en-europe-2/
+#url: "http://russie-libertes.org/2014/11/25/conference-quelle-reponse-democratique-face-a-loffensive-du-regime-de-vladimir-poutine-en-europe-2/"
 description: "Mardi 25 novembre 2014 s&rsquo;est déroulée à Paris une conférence sur le thème « Quelle réponse démocratique face à l’offensive du régime de Vladimir Poutine en Europe ? » organisée par l&rsquo;as…"
 coverImage: "images/2014_11_confan2.jpg"
 date: 2014-11-25

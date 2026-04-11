@@ -4,6 +4,7 @@ title: "Nous soutenons la manifestation du 14 Août pour le respect des droits h
 description: "Nous appelons à manifester le 14 Aout pour le respect des droits humains en Biélorussie!"
 date: 2020-08-12
 coverImage: "images/2020_08_Capture-d’écran-2020-08-12-à-16.27.47.png"
+author: "ruslibinfo"
 categories:
 - "non-classe"
 ---

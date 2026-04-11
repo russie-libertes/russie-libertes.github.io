@@ -1,5 +1,12 @@
 ---
 title: "Toutes les actions de soutien des Pussy Riot en France"
+date: 2012-08-10
+#url: "http://russie-libertes.org/2012/08/10/toutes-actions-pussy-riot-france/"
+description: "Dans le cadre de la journée mondiale d’action en soutien des membres du groupe Pussy Riot, un rassemblement sera organisé le vendredi 17 août à 12h30 à Paris. Lieu : Place Stravintsky (près d…"
+author: "rus-lib"
+coverImage: "images/2012_07_pussyriot_500.jpg"
+categories:
+- "nos-actions"
 ---
 
 [![pussyriot_500](images/2012_07_pussyriot_500.jpg)](images/2012_07_pussyriot_500.jpg)

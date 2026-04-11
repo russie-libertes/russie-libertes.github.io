@@ -1,6 +1,6 @@
 ---
 title: "Les manifestants participaient ce samedi à un rassemblement de l’opposition devant la mairie de Moscou pour réclamer des élections libres."
-#url: "https://web.archive.org/web/20191024054537/http://russie-libertes.org/2019/07/27/les-manifestants-participaient-ce-samedi-a-un-rassemblement-de-lopposition-devant-la-mairie-de-moscou-pour-reclamer-des-elections-libres/"
+#url: "http://russie-libertes.org/2019/07/27/les-manifestants-participaient-ce-samedi-a-un-rassemblement-de-lopposition-devant-la-mairie-de-moscou-pour-reclamer-des-elections-libres/"
 description: "Au total, «1074 personnes ont été arrêtées pour des infractions diverses au cours d’une manifestation non autorisée dans le centre de la capitale», a déclaré la police de Moscou, citée…"
 date: 2019-07-27
 coverImage: "images/2019_07_Moscou-Manifestastion.jpeg"

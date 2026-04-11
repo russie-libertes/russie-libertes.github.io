@@ -1,6 +1,6 @@
 ---
 title: "La journaliste Natalia Estemirova a été assassinée il y a dix an, jour pour jour, dans le Caucase russe."
-#url: "https://web.archive.org/web/20200804161609/https://russie-libertes.org/2019/07/16/la-journaliste-natalia-estemirova-a-ete-assassinee-il-y-a-dix-an-jour-pour-jour-dans-le-caucase-russe/"
+#url: "https://russie-libertes.org/2019/07/16/la-journaliste-natalia-estemirova-a-ete-assassinee-il-y-a-dix-an-jour-pour-jour-dans-le-caucase-russe/"
 description: "Ten years ago, I was walking on a boulevard in central Moscow when my phone rang. It was a glorious summer day. The day before, I had returned from a week-long trip to Chechnya, which was grueling …"
 date: 2019-07-15
 coverImage: "images/2019_07_hrw_award-Estemirova-1200x400.jpeg"

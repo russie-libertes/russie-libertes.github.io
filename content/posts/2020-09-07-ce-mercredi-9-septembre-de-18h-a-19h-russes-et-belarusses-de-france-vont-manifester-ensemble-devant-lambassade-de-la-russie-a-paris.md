@@ -1,6 +1,9 @@
 ---
 title: "Ce mercredi 9 septembre, de 18h à 19h,  Russes et Belarusses de France vont manifester ensemble devant l’ambassade de la Russie à Paris."
-coverImage: "https://web.archive.org/web/20200923085725im_/http://russie-libertes.org/wp-content/uploads/2020/09/54480600_303.jpg"
+date: 2020-09-07
+#url: "http://russie-libertes.org/2020/09/07/ce-mercredi-9-septembre-de-18h-a-19h-russes-et-belarusses-de-france-vont-manifester-ensemble-devant-lambassade-de-la-russie-a-paris/"
+description: "Dans les prochains jours Alexandre Loukachenko va se rendre à Moscou, pour demander au Kremlin une aide financière et politique, afin de préserver son pouvoir dictatorial et renforcer l’oppre…"
+coverImage: "images/2020_09_54480600_303.jpg"
 author: "ruslibinfo"
 categories:
 - "non-classe"

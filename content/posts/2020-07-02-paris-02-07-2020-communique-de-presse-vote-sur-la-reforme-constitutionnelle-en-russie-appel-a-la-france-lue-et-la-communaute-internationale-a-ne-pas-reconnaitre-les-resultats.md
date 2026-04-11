@@ -1,9 +1,10 @@
 ---
 title: "Paris, 02.07.2020.  Communiqué de presse. Vote sur la réforme constitutionnelle en Russie : appel à la France, l’UE et la communauté internationale à ne pas reconnaître les résultats."
-#url: "https://web.archive.org/web/20200923082151/http://russie-libertes.org/2020/07/02/paris-02-07-2020-communique-de-presse-vote-sur-la-reforme-constitutionnelle-en-russie-appel-a-la-france-lue-et-la-communaute-internationale-a-ne-pas-reconnaitre-les-resultats/"
+#url: "http://russie-libertes.org/2020/07/02/paris-02-07-2020-communique-de-presse-vote-sur-la-reforme-constitutionnelle-en-russie-appel-a-la-france-lue-et-la-communaute-internationale-a-ne-pas-reconnaitre-les-resultats/"
 description: "Le vote sur les amendements de la réforme constitutionnelle en Russie vient de se terminer. Il s’agit sans doute de l’un de scrutins les plus importants pour les citoyens russes car il …"
 date: 2020-07-02
 coverImage: "images/2020_07_WhatsApp-Image-2020-07-01-at-18.14.16-1200x400.jpeg"
+author: "ruslibinfo"
 categories:
 - "a-la-une"
 - "non-classe"

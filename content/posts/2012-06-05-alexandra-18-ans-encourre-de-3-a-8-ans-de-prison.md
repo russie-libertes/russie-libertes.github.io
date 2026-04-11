@@ -1,5 +1,11 @@
 ---
 title: "Les répressions s’accentuent: Alexandra, 18 ans, encourt de 3 à 8 ans de prison pour avoir manifesté le 6 mai"
+#url: "http://russie-libertes.org/2012/06/05/alexandra-18-ans-encourt-de-3-a-8-ans-de-prison/"
+description: "Alexandra Doukhanina, jeune femme de 18 ans, encourt une peine de prison pouvant aller jusqu’à 8 ans pour «participation aux désordres de masse» (art. 212-2 du Code pénal) et «violence..."
+coverImage: "images/2012_06_d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-2012-2.jpg"
+author: "onikolaeva"
+categories:
+- "infos"
 ---
 		
 [![Alexandra Doukhanina dans une cage pour prévenus dangereux au tribunal](images/2012_06_d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-2012-2.jpg)](images/2012_06_d0b4d183d185d0b0d0bdd0b8d0bdd0b0-d0b7d0b0-d180d0b5d188d0b5d182d0bad0bed0b9-d0bcd0b0d0b9-2012-2.jpg)
