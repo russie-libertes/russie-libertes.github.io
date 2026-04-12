@@ -10,7 +10,7 @@ tags:
   - "kara-murza"
 ---
 
-![](http://s0.graniru.info/files/81015.jpg)
+![](https://s0.graniru.info/files/81015.jpg)
 
 Ce mardi 26 mai 2015, un jeune journaliste et militant politique Vladimir Kara-Murza (fils de Vladimir Kara-Murza, un publiciste russe reconnu) a été hospitalisé en urgence dans un état critique.
     Après plusieurs examens approfondis les médecins ont diagnostiqué une intoxication d’origine inconnue. Cette intoxication a provoqué une crise d’insuffisance rénale sévère. Vladimir Kara-Murza, âgé de 33 ans, milite en politique depuis 1999 faisant toujours partie de l’opposition.
@@ -24,4 +24,4 @@ Compte tenu de ces circonstances d’importants soupçons d’empoisonnement pla
 
 Nous demandons donc qu’une enquête indépendante soit ouverte au plus vite afin de faire toute la lumière sur ces soupçons. En attendant nous souhaitons à Vladimir Kara-Murza un rapide rétablissement.
 
-(source photo : http://grani.ru)
+(source photo : https://grani.ru)

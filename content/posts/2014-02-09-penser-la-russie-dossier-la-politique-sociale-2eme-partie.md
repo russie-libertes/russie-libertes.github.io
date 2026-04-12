@@ -13,8 +13,8 @@ categories:
 Penser la Russie : dossier "La politique sociale, 2ème partie"
 
 La Russie est gravement affectée par le taux de natalité infantile très bas. Pour favoriser la natalité, plusieurs allocations de maternité sont prévues. Ces allocations sont relativement généreuses – les allocations mensuelles pour le deuxième enfant s’élèvent jusqu’à 70% du minimum vital d’un enfant (pour le minimum vital, voir
-[La politique sociale en Russie, première partie](http://penserlarussie.org/2014/01/14/la-politique-sociale-en-russie-1-partie/)
-[La politique sociale en Russie, première partie](http://penserlarussie.org/2014/01/14/la-politique-sociale-en-russie-1-partie/)
+[La politique sociale en Russie, première partie](https://penserlarussie.org/2014/01/14/la-politique-sociale-en-russie-1-partie/)
+[La politique sociale en Russie, première partie](https://penserlarussie.org/2014/01/14/la-politique-sociale-en-russie-1-partie/)
 ). Parmi les incitations susceptibles de favoriser l’accroissement du taux de natalité, l’
 **allocation dite « capital maternité »**
 en est sans doute la plus forte. Si en 2013, pour la première fois dans l’histoire de la Russie post-soviétique, les statistiques indiquent à un accroissement de la population, celui-ci est directement associé à l’efficacité du capital maternité. Penser la Russie y consacre le premier article de cette seconde partie du dossier.
@@ -25,4 +25,4 @@ paru dans le journal
 __Kommersant__
 dont Penser la Russie publie un résumé synthétique.
 
-[Lire le dossier ici](http://penserlarussie.org/2014/02/07/la-politique-sociale-en-russie-2-partie/)
+[Lire le dossier ici](https://penserlarussie.org/2014/02/07/la-politique-sociale-en-russie-2-partie/)

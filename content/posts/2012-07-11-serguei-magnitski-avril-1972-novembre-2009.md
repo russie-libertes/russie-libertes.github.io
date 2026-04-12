@@ -11,7 +11,7 @@ tags:
   - "post-format-link"
 ---
 
-**[Tribune dans Libération](http://www.liberation.fr/monde/2012/07/09/serguei-magnitski-avril-1972-novembre-2009_832158) - 9 juillet 2012**
+**[Tribune dans Libération](https://www.liberation.fr/monde/2012/07/09/serguei-magnitski-avril-1972-novembre-2009_832158) - 9 juillet 2012**
 
 ### **Sergueï Magnitski, avril 1972 - novembre 2009**
 
@@ -41,4 +41,4 @@ Ils seraient pleinement dans leur rôle.
 ----------------------------------------------
 
 Lire aussi l'article dans le Monde du 28 juin 2012:
-[Cette affaire Magnitski qui crispe les relations entre Washington et Moscou](http://www.lemonde.fr/ameriques/article/2012/06/28/cette-affaire-magnitski-qui-crispe-les-relations-entre-washington-et-moscou_1725367_3222.html)
+[Cette affaire Magnitski qui crispe les relations entre Washington et Moscou](https://www.lemonde.fr/ameriques/article/2012/06/28/cette-affaire-magnitski-qui-crispe-les-relations-entre-washington-et-moscou_1725367_3222.html)

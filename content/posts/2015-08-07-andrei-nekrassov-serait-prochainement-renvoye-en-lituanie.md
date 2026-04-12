@@ -13,7 +13,7 @@ tags:
 ---
 
 Le 6 août 2015, le ministère de l'Intérieur chypriote a
-[officiellement annoncé](http://www.moi.gov.cy/moi/pio/pio.nsf/All/62077CB163A5CD85C2257E990042327D?OpenDocument)
+[officiellement annoncé](https://www.moi.gov.cy/moi/pio/pio.nsf/All/62077CB163A5CD85C2257E990042327D?OpenDocument)
 qu'Andreï Nekrassov serait prochainement renvoyé en Lituanie pour que sa demande d'asile y soit étudiée. Nicosie applique ainsi le règlement de Dublin, qui prévoit que toute demande d'asile déposée sur le territoire de l'Union européenne doit être examinée dans le premier pays membre par lequel le réfugié est arrivé.
 
 Reporters sans frontières et Russie-Libertés saluent ce premier pas positif, mais la vigilance reste de mise. En attendant son transfert vers la Lituanie, Andreï Nekrassov reste en prison. Et surtout, la demande d'extradition présentée par la Russie n'est toujours pas classée.

@@ -2,7 +2,7 @@
 title: "Photo : manifestation pour la libération des prisonniers politiques en Russie"
 date: 2012-07-31
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/07/428802_10151974196075302_1513376421_n.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/07/428802_10151974196075302_1513376421_n.jpg)
 categories:
   - "nos-actions"
 ---

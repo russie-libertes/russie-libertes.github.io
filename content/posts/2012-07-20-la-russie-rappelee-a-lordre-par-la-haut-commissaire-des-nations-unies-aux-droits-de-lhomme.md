@@ -13,12 +13,12 @@ tags:
   - "post-format-link"
 ---
 
-[La Haut Commissaire des Nations Unies aux droits de l](http://www.un.org/News/dh/photos/large/2012/July/519568-navipillay.jpg)
-La Haut Commissaire des Nations Unies aux droits de l'homme, [Navi Pillay](http://www.ohchr.org/FR/AboutUs/Pages/HighCommissioner.aspx) , à la sortie du Conseil de sécurité le 2 juillet 2012.
+[La Haut Commissaire des Nations Unies aux droits de l](https://www.un.org/News/dh/photos/large/2012/July/519568-navipillay.jpg)
+La Haut Commissaire des Nations Unies aux droits de l'homme, [Navi Pillay](https://www.ohchr.org/FR/AboutUs/Pages/HighCommissioner.aspx) , à la sortie du Conseil de sécurité le 2 juillet 2012.
 18 juillet 2012 –
-[**La Haut Commissaire des Nations Unies aux droits de l'homme, Navi Pillay, a exprimé mercredi son inquiétude devant de nouvelles dispositions juridiques en Fédération de Russie qui auront un impact négatif considérable sur les droits de l'homme dans ce pays.**](http://www.un.org/apps/newsFr/storyF.asp?NewsID=28596&Cr=Russie&Cr1=)
-[По-русски](http://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=12366&LangID=R)
-[English version](http://www.ohchr.org/EN/NewsEvents/Pages/media.aspx?IsMediaPage=true)
+[**La Haut Commissaire des Nations Unies aux droits de l'homme, Navi Pillay, a exprimé mercredi son inquiétude devant de nouvelles dispositions juridiques en Fédération de Russie qui auront un impact négatif considérable sur les droits de l'homme dans ce pays.**](https://www.un.org/apps/newsFr/storyF.asp?NewsID=28596&Cr=Russie&Cr1=)
+[По-русски](https://www.ohchr.org/en/NewsEvents/Pages/DisplayNews.aspx?NewsID=12366&LangID=R)
+[English version](https://www.ohchr.org/EN/NewsEvents/Pages/media.aspx?IsMediaPage=true)
 « Au cours des deux derniers mois, nous avons assisté à un changement préoccupant dans le cadre juridique qui règlemente les libertés de rassemblement, d'association, d'expression et d'information en Fédération de Russie. Au moins quatre nouvelles dispositions auront un effet néfaste sur le respect des droits de l'homme dans le pays », a assuré Mme Pillay dans un communiqué de presse.
 Des amendements restrictifs de la loi sur les rassemblements publics et sur le code administratif ont été adoptés en juin et promulgués par le Président Vladimir Poutine. Ces amendements prévoient de lourdes amendes les organisateurs de rassemblements « non autorisés » et confèrent également davantage de pouvoir aux autorités administratives pour refuser d'accorder les autorisations requises.
 

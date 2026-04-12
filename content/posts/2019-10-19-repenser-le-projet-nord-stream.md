@@ -1,6 +1,6 @@
 ---
 title: "Repenser le projet Nord Stream 2"
-#url: "http://russie-libertes.org/2019/10/19/repenser-le-projet-nord-stream-2/"
+#url: "https://russie-libertes.org/2019/10/19/repenser-le-projet-nord-stream-2/"
 description: "L’actualité nous rappelle tous les jours à quel point les enjeux environnementaux et démocratiques sont liés. A l’heure où l’Europe avance enfin dans la volonté d’évaluer l’ensemble des projets con…"
 date: 2019-10-19
 coverImage: "images/2019_10_Capture-d’écran-2019-10-19-à-19.48.51-300x270.png"

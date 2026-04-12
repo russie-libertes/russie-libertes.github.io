@@ -9,7 +9,7 @@ tags:
 ---
 
 
-##### PRESS RELEASE [OSCE PA Human Rights Chair speaks out on freedom of assembly in Russia](http://www.oscepa.org/news-a-media/press-releases/969-osce-pa-human-rights-chair-speaks-out-on-freedom-of-assembly-in-russia)
+##### PRESS RELEASE [OSCE PA Human Rights Chair speaks out on freedom of assembly in Russia](https://www.oscepa.org/news-a-media/press-releases/969-osce-pa-human-rights-chair-speaks-out-on-freedom-of-assembly-in-russia)
 
 
 COPENHAGEN, 12 June 2012 – Matteo Mecacci (Italy), chair of the OSCE Parliamentary Assembly Committee on Democracy, Human Rights and Humanitarian Questions, called on Russian authorities to respect dissenting opinions in the wake of a crackdown on demonstrations over the past several months in Russia.

@@ -29,4 +29,4 @@ Toutes les informations sur le rassemblement :
 
 https://www.facebook.com/events/52668793403334z1/
 
-http://www.amnesty.fr/Mobilisez-vous/Bougez/Rassemblement-pour-la-liberation-de-tous-les-prisonniers-d-opinion-en-Russie-8719
+https://www.amnesty.fr/Mobilisez-vous/Bougez/Rassemblement-pour-la-liberation-de-tous-les-prisonniers-d-opinion-en-Russie-8719

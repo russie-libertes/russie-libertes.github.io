@@ -14,11 +14,11 @@ tags:
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch en détention provisoire depuis presque 3 mois.
 
 Vous pouvez retrouver
-[les jours 1 et 2](http://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)
+[les jours 1 et 2](https://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)
 du procès
-[ici](http://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)
+[ici](https://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)
 et
-[le jour 3 ici.](http://russie-libertes.org/2012/08/02/pussy-riot-le-proces-infernal-jour-3-citations-en-francais/)
+[le jour 3 ici.](https://russie-libertes.org/2012/08/02/pussy-riot-le-proces-infernal-jour-3-citations-en-francais/)
 **Contexte du jour 4 :**
 Le quatrième jour du procès commence par la demande de Maria Alekhina de révoquer la juge Syrova. La raison de la révocation serait le préjudice qu’elle porte envers les accusées. La défense soutien la révocation.
 L’accusation ne voit aucune raison pour la révocation de la juge et demande de la rejeter.

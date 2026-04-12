@@ -6,7 +6,7 @@ categories:
   - "infos"
 ---
 
-**[Rosbalt](http://www.rosbalt.ru/video/2012/07/24/1014379.html) -** 24 juillet 2012
+**[Rosbalt](https://www.rosbalt.ru/video/2012/07/24/1014379.html) -** 24 juillet 2012
 L'artiste de Saint-Pétersbourg Piotr Pavlenski s'est cousu la bouche et s'est rendu à la Cathédrale Notre-Dame de Kazan avec une pancarte : « La prestation des Pussy Riot était une reprise de la célèbre action du Christ (Mat. 21 : 12-13) ». Ce chapitre du Livre contient le célèbre épisode de l'expulsion des marchands du temple. L'artiste a décidé de soutenir de la sorte les membres du groupe punk Pussy Riot.
 ... ![Piotr Pavlenski](images/2012_07_d0bfd0b5d182d180-d0bfd0b0d0b2d0bbd0b5d0bdd181d0bad0b8d0b9.jpg)
  Selon l'artiste, la bouche cousue symbolise la position de l'artiste moderne en Russie, l'interdiction de la transparence et le renforcement de la censure. 
@@ -22,5 +22,5 @@ L'artiste ne sait pas encore s'il va lancer de nouvelles actions. « Le plan de 
 ----------------------------
 Soutenir les Pussy Riot
 Ce n'est pas la première action visant à soutenir Pussy Riot à Saint-Pétersbourg. Le 12 juin, la militante Elena Passynkova, déguisée en membre de Pussy Riot, s'est crucifiée sur une croix près de la Cathédrale Saint-Sauveur-sur-le-Sang-Versé, où elle est restée pendant environ 40 minutes.
--------------------------- __Trouvez le texte original (en russe) sur le site [Rosbalt](http://www.rosbalt.ru/video/2012/07/24/1014379.html) .
+-------------------------- __Trouvez le texte original (en russe) sur le site [Rosbalt](https://www.rosbalt.ru/video/2012/07/24/1014379.html) .
 traduction par La Russie d'Aujourd'hui__

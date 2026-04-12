@@ -15,9 +15,9 @@ Les avocats des plaignants se sont souvenus que Katia n'avait pas participé à 
 Les membres de Russie-Libertés sont très heureux pour Katia et ses proches, mais restent fortement préoccupés par le sort des deux jeunes femmes restant en prison.
 
 Par ailleurs, vu le
-[caractère politique](http://www.elle.fr/Societe/Interviews/Pussy-Riot-les-dessous-d-une-liberation-2224266)
+[caractère politique](https://www.elle.fr/Societe/Interviews/Pussy-Riot-les-dessous-d-une-liberation-2224266)
 de cette libération, il existe un
-[risque de scission](http://tempsreel.nouvelobs.com/monde/20121011.AFP1721/russie-une-des-pussy-riot-liberee-denonce-une-manoeuvre-du-pouvoir-pour-diviser.html)
+[risque de scission](https://tempsreel.nouvelobs.com/monde/20121011.AFP1721/russie-une-des-pussy-riot-liberee-denonce-une-manoeuvre-du-pouvoir-pour-diviser.html)
 au sein des groupes de soutien aux Pussy Riot. Nous appelons tous ces groupes à rester soudés, et soulignons que lors du procès en appel Katia a exprimé sa solidarité avec les autres membres du groupe et a confirmé que leur prière était une action purement politique en aucun cas dirigée contre les sentiments des croyants.
 
 Russie-Libertés exige la libération inconditionnelle de toutes les membres du collectif punk Pussy Riot, et l'arrêt immédiat des poursuites.

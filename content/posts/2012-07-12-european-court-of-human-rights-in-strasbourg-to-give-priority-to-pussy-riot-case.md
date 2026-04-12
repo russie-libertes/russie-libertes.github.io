@@ -22,5 +22,5 @@ Moscow city court rejected on Monday an appeal for the release from custody of t
 
 Amnesty International has recognized the suspects as prisoners of conscience and the Kremlin's own rights council has supported a letter by dozens of public figures calling for their release. Two of the suspects have small children.
 
-##### Read Full Article: [http://en.rian.ru/russia/20120710/174530638.html](http://en.rian.ru/russia/20120710/174530638.html)
+##### Read Full Article: [https://en.rian.ru/russia/20120710/174530638.html](https://en.rian.ru/russia/20120710/174530638.html)
 

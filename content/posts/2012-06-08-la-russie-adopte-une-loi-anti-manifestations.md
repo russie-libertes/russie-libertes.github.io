@@ -11,9 +11,9 @@ tags:
   - "post-format-link"
 ---
 
-[http://tempsreel.nouvelobs.com/social/20120606.FAP4422/la-russie-adopte-une-loi-anti-manifestations.html](http://tempsreel.nouvelobs.com/social/20120606.FAP4422/la-russie-adopte-une-loi-anti-manifestations.html)
+[https://tempsreel.nouvelobs.com/social/20120606.FAP4422/la-russie-adopte-une-loi-anti-manifestations.html](https://tempsreel.nouvelobs.com/social/20120606.FAP4422/la-russie-adopte-une-loi-anti-manifestations.html)
 MOSCOU (AP) — La chambre haute du Parlement russe a approuvé mercredi une
-[loi anti-manifestations](http://echo.msk.ru/doc/895712-echo.html)
+[loi anti-manifestations](https://echo.msk.ru/doc/895712-echo.html)
 multipliant par 150 l'amende prévue pour toute participation à un rassemblement non autorisé. Le texte devrait être promulgué par le président Poutine avant la grande manifestation prévue par l'opposition à Moscou mardi prochain.
     Le Kremlin a commencé à réprimer plus sévèrement les manifestations depuis le retour à la présidence de Vladimir Poutine en mai. Il avait dirigé le pays de 2000 à 2008 avant de devenir Premier ministre de Dimitri Medvedev pendant quatre ans pour cause de limite constitutionnelle du nombre de mandats présidentiels consécutifs.
 

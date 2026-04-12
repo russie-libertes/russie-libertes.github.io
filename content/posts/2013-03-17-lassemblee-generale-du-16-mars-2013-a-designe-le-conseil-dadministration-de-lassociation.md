@@ -2,7 +2,7 @@
 title: "L’Assemblée générale du 16 mars 2013 a désigné le Conseil d'administration de l'association"
 date: 2013-03-17
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2013/03/486435_10152655643660302_966599485_n.jpg)
+#[](https://russielibertes.files.wordpress.com/2013/03/486435_10152655643660302_966599485_n.jpg)
 categories:
   - "infos"
 ---

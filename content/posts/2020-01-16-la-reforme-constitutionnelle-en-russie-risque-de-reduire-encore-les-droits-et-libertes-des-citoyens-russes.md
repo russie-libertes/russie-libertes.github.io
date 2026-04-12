@@ -1,6 +1,6 @@
 ---
 title: "La réforme constitutionnelle en Russie risque de réduire encore les droits et libertés des citoyens russes"
-#url: "http://russie-libertes.org/2020/01/16/la-reforme-constitutionnelle-en-russie-risque-de-reduire-encore-les-droits-et-libertes-des-citoyens-russes/"
+#url: "https://russie-libertes.org/2020/01/16/la-reforme-constitutionnelle-en-russie-risque-de-reduire-encore-les-droits-et-libertes-des-citoyens-russes/"
 description: "Vladimir Poutine vient d’annoncer une large réforme constitutionnelle en Russie. Cette annonce a été suivie par la démission du Premier ministre et du Gouvernement. La méthode et les détails de la …"
 date: 2020-01-15
 author: "ruslibinfo"

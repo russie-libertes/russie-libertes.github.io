@@ -6,6 +6,6 @@ categories:
   - "infos"
 ---
 
-![](http://2006.novayagazeta.ru/nomer/2006/77n/tit77.jpg)
+![](https://2006.novayagazeta.ru/nomer/2006/77n/tit77.jpg)
 
 Anna Politkovskaïa, 30 août 1958 - 7 octobre 2006

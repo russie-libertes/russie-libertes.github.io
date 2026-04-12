@@ -2,7 +2,7 @@
 title: "Manifestation simultanée le 31 juillet 2012 à Paris et à Londres pour la libération des prisonniers politiques en Russie"
 date: 2012-07-31
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/07/olympic-logo-page-001.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/07/olympic-logo-page-001.jpg)
 categories:
   - "communique-de-presse"
   - "nos-actions"

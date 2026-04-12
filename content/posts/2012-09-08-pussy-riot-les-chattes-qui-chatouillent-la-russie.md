@@ -6,7 +6,7 @@ categories:
   - "infos"
 ---
 
-[Libération du 7 septembre 2012](http://www.liberation.fr/monde/2012/09/07/pussy-riot-les-chattes-qui-chatouillent-la-russie_844789)
+[Libération du 7 septembre 2012](https://www.liberation.fr/monde/2012/09/07/pussy-riot-les-chattes-qui-chatouillent-la-russie_844789)
 
 #### PORTRAIT De la formation de leur groupe féministe à leur coup d’éclat dans la cathédrale moscovite, retour sur le parcours des trois jeunes artivistes russes condamnées à deux ans de camp pour une prière anti-Poutine.
 

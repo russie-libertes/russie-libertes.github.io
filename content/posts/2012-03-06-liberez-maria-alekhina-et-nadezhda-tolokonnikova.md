@@ -4,7 +4,7 @@ date: 2012-03-06
 author: "rus-lib"
 categories:
   - "infos"
-#[](http://russielibertes.files.wordpress.com/2012/03/157973_268258399915177_1212490959_n1.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/03/157973_268258399915177_1212490959_n1.jpg)
 ---
 
 Deux jours après l'élection truquée de Poutine, la contestation du régime est encore plus violemment réprimée. Aujourd'hui deux jeunes femmes,  Maria Alekhina, une des principales activistes écologistes, et Nadezhda Tolokonnikova, membre du collectif artistique «Voïna » et militante LGBT, viennent d’être jetées en prison pour 2 mois sans aucun procès, simplement parce qu’elles sont suspectées d’avoir pris part aux actions anti-Poutine du collectif punk « Pussy Riot ». Il existe un groupe sur Facebook

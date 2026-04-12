@@ -2,13 +2,13 @@
 title: " Chanter. Danser. Crier  un texte d'Elfriede Jelinek en soutien aux Pussy Riot"
 date: 2012-09-04
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/09/une-libc3a9-jelinek-4-sept.png)
+#[](https://russielibertes.files.wordpress.com/2012/09/une-libc3a9-jelinek-4-sept.png)
 categories:
   - "infos"
 ---
 
-Version originale en allemand, sur le site d'Elfriede Jelinek: [http://a-e-m-gmbh.com/wessely/fpussy.htm](http://a-e-m-gmbh.com/wessely/fpussy.htm) En russe sur le site de l'hebdomadaire The New Times : [http://newtimes.ru/articles/detail/56328/](http://newtimes.ru/articles/detail/56328/)
-**[Traduction française du texte d'Elfriede Jelinek sur Pussy Riot](http://le-beau-vice.blogspot.com/2012/09/traduction-francaise-du-texte-delfriede.html)**
+Version originale en allemand, sur le site d'Elfriede Jelinek: [https://a-e-m-gmbh.com/wessely/fpussy.htm](https://a-e-m-gmbh.com/wessely/fpussy.htm) En russe sur le site de l'hebdomadaire The New Times : [https://newtimes.ru/articles/detail/56328/](https://newtimes.ru/articles/detail/56328/)
+**[Traduction française du texte d'Elfriede Jelinek sur Pussy Riot](https://le-beau-vice.blogspot.com/2012/09/traduction-francaise-du-texte-delfriede.html)**
 
 ### Chanter. Danser. Crier.
 
@@ -19,4 +19,4 @@ Quand j'ai jeté tout cela sur le papier, je n'arrivais pas à m'imaginer qu'on 
 
 L'incarcération de ces trois jeunes femmes (et leurs conditions de détention, qui tiennent manifestement de la torture et qu'elles appellent d'ailleurs ainsi) représente une sorte de nœud temporel. Il est encore temps pour que le pays revienne sur le terrain du droit, qui doit toujours se conquérir de haute lutte, oui, y compris en chantant, en gesticulant, en dansant, en criant, n'importe comment, pourvu que ce puisse être vu et entendu. Mais si ces trois Pussy Riot devaient vraiment être enfermées, alors c'est la Russie toute entière qui s'enferme. Alors la piste de danse, où qu'elle se trouve – et elle peut se trouver partout, elle le doit, d'ailleurs! – est fermée. Alors commence une autre danse, qui déjà maintenant me fait trembler de peur. Alors, personne ne pourra dire qu'il ne savait pas.  Car ce qui a été une fois, cela doit être su à tout jamais. Et la fois en question, nous l'avons déjà eue. Et plus d'une fois. **Elfriede Jelinek** Traduit par Patrick Démerin et Dieter Hornig,
 
-Derniers ouvrages parus: __Restoroute__ et __Animaux__ (théâtre), Verdier 2012, traduit par P. Démerin et D. Hornig. __Winterreise,__ traduit par Sophie Andrée Herr. Seuil 2012. Source: [http://le-beau-vice.blogspot.fr/2012/09/traduction-francaise-du-texte-delfriede.html](http://le-beau-vice.blogspot.fr/2012/09/traduction-francaise-du-texte-delfriede.html) Publié également [en une de Libération le 4 septembre](http://www.liberation.fr/monde/2012/09/04/pussy-riot-chanter-danser-crier_843923) 
+Derniers ouvrages parus: __Restoroute__ et __Animaux__ (théâtre), Verdier 2012, traduit par P. Démerin et D. Hornig. __Winterreise,__ traduit par Sophie Andrée Herr. Seuil 2012. Source: [https://le-beau-vice.blogspot.fr/2012/09/traduction-francaise-du-texte-delfriede.html](https://le-beau-vice.blogspot.fr/2012/09/traduction-francaise-du-texte-delfriede.html) Publié également [en une de Libération le 4 septembre](https://www.liberation.fr/monde/2012/09/04/pussy-riot-chanter-danser-crier_843923) 

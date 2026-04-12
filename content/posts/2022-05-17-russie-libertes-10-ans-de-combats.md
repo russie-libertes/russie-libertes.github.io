@@ -13,4 +13,4 @@ Notre association a été créée en **mai 2012** , suite à un rassemblement sp
 
 Notre association soutient la **transformation** de la Russie en un pays **démocratique** par de nombreuses actions que vous pouvez découvrir sur notre site internet. Nous sommes un mouvement **indépendant** de tout parti politique et de toute organisation partisane.
 
-Nous ne vivons que grâce aux dons de nos adhérents. Vous pouvez nous aider à continuer notre **combat** en faisant un don ici : [http://russie-libertes.org/index.php/donner-2/](./donner-2_) ou bien en achetant votre **tote bag** Russians Against War : [https://www.helloasso.com/associations/russie-libertes/paiements/vente-de-sacs](https://www.helloasso.com/associations/russie-libertes/paiements/vente-de-sacs)
+Nous ne vivons que grâce aux dons de nos adhérents. Vous pouvez nous aider à continuer notre **combat** en faisant un don ici : [https://russie-libertes.org/index.php/donner-2/](./donner-2_) ou bien en achetant votre **tote bag** Russians Against War : [https://www.helloasso.com/associations/russie-libertes/paiements/vente-de-sacs](https://www.helloasso.com/associations/russie-libertes/paiements/vente-de-sacs)

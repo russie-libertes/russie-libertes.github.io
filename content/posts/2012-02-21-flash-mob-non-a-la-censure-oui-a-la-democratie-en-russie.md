@@ -22,7 +22,7 @@ Ce dimanche 26 février, nous nous tiendrons la "bouche cousue" devant l'ambassa
 
 Nous appelons tous les représentants des médias et de la société civile à nous soutenir lors de ce flash-mob.
 
-Page facebook : http://www.facebook.com/events/171038163006157/
+Page facebook : https://www.facebook.com/events/171038163006157/
 
 Site web de l'association (en construction) : www.russie-libertes.org
 

@@ -50,8 +50,8 @@ Organisateurs :
 
 Pour info :
 - Entretien de Galia Ackerman avec Bill Browder :
-[http://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis](http://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis)
+[https://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis](https://www.politiqueinternationale.com/revue/article.php?id_revue=134&id=1088&content=synopsis)
 - Livre de Zoïa Svetova "Les innocents seront coupables" :
-[http://www.bourin-editeur.fr/livre/les-innocents-seront-coupables.html](http://www.bourin-editeur.fr/livre/les-innocents-seront-coupables.html)
+[https://www.bourin-editeur.fr/livre/les-innocents-seront-coupables.html](https://www.bourin-editeur.fr/livre/les-innocents-seront-coupables.html)
 - Pièce d'Elena Gremina "Une heure et dix-huit minutes", traduction Tania Moguilevskaia, Gilles Morel:
-[http://www.theatre-russe.info/pages/textes/magnitski01.htm](http://www.theatre-russe.info/pages/textes/magnitski01.htm)
+[https://www.theatre-russe.info/pages/textes/magnitski01.htm](https://www.theatre-russe.info/pages/textes/magnitski01.htm)

@@ -11,18 +11,18 @@ tags:
   - "post-format-link"
 ---
 
-[](http://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
+[](https://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
 
 # PRESS RELEASE
 
 
-## [Parliamentarians vote for visa ban bill, rule of law in Russia](http://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
+## [Parliamentarians vote for visa ban bill, rule of law in Russia](https://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
 
 
 MONACO, 8 July 2012 – Parliamentarians from across Europe, Central Asia and North America today voted today to call on parliaments to ban visas and freeze assets for human rights abusers connected to the death of Russian whistleblower Sergei Magnitsky.
 
 The debate at the OSCE Parliamentary Assembly Annual Session marks the first time parliamentarians from Russia and the United States were in the same room to debate the measure. Russian President Vladimir Putin has declared nixing the measure a top foreign policy priority, and United States Senator John McCain spoke in support of the resolution. (
-[Watch video of McCain's speech.](http://youtu.be/YncIqP7IWZg)
+[Watch video of McCain's speech.](https://youtu.be/YncIqP7IWZg)
 )
     United States congressional committees approved in June similar legislation introduced by OSCE PA Vice-President Benjamin Cardin.
 

@@ -9,7 +9,7 @@ categories:
 
 **Paris, le 3 Octobre 2013**
 – Les ONG soussignées se réjouissent de l’ouverture de l’enquête préliminaire par Monsieur le Procureur de la République de Paris, après dépôt le 24 juin 2013 d’une plainte relative aux infractions financières qui auraient été commises en marge de la construction de l’autoroute entre Moscou et Saint – Petersbourg, à l’encontre de la société française VINCI CONCESSIONS RUSSIE SA et contre X.
-[](http://www.asso-sherpa.org/wp-content/uploads/2013/06/Autouroute-du-d%C3%A9saccord.jpg)
+[](https://www.asso-sherpa.org/wp-content/uploads/2013/06/Autouroute-du-d%C3%A9saccord.jpg)
 Les ONG russes qui ont largement participé à l’enquête initiale ayant permis le dépôt de cette plainte sont particulièrement satisfaites ; une possible identification des responsables des faits dénoncés, sinon leur jugement en France, apparaît possible tant, on le sait, une telle probabilité est aujourd’hui devenue impossible en Russie.
 
 Il est rappelé que, s’agissant d’une enquête fondée sur des faits de corruption d’agents publics et autres infractions financières connexes en Russie, celle qui vient d’être ouverte par le Parquet de Paris est une première.

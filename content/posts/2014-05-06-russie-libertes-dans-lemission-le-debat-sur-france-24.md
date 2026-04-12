@@ -10,7 +10,7 @@ tags:
   - "ukraine"
 ---
 
-![](http://scd.france24.com/fr//files_fr/LE-DEBAT_FR.jpg)
+![](https://scd.france24.com/fr//files_fr/LE-DEBAT_FR.jpg)
 
 Alexis Prokopiev, président de Russie-Libertés, a participé à l'émission "Le Débat" sur France 24.
-[Vous pouvez revoir l'émission en cliquant ici.](http://www.france24.com/fr/20140505-le-debat-ukraine-escalade-violence-odessa-russie-poutine-partie-1/)
+[Vous pouvez revoir l'émission en cliquant ici.](https://www.france24.com/fr/20140505-le-debat-ukraine-escalade-violence-odessa-russie-poutine-partie-1/)

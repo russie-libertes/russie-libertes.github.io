@@ -35,19 +35,19 @@ Table-ronde animée par Michel Eltchaninoff (rédacteur en chef adjoint de « Ph
 * Questions-réponses avec la salle
 
 Lecture d’un texte de Mikhaïl Khodorkovski dans le cadre du « Worldwide reading 2013 » (
-[http://www.worldwide-reading.com/archiv-en](http://www.worldwide-reading.com/archiv-en)
+[https://www.worldwide-reading.com/archiv-en](https://www.worldwide-reading.com/archiv-en)
 )
 **20h30-minuit : Concert « Liberté pour les prisonniers d'opinion en Russie ».**
 Avec :
 
-* Anyhting Maria (France) [http://mmachagray.wix.com/anythingmaria](http://mmachagray.wix.com/anythingmaria)
-* Chat (France) [http://www.lamusiquedechat.com](http://www.lamusiquedechat.com/)
+* Anyhting Maria (France) [https://mmachagray.wix.com/anythingmaria](https://mmachagray.wix.com/anythingmaria)
+* Chat (France) [https://www.lamusiquedechat.com](https://www.lamusiquedechat.com/)
 * Vassya Oblomov (Russie)
 * DJ set
 
 Partenaire média du forum-concert :
-[http://www.mediapart.fr](http://www.mediapart.fr/)
+[https://www.mediapart.fr](https://www.mediapart.fr/)
 
-![](http://www.carlosdasilva.fr/wp-content/uploads/2013/09/logo-Mediapart-HD.jpg)
+![](https://www.carlosdasilva.fr/wp-content/uploads/2013/09/logo-Mediapart-HD.jpg)
 
-Lieu : [Péniche amarrée quai d'Austerlitz, à côté du Musée de la Mode ](http://www.six-huit.com/media/site/plan_acces.pdf)
+Lieu : [Péniche amarrée quai d'Austerlitz, à côté du Musée de la Mode ](https://www.six-huit.com/media/site/plan_acces.pdf)

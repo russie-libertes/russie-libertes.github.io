@@ -2,8 +2,8 @@
 title: "Le sacré dans l’art : est-il possible de représenter les Pussy Riot sous forme d'icône en Russie ?"
 date: 2013-01-09
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2013/01/spiritual-combat-nz-illustration-02-trinity-i.jpg)
-#[](http://russielibertes.files.wordpress.com/2013/01/34-dsc_8327.jpg)
+#[](https://russielibertes.files.wordpress.com/2013/01/spiritual-combat-nz-illustration-02-trinity-i.jpg)
+#[](https://russielibertes.files.wordpress.com/2013/01/34-dsc_8327.jpg)
 categories:
   - "infos"
 ---

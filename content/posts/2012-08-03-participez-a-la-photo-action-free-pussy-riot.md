@@ -11,7 +11,7 @@ tags:
 
 **Vous aussi participez à la photo-action "Free Pussy Riot" !**
 1.
-[Achetez Libé avec la une sur les Pussy Riot ou imprimez depuis leur site.](http://journal.liberation.fr/publication/liberation/998/#!/0_0)
+[Achetez Libé avec la une sur les Pussy Riot ou imprimez depuis leur site.](https://journal.liberation.fr/publication/liberation/998/#!/0_0)
 2. Prenez-vous en photo avec le journal.
 
 3. Envoyez sur Instagram, Twitter, Facebook etc... avec la mention "Free Pussy Riot".

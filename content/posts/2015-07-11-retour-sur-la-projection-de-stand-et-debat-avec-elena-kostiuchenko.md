@@ -20,4 +20,4 @@ La discussion très pertinente avec un public réceptif et sensible à la probl�
 
 Nous remercions les associations Inter-LGBT et Amnesty International pour leur soutien de cet évènement.
 __Vous pouvez lire le portrait d`Elena Kostiouchenko dans le livre "Les autres visages de la Russie".__
-__[En savoir plus](http://autresvisages.russie-libertes.org/)__
+__[En savoir plus](https://autresvisages.russie-libertes.org/)__

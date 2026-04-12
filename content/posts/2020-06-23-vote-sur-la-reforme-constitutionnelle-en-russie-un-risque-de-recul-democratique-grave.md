@@ -1,6 +1,6 @@
 ---
 title: "Vote sur la réforme constitutionnelle en Russie : un risque de recul démocratique grave."
-#url: "http://russie-libertes.org/2020/06/23/vote-sur-la-reforme-constitutionnelle-en-russie-un-risque-de-recul-democratique-grave/"
+#url: "https://russie-libertes.org/2020/06/23/vote-sur-la-reforme-constitutionnelle-en-russie-un-risque-de-recul-democratique-grave/"
 description: "La « votation » spéciale sur la réforme constitutionnelle en Russie, qui a été repoussée en raison de la crise du Covid-19, commence par anticipation cette semaine et se termi…"
 date: 2020-06-23
 #coverImage: "images/2020_01_Capture-d’écran-2020-01-16-à-00.42.51-1200x400.png"

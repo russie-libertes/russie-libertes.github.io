@@ -1,6 +1,6 @@
 ---
 title: "Les répressions s’accentuent: Alexandra, 18 ans, encourt de 3 à 8 ans de prison pour avoir manifesté le 6 mai"
-#url: "http://russie-libertes.org/2012/06/05/alexandra-18-ans-encourt-de-3-a-8-ans-de-prison/"
+#url: "https://russie-libertes.org/2012/06/05/alexandra-18-ans-encourt-de-3-a-8-ans-de-prison/"
 description: "Alexandra Doukhanina, jeune femme de 18 ans, encourt une peine de prison pouvant aller jusqu’à 8 ans pour «participation aux désordres de masse» (art. 212-2 du Code pénal) et «violence..."
 author: "onikolaeva"
 categories:
@@ -17,6 +17,6 @@ L’argument de la police est qu’Alexandra aurait jeté des morceaux de bitum
 
 Le cas d’Alexandra est le premier cas de poursuites judiciaires suite à la manifestation du 6 mai. Mais deux autres personnes ont également été arrêtées le 30 mai, il s’agit de Maxime Lousianine et Andreï Barabanov. Ce dernier a commencé une grève de faim.
 
-L’association Russie-Libertés souligne qu’en Russie aussi la loi se base sur la présomption d’innocence et que la justice doit être impartiale. D’une part, nous remarquons qu’Alexandra a été [arrêtée par la police de façon violente](http://www.novayagazeta.ru/storage/c/2012/05/28/1338195453_382464_8.jpg) et qu’il n’est pas du tout avéré qu’elle ait blessé qui que ce soit. D’autre part, que plusieurs personnes ont porté plainte contre les actions violentes de la police lors de cette manifestation. Nous espérons, mais en doutons fortement, que l’instruction sera aussi rapide pour écrouer les responsables des violences commises par les forces de l’ordre.
+L’association Russie-Libertés souligne qu’en Russie aussi la loi se base sur la présomption d’innocence et que la justice doit être impartiale. D’une part, nous remarquons qu’Alexandra a été [arrêtée par la police de façon violente](https://www.novayagazeta.ru/storage/c/2012/05/28/1338195453_382464_8.jpg) et qu’il n’est pas du tout avéré qu’elle ait blessé qui que ce soit. D’autre part, que plusieurs personnes ont porté plainte contre les actions violentes de la police lors de cette manifestation. Nous espérons, mais en doutons fortement, que l’instruction sera aussi rapide pour écrouer les responsables des violences commises par les forces de l’ordre.
 
 Nous observons, par ailleurs, que les autorités ont gracieusement offert des appartements aux policiers légèrement blessés pendant cette manifestation. Une belle récompense pour essayer d’amadouer des fonctionnaires qui sont de moins en moins enclins à obéir aux ordres d’un président autoproclamé et complètement coupé de la situation réelle du pays.

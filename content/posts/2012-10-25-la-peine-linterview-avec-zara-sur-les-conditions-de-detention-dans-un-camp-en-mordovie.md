@@ -10,7 +10,7 @@ categories:
 
 Cette semaine, les deux membres du groupe punk Pussy Riot sont envoyées en camp de détention. Maria Alekhina purgera sa peine dans un camp dans la ville de Perm et Nadia Tolokonnikova en Mordovie, dans une région connue sous le nom de "MordovLAG". C'est de ce camp en Mordovie, que Zara Mourtazaliéva, une autre prisonnière d'une affaire fabriquée, vient de sortir après plus de 8 ans d'internement. 
 
- L’association Russie-Libertés a interviewé Zara Mourtazaliéva, l’héroïne du [livre docu-fiction de Zoïa Svétova « Les Innocents seront coupables : comment la justice est manipulée en Russie »](http://www.youtube.com/watch?v=vk1b8PVYFbk&feature=plcp) , sur les conditions de détention dans la colonie pénitentiaire. Nous allons publier ce grand interview en 3 parties. Voici la première :
+ L’association Russie-Libertés a interviewé Zara Mourtazaliéva, l’héroïne du [livre docu-fiction de Zoïa Svétova « Les Innocents seront coupables : comment la justice est manipulée en Russie »](https://www.youtube.com/watch?v=vk1b8PVYFbk&feature=plcp) , sur les conditions de détention dans la colonie pénitentiaire. Nous allons publier ce grand interview en 3 parties. Voici la première :
 
 ### **1°. Sur les types de camp et leur structure sociale.**
 
@@ -131,4 +131,4 @@ Mais l'hiérarchie dans les colonies des femmes est moins structurée: chez les 
 
 Interview et traduction: Olga Nikolaeva.
 
-[SUITE: partie 2](http://russie-libertes.org/2012/10/28/la-peine-interview-avec-zara-mourtazalieva-sur-la-detention-dans-une-colonie-en-mordovie-ou-une-des-pussy-riot-va-passer-sa-condamnation-partie-2/)
+[SUITE: partie 2](https://russie-libertes.org/2012/10/28/la-peine-interview-avec-zara-mourtazalieva-sur-la-detention-dans-une-colonie-en-mordovie-ou-une-des-pussy-riot-va-passer-sa-condamnation-partie-2/)

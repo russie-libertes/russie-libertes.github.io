@@ -7,9 +7,9 @@ categories:
 ---
 
 Article par Maria Khachaturyan publié dans la
-[Lettre de la Ligue des droits de l'Homme, №6, mai-juin 2013](http://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n6.pdf)
+[Lettre de la Ligue des droits de l'Homme, №6, mai-juin 2013](https://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n6.pdf)
 ...
-![Une manifestation du Mouvement contre l'immigration illégale](http://www.infpol.ru/upload/iblock/371/dkxpdocjmowt.jpg)
+![Une manifestation du Mouvement contre l'immigration illégale](https://www.infpol.ru/upload/iblock/371/dkxpdocjmowt.jpg)
 
 Une manifestation du Mouvement contre l'immigration illégale
 
@@ -22,4 +22,4 @@ Aux côtés de cette xénophobie institutionnelle, se développent depuis la fin
 Selon les statistiques publiées par le centre Sova, 50 personnes ont été tuées en 2004 et 219 blessées suite à des crimes de haine. Le nombre de victimes n’a fait qu’augmenter pour atteindre en 2008 le chiffre de 615 personnes, dont 116 tuées. Par la suite, on a observé une décroissance considérable : en 2012, 206 personnes ont été victimes de crimes de haine, dont 19 tuées. On y ajoute le vandalisme, le houliganisme et la propagande nationaliste qui sont encore plus fréquents.
 
 Beaucoup de responsables politiques partagent l’idéologie eurasienne, et ils sont plus nombreux encore à compter parmi les rangs des nationalistes populistes, ouvertement xénophobes. L’idéologie nationaliste occupe d’ailleurs une place importante dans le discours des deux partis minoritaires au pouvoir, les communistes et les « libéraux-démocrates ». La xénophobie se manifeste également dans la désignation des ennemis politiques extérieurs,: en 2006, on a observé une campagne gouvernementale anti-géorgienne, en 2007, c’était une campagne anti-estonienne. Actuellement, après l’adoption de lois liberticides, surtout celle qui restreint l’activité des ONG financée par des organismes étrangers, on voit fleurir la xénophobie contre l’Occident, surtout anti-américaine.
-[La suite de l'article et l'interview avec Dmitri Doubrovski](http://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n6.pdf)
+[La suite de l'article et l'interview avec Dmitri Doubrovski](https://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n6.pdf)

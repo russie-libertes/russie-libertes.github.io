@@ -8,4 +8,4 @@ categories:
 ---
 
 Lundi 8 décembre 2014 : l'association Russie-Libertés dans l'émission "Grand Angle" sur BFM TV.
-[Pour visionner l'émission cliquez ici.](http://www.bfmtv.com/mediaplayer/video/grand-angle-la-france-de-vladimir-poutine-0812-368298.html)
+[Pour visionner l'émission cliquez ici.](https://www.bfmtv.com/mediaplayer/video/grand-angle-la-france-de-vladimir-poutine-0812-368298.html)

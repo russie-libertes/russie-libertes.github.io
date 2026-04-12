@@ -14,4 +14,4 @@ Maria Khachaturyan, membre de Russie-Libertés, a manifesté hier 23/10/12 à Mo
 
 Sur la pancarte : "En 1937 vous avez emprisonné mes deux arrière-grands-pères, en 2012 c'est moi que vous allez emprisonner ?"
 
-Source photo : [Novaya Gazeta](http://www.novayagazeta.ru/photos/55082.html)
+Source photo : [Novaya Gazeta](https://www.novayagazeta.ru/photos/55082.html)

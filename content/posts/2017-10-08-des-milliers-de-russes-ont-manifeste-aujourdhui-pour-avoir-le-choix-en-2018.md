@@ -8,4 +8,4 @@ categories:
 ---
 
 Des milliers de Russes ont manifesté hier pour avoir le choix en 2018. Une belle mobilisation dans plusieurs villes du pays et un beau reportage photo de Evgeny Feldman.
-[http://navalny.feldman.photo/events/66/](http://navalny.feldman.photo/events/66/)
+[https://navalny.feldman.photo/events/66/](https://navalny.feldman.photo/events/66/)

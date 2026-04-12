@@ -6,7 +6,7 @@ categories:
   - "communique-de-presse"
 ---
 
-![](http://gdb.rferl.org/EB8AE971-A602-4B4B-A028-7D8C45DD4DA0_mw800_s.jpg)
+![](https://gdb.rferl.org/EB8AE971-A602-4B4B-A028-7D8C45DD4DA0_mw800_s.jpg)
 
 **Se souvenir, c’est combattre. Hommage à Stanislav et Anastasia.**
 Le 19 janvier 2009 à Moscou a eu lieu un double assassinat. L’avocat Stanislav Markelov et la journaliste Anastasia Babourova ont été assassinés pour le courage de faire leur travail : défendre les droits humains et exercer la liberté d’expression. Ce mois de janvier, aussi lourd pour la France, nous nous souvenons du courage de Stas et Nastia qui ont payé de leur vie pour ces libertés, toujours autant fragiles en Russie 6 ans plus tard.

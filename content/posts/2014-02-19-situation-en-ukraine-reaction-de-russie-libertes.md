@@ -9,9 +9,9 @@ tags:
 ---
 
 ...
-![](http://ic.pics.livejournal.com/zyalt/10761149/345792/345792_600.jpg)
+![](https://ic.pics.livejournal.com/zyalt/10761149/345792/345792_600.jpg)
 
-source : http://zyalt.livejournal.com/
+source : https://zyalt.livejournal.com/
 
 Communiqué de presse
 

@@ -27,7 +27,7 @@ Version en français et en russe
 
  Nous appelons la France, l’UE et la communauté internationale à soutenir les Ukrainiens et à sanctionner le plus fortement possible le régime de Poutine responsable de cette guerre. Ces responsables doivent également répondre de leurs actes de manière la plus sévère devant la justice.
 
-Nous proposons une liste détaillée de nouvelles sanctions contre le régime de Vladimir Poutine et ses complices, **[Contre la guerre de Poutine : des sanctions efficaces !](http://russie-libertes.org/wp-content/uploads/2022/02/Proposition-de-nouvelles-sanctions-.pdf)** 
+Nous proposons une liste détaillée de nouvelles sanctions contre le régime de Vladimir Poutine et ses complices, **[Contre la guerre de Poutine : des sanctions efficaces !](https://russie-libertes.org/wp-content/uploads/2022/02/Proposition-de-nouvelles-sanctions-.pdf)** 
 
  NON A LA GUERRE !
 

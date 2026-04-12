@@ -2,7 +2,7 @@
 title: "Procès et condamnations sans avocats pour des éco-activistes de la région de Voronezh"
 date: 2012-10-18
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/10/kenorj4jzvg1.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/10/kenorj4jzvg1.jpg)
 categories:
   - "infos"
 ---

@@ -8,29 +8,29 @@ tags:
   - "post-format-link"
 ---
 
-[La police donne l'assaut contre les manifestants à Moscou](http://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2940/russie-la-police-donne-l-assaut-contre-les-manifestants-a-moscou.html)
+[La police donne l'assaut contre les manifestants à Moscou](https://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2940/russie-la-police-donne-l-assaut-contre-les-manifestants-a-moscou.html)
 Créé le 05-03-2012 à 17h01 - Mis à jour à 21h12
-![Le Nouvel Observateur](http://referentiel.nouvelobs.com/wsfile/5321329241625.jpg)
+![Le Nouvel Observateur](https://referentiel.nouvelobs.com/wsfile/5321329241625.jpg)
  Par Le Nouvel Observateur
 
 ## Plusieurs centaines d'opposants ont été interpellés à Moscou et Saint-Pétersbourg, dans des conditions parfois violentes.
 
 
-![Plusieurs centaines d'opposants ont été arrêtés, dont Limonov. (Ivan Sekretarev/AP/SIPA)](http://referentiel.nouvelobs.com/file/3197112.jpg)
+![Plusieurs centaines d'opposants ont été arrêtés, dont Limonov. (Ivan Sekretarev/AP/SIPA)](https://referentiel.nouvelobs.com/file/3197112.jpg)
  Plusieurs centaines d'opposants ont été arrêtés, dont Limonov. (Ivan Sekretarev/AP/SIPA)
-Mots-clés : [Russie](http://actualite.nouvelobs.com/Russie/) , [Poutine](http://actualite.nouvelobs.com/Poutine/) , [présidentielle](http://actualite.nouvelobs.com/pr%C3%A9sidentielle/) , [scrutin](http://actualite.nouvelobs.com/scrutin/) , [élection](http://actualite.nouvelobs.com/%C3%A9lection/) , [opposition](http://actualite.nouvelobs.com/opposition/) SUR LE MÊME SUJET 
-* » ![Le Plus](http://tempsreel.nouvelobs.com/themes/common/picto-leplus.png)  [Poutine a dominé ces élections cyniques et trafiquées ](http://leplus.nouvelobs.com/redir/?key=355030)
-* » [Les activistes de Femen en prison : "une décision politique"](http://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2938/russie-les-activistes-de-femen-en-prison-une-decision-politique.html)
-* » [Poutine réélu : grandeurs et scandales en 5 vidéos](http://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2897/poutine-reelu-grandeurs-et-scandales-en-5-videos.html)
-* » [Pourquoi l'élection de Poutine n'est pas légitime](http://globe.blogs.nouvelobs.com/archive/2012/03/05/pourquoi-l-election-de-poutine-n-est-pas-legitime.html)
-* » [L'élection de Poutine, entachée de fraudes selon l'OSCE ](http://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2881/russie-l-election-de-poutine-entachee-de-fraudes-selon-l-osce.html)
-* » [La fortune cachée de Poutine ](http://tempsreel.nouvelobs.com/presidentielle-russe/20120302.OBS2797/russie-la-fortune-cachee-de-poutine.html)
-* » [Pourquoi l'élection de Poutine n'est pas légitime](http://globe.blogs.nouvelobs.com/archive/2012/03/05/pourquoi-l-election-de-poutine-n-est-pas-legitime.html)
-* » [Poutine triomphe sur fond de fraudes](http://tempsreel.nouvelobs.com/presidentielle-russe/20120304.OBS2849/russie-poutine-nous-avons-gagne-dans-une-lutte-honnete.html)
-* » [Notre dossier spécial](http://tempsreel.nouvelobs.com/presidentielle-russe/)
+Mots-clés : [Russie](https://actualite.nouvelobs.com/Russie/) , [Poutine](https://actualite.nouvelobs.com/Poutine/) , [présidentielle](https://actualite.nouvelobs.com/pr%C3%A9sidentielle/) , [scrutin](https://actualite.nouvelobs.com/scrutin/) , [élection](https://actualite.nouvelobs.com/%C3%A9lection/) , [opposition](https://actualite.nouvelobs.com/opposition/) SUR LE MÊME SUJET 
+* » ![Le Plus](https://tempsreel.nouvelobs.com/themes/common/picto-leplus.png)  [Poutine a dominé ces élections cyniques et trafiquées ](https://leplus.nouvelobs.com/redir/?key=355030)
+* » [Les activistes de Femen en prison : "une décision politique"](https://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2938/russie-les-activistes-de-femen-en-prison-une-decision-politique.html)
+* » [Poutine réélu : grandeurs et scandales en 5 vidéos](https://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2897/poutine-reelu-grandeurs-et-scandales-en-5-videos.html)
+* » [Pourquoi l'élection de Poutine n'est pas légitime](https://globe.blogs.nouvelobs.com/archive/2012/03/05/pourquoi-l-election-de-poutine-n-est-pas-legitime.html)
+* » [L'élection de Poutine, entachée de fraudes selon l'OSCE ](https://tempsreel.nouvelobs.com/presidentielle-russe/20120305.OBS2881/russie-l-election-de-poutine-entachee-de-fraudes-selon-l-osce.html)
+* » [La fortune cachée de Poutine ](https://tempsreel.nouvelobs.com/presidentielle-russe/20120302.OBS2797/russie-la-fortune-cachee-de-poutine.html)
+* » [Pourquoi l'élection de Poutine n'est pas légitime](https://globe.blogs.nouvelobs.com/archive/2012/03/05/pourquoi-l-election-de-poutine-n-est-pas-legitime.html)
+* » [Poutine triomphe sur fond de fraudes](https://tempsreel.nouvelobs.com/presidentielle-russe/20120304.OBS2849/russie-poutine-nous-avons-gagne-dans-une-lutte-honnete.html)
+* » [Notre dossier spécial](https://tempsreel.nouvelobs.com/presidentielle-russe/)
  La police a donné l'assaut contre les manifestants réunis lundi 5 mars place Pouchkine, à Moscou, lors d'une manifestation autorisée au lendemain de l'élection présidentielle qui a consacré une nouvelle fois Vladimir Poutine dès le premier tour.
 
-La police anti-émeute a procédé à de nombreuses arrestations, parfois violentes, tabassant à coup de matraques les opposants qui refusaient de se laisser embarquer, a-t-on pu constater en direct sur [le site de diffusion de vidéos en direct Ustream](http://www.ustream.tv/user/Vova_Moskva) .
+La police anti-émeute a procédé à de nombreuses arrestations, parfois violentes, tabassant à coup de matraques les opposants qui refusaient de se laisser embarquer, a-t-on pu constater en direct sur [le site de diffusion de vidéos en direct Ustream](https://www.ustream.tv/user/Vova_Moskva) .
 
 Certains manifestants, à terre, ont été frappés au sol par les forces de l'ordre. Solidaires, les manifestants se tenaient par les bras, en rang serrés avant d'être dispersés par la police. Parmi les leaders arrêtés : Alexey Navalny, Serguey Oudaltsov, Ilia Iachine.
 

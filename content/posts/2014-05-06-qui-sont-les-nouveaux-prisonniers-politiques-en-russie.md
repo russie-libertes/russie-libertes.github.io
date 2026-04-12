@@ -13,7 +13,7 @@ tags:
 Le 6 mai 2012 – jour du retour de Vladimir Poutine à la présidence de la Russie – des débordements ont éclaté sur la place Bolotnaïa à Moscou. Plusieurs témoins ainsi que les journalistes de Novaïa Gazeta indiquent que les troubles avaient été organisés par les mouvements de jeunesse pro-Kremlin et qu’il s’agissait d’une provocation. Toutefois, le Comité d’enquête fédéral a ouvert plusieurs enquêtes contre des militants et des opposants. Un vaste mouvement de solidarité avec les "prisonniers du 6 mai" s’est crée en Russie, notamment à travers les réseaux sociaux. Sous la pression, plusieurs de ces prisonniers politiques ont été libérés à la fin de l’année 2013. Sept "prisonniers du 6 mai" ont été condamnés à de lourdes peines de prison ferme allant jusqu’à quatre ans et une figurante du dossier a été condamnée à trois ans avec sursis. Par ailleurs, plusieurs militants et opposants sont aujourd’hui considérés comme des prisonniers politiques.
 
 Aujourd'hui, le 6 mai 2014, Russie-Libertés organise
-[un rassemblement à Paris pour exiger la libération des prisonniers politiques en Russie](http://russie-libertes.org/2014/05/03/rassemblement-liberez-les-prisonniers-politiques-en-russie-mardi-6-mai-2014-19h-place-igor-stravinsky-paris/)
+[un rassemblement à Paris pour exiger la libération des prisonniers politiques en Russie](https://russie-libertes.org/2014/05/03/rassemblement-liberez-les-prisonniers-politiques-en-russie-mardi-6-mai-2014-19h-place-igor-stravinsky-paris/)
 .
 
 Nous publions également une série de portraits de celles et ceux qui sont aujourd'hui privés de libertés pour des raisons politiques ou militantes.

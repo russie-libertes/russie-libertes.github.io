@@ -62,6 +62,6 @@ Le mouvement Golos a quant à lui déclaré qu'il ne reconnaît pas ces électio
 
 [https://echo.msk.ru/blog/mmironov/2907480-echo/](https://echo.msk.ru/blog/mmironov/2907480-echo/)
 
-[Preview: http://russie-libertes.org/index.php/2021/09/17/comment-le-kremlin-verrouille-les-elections-en-russie/](./2021_09_17_comment-le-kremlin-verrouille-les-elections-en-russie_)
+[Preview: https://russie-libertes.org/index.php/2021/09/17/comment-le-kremlin-verrouille-les-elections-en-russie/](./2021_09_17_comment-le-kremlin-verrouille-les-elections-en-russie_)
 
 [https://www.golosinfo.org/articles/145498](https://www.golosinfo.org/articles/145498)

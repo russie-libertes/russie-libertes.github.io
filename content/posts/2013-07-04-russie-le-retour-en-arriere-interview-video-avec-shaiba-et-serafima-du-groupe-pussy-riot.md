@@ -9,7 +9,7 @@ tags:
   - "pussy-riot"
 ---
 
-http://www.dailymotion.com/video/x11i2f6_pussy-riot-ce-genre-de-methode-n-est-pas-tres-differente-de-l-epoque-sovietique_news#.UdVUz6zOzXQ 
+https://www.dailymotion.com/video/x11i2f6_pussy-riot-ce-genre-de-methode-n-est-pas-tres-differente-de-l-epoque-sovietique_news#.UdVUz6zOzXQ 
 
 Amnesty International France (AIF) et Russie-Libertés diffusent une interview vidéo libre de droit - enregistrée à Paris fin juin 2013 - de deux membres du groupe punk féministe russe, les Pussy Riot, qui alertent l'opinion publique sur la réalité actuelle du pays, et sur la situation particulière de leurs trois amies condamnées, Katia Samoutsevitch, Nadia Tolonnikova et Maria Alekhina.
 
@@ -25,12 +25,12 @@ Depuis les élections législative et présidentielle, la Russie a connu une for
 
 L'interview est divisée en quatre parties :
 - « Russie, un véritable retour en arrière » - sur la situation des droits humains en Russie et les techniques de répression utilisées.
-http://www.dailymotion.com/video/x11i2f6_pussy-riot-ce-genre-de-methode-n-est-pas-tres-differente-de-l-epoque-sovietique_news#.UdVUz6zOzXQ
+https://www.dailymotion.com/video/x11i2f6_pussy-riot-ce-genre-de-methode-n-est-pas-tres-differente-de-l-epoque-sovietique_news#.UdVUz6zOzXQ
 - « Katia, Nadia, Macha » - sur le sort réservé à chacune des trois membres condamnées, qu'elles soient en prison (Nadia et Macha) ou en liberté conditionnelle (Katia).
-http://www.dailymotion.com/video/x11itiu_pussy-riot-katia-nadia-et-macha_news#.UdVLWazOzX
+https://www.dailymotion.com/video/x11itiu_pussy-riot-katia-nadia-et-macha_news#.UdVLWazOzX
 - « Ce que les Pussy Riot ont à vous dire » - sur leur ressenti face à la mobilisation mondiale en leur faveur et leur appel à relier les luttes entre elles.
-http://www.dailymotion.com/video/x11itiy_pussy-riot-ce-qu-elles-ont-a-vous-dire_news#.UdVLXqzOzXR
+https://www.dailymotion.com/video/x11itiy_pussy-riot-ce-qu-elles-ont-a-vous-dire_news#.UdVLXqzOzXR
 - « Qui est Pussy Riot ?» - sur le concept artistique du groupe, la philosophie et ses combats.
-http://www.dailymotion.com/video/x11iydd_pussy-riot-qui-sont-elles_news#.UdVmjqzOzXR
+https://www.dailymotion.com/video/x11iydd_pussy-riot-qui-sont-elles_news#.UdVmjqzOzXR
 
 Ces vidéos peuvent être reprises et diffusées libres de droit, sous réserve de mention des associations.

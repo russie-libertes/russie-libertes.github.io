@@ -3,7 +3,7 @@ title: "Weekend Pussy Riot à Paris !"
 date: 2013-08-13
 coverImage: "images/2013_08_manifestation_pussy-riot_alexis-prokopiev_porte-parole_russie-libertes.jpg"
 author: "rus-lib"
-#![](http://russielibertes.files.wordpress.com/2013/08/448588-supporters-of-pussy-riot-attend-a-gathering-in-vienna-liberation-fr.jpg)
+#![](https://russielibertes.files.wordpress.com/2013/08/448588-supporters-of-pussy-riot-attend-a-gathering-in-vienna-liberation-fr.jpg)
 categories:
   - "infos"
 ---

@@ -8,7 +8,7 @@ tags:
   - "post-format-link"
 ---
 
-[La Douma russe adopte une loi qui va renforcer le contrôle d’Internet | euronews, monde](http://fr.euronews.com/2012/07/12/la-douma-russe-adopte-une-loi-qui-va-renforcer-le-controle-d-internet/#.T_7i5Xl9BAg.wordpress)
+[La Douma russe adopte une loi qui va renforcer le contrôle d’Internet | euronews, monde](https://fr.euronews.com/2012/07/12/la-douma-russe-adopte-une-loi-qui-va-renforcer-le-controle-d-internet/#.T_7i5Xl9BAg.wordpress)
 .
 
 Un oui majoritaire à la Douma, la chambre basse du Parlement russe, pour une loi sur Internet qui vise à règlementer l’activités des sites web en fonction de leur contenu, et ce par le biais d’un registre fédéral.

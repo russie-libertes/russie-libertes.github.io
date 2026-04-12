@@ -21,4 +21,4 @@ __à remédier aux lacunes__
 du processus électoral. Autant de bons conseils que s’empressera de suivre, c’est certain, Monsieur Poutine après cette réélection “sans surprise”.
 
 Une voix néanmoins s’est élevée au Parlement européen ce lundi pour dénoncer un scrutin orchestré en haut lieu : “Nous avons assisté à la pose du dernier clou dans le cercueil de la démocratie russe” a ainsi déclaré le chef du groupe libéral au Parlement européen, Guy Verhofstadt, dans un communiqué.
-[http://laregledujeu.org/2012/03/06/9161/russie-une-election-incontestee-pour-un-scrutin-pour-le-moins-contestable/](http://laregledujeu.org/2012/03/06/9161/russie-une-election-incontestee-pour-un-scrutin-pour-le-moins-contestable/)
+[https://laregledujeu.org/2012/03/06/9161/russie-une-election-incontestee-pour-un-scrutin-pour-le-moins-contestable/](https://laregledujeu.org/2012/03/06/9161/russie-une-election-incontestee-pour-un-scrutin-pour-le-moins-contestable/)

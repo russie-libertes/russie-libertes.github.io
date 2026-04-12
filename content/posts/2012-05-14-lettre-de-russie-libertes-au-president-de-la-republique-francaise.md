@@ -32,4 +32,4 @@ Par ces décisions efficaces vous montrerez, Monsieur le Président, que la Fran
 
 Paris, le 12 mai 2012
 
-[Publication de la lettre dans Le noubel Obs](http://http://leplus.nouvelobs.com/contribution/553780-monsieur-le-president-de-la-republique.html)
+[Publication de la lettre dans Le noubel Obs](https://https://leplus.nouvelobs.com/contribution/553780-monsieur-le-president-de-la-republique.html)

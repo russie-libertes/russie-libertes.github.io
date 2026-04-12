@@ -36,11 +36,11 @@ L’association ARTKARA réunissant des artistes russes à Paris, la Fédératio
 
 **Artistes participants :**
 
-* PIERRE Pentchev - [www.pierrepentchev.com](http://www.pierrepentchev.com/)
-* MASHA S. (SCHMIDT) - [www.mashaschmidt.com](http://www.mashaschmidt.com/)
-* VLADIMIR KARA - [www.artkara.com](http://www.artkara.com/)
-* YANA BYSTROVA - [www.yanamorphoze.com](http://www.yanamorphoze.com/)
-* VLADIMIR SICHOV - [www.vladimirsichov.me](http://www.vladimirsichov.me/)
+* PIERRE Pentchev - [www.pierrepentchev.com](https://www.pierrepentchev.com/)
+* MASHA S. (SCHMIDT) - [www.mashaschmidt.com](https://www.mashaschmidt.com/)
+* VLADIMIR KARA - [www.artkara.com](https://www.artkara.com/)
+* YANA BYSTROVA - [www.yanamorphoze.com](https://www.yanamorphoze.com/)
+* VLADIMIR SICHOV - [www.vladimirsichov.me](https://www.vladimirsichov.me/)
 
 **Présentation de l'exposition :**
 L’association ARTKARA des artistes russes à Paris réunit des artistes qui ont choisi cette ville pour des raisons diverses, mais qui cherchent tous à perpétuer la tradition des liens franco-russes. Paris a longtemps été une terre d’asile et de création pour des artistes venus du monde entier à la recherche de la possibilité de s’exprimer librement. Ce fut le cas de nombreux Russes de l’Ecole de Paris, puis de ceux fuyant l’oppression bréjniévienne dans les années 1970–80.

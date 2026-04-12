@@ -13,4 +13,4 @@ tags:
 RIA Novosti
 
 Les manifestants d'opposition réunis samedi sur la place Pouchkine, à Moscou, ont annoncé leur intention d'organiser une "marche des millions" le 6 mai, la veille de la cérémonie d'investiture du président élu Vladimir Poutine.
-[http://fr.ria.ru/society/20120317/193938372.html](http://fr.ria.ru/society/20120317/193938372.html)
+[https://fr.ria.ru/society/20120317/193938372.html](https://fr.ria.ru/society/20120317/193938372.html)

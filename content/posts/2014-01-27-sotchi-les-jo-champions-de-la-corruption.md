@@ -13,9 +13,9 @@ tags:
 Sotchi, les JO champions de la corruption ?
 A quelques jours du début des Jeux olympiques 2014 à Sotchi en Russie la Fondation anti-corruption publie un site internet listant les cas de corruption présumée autour du chantier olympique.
 Russie-Libertés publie les chiffres du rapport. Vous pouvez découvrir la carte et les détails ici :
-[http://sochi.fbk.info/en/](http://sochi.fbk.info/en/)
+[https://sochi.fbk.info/en/](https://sochi.fbk.info/en/)
 
-![](http://sochi.fbk.info/md/tr_img/4ce9c1c0d8c04613bebf713a9ba157b1.png)
+![](https://sochi.fbk.info/md/tr_img/4ce9c1c0d8c04613bebf713a9ba157b1.png)
 
 
 Communiqué de la fondation anti-corruption :
@@ -23,11 +23,11 @@ Communiqué de la fondation anti-corruption :
 Champions of Olympic corruption: Sochi-2014 Encyclopedia of spending
 
 The Anti-Corruption Foundation is launching
-[sochi.fbk.info](http://sochi.fbk.info)
+[sochi.fbk.info](https://sochi.fbk.info)
 where we
 provide data on 30 main Olympic sites. We have found that the costs of
 the majority of them have been overstated by 1.5 to 2.5 times.
-[Sochi.fbk.info](http://Sochi.fbk.info)
+[Sochi.fbk.info](https://Sochi.fbk.info)
 is a map and encyclopedia of the Olympics, in which we
 have outlined Olympic venues, infrastructure facilities and
 environmental issues. When you click on a particular geotag icon, a
@@ -59,7 +59,7 @@ as well as information from open sources.
 
 The Anti-Corruption Foundation will continue to work on the project
 and will add new information to
-[sochi.fbk.info](http://sochi.fbk.info)
+[sochi.fbk.info](https://sochi.fbk.info)
 on a regular basis.
 
 

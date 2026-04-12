@@ -7,7 +7,7 @@ categories:
   - "nos-actions"
 ---
 
-![](http://mydailyminefielddotcom.files.wordpress.com/2013/09/free-arctic-30.jpg)
+![](https://mydailyminefielddotcom.files.wordpress.com/2013/09/free-arctic-30.jpg)
 
 Russie-Libertés participera à la mobilisation parisienne le samedi 5 octobre 2013 à 14h, Place de la République, pour demander la libération des militants écologistes et du photographe Denis Sinyakov.
 **Nous vous invitons à participer au rassemblement !**

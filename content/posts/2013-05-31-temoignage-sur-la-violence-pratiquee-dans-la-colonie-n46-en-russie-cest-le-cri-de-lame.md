@@ -15,7 +15,7 @@ Voici leur témoignage traduit en français.
 ## Le premier détenu, Ilïa Anatolïevitch SINOUCHINE :
 
 
-[youtube=http://youtu.be/Sf24RuLkmew]
+[YouTube video](https://youtu.be/Sf24RuLkmew)
 
 "Je m’appelle Ilïa Anatolïevitch SINOUCHINE, né en 1992. En ce moment je suis détenu dans la colonie pénitentiaire n°46 de la ville de Névïansk, où aujourd’hui, le 29 mai 2013, j’ai subi une agression physique et psychologique. Cela s’est produit dans l’unité n°3 de la colonie. Plus précisément cette agression est l’œuvre des détenus KONSCHIKOV, STAVROV et quatre autres personnes. Ils ont obéit aux ordres du « zampobor »* Alexey Ivanovitch NIKOLAEV, accusé pour une affaire criminelle. Lui aussi, il a exercé une violence physique et morale à mon encontre, et a porté atteinte à ma dignité personnelle. Mais aucune investigation n’a été menée suite à ces actes.
 
@@ -32,7 +32,7 @@ C’est le cri de l’âme. Le seul espoir qui nous reste, c’est vous".
 ## Et le deuxième détenu, Sergueï Vladimirovitch TREGOUBOV :
 
 
-[youtube=http://youtu.be/EA9837FCUME]
+[YouTube video](https://youtu.be/EA9837FCUME)
 
 "Je m’appelle Sergueï Vladimirovitch TREGOUBOV, je suis détenu dans la ville Névïansk, dans la colonie pénitentiaire n°46, dans l’unité n°3 – où, aujourd’hui, le 29 mai 2013 j’ai subi une des violences  de la part de détenus de l’unité n°8 en particulier d’un certain Artiom KOISCHIKOV mais aussi de Youri STAVROV, qui est dans l’unité n°3, ainsi que de la part d’autres détenus.
 
@@ -49,6 +49,6 @@ Je fais appel à vous avec l’espoir, que vous puissiez intervenir et changer c
 La vie dans une colonie pénitentiaire n’est pas facile, mais avec tout cela elle devient encore plus difficile".
 
 L’article-source de l’information :
-[http://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html](http://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html)
+[https://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html](https://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html)
 Source de la vidéo :
-[http://www.youtube.com/user/66uis?feature=watch](http://www.youtube.com/user/66uis?feature=watch)
+[https://www.youtube.com/user/66uis?feature=watch](https://www.youtube.com/user/66uis?feature=watch)

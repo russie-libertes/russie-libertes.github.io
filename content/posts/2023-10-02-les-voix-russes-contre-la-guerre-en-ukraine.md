@@ -11,7 +11,7 @@ categories:
 
 Les 29 et 30 septembre, Paris a accueilli le Forum “Soutenir les voix russes en résistance à la guerre, pour une paix durable en Europe”, organisé par l'association Russie-Libertés et ses partenaires.
 
-Le Forum s’est inscrit dans [la semaine consacrée aux voix russes contre la guerre](http://russian-voices.com/) qui incluait le festival du film documentaire international ArtDocFest, des concerts d’artistes engagés, ainsi que des présentations culturelles et artistiques.
+Le Forum s’est inscrit dans [la semaine consacrée aux voix russes contre la guerre](https://russian-voices.com/) qui incluait le festival du film documentaire international ArtDocFest, des concerts d’artistes engagés, ainsi que des présentations culturelles et artistiques.
 
 Cette discussion collective, à Paris, au cœur de l’Europe, s’est tenue dans le cadre du projet de l’ **Institut Français :** **"Face à la guerre - Dialogues Européens"** **.**
 

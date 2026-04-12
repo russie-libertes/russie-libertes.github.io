@@ -3,12 +3,12 @@ title: "« Partir du pays, ma fille, partir, c’est ça qu’il faut faire »"
 date: 2012-11-27
 author: "rus-lib"
 coverImage: "images/2012_11_photo-1.jpeg"
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-2.jpeg)
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-3.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-4.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-5.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-6.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/photo-7.jpeg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-2.jpeg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-3.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-4.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-5.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-6.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/photo-7.jpeg)
 categories:
   - "infos"
 ---
@@ -16,9 +16,9 @@ categories:
 L'article de
 **Maria Khachaturyan**
 , association Russie-Libertés, publié sur le site
-**[z-e-f.org](http://z-e-f.org/2012/11/19/partir-du-pays-ma-fille-partir/)**
+**[z-e-f.org](https://z-e-f.org/2012/11/19/partir-du-pays-ma-fille-partir/)**
 , le 19 novembre 2012.
-__Crédits photo : musée du goulag (http://gulagmuseum.org)__
+__Crédits photo : musée du goulag (https://gulagmuseum.org)__
 En décembre 2011, en miroir du printemps arabe, on attendait l’hiver russe. Selon l’habitude historique, le froid hivernal devient plutôt un catalyseur de l’activité citoyenne en Russie. Des centaines des milliers des personnes qui sont sortis dans les rues de Moscou et bien d’autres villes russes et même étrangères  (500 manifestants rien qu’à Paris).Voilà qui avait l’air sérieux. L’action spectaculaire dite du « Cercle blanc », une chaîne humaine ininterrompue  tout au long de la voie circulaire qui ceinture le centre de Moscou (16 km, ou à peu près la moitié du périphérique) s’est tenue le 27 février 2012. On sentait une véritable montée de l’activisme civique, avec par exemple
 
 <br class="unsupported del" data-shortcode="" />
@@ -36,7 +36,7 @@ Vladimir Akimenkov, 25 ans, activiste du Front de Gauche russe, souffre de colob
 
 Akimenkov est l’un des figurants de « l’affaire du bourbier » – le procès sur les participants de la manifestation du 6 mai sur la place Bolotnaïa à Moscou. Cette manifestation nommée « La marche des millions » a été autorisée par des organismes officiels. Contrairement à cet accord, une grande partie du pont Bolchoï Kamenny par lequel la manifestation devait passer a été bloquée par les services militaires. Ceci a créé un engorgement et provoqué des affrontements entre la police et les manifestants. 30 policiers ont été blessés et ont reçu des récompenses, y compris des appartements. Les juges d’instruction considèrent les évènements comme «troubles de masse » et ont déjà ouvert une enquête sur 19 boucs émissaires, dont 13 sont en prison. L’un de ces prisonniers, Oleg Arkhipenkov, n’est jamais allé sur la place Bolotnaïa.
 L’affaire a connu une nouvelle ampleur après la sortie du  documentaire (ou autoproclamé comme tel) sur la chaîne officieuse NTV « L’anatomie de contestation-2 ».  D’après ce film des personnes ressemblant aux membres du Front de gauche russe, dont Léonid Razvozjaev, Konstantin Lébédev et d’autres, seraient allés à Minsk pour négocier avec Guivi Targamadzé, l’ex-chef du Comité de Défense du Parlement de la Géorgie,  le financement de l’opposition et le calendrier des actions, y compris la manifestation du 6 mai. Ce film a servi de
-[base d’accusation](http://fr.ria.ru/russia/20121017/196335945.html)
+[base d’accusation](https://fr.ria.ru/russia/20121017/196335945.html)
 , notamment sur le fondement d’une « expertise » commanditée par le Comité d’Investigation, qui prétend que son authenticité est démontrée. Cette « démonstration » est d’une logique d’autant plus surprenante que  la rencontre avec Targamadzé aurait eu lieu en juin d’après leur propre documentaire, soit un mois après ce qu’ils appellent les « troubles de masse ». L’ouverture de l’enquête sur ces personnes n’a pas tardé. Léonid Razvozjaev qui a essayé de fuir en Ukraine pour demander l’asile politique
 
 <br class="unsupported ins" data-shortcode="" />
@@ -45,7 +45,7 @@ a été kidnappé par les services secrets russes (ce fait est déjà confirmé 
 
 **2012 vs 1937**
 «
-__Un moment, mes lunettes… Ah, tant pis, ça ira comme ça. Mon père, Tsvetkov Ivan Kirillovitch, est né le 24 juin 1900. Il a travaillé à l’usine navale à Leningrad. Il a été emprisonné et déporté à Magadan en 1936 après l’assassinat de Kirov [**[1]**](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn1) et a été accusé de participation à une organisation insurrectionnelle. Il a été fusillé le 13 avril 1938. Dans la suite le KGB a reconnu qu’il n’y avait pas suffisamment de preuves. Mon frère, c’est la même histoire, l’affaire de l’assassinat de Kirov. Il a été torturé dans les sous-sols de Loubyanka, ma grand-mère ne l’a pas reconnu. C’était un petit groupe de 7 personnes, dont une toute jeune fille de 19 ans qui a supplié qu’on lui laisse la vie, mais on ne la lui a pas laissée. En 1951 on m’a licencié de l’usine comme fille d’un ennemi du peuple__
+__Un moment, mes lunettes… Ah, tant pis, ça ira comme ça. Mon père, Tsvetkov Ivan Kirillovitch, est né le 24 juin 1900. Il a travaillé à l’usine navale à Leningrad. Il a été emprisonné et déporté à Magadan en 1936 après l’assassinat de Kirov [**[1]**](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn1) et a été accusé de participation à une organisation insurrectionnelle. Il a été fusillé le 13 avril 1938. Dans la suite le KGB a reconnu qu’il n’y avait pas suffisamment de preuves. Mon frère, c’est la même histoire, l’affaire de l’assassinat de Kirov. Il a été torturé dans les sous-sols de Loubyanka, ma grand-mère ne l’a pas reconnu. C’était un petit groupe de 7 personnes, dont une toute jeune fille de 19 ans qui a supplié qu’on lui laisse la vie, mais on ne la lui a pas laissée. En 1951 on m’a licencié de l’usine comme fille d’un ennemi du peuple__
 ».
 Une vieille dame vêtue en noir, tenant une bougie dans la main, parle la voix tremblante. Fin octobre, plusieurs actions de soutien des prisonniers politiques se sont tenues en Russie. De facto, une des plus importantes est devenue l’action annuelle de commemoration des victimes des répressions des années 30, la Grande Terreur -  l’action « Retour des noms » qui s’est déroulée devant la pierre de Solovki, monument installé en face du siège du FSB. Les participants de l’action ont lu leurs noms, professions, dates de mort, parfois en ajoutant les noms de leurs parents et proches. Cette année l’action se tient pour la sixième fois.
 
@@ -64,7 +64,7 @@ __Partir du pays, ma fille, partir, c’est ça qu’il faut faire.__
 »
 **La fin de déstalinisation et l’oubli**
 Arseniy Roginskiy est le chef et l’un des fondateurs de l’ONG « Mémorial ». Il a, lui aussi, été emprisonné pour quatre ans du 1981 au 1985. Donc il est convaincu
-[[1]](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn2)
+[[1]](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn2)
 de la nécessité de reconnaître et de parler des victimes de la terreur stalinienne :
 
 -
@@ -73,12 +73,12 @@ __-          [Maintenant on prononce les noms des victimes]. Et on dit le mot «
 Malgré le travail de recherche considérable, les chiffres exacts, sans parler de la liste de noms des victimes, restent encore inconnus. On estime le nombre de personnes fusillées en 1937-1938, pendant la Grande Terreur, à plus de 720 000. La plupart des terrains de fusillade restent toujours classés secret défense. En ce qui concerne les terrains qui sont plus ou moins bien étudiés, le calcul officiel de nombre des personnes qui y sont enterrées est biaisé. Selon le schéma des enterrements dans le terrain à Lévachovo, près de Saint-Pétersbourg, fait par les officiers de tchéka en 1965, 24 100 personnes auraient pu y être inhumés. Selon les derniers chiffres du FSB, ils étaient 19 450. On ne connaît toujours pas leurs noms – sauf pour 6 personnes, figurants d’une affaire politique bien connue.
 
 D’après Alexandre Margolis, historien, spécialiste de la période de la Grande Terreur, cette attitude des autorités n’est pas incidente
-[[2]](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn3)
+[[2]](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn3)
 «
 __A mon avis, depuis la fin des années 1990, on assiste au gel du processus de destalinisation__
 ». Il évoque également un coup d’arrêt dans la simple recherche de la vérité objective sur cette période stalinienne, page cruciale de l’histoire soviétique. «
 __Les archives des services secrets sont devenues presque inaccessibles pour les chercheurs. Qui plus est, le récent procès du professeur Souproune démontre que la pénétration dans ces archives est interprétée comme une affaire criminelle__
-[__**[3]**__](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn4)
+[__**[3]**__](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftn4)
 __. Quand je sollicite des données sur les exécutés sur le terrain à Lévachovo, dans la forêt Kovalevsky, sur d’autres terrains de fusillade de Saint-Peterbourg, on me répond qu’on ne peut les livrer qu’aux parents des personnes exécutées.__
 «
 __Et vous, professeur Margolis, vous êtes qui__
@@ -92,4 +92,4 @@ Un peuple qui oublie son passé se condamne à le revivre. Surtout lorsque le pa
 
 n’a jamais vraiment été un passé. Une nouvelle loi liberticide sur la haute trahison a été approuvée par le Parlement russe le 31 octobre. Vladimir Poutine ne tardera pas à la promulguer. Amnesty International a déjà exprimé  sa préoccupation. Le retour du concept d’ennemi du peuple ?
 **Maria Khachaturyan**
-[[1]](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref2) Extraits d’un interview avec la magazine Bolchoï gorod, http://bg.ru/society/zapomni_etu_istoriyu-9473/. [[2]](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref3) Extrait d’interview pour la revue Moskovskie novosti, http://mn.ru/society_history/20121027/329468727.html [[3]](http://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref4) l’historien qui a publié les données des archives sur les allemands déportés dans la région d’Arkhangelsk a été accusé de la violation de droit de la vie privée
+[[1]](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref2) Extraits d’un interview avec la magazine Bolchoï gorod, https://bg.ru/society/zapomni_etu_istoriyu-9473/. [[2]](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref3) Extrait d’interview pour la revue Moskovskie novosti, https://mn.ru/society_history/20121027/329468727.html [[3]](https://z-e-f.org/Users/Jonathan/Desktop/ZEF/MariaKachaturianZEF19112012_article.doc#_ftnref4) l’historien qui a publié les données des archives sur les allemands déportés dans la région d’Arkhangelsk a été accusé de la violation de droit de la vie privée

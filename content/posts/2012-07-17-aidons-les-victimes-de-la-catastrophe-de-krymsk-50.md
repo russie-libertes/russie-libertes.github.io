@@ -10,7 +10,7 @@ tags:
 
 **La région de Krasnodar dans le Sud de la Russie, et plus particulièrement la ville de Krymsk, ont été récemment touchées par une inondation dévastatrice.**
 Le
-[bilan](http://www.rfi.fr/europe/20120712-population-russe-mobilise-inondations)
+[bilan](https://www.rfi.fr/europe/20120712-population-russe-mobilise-inondations)
 est très lourd: près de 200 personnes (selon les sources officielles) ont péri dans cette catastrophe, des milliers d'autres ont vu leur maison et leurs biens entièrement ravagés.
 
 Les autorités ont tardé à réagir et les russes se sont donc auto-organisés dans tout le pays en un temps record pour amener l'aide directement sur le terrain grâce à des centaines de volontaires bénévoles.
@@ -23,7 +23,7 @@ Les autorités ont tardé à réagir et les russes se sont donc auto-organisés 
 
 **Quelques articles pour mieux comprendre le contexte humanitaire, mais aussi socio-politique de la catastrophe:**
 
-* 17.07 [Les conséquences catastrophiques des inondations en Russie auraient pu être évitées?](http://www.actualites-news-environnement.com/28745-inondations-Russie.html)
-* 12.07 [La population russe se mobilise après les inondations](http://www.rfi.fr/europe/20120712-population-russe-mobilise-inondations)
-* 10.07 [Russie : Après l'inondation meurtrière de Krymsk, comprendre et aider](http://fr.globalvoicesonline.org/2012/07/09/114982/)
-* 10.07 [Après les inondations, les Russes ne croient plus Poutine](http://www.lexpress.fr/actualite/monde/apres-les-inondations-les-russes-ne-croient-plus-poutine_1136268.html)
+* 17.07 [Les conséquences catastrophiques des inondations en Russie auraient pu être évitées?](https://www.actualites-news-environnement.com/28745-inondations-Russie.html)
+* 12.07 [La population russe se mobilise après les inondations](https://www.rfi.fr/europe/20120712-population-russe-mobilise-inondations)
+* 10.07 [Russie : Après l'inondation meurtrière de Krymsk, comprendre et aider](https://fr.globalvoicesonline.org/2012/07/09/114982/)
+* 10.07 [Après les inondations, les Russes ne croient plus Poutine](https://www.lexpress.fr/actualite/monde/apres-les-inondations-les-russes-ne-croient-plus-poutine_1136268.html)

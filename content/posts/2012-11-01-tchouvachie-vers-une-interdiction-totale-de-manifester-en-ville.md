@@ -15,7 +15,7 @@ tags:
 Communiqué de presse
 __Le 19 octobre un comité du Conseil d’Etat de Tchouvachie, une république de la Fédération de Russie sur la rive gauche de la Volga, a approuvé un projet de loi interdisant toute manifestation à proximité (moins de 50 mètres) des habitations, des bâtiments municipaux, des trottoirs, des routes, des gares, des centres commerciaux, des marchés, des arrêts de transport public, des terrains de jeux ou de sport et des lieux de culte.__
 Par ailleurs, le 26 octobre l’administration de Novotcheboksarsk, la deuxième ville de Tchouvachie, a
-[interdit une manifestation en se référant à ce projet de loi avant même qu'il n'entre en vigueur](http://ic.pics.livejournal.com/hovglu/22695927/58440/58440_original.jpg)
+[interdit une manifestation en se référant à ce projet de loi avant même qu'il n'entre en vigueur](https://ic.pics.livejournal.com/hovglu/22695927/58440/58440_original.jpg)
 .
 
 Selon des défenseurs locaux des droits humains, cette loi obligera à manifester hors de la ville en contradiction de la Constitution Russe dont l'article 31 garantit la liberté de manifester.

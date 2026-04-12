@@ -22,4 +22,4 @@ We are extremely concerned about the continued detention of three members of the
 The Government has repeatedly expressed its serious concern to the Russian Government over attempts to limit freedom of assembly. We will continue to call on the Russian Government to protect the right to legitimate protest and will raise this case at our UK-Russia Bilateral Human Rights Dialogue on 13 July.
 
 Read Full Article:
-[http://www.punknews.org/article/48069/pussy-riot-prisoners-release-appeal-dismissed](http://www.punknews.org/article/48069/pussy-riot-prisoners-release-appeal-dismissed)
+[https://www.punknews.org/article/48069/pussy-riot-prisoners-release-appeal-dismissed](https://www.punknews.org/article/48069/pussy-riot-prisoners-release-appeal-dismissed)

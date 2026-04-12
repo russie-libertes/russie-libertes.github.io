@@ -19,6 +19,6 @@ Se sont également exprimés des défenseurs des droits humains, des représenta
 Dans les médias :
 
 -
-[Radio Echo de Moscou : Свобода это не «иностранный агент»! В Париже День России отметили пикетом](http://echo.msk.ru/blog/svkos/1094082-echo/)
+[Radio Echo de Moscou : Свобода это не «иностранный агент»! В Париже День России отметили пикетом](https://echo.msk.ru/blog/svkos/1094082-echo/)
 -
-[RFI : В Париже правозащитники вышли на акцию в поддержку российских политзаключенных](http://www.russian.rfi.fr/frantsiya/20130612-v-parizhe-pravozashchitniki-vyshli-na-aktsiyu-v-podderzhku-rossiiskikh-politzakly)
+[RFI : В Париже правозащитники вышли на акцию в поддержку российских политзаключенных](https://www.russian.rfi.fr/frantsiya/20130612-v-parizhe-pravozashchitniki-vyshli-na-aktsiyu-v-podderzhku-rossiiskikh-politzakly)

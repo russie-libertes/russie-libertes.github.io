@@ -15,7 +15,7 @@ categories:
 **avec Noize MC, Jeanne Cherhal, Bielka et le leader du groupe « Sekret ».**
 **ENTRÉE LIBRE**
 Organisé par : l'association Russie-Libertés, Amnesty International France, la Fédération Internationale des ligues des droits de l’Homme (FIDH), la Ligue des Droits de l'Homme (France), la Mairie de Montreuil, en partenariat avec : Maison d’Europe et d’Orient, Mediapart.
-[__**>>> Téléchargez le programme en PDF ici.**__](http://www.amnesty.fr/sites/default/files/20012-10-06%20Russie%20en%20lutte%20pour%20la%20libert%C3%A9%20Programme%20forum-concert%20Free%20Pussy%20Riot.pdf)
+[__**>>> Téléchargez le programme en PDF ici.**__](https://www.amnesty.fr/sites/default/files/20012-10-06%20Russie%20en%20lutte%20pour%20la%20libert%C3%A9%20Programme%20forum-concert%20Free%20Pussy%20Riot.pdf)
 Amnesty International France (AIF), la Fédération Internationale des ligues des Droits de l’Homme (FIDH), la Ligue des Droits de l’Homme, la Maison de l’Europe et de l’Orient, la mairie de Montreuil, Médiapart et Russie-Libertés vous invitent à une journée de débats et de mobilisation solidaire pour les droits humains en Russie.
 
 Six ans après l’assassinat d’Anna Politkovskaia le 7 octobre 2006 à Moscou, les tentatives pour étouffer les voix critiques en Russie sont toujours présentes. Le mouvement de protestation populaire initié lors des élections de 2011 a été violemment réprimé : passages à tabac, arrestations, condamnations, lois iniques adoptées hâtivement sont autant de moyens mis en place pour faire taire ceux qui osent questionner, dénoncer, voire s’opposer. L’attitude de la justice envers les membres du groupe Pussy Riot, qui paient au prix fort leurs actions de contestation, est révélatrice d’un vaste système qui ne tolère aucune dissension.

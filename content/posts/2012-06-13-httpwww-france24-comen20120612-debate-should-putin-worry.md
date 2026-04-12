@@ -6,7 +6,7 @@ categories:
   - "infos"
 ---
 
-**Débat sur France 24 (en anglais) depuis Moscou et Paris.** [http://www.france24.com/en/20120612-debate-Should-Putin-worry](http://www.france24.com/en/20120612-debate-Should-Putin-worry) What better advertisement for a demonstration than to haul leading organisers in for questioning the day before. That’s what panellists tell François Picard after Moscow’s biggest protest since the re-election of Vladimir Putin. Participants:
+**Débat sur France 24 (en anglais) depuis Moscou et Paris.** [https://www.france24.com/en/20120612-debate-Should-Putin-worry](https://www.france24.com/en/20120612-debate-Should-Putin-worry) What better advertisement for a demonstration than to haul leading organisers in for questioning the day before. That’s what panellists tell François Picard after Moscow’s biggest protest since the re-election of Vladimir Putin. Participants:
 
 * Nina ZAKHARKINA-BEREZNER. Activist, member of "Russie Libertés" - from Moscow;
 * Tania RAKHMANOVA. Filmmaker and writer; Author of the "Au Coeur du pouvoir Russe";

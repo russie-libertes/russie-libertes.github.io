@@ -15,6 +15,6 @@ Alexeï Navalny, opposant politique et avocat anti-corruption russe, risque jusq
 
 Alors que le verdict est prévu pour le 18 juillet 2013, l'association Russie-Libertés (France) et l’Association russophone américaine de défense des droits de l’homme (États-Unis) lancent une pétition pour demander à la Haut Commissaire des Nations Unies aux Droits de l'Homme d'évaluer ce procès du point de vue des normes internationales des droits humains.
 
-* Pétition en Anglais - [http://chn.ge/1bajHMI](http://chn.ge/1bajHMI)
-* En Français - [http://chn.ge/18X2N3a](http://chn.ge/18X2N3a)
-* En Russe -[http://chn.ge/1baAOxQ](http://chn.ge/1baAOxQ)
+* Pétition en Anglais - [https://chn.ge/1bajHMI](https://chn.ge/1bajHMI)
+* En Français - [https://chn.ge/18X2N3a](https://chn.ge/18X2N3a)
+* En Russe -[https://chn.ge/1baAOxQ](https://chn.ge/1baAOxQ)

@@ -9,9 +9,9 @@ tags:
   - "pussy-riot"
 ---
 
-[](http://distilleryimage10.instagram.com/3ce7bf74918211e2bcaf22000a1fbcb3_7.jpg)
+[](https://distilleryimage10.instagram.com/3ce7bf74918211e2bcaf22000a1fbcb3_7.jpg)
 Le 20 mars 2013, le célèbre Point éphémère (Paris) a vibré en solidarité avec Nadia et Maria, deux jeunes femmes membres du groupe russe Pussy Riot, emprisonnées en Russie. Lors d'une soirée "Free Pussy Riot !" organisée dans le cadre du festival
-[Les Femmes s'en Mêlent](http://www.lfsm.net/)
+[Les Femmes s'en Mêlent](https://www.lfsm.net/)
 en partenariat avec l'association Russie-Libertés les visiteurs du lieu ont pu assister à une installation artistique vivante, une conférence de presse et un concert.
 
 La soirée a commencé avec l'exposition des œuvres de l'artiste russe
@@ -25,7 +25,7 @@ et la projection des clips des Pussy Riot sur grand écran. L'installation vivan
 **Nous ou ceux qui ont donné l’ordre de nous jeter ici pour nous forcer à nous taire ? »**
 - extrait d'une lettre de Nadia Tolokonnikova de la maison d'arrêt - a donné le coup d'envoi. Trois jeunes femmes encagoulées écrivaient des phrases des derniers discours et des extraits des lettres de Maria et Nadia sur un papier kraft accroché au mur, sous la lumière des projecteurs. Par cette installation les artistes ont voulu montrer leur soutien aux deux membres du groupe Pussy Riot toujours détenues en prison.
 __"Puisque ces jeunes femmes brillantes et courageuses ont été privées de la parole notre but est de sensibiliser le plus grand nombre de personnes aux messages qu’elles ont voulu pas__
-[](http://distilleryimage8.instagram.com/7c7a820c918711e2a94622000a1fbd9f_7.jpg)
+[](https://distilleryimage8.instagram.com/7c7a820c918711e2a94622000a1fbd9f_7.jpg)
 __ser. Le message qui n’a été entendu ni par le gouvernement ni par les représentant de la, soi-disant, justice en Russie, mais qui a traversé les murs, les frontières et les langues. Alors, tant que les jeunes femmes seront en prison, il y aura toujours d’autres Pussy Riot partout dans le monde pour continuer à dire et à écrire la vérité"__
 ont expliqué Maria Schmidt et Olga Kokorina.
 
@@ -42,7 +42,7 @@ __prisonnières de conscience__
 " à Nadia et Maria.
 
 La soirée a continué av
-[](http://distilleryimage1.instagram.com/251c9cdc919d11e292c422000a1fbe6b_7.jpg)
+[](https://distilleryimage1.instagram.com/251c9cdc919d11e292c422000a1fbe6b_7.jpg)
 ec une discussion par vidéoconférence avec
 **Ekaterina Samoutsevitch**
 , membre du groupe Pussy Riot en résidence surveillée à Moscou. Ekaterina a remercié toutes celles et tous ceux qui soutiennent le groupe partout dans le monde. Elle indiqué que les conditions de détention de Nadia et Maria étaient "

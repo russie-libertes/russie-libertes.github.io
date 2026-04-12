@@ -2,12 +2,12 @@
 title: "Les Red Hot Chili Peppers soutiennent les Pussy Riot"
 date: 2012-07-24
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/07/anthony-kiedis-of-red-hot-008.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/07/anthony-kiedis-of-red-hot-008.jpg)
 categories:
   - "infos"
 ---
 
-[http://www.arcinfo.ch/fr/monde/russie-le-chanteur-de-red-hot-chili-peppers-soutient-pussy-riot-577-518915](http://www.arcinfo.ch/fr/monde/russie-le-chanteur-de-red-hot-chili-peppers-soutient-pussy-riot-577-518915)
+[https://www.arcinfo.ch/fr/monde/russie-le-chanteur-de-red-hot-chili-peppers-soutient-pussy-riot-577-518915](https://www.arcinfo.ch/fr/monde/russie-le-chanteur-de-red-hot-chili-peppers-soutient-pussy-riot-577-518915)
 ...
 Anthony Kiedis des Red Hot Chili Peppers à Moscou le 22 juillet.
 

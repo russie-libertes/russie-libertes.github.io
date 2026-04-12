@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![](http://www.kasparov.ru/content/materials/201406/5398012F054A7.jpg)
+![](https://www.kasparov.ru/content/materials/201406/5398012F054A7.jpg)
 
 Le 11 juin 2014 Konstantin Yankauskas, candidat aux élections au Parlement de Moscou qui auront lieu en septembre cette année, a été assigné à la résidence. Il est accusé de "détournement des fonds" de la campagne électorale d’un des leaders de l’opposition russe, Alexeï Navalny, lorsque celui-ci se présentait aux élections du maire de Moscou en septembre 2013.
 

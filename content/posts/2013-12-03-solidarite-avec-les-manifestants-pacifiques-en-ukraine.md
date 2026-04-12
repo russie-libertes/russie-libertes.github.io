@@ -6,7 +6,7 @@ categories:
   - "communique-de-presse"
 ---
 
-![](http://varlamov.me/img/maidan5/45.jpg)
+![](https://varlamov.me/img/maidan5/45.jpg)
 
 Communiqué de presse
 
@@ -17,4 +17,4 @@ Russie-Libertés est solidaire avec les manifestants pacifiques en Ukraine et co
 La Russie doit avoir des relations saines et apaisées avec ses voisins. Au lieu d'empêcher l'avenir européen des Ukrainiens, le pouvoir russe devrait instaurer un dialogue normal avec cet État indépendant.
 Russie-Libertés
 
-source photo : http://zyalt.livejournal.com/
+source photo : https://zyalt.livejournal.com/

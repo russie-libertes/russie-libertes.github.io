@@ -12,9 +12,9 @@ tags:
   - "post-format-link"
 ---
 
-[http://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php](http://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php)
-[Tollé en Russie après l'adoption d'une loi anti-manifestation](http://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php) [Tollé en Russie après l'adoption d'une loi anti-manifestation](http://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php) 
-Des activistes qui manifestent contre la [loi anti-manifestation](http://echo.msk.ru/doc/895712-echo.html) votée par Moscou, brandissent des pancartes où on peut voir le président Poutine côtoyer notamment Hitler et Mussolini, qualifiant la nouvelle loi de fasciste.
+[https://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php](https://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php)
+[Tollé en Russie après l'adoption d'une loi anti-manifestation](https://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php) [Tollé en Russie après l'adoption d'une loi anti-manifestation](https://www.lapresse.ca/international/europe/201206/06/01-4532339-tolle-en-russie-apres-ladoption-dune-loi-anti-manifestation.php) 
+Des activistes qui manifestent contre la [loi anti-manifestation](https://echo.msk.ru/doc/895712-echo.html) votée par Moscou, brandissent des pancartes où on peut voir le président Poutine côtoyer notamment Hitler et Mussolini, qualifiant la nouvelle loi de fasciste.
 
  |  | **Laetitia Peron -** Agence France-Presse - Moscou | 
  | ---- | ---- | 

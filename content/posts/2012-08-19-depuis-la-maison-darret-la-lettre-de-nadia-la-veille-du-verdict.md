@@ -25,6 +25,6 @@ Les Pussy Riot sont heureuses d’avoir été à l’origine d’un vrai mouveme
 
 Merci pour ce Miracle.
 **Nadezhda Tolokonnikova**
-Source: http://mark-feygin.livejournal.com/96072.html
+Source: https://mark-feygin.livejournal.com/96072.html
 
 Traduction: Olga Kokorina

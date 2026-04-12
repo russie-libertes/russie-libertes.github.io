@@ -1,6 +1,6 @@
 ---
 title: "Nous appelons à manifester le 3 août à 11:00 devant l’ambassade de Russie à Paris. En solidarité avec les Moscovites."
-# url: "http://russie-libertes.org/2019/07/31/nous-appelons-a-manifester-le-3-aout-a-1100-devant-lambassade-de-russie-a-paris-en-solidarite-avec-les-moscovites/"
+# url: "https://russie-libertes.org/2019/07/31/nous-appelons-a-manifester-le-3-aout-a-1100-devant-lambassade-de-russie-a-paris-en-solidarite-avec-les-moscovites/"
 description: "Les citoyens russes doivent pouvoir choisir leurs représentants librement  Samedi dernier, des milliers de manifestants pacifiques ont de nouveau défilé à Moscou afin d’exiger des élections libres,…"
 date: 2019-07-31
 author: "ruslibinfo"

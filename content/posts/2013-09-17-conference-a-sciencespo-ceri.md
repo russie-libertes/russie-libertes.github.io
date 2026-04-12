@@ -13,7 +13,7 @@ Russie-Libertés a participé le 13/9 à une conférence à SciencesPo-CERI. Nin
 
 
 13/09 | 13h00-14h30
-[**Observatoire de la  Russie**](http://www.sciencespo.fr/ceri/fr/groupe/observatoire-russie)
+[**Observatoire de la  Russie**](https://www.sciencespo.fr/ceri/fr/groupe/observatoire-russie)
 avec
 * **Galia Ackerman** , journaliste et écrivain, de retour de Russie
 * **Nina Berezner**, observatrice des élections à Moscou pour __Russie-Libertés__

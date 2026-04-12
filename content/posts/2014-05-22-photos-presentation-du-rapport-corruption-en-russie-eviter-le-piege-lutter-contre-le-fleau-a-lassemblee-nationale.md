@@ -13,7 +13,7 @@ tags:
 ---
 
 Mercredi 21 mai 2014 l'association "Russie-Libertés" a présenté le
-[rapport "Corruption en Russie : éviter le piège, lutter contre le fléau"](http://russie-libertes.org/2014/05/15/presentation-du-rapport-corruption-en-russie-eviter-le-piege-lutter-contre-le-fleau-mercredi-21-mai-2014-a-19h45/)
+[rapport "Corruption en Russie : éviter le piège, lutter contre le fléau"](https://russie-libertes.org/2014/05/15/presentation-du-rapport-corruption-en-russie-eviter-le-piege-lutter-contre-le-fleau-mercredi-21-mai-2014-a-19h45/)
 à l'Assemblée nationale.
 
 Après une introduction de
@@ -36,8 +36,8 @@ Aujourd'hui, le système corrompu alimente et renforce le régime en Russie ce q
 Dans les médias :
 
 - Novaya Gazeta :
-[http://www.novayagazeta.ru/politics/63684.html](http://www.novayagazeta.ru/politics/63684.html)
+[https://www.novayagazeta.ru/politics/63684.html](https://www.novayagazeta.ru/politics/63684.html)
 - Radio Svoboda :
-[http://www.svoboda.org/content/article/25394311.html](http://www.svoboda.org/content/article/25394311.html)
+[https://www.svoboda.org/content/article/25394311.html](https://www.svoboda.org/content/article/25394311.html)
 - RFI :
-[http://www.russian.rfi.fr/rossiya/20140522-aleksei-prokopev-mnogie-frantsuzskie-kompanii-popadayut-v-lovushku-rossiiskoi-korru](http://www.russian.rfi.fr/rossiya/20140522-aleksei-prokopev-mnogie-frantsuzskie-kompanii-popadayut-v-lovushku-rossiiskoi-korru)
+[https://www.russian.rfi.fr/rossiya/20140522-aleksei-prokopev-mnogie-frantsuzskie-kompanii-popadayut-v-lovushku-rossiiskoi-korru](https://www.russian.rfi.fr/rossiya/20140522-aleksei-prokopev-mnogie-frantsuzskie-kompanii-popadayut-v-lovushku-rossiiskoi-korru)

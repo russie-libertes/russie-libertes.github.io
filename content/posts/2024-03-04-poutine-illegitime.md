@@ -15,7 +15,7 @@ Parmi les signataires sont **Bernard Guetta** et **Raphaël Glucksmann** , eurod
 Après l’assassinat d’Alexeï Navalny par Poutine, le Parlement européen a adopté une [résolution](https://www.europarl.europa.eu/doceo/document/TA-9-2024-0118_FR.html) qui remet également en question la légitimité de Poutine à la tête de la Russie et condamne fermement ce crime atroce.
 
 ![➡️](https://static.xx.fbcdn.net/images/emoji.php/v9/t9e/1/16/27a1.png)
- Suivez leur exemple est signez notre pétition « [Campagne : Poutine illégitime - Russie-Libertés](http://change.org/illegitimate_fr) »
+ Suivez leur exemple est signez notre pétition « [Campagne : Poutine illégitime - Russie-Libertés](https://change.org/illegitimate_fr) »
 
 La pétition « Poutine illégitime » fait partie de la campagne internationale de Russes en résistance intitulée « Non à Poutine et au poutinisme » qui réunit des milliers de citoyens dans le monde entier.
 

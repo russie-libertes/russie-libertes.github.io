@@ -23,9 +23,9 @@ Details for payment: legal services in the case of PR
 
 Mark Zakharovich Feygin
 119034 Moscow g., Moscow Ostozhenka street
-house 27, kor. 2, #9 [http://mark-feygin.livejournal.com/79860.html](http://mark-feygin.livejournal.com/79860.html) If you are in Moscow, you may donate in cash by contacting one of the lawyers.
+house 27, kor. 2, #9 [https://mark-feygin.livejournal.com/79860.html](https://mark-feygin.livejournal.com/79860.html) If you are in Moscow, you may donate in cash by contacting one of the lawyers.
 
-Nikolai Polozov [https://twitter.com/#!/moscow_advokat](https://twitter.com/#!/moscow_advokat) [http://www.facebook.com/profile.php?id=100001662173833](http://www.facebook.com/profile.php?id=100001662173833) +7 967 191 4055 +7 985 997 1520 Moscow.
+Nikolai Polozov [https://twitter.com/#!/moscow_advokat](https://twitter.com/#!/moscow_advokat) [https://www.facebook.com/profile.php?id=100001662173833](https://www.facebook.com/profile.php?id=100001662173833) +7 967 191 4055 +7 985 997 1520 Moscow.
 You may use (online-'wallet') :Yandex-wallet 41001236566551
 
 There is also an active PayPal account, it will be available once freepussyriot.org is back online, from it's hacker attack.

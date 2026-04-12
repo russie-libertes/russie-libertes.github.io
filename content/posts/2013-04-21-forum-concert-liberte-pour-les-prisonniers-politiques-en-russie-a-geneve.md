@@ -12,7 +12,7 @@ categories:
 Vidéo-conférence avec Yekaterina Samutsevich
 
 Ce vendredi 19 avril la ville de Genève (Suisse) a accueilli un
-[forum-concert exceptionnel](http://russie-libertes.org/2013/03/24/19-avril-geneve-forum-concert-liberte-pour-les-prisonniers-politiques-en-russie/)
+[forum-concert exceptionnel](https://russie-libertes.org/2013/03/24/19-avril-geneve-forum-concert-liberte-pour-les-prisonniers-politiques-en-russie/)
 "Liberté pour les prisonniers politiques en Russie". Organisé par l’association Russie-Libertés, Amnesty International (Section suisse) et la Fédération internationale des ligues des droits de l’homme (FIDH) cet évènement en deux parties a de nouveau attiré l'attention de l'opinion publique sur le durcissement de la situation en Russie et la multiplication de procès politiques contre des opposants.
     La soirée a commencé par une table ronde sur le thème "Qui sont les prisonniers politiques en Russie ?". Les différents intervenants ont présenté la diversité des visages de celles et ceux qui sont aujourd'hui enfermé-e-s pour leurs opinions.
 **Jean-Sébastien Blanc**
@@ -23,7 +23,7 @@ de Amnesty International (Section suisse) a rappelé l'importance du travail ré
 Table-ronde
 
 Après la projection du
-[film "Le prisonnier du Kremlin"](http://www.arte.tv/fr/le-prisonnier-du-kremlin/1917168,CmC=1907326.html)
+[film "Le prisonnier du Kremlin"](https://www.arte.tv/fr/le-prisonnier-du-kremlin/1917168,CmC=1907326.html)
 (2007) sur Mikhaïl Khodorkovski la discussion s'est engagée autour des différents visages des personnes enfermées pour des raisons politiques ou pour leurs opinions.
 **Anne Nerdrum**
 , Amnesty International France, a précisé la différence entre un "prisonnier politique" et un "prisonnier de conscience" selon Amnesty international et a rappelé qu'en 2012 son organisation a également "adopté" comme prisonnières de conscience les jeunes femmes du groupe féministe russe "Pussy Riot". Le porte-parole de Mikhail Khodorkovski en France,

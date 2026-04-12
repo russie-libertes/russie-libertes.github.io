@@ -7,11 +7,11 @@ categories:
 ---
 
 Traduction de l'article de Boris Younanov,
-[The New Times](http://www.newtimes.ru/articles/detail/63594)
+[The New Times](https://www.newtimes.ru/articles/detail/63594)
 , par Jonathan Morice, publié avec l'autorisation de l'éditeur.
 **La première visite du président de la République François Hollande, issu du parti socialiste, à Moscou a confirmé les soupçons : pour l’élite politique européenne, la question des droits de l’homme en Russie ne se pose pas. Le seul problème auquel ils prêtent attention est le risque de laisser filer des contrats.**
 ...
-![À Moscou, Hollande n'a pas trouvé de mots pour convaincre la société civile](http://www.newtimes.ru/upload/medialibrary/7e6/12_01.jpg)
+![À Moscou, Hollande n'a pas trouvé de mots pour convaincre la société civile](https://www.newtimes.ru/upload/medialibrary/7e6/12_01.jpg)
 
 À Moscou, Hollande n'a pas trouvé de mots pour convaincre la société civile
 
@@ -20,7 +20,7 @@ Traduction de l'article de Boris Younanov,
 Prenant tout de même la parole avant les hommes d’affaire, Hollande a d’abord souligné avec des accents Gaulliens les liens qui unissent la France et la  Russie, en particulier autour des notions et des valeurs de « souveraineté » et « d’indépendance ».
 **Socialiste pragmatique**
 Avant de prendre le Paris-Moscou, M.Hollande avait opportunément laissé courir le bruit : la France ne suivra pas les américains et n’adoptera pas sa propre « loi Magnitsky ». Ces mêmes français qui,
-[d’après un récent sondage IFOP](http://www.ifop.com/?option=com_publication&type=poll&id=2175)
+[d’après un récent sondage IFOP](https://www.ifop.com/?option=com_publication&type=poll&id=2175)
 sont 85% à être favorable à une telle loi peuvent garder cette opinion pour eux : c’est en tout cas ce que semble dire l’Elysée. Ce serait le prix à payer pour continuer à s’offrir le marché russe, déjà devenu pour les groupes géants tels que Renault, Air Liquide ou la Société Générale un facteur clé de leur stratégie de développement.
 
 Il s’agirait de ne pas écorcher les oreilles trop sensibles de M.Poutine. La tactique choisie par l’Elysée est parfaitement résumée par un conseiller non officiel, Philippe Migault, de l’Institut des Relations Internationales et Stratégiques (IRIS) : ne pas pousser M.Poutine dans ses retranchements, que ce soit sur le dossier Syrien ou sur la question des droits de l’homme. « Cela donnerait à penser que l’on en est resté à l’esprit de la guerre froide », souligne M.Migault. Mieux vaut donc troquer son idéalisme pour un pragmatisme de bon aloi en se concentrant sur ce qui fonctionne dans les relations bilatérales.

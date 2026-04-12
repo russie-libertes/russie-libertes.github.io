@@ -11,9 +11,9 @@ tags:
   - "russie"
 ---
 
-![fr24](http://www.france24.com/fr/sites/france24.com.fr/themes/france24/logo-fr.png)
+![fr24](https://www.france24.com/fr/sites/france24.com.fr/themes/france24/logo-fr.png)
 
 Pour la version en Français
-[cliquez ici : Procès Pussy Riot : Entre "hooliganisme" et liberté d'expression.](http://www.france24.com/fr/20120809debat-Russie-Vladimir-Poutine-Liberte-dexpression-Musique-Religion-pussy-riot-partie1)
+[cliquez ici : Procès Pussy Riot : Entre "hooliganisme" et liberté d'expression.](https://www.france24.com/fr/20120809debat-Russie-Vladimir-Poutine-Liberte-dexpression-Musique-Religion-pussy-riot-partie1)
 English version
-[here : Putin's Russia: Punks, priests and provocation.](http://www.france24.com/en/20120808-debate-part-1-pussy-riot-russia-democracy-freedom-protest)
+[here : Putin's Russia: Punks, priests and provocation.](https://www.france24.com/en/20120808-debate-part-1-pussy-riot-russia-democracy-freedom-protest)

@@ -156,4 +156,4 @@ T.F. Nous n’avons plus que 30 secondes. Que voulez vous ajouter ? Quel message
 E.S. Tout d’abord à l’intention de tous ceux qui pensent encore que notre action a été dirigée contre les sentiments des croyants, c’est faux. Nous ne voulions blesser personne, nous respectons toutes les religions, nous respectons tous les croyants. Cette action était purement politique. Nous avons essayé d’attirer l’attention sur les problèmes de la société, sur le problème du lien entre le pouvoir de L’Église Orthodoxe Russe et le pouvoir de l’État. Je pense que nous avons réussi. La société a vu ce problème, et même la société mondiale. Et ce procès a montré la réaction démesurée du pouvoir, a montré combien notre gouvernement manque de sagesse pour réagir correctement.
 T.F. Merci beaucoup. C’était Ekaterina Samoutsevitch, membre du groupe Pussy Riot. Je m’appelle Tatiana Felguengauer. Merci d’avoir été avec nous. Au revoir.
 
-Source : http://www.echo.msk.ru/programs/personalno/939598-echo/
+Source : https://www.echo.msk.ru/programs/personalno/939598-echo/

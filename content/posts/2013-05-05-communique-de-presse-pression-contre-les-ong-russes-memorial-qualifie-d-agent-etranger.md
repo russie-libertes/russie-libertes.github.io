@@ -6,7 +6,7 @@ categories:
   - "infos"
 ---
 
-![](http://icdn.lenta.ru/images/0000/0299/000002997986/pic_1367332492.jpg)
+![](https://icdn.lenta.ru/images/0000/0299/000002997986/pic_1367332492.jpg)
 
 Le parquet russe a ouvert un procès, pour l’instant administratif, contre le centre de défense des droits de l’homme “Mémorial”, basé à Saint-Pétersbourg.
 

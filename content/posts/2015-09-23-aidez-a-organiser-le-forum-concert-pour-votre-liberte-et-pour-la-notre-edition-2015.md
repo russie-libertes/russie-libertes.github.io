@@ -28,6 +28,6 @@ Chaque année, depuis 2012, l’association Russie-Libertés organise avec ses p
 ![10351648_10154659655965302_189380110821075934_n-1412608324-1442839870](https://d3v4jsc54141g1.cloudfront.net/uploads/project_image/image/233672/10351648_10154659655965302_189380110821075934_n-1412608324-1442839870.jpg)
 
 L’édition 2014 du forum-concert a été
-[organisée grâce à vos contributions](http://www.kisskissbankbank.com/fr/projects/forum-concert-pour-votre-liberte-et-pour-la-notre/wall)
+[organisée grâce à vos contributions](https://www.kisskissbankbank.com/fr/projects/forum-concert-pour-votre-liberte-et-pour-la-notre/wall)
 , aidez-nous à faire de l’édition 2015 un grand succès et une importante mobilisation pour les droits humains !
-**Contribuez ici : [http://www.kisskissbankbank.com/forum-concert-pour-votre-liberte-et-pour-la-notre-edition-2015](http://www.kisskissbankbank.com/forum-concert-pour-votre-liberte-et-pour-la-notre-edition-2015)**
+**Contribuez ici : [https://www.kisskissbankbank.com/forum-concert-pour-votre-liberte-et-pour-la-notre-edition-2015](https://www.kisskissbankbank.com/forum-concert-pour-votre-liberte-et-pour-la-notre-edition-2015)**

@@ -6,11 +6,11 @@ categories:
   - "infos"
 ---
 
-![](http://upload.wikimedia.org/wikipedia/fr/archive/9/9e/20090801223550!Conseil_de_l'EuropeLogo.jpg)
+![](https://upload.wikimedia.org/wikipedia/fr/archive/9/9e/20090801223550!Conseil_de_l'EuropeLogo.jpg)
 
-![](http://upload.wikimedia.org/wikipedia/commons/3/34/OSCE_logo.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/34/OSCE_logo.svg)
 
-![](http://2.bp.blogspot.com/_S0sCgKSyq5U/TCBURRoiSsI/AAAAAAAABMQ/4N7nGcqB1vY/s1600/unhcr_logo.jpg)
+![](https://2.bp.blogspot.com/_S0sCgKSyq5U/TCBURRoiSsI/AAAAAAAABMQ/4N7nGcqB1vY/s1600/unhcr_logo.jpg)
 
 Signataires:
 Association Russie-Libertés, Paris, France.
@@ -60,10 +60,10 @@ Avec notre plus sincère respect,
 
 Liens vers les dernières déclarations d’Amnesty International, de Human Rights Watch, de Russie-Libertés et du Conseil de coordination de l’opposition russe:
 
-* Déclaration d’Amnesty International: [http://www.amnesty.org/en/for-media/press-releases/russia-must-investigate-claims-leonid-ravozzhayev-was-abducted-and-tortured](http://www.amnesty.org/en/for-media/press-releases/russia-must-investigate-claims-leonid-ravozzhayev-was-abducted-and-tortured) .
-* Déclaration de HRW: [http://www.hrw.org/news/2012/10/24/ukraine-investigate-disappearance-asylum-seeker](http://www.hrw.org/news/2012/10/24/ukraine-investigate-disappearance-asylum-seeker) .
-* Déclaration de Russie-Libertés: [http://russie-libertes.org/2012/10/22/un-opposant-kidnappe-torture-et-pousse-a-laveu/](http://russie-libertes.org/2012/10/22/un-opposant-kidnappe-torture-et-pousse-a-laveu/) .
-* Déclaration du Conseil de coordination de l’opposition russe: [http://navalny.livejournal.com/745515.html](http://navalny.livejournal.com/745515.html) .
+* Déclaration d’Amnesty International: [https://www.amnesty.org/en/for-media/press-releases/russia-must-investigate-claims-leonid-ravozzhayev-was-abducted-and-tortured](https://www.amnesty.org/en/for-media/press-releases/russia-must-investigate-claims-leonid-ravozzhayev-was-abducted-and-tortured) .
+* Déclaration de HRW: [https://www.hrw.org/news/2012/10/24/ukraine-investigate-disappearance-asylum-seeker](https://www.hrw.org/news/2012/10/24/ukraine-investigate-disappearance-asylum-seeker) .
+* Déclaration de Russie-Libertés: [https://russie-libertes.org/2012/10/22/un-opposant-kidnappe-torture-et-pousse-a-laveu/](https://russie-libertes.org/2012/10/22/un-opposant-kidnappe-torture-et-pousse-a-laveu/) .
+* Déclaration du Conseil de coordination de l’opposition russe: [https://navalny.livejournal.com/745515.html](https://navalny.livejournal.com/745515.html) .
 
 Lettre publiée également sur Médiapart:
-[http://blogs.mediapart.fr/blog/alexis-prokopiev/281012/une-lettre-ouverte-pour-larret-des-repressions-politiques-en-russi](http://blogs.mediapart.fr/blog/alexis-prokopiev/281012/une-lettre-ouverte-pour-larret-des-repressions-politiques-en-russi)
+[https://blogs.mediapart.fr/blog/alexis-prokopiev/281012/une-lettre-ouverte-pour-larret-des-repressions-politiques-en-russi](https://blogs.mediapart.fr/blog/alexis-prokopiev/281012/une-lettre-ouverte-pour-larret-des-repressions-politiques-en-russi)

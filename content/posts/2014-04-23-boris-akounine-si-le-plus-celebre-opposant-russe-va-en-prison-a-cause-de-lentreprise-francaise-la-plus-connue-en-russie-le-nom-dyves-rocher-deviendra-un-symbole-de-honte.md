@@ -11,7 +11,7 @@ tags:
 ---
 
 Demain, 24 avril 2014, aura lieu le jugement dans "l'affaire Yves Rocher" dans laquelle l'opposant russe Alexei Navalny risque d'être condamné. Il y a plus d'un an, en février 2013,
-[Russie-Libertés avait déjà interpelé Yves Rocher sur cette affaire](http://blogs.mediapart.fr/blog/alexis-prokopiev/190213/yves-rocher-manipule-par-poutine)
+[Russie-Libertés avait déjà interpelé Yves Rocher sur cette affaire](https://blogs.mediapart.fr/blog/alexis-prokopiev/190213/yves-rocher-manipule-par-poutine)
 . Nos questions sont restées lettre morte.
 
 Nous publions ici la lettre ouverte adressé aux dirigeants de la société Yves Rocher par l'écrivain russe Boris Akounine :
@@ -27,4 +27,4 @@ __Certes, le profit, dans les affaires, c’est très important, et vous n’ave
 __Rappelez-vous aussi que, dans certaines situations, le silence est un crime, ce « crime du silence » dont Jean-Paul Sartre a jadis parlé.__
 __Boris Akounine__
 __Écrivain"__
-[Lettre également disponible sur son blog : ici.](http://borisakunin.livejournal.com/128478.html)
+[Lettre également disponible sur son blog : ici.](https://borisakunin.livejournal.com/128478.html)

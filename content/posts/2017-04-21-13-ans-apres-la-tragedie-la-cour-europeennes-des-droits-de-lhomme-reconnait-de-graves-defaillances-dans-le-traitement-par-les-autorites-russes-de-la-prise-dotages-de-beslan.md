@@ -22,6 +22,6 @@ Selon Novaïa Gazeta l'importance de la décision tient à l'
 Le Kremlin a jugé “inacceptable” la décision de la CEDH par la voix de son porte-parole Dmitri Peskov, rapporte le journal en ligne Gazeta.ru. Le ministère de la Justice russe a déclaré qu’il ferait appel du jugement.
 Pour aller plus loin:
 - sur le site du conseil de l'europe:
-[http://www.echr.coe.int/Pages/home.aspx?c=fre&p=home](http://www.echr.coe.int/Pages/home.aspx?c=fre&p=home)
+[https://www.echr.coe.int/Pages/home.aspx?c=fre&p=home](https://www.echr.coe.int/Pages/home.aspx?c=fre&p=home)
 - Novaya Gazeta:
 [https://www.novayagazeta.ru/articles/2017/04/13/72136-pochemu-reshenie-espch-po-delu-beslana](https://www.novayagazeta.ru/articles/2017/04/13/72136-pochemu-reshenie-espch-po-delu-beslana-vazhno-dlya-kazhdogo-iz-nas)

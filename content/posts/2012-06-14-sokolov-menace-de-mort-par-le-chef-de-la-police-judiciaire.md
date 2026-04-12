@@ -7,23 +7,23 @@ categories:
 ---
 
 Dmitri Mouratov, rédacteur-en-chef du quotidien russe Novaïa Gazeta a publié aujourd'hui une
-[lettre ouverte](http://www.novayagazeta.ru/columns/53061.html)
+[lettre ouverte](https://www.novayagazeta.ru/columns/53061.html)
 au chef du comité d'enquête russe (une sorte de police judiciaire), le général Alexandre Bastrykine, dans laquelle il accuse ce dernier d’avoir séquestré et menacé de mort le rédacteur en chef adjoint de ce journal, Sergueï Sokolov.
 
 ...
-![Sergeï Sokolov (AP/Novaïa Gazeta)](http://www.cpj.org/sokolov.AP.jpg)
+![Sergeï Sokolov (AP/Novaïa Gazeta)](https://www.cpj.org/sokolov.AP.jpg)
 
 Sergeï Sokolov (AP/Novaïa Gazeta)
 **Dernières nouvelles (14 juin à 16h) :**
 **Le général Bastrykine aurait présenté ses excuses**
 à Dmitri Mouratov et Sergeï Sokolov: « Je n'avais pas le droit de perdre mon sang froid, mais je l'ai perdu. Je vous exprime mes excuses » aurait-il dit lors d'une rencontre avec Dmitri Mouratov.
-[http://www.novayagazeta.ru/news/57466.html](http://www.novayagazeta.ru/news/57466.html)
+[https://www.novayagazeta.ru/news/57466.html](https://www.novayagazeta.ru/news/57466.html)
 -------------------------------------
 
 Sokolov a publié le 4 juin dernier un
-[article](http://www.novayagazeta.ru/politics/52939.html)
+[article](https://www.novayagazeta.ru/politics/52939.html)
 intitulé « Tarif officiel de l’Etat: Dix mille et quelques roubles pour une vie »  dans lequel il critique la légèreté de la condamnation de Sergeï Tsepovyaz, accusé d’avoir camouflé
-[une violente tuerie](http://www.thelincolnlawyer.com/fr/15400.html)
+[une violente tuerie](https://www.thelincolnlawyer.com/fr/15400.html)
 de 12 personnes, dont un nourrisson et un adolescent de quatorze ans, et qui n’a écopé que d’une simple amende de 3 700 euros. Sokolov s’est indigné de cette situation et a qualifié les hauts fonctionnaires russes, dont Bastrykine, de « servants » de criminels.
 
 Le générak Bastrykine n’a pas tardé à demander des excuses. Lors d’une réunion des forces de l’ordre au Caucase à laquelle Bastrykine a invité des journalistes, Sokolov se serait excusé du ton de l’article, mais aurait aussi posé des questions sur les détails de l’affaire Tsepovyaz. Finalement, le général n’aurait pas accepté ses excuses et l’aurait publiquement dénigré avec des menaces à peine voilées.

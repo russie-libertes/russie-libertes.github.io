@@ -7,9 +7,9 @@ categories:
 ---
 
 ...
-![](http://varlamov.me/2014/bolot_sud/05.jpg)
+![](https://varlamov.me/2014/bolot_sud/05.jpg)
 
-source photo : http://zyalt.livejournal.com/1009343.html
+source photo : https://zyalt.livejournal.com/1009343.html
 
 Communiqué de presse
 **Après les JO, retour des condamnations politiques en Russie.**

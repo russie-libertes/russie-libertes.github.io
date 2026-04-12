@@ -24,7 +24,7 @@ Le 21 février dernier, des femmes vêtues de cagoules de couleurs se sont rendu
 
 La Russie est un pays laïque qui doit, selon la loi, pratiquer une stricte séparation entre l’Église et l’État. Pourtant, depuis le début de la procédure, le tribunal se réfère à la morale religieuse la plus stricte, en qualifiant de "sacrilège" l’acte commis par les trois jeunes femmes, qui auraient soit-disant "insulté" et "infligé de profondes blessures morales aux chrétiens orthodoxes" et “saboté les fondements spirituels de l'Etat”. Au-delà de leur caractère abusif, ces accusations n'ont aucune valeur légale en Russie et sont même contraires à la Constitution russe.
 Dans le même temps, l'accusation ne cesse d'émettre des hypothèses absurdes et fantaisistes. L’action de Pussy Riot relèverait d’une «conspiration internationale». L’avocat de l'accusation, Mikhail Kuznetsov, a même déclaré que: «la prière punk de Pussy Riot peut être lié aux attentats terroristes du 11 septembre». Il a également indiqué que : «la représentation des jeunes fille a été organisé par « un groupe satanique» (source:
-[http://lenta.ru/news/2012/07/20/riot/](http://lenta.ru/news/2012/07/20/riot/)
+[https://lenta.ru/news/2012/07/20/riot/](https://lenta.ru/news/2012/07/20/riot/)
 ).
 L'association Russie-Libertés condamne ce retour à des pratiques et des propos moyenâgeux! Nous dénonçons une justice utilisée comme arme politique par le régime russe pour réprimer toute forme de contestation
 pacifique,

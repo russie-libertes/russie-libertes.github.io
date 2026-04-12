@@ -1,6 +1,6 @@
 ---
 title: "Russie-Libertés dénonce ce véritable coup constitutionnel du Kremlin et soutient la mobilisation pour dire « Non » à ce détournement des droits et libertés des citoyens russes."
-#url: "http://russie-libertes.org/2020/03/11/non-au-coup-constitutionnel-de-vladimir-poutine/"
+#url: "https://russie-libertes.org/2020/03/11/non-au-coup-constitutionnel-de-vladimir-poutine/"
 description: "Le Parlement russe a voté, le 10 mars 2020, en faveur d’un amendement constitutionnel qui ouvre la voie à un cinquième mandat présidentiel pour Vladimir Poutine. Cette exception à la règle se…"
 date: 2020-03-11
 #coverImage: "images/2020_03_Inauguration_of_Dmitry_Medvedev_7_May_2008-15.jpg"

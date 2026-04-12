@@ -8,10 +8,10 @@ categories:
   - "nos-actions"
 ---
 
-![](http://s1.libe.com/img/logo-liberation-311x113.png)
+![](https://s1.libe.com/img/logo-liberation-311x113.png)
 
 Lettre ouverte à Laurent Fabius, ministre des Affaires étrangères publiée aujourd'hui dans le
-[journal Libération](http://www.liberation.fr/monde/2014/10/16/lettre-ouverte-a-laurent-fabius-ministre-des-affaires-etrangeres_1122997)
+[journal Libération](https://www.liberation.fr/monde/2014/10/16/lettre-ouverte-a-laurent-fabius-ministre-des-affaires-etrangeres_1122997)
 .
 
 Plusieurs ONG se mobilisent contre l’extradition vers la Russie d’un militant des droits de l'homme franco-russe, arrêté en Bulgarie cet été.

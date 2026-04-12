@@ -26,4 +26,4 @@ en contradiction comme le note Alexandre Verkhovski. Néanmoins, l’analyse des
 législatifs peut servir de point de départ pour un aperçu de la laïcité et de la liberté de con
 science en Russie. Elle sert également de base à une analyse de « la laïcité empirique »,
 pour reprendre l’expression de Jean-Paul Willaime."
-[Lire la suite...](http://www.ldh-france.org/Lettre-Les-droits-de-l-Homme-en,5122.html)
+[Lire la suite...](https://www.ldh-france.org/Lettre-Les-droits-de-l-Homme-en,5122.html)

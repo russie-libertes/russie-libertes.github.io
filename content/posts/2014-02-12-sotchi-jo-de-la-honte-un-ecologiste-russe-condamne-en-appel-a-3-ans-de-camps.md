@@ -9,7 +9,7 @@ tags:
   - "vitishko"
 ---
 
-![](http://www.ewnc.org/files/images/28-29_EWNC_conference_DSCN9656.jpg)
+![](https://www.ewnc.org/files/images/28-29_EWNC_conference_DSCN9656.jpg)
 
 Communiqué de presse
 

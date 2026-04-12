@@ -13,7 +13,7 @@ La révolte des détenus dans une colonie IK-6 à Kopeisk, Russie. Source photo:
 
 Les conditions de détention dans les prisons russes sont devenues l'objet d'une grande discussion partout dans le monde suite aux manifestations de Nadia Tolokonnikova, une des Pussy Riot, contre les violations des droits des détenues par l'administration de la colonie IK-14 en Mordovie.
 
-Dans [le dernier numéro de Lettre Droits de l'Homme](http://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n7.pdf) l'enjeu de la transparence dans les colonies et prisons russes est aussi traité par l'association Russie-Libertés. L'auteur remercie la Ligue des Droits de l'Homme, ainsi que les membres d'ONK russes qui ont présenté les témoignages très riches en informations sur les conditions de détention et les difficultés que rencontrent des commissions de surveillance publique lors de leurs visites dans les prisons russes.
+Dans [le dernier numéro de Lettre Droits de l'Homme](https://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n7.pdf) l'enjeu de la transparence dans les colonies et prisons russes est aussi traité par l'association Russie-Libertés. L'auteur remercie la Ligue des Droits de l'Homme, ainsi que les membres d'ONK russes qui ont présenté les témoignages très riches en informations sur les conditions de détention et les difficultés que rencontrent des commissions de surveillance publique lors de leurs visites dans les prisons russes.
 
 Voici l'article en entier avec plus de témoignages  sur la situation dans les colonies pénitentiaires russes et un vidéo-témoignage par un détenu  :
 
@@ -82,7 +82,7 @@ Il faut enfin que les personnes militant pour les droits humains puissent deveni
 
 Un exemple d'un témoignage par un détenu d'une colonie en Russie sur les violences en mois de mai 2013. Vidéo en russe suivie d'un texte en français:
 
-[youtube=http://www.youtube.com/watch?v=EA9837FCUME]
+[YouTube video](https://www.youtube.com/watch?v=EA9837FCUME)
 
 "Je m’appelle Sergueï Vladimirovitch TREGOUBOV, je suis détenu dans la ville Névïansk, dans la colonie pénitentiaire n°46, dans l’unité n°3 – où, aujourd’hui, le 29 mai 2013 j’ai subi une des violences  de la part de détenus de l’unité n°8, en particulier d’un certain Artiom KOISCHIKOV mais aussi de Youri STAVROV, qui est dans l’unité n°3, ainsi que de la part d’autres détenus.
 
@@ -99,5 +99,5 @@ Je fais appel à vous avec l’espoir, que vous puissiez intervenir et changer c
 La vie dans une colonie pénitentiaire n’est pas facile, mais avec tout cela elle devient encore plus difficile".
 
 L’article-source de l’information sur la colonie n°46 :
-[http://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html](http://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html)
+[https://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html](https://veved.ru/news/32540-v-ik-46-dejstvuet-omon-buntuyut-15-tysyachi-osuzhdennyx.html)
 L'auteur de l'article remercie Anna Kosova pour son grand travail de rédaction.

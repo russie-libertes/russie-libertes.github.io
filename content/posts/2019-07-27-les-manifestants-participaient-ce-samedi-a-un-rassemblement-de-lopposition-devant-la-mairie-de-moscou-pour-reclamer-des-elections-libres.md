@@ -1,6 +1,6 @@
 ---
 title: "Les manifestants participaient ce samedi à un rassemblement de l’opposition devant la mairie de Moscou pour réclamer des élections libres."
-#url: "http://russie-libertes.org/2019/07/27/les-manifestants-participaient-ce-samedi-a-un-rassemblement-de-lopposition-devant-la-mairie-de-moscou-pour-reclamer-des-elections-libres/"
+#url: "https://russie-libertes.org/2019/07/27/les-manifestants-participaient-ce-samedi-a-un-rassemblement-de-lopposition-devant-la-mairie-de-moscou-pour-reclamer-des-elections-libres/"
 description: "Au total, «1074 personnes ont été arrêtées pour des infractions diverses au cours d’une manifestation non autorisée dans le centre de la capitale», a déclaré la police de Moscou, citée…"
 date: 2019-07-27
 coverImage: "images/2019_07_Moscou-Manifestastion-300x108.jpeg"
@@ -33,4 +33,4 @@ Exceptionnellement élevée après l’annexion de la Crimée, la popularité de
 
 Malgré de grands projets de modernisation et l’amélioration de la qualité de vie ces dernières années, la mégapole de 12 millions d’habitants officiels demeure plus favorable à l’opposition que le reste du pays.
 
-[Le Figaro avec Reuters](http://www.lefigaro.fr/flash-actu/arrestations-preventives-a-moscou-avant-un-rassemblement-illegal-20190727)
+[Le Figaro avec Reuters](https://www.lefigaro.fr/flash-actu/arrestations-preventives-a-moscou-avant-un-rassemblement-illegal-20190727)

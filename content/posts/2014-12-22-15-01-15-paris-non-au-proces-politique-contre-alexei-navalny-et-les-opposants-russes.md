@@ -2,7 +2,7 @@
 title: "15.01.15 Paris : Non aux procès politiques contre Alexeï Navalny et les opposants russes"
 date: 2014-12-22
 author: "rus-lib"
-#[](http://russie-libertes.info/wp-content/uploads/2014/12/1004628_10153024216990302_433802675_n.jpg)
+#[](https://russie-libertes.info/wp-content/uploads/2014/12/1004628_10153024216990302_433802675_n.jpg)
 categories:
   - "nos-actions"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nous avons manifesté le 3 août à 11:00 devant l’ambassade de Russie à Paris."
-# url: "http://russie-libertes.org/2019/08/04/lambassade-russe-a-paris-etait-visitee-par-les-manifestants/"
+# url: "https://russie-libertes.org/2019/08/04/lambassade-russe-a-paris-etait-visitee-par-les-manifestants/"
 description: "Le samedi dernier, l’ambassade russe à Paris était de nouveau visitée par les manifestants (après la venue le vendredi 2 août des jeunes français qui critiquaient les pouvoir russe pour leur …"
 date: 2019-08-04
 author: "ruslibinfo"

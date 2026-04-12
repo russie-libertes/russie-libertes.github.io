@@ -11,4 +11,4 @@ tags:
 
 **Reporters Sans Frontières**
 Les média russes sont martyrisés. Tout est contrôlé, plus ou moins directement, par le pouvoir. Webdocumentaire mis en ligne sur le site de Reporters Sans Frontières.
-[http://www.rsf.org/webdoc/au_coeur_de_la_censure/#/larussiesouscontrole](http://www.rsf.org/webdoc/au_coeur_de_la_censure/#/larussiesouscontrole)
+[https://www.rsf.org/webdoc/au_coeur_de_la_censure/#/larussiesouscontrole](https://www.rsf.org/webdoc/au_coeur_de_la_censure/#/larussiesouscontrole)

@@ -13,7 +13,7 @@ tags:
 ---
 
 Hier, le 9 mars 2016, des hommes masqués ont attaqué un véhicule avec des responsables de l'ONG "Comité pour la prévention de la torture", des défenseurs du Joint Mobile Group et des journalistes russes et étrangers. L'attaque s'est produite sur la route entre l'Ingouchie et Grozny, la capitale de la Tchétchénie. Plusieurs personnes ont été gravement blessées et leur véhicule a été brûlé par les assaillants,
-[indique le média Mediazona](http://zona.media/online/95_online/)
+[indique le média Mediazona](https://zona.media/online/95_online/)
 .
 
 Peu de temps après cette agression, les bureaux du "Comité pour la prévention de la torture" à Karaboulak en Ingouchie (République du Caucase du nord au sein de la Fédération de Russie) ont été investis par des hommes armés et cagoulés.

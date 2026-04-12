@@ -24,6 +24,6 @@ Vendredi 26 avril le vernissage de l'exposition a eu un franc succès. La salle 
 * **Dorothée Delaunay**, Amnesty International France, section LGBT et
 * **Pacôme Rupin**, Président de l’association Divercity de diplômés LGBT de grandes écoles, sont aussi intervenus pour faire part de la colère des associations face à l'homophobie et aux lois liberticides en Russie. Ils ont notamment insisté que ces lois font partie d'un mouvement générale de stigmatisation et privation de libertés pour des catégories de population en Russie.
 
-Vous pouvez visiter l'exposition jusqu'au 14 mai 2013, le lieu : [http://motsbouche.com](http://motsbouche.com)
+Vous pouvez visiter l'exposition jusqu'au 14 mai 2013, le lieu : [https://motsbouche.com](https://motsbouche.com)
 
 Coordination de l'organisation et photos : Nina Berezner-Zakharkina

@@ -64,10 +64,10 @@ Le recours à la torture et aux mauvais traitements est présent à tous les sta
 Suite à l'amnistie déclarée à l'occasion de la journée de la Constitution, le 12 décembre 2013, ou à une grâce présidentielle, certains prisonniers politiques ont été remis en liberté. Si ces libérations étaient très attendue par la société civile en Russie et à l’étranger, cette loi d'amnistie est davantage un effet de communication qu’un véritable tournant vers un système judiciaire efficace et indépendant.
 
 Les libérations emblématiques des Pussy Riot et de Mikhail Khodorkovsky interviennent à quelques mois de la fin de leur peine,
-[Agir pour la Russie](http://www.amnesty.fr/AI-en-action/Protegeons-les-personnes/Personnes-en-danger/Actions/Russie-il-faut-liberer-tous-les-manifestants-pacifiques-de-Bolotnaia-encore-emprisonnes-10451)
+[Agir pour la Russie](https://www.amnesty.fr/AI-en-action/Protegeons-les-personnes/Personnes-en-danger/Actions/Russie-il-faut-liberer-tous-les-manifestants-pacifiques-de-Bolotnaia-encore-emprisonnes-10451)
 .
 
 Le climat politique en Russie laisse craindre un nouveau durcissement de la répression après les festivités olympiques.
-[](http://russie-libertes.info/wp-content/uploads/2014/02/img_6100.jpg)
-[](http://russie-libertes.info/wp-content/uploads/2014/02/p1100656.jpg)
-[](http://russie-libertes.info/wp-content/uploads/2014/02/p11006581.jpg)
+[](https://russie-libertes.info/wp-content/uploads/2014/02/img_6100.jpg)
+[](https://russie-libertes.info/wp-content/uploads/2014/02/p1100656.jpg)
+[](https://russie-libertes.info/wp-content/uploads/2014/02/p11006581.jpg)

@@ -10,7 +10,7 @@ tags:
   - "russie"
 ---
 
-![baraban](http://dreptultau.hotnews.md/upload/articles/2011-12/13808-13231-25372-50.jpg)
+![baraban](https://dreptultau.hotnews.md/upload/articles/2011-12/13808-13231-25372-50.jpg)
 
 La Librairie du Globe et l'association Russie-Libertés vous invitent :
 **Le 2 mai 2012, à 19h00**

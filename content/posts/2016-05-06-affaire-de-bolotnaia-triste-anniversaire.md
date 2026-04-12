@@ -26,5 +26,5 @@ Ce n’est pas étonnant que les manifestations sont de moins en moins nombreuse
 Mais ce n’est pas cette triste image de la société russe que nous voulons retenir aujourd’hui. Ce sont les visages des prisonniers de Bolotnaïa éclairés par l’espoir de voir un jour leur pays libre. Les visages des enfants écrivant leurs mémoires sur l’histoire russe en quête de la vérité. Les jeunes personnes conscientes et ouvertes vers le monde, ce sont elles qui sans doute feront l’avenir de ce beau pays. Il est primordial pour nous aujourd’hui de refaire la lumière sur l’affaire Bolotnaïa, la première affaire de la nouvelle ère Poutinienne qui a ouvert le bal des représailles et de l’étouffement de toute opinion différente en Russie. C’est pour le respect de cette liberté que nous luttons tous.
 
 Pour en savoir plus :
-[http://6may.org/](http://6may.org/)
+[https://6may.org/](https://6may.org/)
 [https://fr.wikipedia.org/wiki/Affaire_Bolotna%C3%AFa](https://fr.wikipedia.org/wiki/Affaire_Bolotna%C3%AFa)

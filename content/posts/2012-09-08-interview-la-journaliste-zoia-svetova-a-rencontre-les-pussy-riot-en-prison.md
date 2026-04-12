@@ -6,11 +6,11 @@ categories:
   - "infos"
 ---
 
-[Libération - 7 septembre 2012](http://www.liberation.fr/monde/2012/09/07/des-baraques-avec-vingt-lits-superposes-faits-au-carre_844806) 
+[Libération - 7 septembre 2012](https://www.liberation.fr/monde/2012/09/07/des-baraques-avec-vingt-lits-superposes-faits-au-carre_844806) 
 #### «Des baraques avec vingt lits superposés faits au carré»
 
 
-![Au camp de femmes de Mojaïsk, en avril 2012](http://md0.libe.com/photo/453674/?modified_at=1347098431&ratio_x=03&ratio_y=02&width=476)
+![Au camp de femmes de Mojaïsk, en avril 2012](https://md0.libe.com/photo/453674/?modified_at=1347098431&ratio_x=03&ratio_y=02&width=476)
 
 Au camp de femmes de Mojaïsk, en avril 2012 (Photo ANDREY BULBASHOV. AFP)
 

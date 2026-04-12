@@ -23,4 +23,4 @@ Aujourd'hui Russie-Libertés continue la mobilisation !
 * ![](images/2014_12_unnamed2.jpg)
 * ![](images/2014_12_unnamed3.jpg)
 
-Sources photos : Olga Kokorina, Maxim Platonov, Nicolay Koblyakov et Philippe Afantchawo ( [www.philipka.com](http://www.philipka.com/) ).
+Sources photos : Olga Kokorina, Maxim Platonov, Nicolay Koblyakov et Philippe Afantchawo ( [www.philipka.com](https://www.philipka.com/) ).

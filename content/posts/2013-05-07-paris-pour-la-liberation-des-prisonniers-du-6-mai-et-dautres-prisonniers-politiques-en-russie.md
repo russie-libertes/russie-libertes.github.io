@@ -3,7 +3,7 @@ title: "Paris aussi - pour la libération des  prisonniers du 6 mai  et d'autres
 date: 2013-05-07
 coverImage: "images/2013_05_1367862872_212873_67.jpg"
 author: "rus-lib"
-#![](http://russielibertes.files.wordpress.com/2013/05/5-mai-2-jpg.png)
+#![](https://russielibertes.files.wordpress.com/2013/05/5-mai-2-jpg.png)
 categories:
   - "infos"
 ---
@@ -16,5 +16,5 @@ Hier, à Moscou, les dizaines de milles de personnes ont participé à la manife
 
 A Paris, le 5 mai, entre soixante et quatre-vingts personnes se sont réunies à la place d'Igor Stravinski, près du Centre Georges Pompidou, pour demander la libération de tous prisonniers politiques poursuivis en Russie.
 
-L'association Russie-Libertés soutient cette demande et a appelé lors la manifestation à Paris d'aider les "prisonniers du 6 mai" aussi comme d'autres prisonniers politiques. Sur le site web [Rosuznik](http://rosuznik.org/) (en Russe) vous avez les coordonnées des avocats qui travaillent pour leur défense en Russie.
-Voici [les portraits détaillés](http://russie-libertes.org/2013/04/21/russie-qui-sont-les-prisonniers-du-6-mai-publie-dans-mediapart/#more-2974) de ces "prisonniers du 6 mai".
+L'association Russie-Libertés soutient cette demande et a appelé lors la manifestation à Paris d'aider les "prisonniers du 6 mai" aussi comme d'autres prisonniers politiques. Sur le site web [Rosuznik](https://rosuznik.org/) (en Russe) vous avez les coordonnées des avocats qui travaillent pour leur défense en Russie.
+Voici [les portraits détaillés](https://russie-libertes.org/2013/04/21/russie-qui-sont-les-prisonniers-du-6-mai-publie-dans-mediapart/#more-2974) de ces "prisonniers du 6 mai".

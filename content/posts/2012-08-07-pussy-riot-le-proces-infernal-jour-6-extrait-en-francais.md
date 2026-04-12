@@ -7,12 +7,12 @@ categories:
 ---
 
 
-![](http://s1.lemde.fr/image/2012/07/20/540x270/1736495_3_d43d_les-trois-jeunes-femmes-ont-ete-arretees-il-y-a_0cec78cd6e4141466519a62026a8c1b4.jpg)
+![](https://s1.lemde.fr/image/2012/07/20/540x270/1736495_3_d43d_les-trois-jeunes-femmes-ont-ete-arretees-il-y-a_0cec78cd6e4141466519a62026a8c1b4.jpg)
 
 
-Nous publions un extrait de [l'article de Novaya Gazeta](http://www.novayagazeta.ru/news/58788.html) sur le déroulement du procès sur Pussy Riot. Dès le début, leur [procès](http://www.lemonde.fr/proces/) a été marqué par des altercations entre les avocats des Pussy Riot et la présidente du tribunal, Marina Syrova. L'extrait que nous présentons  donne une bonne illustration de ces alteractions, les arguments des avocats et du comportement de la présidente du tribunal.
+Nous publions un extrait de [l'article de Novaya Gazeta](https://www.novayagazeta.ru/news/58788.html) sur le déroulement du procès sur Pussy Riot. Dès le début, leur [procès](https://www.lemonde.fr/proces/) a été marqué par des altercations entre les avocats des Pussy Riot et la présidente du tribunal, Marina Syrova. L'extrait que nous présentons  donne une bonne illustration de ces alteractions, les arguments des avocats et du comportement de la présidente du tribunal.
 
-Citations des jours précédents: [Jours 1 et 2](http://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/) ; [Jour 3](http://russie-libertes.org/2012/08/02/pussy-riot-le-proces-infernal-jour-3-citations-en-francais/) ; [Jour 4](http://russie-libertes.org/2012/08/03/pussy-riot-le-proces-infernal-jour-4-citations-en-francais/) ; [Jour 5](http://russie-libertes.org/2012/08/07/le-proces-des-pussy-riot-en-direct-et-en-francais/) .
+Citations des jours précédents: [Jours 1 et 2](https://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/) ; [Jour 3](https://russie-libertes.org/2012/08/02/pussy-riot-le-proces-infernal-jour-3-citations-en-francais/) ; [Jour 4](https://russie-libertes.org/2012/08/03/pussy-riot-le-proces-infernal-jour-4-citations-en-francais/) ; [Jour 5](https://russie-libertes.org/2012/08/07/le-proces-des-pussy-riot-en-direct-et-en-francais/) .
 
 Association Russie-Libertés.
 

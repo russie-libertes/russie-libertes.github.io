@@ -2,7 +2,7 @@
 title: "Monsieur Ayrault, ne reculez pas sur les Droits de l’Homme en Russie !"
 date: 2013-10-30
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2013/10/ayrault_russie.jpg)
+#[](https://russielibertes.files.wordpress.com/2013/10/ayrault_russie.jpg)
 categories:
   - "nos-actions"
 ---

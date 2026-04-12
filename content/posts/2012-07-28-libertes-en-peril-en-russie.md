@@ -6,9 +6,9 @@ categories:
   - "infos"
 ---
 
-[http://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php](http://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php)
+[https://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php](https://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php)
 
- | ![Frédérick Lavoie.](http://images.lpcdn.ca/56x37/201008/13/192341-frederick-lavoie.jpg) | [Frédérick Lavoie](http://recherche.cyberpresse.ca/cyberpresse/search/theme/cyberpresse/template/result?q=&fq[]=author%3AFr%C3%A9d%C3%A9rick+Lavoie&sort=recent) , collaboration spéciale La Presse | 
+ | ![Frédérick Lavoie.](https://images.lpcdn.ca/56x37/201008/13/192341-frederick-lavoie.jpg) | [Frédérick Lavoie](https://recherche.cyberpresse.ca/cyberpresse/search/theme/cyberpresse/template/result?q=&fq[]=author%3AFr%C3%A9d%C3%A9rick+Lavoie&sort=recent) , collaboration spéciale La Presse | 
  | ---- | ---- | 
 
  (Moscou) La récréation est terminée. Après les grandes manifestations de l'opposition qui ont ébranlé son régime de décembre à mai, le président Vladimir Poutine cherche à remettre au pas la société russe. Si les réformes annoncées par son prédécesseur Dmitri Medvedev au plus fort de la contestation ont bel et bien vu le jour, leurs effets ont rapidement été neutralisés par d'autres mesures liberticides. Notre collaborateur à Moscou fait le point.
@@ -31,7 +31,7 @@ Plusieurs personnalités du monde de la culture, mais aussi des proches de Vladi
 Malgré l'utilisation d'un vocabulaire religieux dans les accusations officielles et les déclarations de l'avocat des plaignants - qui assure que les membres de Pussy Riot ont agi sous les ordres de nul autre que Satan -, Piotr Verzilov ne veut pas croire à une «inquisition».
 
 Certains opposants craignent tout de même que la puissante Église orthodoxe, qui a l'oreille du président, cherche à remettre en cause la laïcité de l'État et du système judiciaire, faisant de ce procès un cas d'espèce.
-[Libertés en péril en Russie](http://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php) [Libertés en péril en Russie](http://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php) 
+[Libertés en péril en Russie](https://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php) [Libertés en péril en Russie](https://www.lapresse.ca/international/europe/201207/28/01-4560275-libertes-en-peril-en-russie.php) 
 En appui aux membres du groupe Pussy Riot, l'artiste Pyotr Pavlensky s'est cousu la bouche pour manifester devant la cathédrale de Kazan, à Saint-Pétersbourg, le 23 juillet.
  
 PHOTO REUTERS

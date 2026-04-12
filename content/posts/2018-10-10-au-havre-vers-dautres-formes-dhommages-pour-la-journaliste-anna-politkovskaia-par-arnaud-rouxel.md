@@ -27,5 +27,5 @@ __, au Studio, NDLR__
 « Elle y témoigne. Il traite de son parcours, de son travail, de la situation de l’époque. Qui reste terrible aujourd’hui en Russie. »
 [https://www.paris-normandie.fr/region/au-havre-vers-d-autres-formes-d-hommages-pour-la-journaliste-anna-politkovskaia-IJ13929919](https://www.paris-normandie.fr/region/au-havre-vers-d-autres-formes-d-hommages-pour-la-journaliste-anna-politkovskaia-IJ13929919)
 ...
-[](http://russie-libertes.org/wp-content/uploads/2018/10/image_content_24278427_20181008205850.jpg)
+[](https://russie-libertes.org/wp-content/uploads/2018/10/image_content_24278427_20181008205850.jpg)
 L’allumage de douze bougies en mémoire d'Anna.

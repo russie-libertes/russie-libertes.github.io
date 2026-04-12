@@ -14,7 +14,7 @@ tags:
 
 ![](images/2015_02_cover1.jpg)
 
-Mercredi 21 mai 2014 l’association « Russie-Libertés » a présenté le [rapport « Corruption en Russie : éviter le piège, lutter contre le fléau »](http://russie-libertes.org/2014/05/15/presentation-du-rapport-corruption-en-russie-eviter-le-piege-lutter-contre-le-fleau-mercredi-21-mai-2014-a-19h45/) à l’Assemblée nationale.
+Mercredi 21 mai 2014 l’association « Russie-Libertés » a présenté le [rapport « Corruption en Russie : éviter le piège, lutter contre le fléau »](https://russie-libertes.org/2014/05/15/presentation-du-rapport-corruption-en-russie-eviter-le-piege-lutter-contre-le-fleau-mercredi-21-mai-2014-a-19h45/) à l’Assemblée nationale.
 
 Analyser et comprendre la corruption en Russie, ce fléau qui ronge toute la société russe, pour éviter le piège et mettre en place des outils pour la combattre, tel est l’objectif du rapport de l’association « Russie-Libertés ».
 Avec le soutien de Serguei Gouriev, professeur d’économie à Sciences Po, ancien recteur de la New Economic School à Moscou, et William Bourdon, avocat et président de l’association SHERPA, les experts et militants de « Russie-Libertés » ont examiné les rapports et analyses sur la situation économique en Russie et les relations avec les entreprises et organisations européennes afin de dresser un constat et une série de propositions.

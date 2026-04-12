@@ -11,7 +11,7 @@ categories:
   - "nos-idees"
 ---
 
-[RUSSIE-LIBERTÉS](http://russie-libertes.org/)
+[RUSSIE-LIBERTÉS](https://russie-libertes.org/)
 en partenariat avec l’
 [ASSOCIATION DES DROITS DE L’HOMME DE LA SORBONNE](https://adhsorbonne.com/)
 , vous convie le samedi 9 décembre à une conférence sur le thème

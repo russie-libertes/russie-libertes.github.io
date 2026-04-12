@@ -10,14 +10,14 @@ tags:
 ---
 
 Ce lundi 11 février, à Paris, l’amphithéâtre Jean Moulin à Sciences Po Paris a accueilli
-[la soirée « Justice pour Sergueï Magnitski »](http://russie-libertes.org/2013/01/30/soiree-debat-justice-pour-serguei-magnitski/)
+[la soirée « Justice pour Sergueï Magnitski »](https://russie-libertes.org/2013/01/30/soiree-debat-justice-pour-serguei-magnitski/)
 organisée par Amnesty International France, Russie-Libertés et les associations de Sciences Po "Rhinocéros" et "Samovar".
 
 Les étudiants de Sciences-Po ont montré au public un "procès russe"  illustrant notamment les conditions carcérales en Russie. Ana Marion et Charles-Henri Ménival ont témoigné au nom des juges et d’une femme médecin impliqués dans l’affaire Sergueï Magnitski – le juriste-fiscaliste russe, mort dans une prison moscovite le 16 novembre 2009.
 
 La lecture des extraits d’une pièce documentaire « Une heure et dix-huit minutes »* a eu lieu lors de la soirée-débat « Justice pour Sergueï Magnitski » .
 
-[youtube=http://www.youtube.com/watch?v=vCJVYJ6UFkM]
+[YouTube video](https://www.youtube.com/watch?v=vCJVYJ6UFkM)
 
 Magnitski était juriste-fiscaliste et travaillait pour un fond d’investissements dirigé par Bill Browder. Alors, pourquoi le nom de Magnitski est-il devenu un symbole ?  Pourquoi cette présentation des juges et des médecins de système pénitentiaire en Russie a été produite par les étudiants à Sciences-Po ?
 Sergueï Magnitski est mort le 16 novembre 2009 dans des circonstances suspectes dans une prison russe. Il s’est trouvé en prison pour avoir enquêté sur une immense affaire d’escroquerie ayant permis à des fonctionnaires du Trésor public et de la police de détourner 230 millions de dollars des caisses de l’Etat russe. Magnitski a bien fait son travail et l’a payé de sa vie. Celles et ceux qu’il accusait ont utilisé la machine de la « justice » russe, qui n’a de justice que le nom, pour le jeter en prison et s’assurer qu’il n’en sorte pas.

@@ -7,5 +7,5 @@ categories:
   - "non-classe"
 ---
 
-[Débat après le documentaire "Le système Poutine".](http://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident)
-[http://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident](http://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident)
+[Débat après le documentaire "Le système Poutine".](https://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident)
+[https://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident](https://www.lcp.fr/emissions/grand-ecran/vod/172597-la-russie-de-poutine-amie-ou-ennemie-de-l-occident)

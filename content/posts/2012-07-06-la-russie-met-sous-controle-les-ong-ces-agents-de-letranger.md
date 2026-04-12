@@ -11,7 +11,7 @@ tags:
   - "post-format-link"
 ---
 
-[Article dans Le nouvel Obs](http://tempsreel.nouvelobs.com/monde/20120706.AFP2008/la-russie-met-sous-controle-les-ong-ces-agents-de-l-etranger.html)
+[Article dans Le nouvel Obs](https://tempsreel.nouvelobs.com/monde/20120706.AFP2008/la-russie-met-sous-controle-les-ong-ces-agents-de-l-etranger.html)
 du 06-07-2012
 
 La Douma russe a adopté vendredi en première lecture un projet de loi qui qualifie d'"agents de l'étranger" et place sous contrôle les ONG ayant un financement étranger et une activité "politique", une initiative dénoncée comme un nouveau pas pour écarter toute critique.

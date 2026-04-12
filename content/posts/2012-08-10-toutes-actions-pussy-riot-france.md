@@ -37,7 +37,7 @@ Le 17/08/12 :
 :
 [https://www.facebook.com/events/351885048219480/](https://www.facebook.com/events/351885048219480/)
 **- Montpellier :**
-[http://www.jeunes-ecologistes.org/groupeslocaux/mtp/7005/rassemblement-pour-la-liberation-des-membres-du-groupe-punk-feministe-russe-pussy-riot](http://www.jeunes-ecologistes.org/groupeslocaux/mtp/7005/rassemblement-pour-la-liberation-des-membres-du-groupe-punk-feministe-russe-pussy-riot)
+[https://www.jeunes-ecologistes.org/groupeslocaux/mtp/7005/rassemblement-pour-la-liberation-des-membres-du-groupe-punk-feministe-russe-pussy-riot](https://www.jeunes-ecologistes.org/groupeslocaux/mtp/7005/rassemblement-pour-la-liberation-des-membres-du-groupe-punk-feministe-russe-pussy-riot)
 et facebook :
 [https://www.facebook.com/events/272726696165823/](https://www.facebook.com/events/272726696165823/)
 **- Toulouse**
@@ -45,4 +45,4 @@ et
 **Lyon**
 -
 **Strasbourg :**
-[http://www.rue89strasbourg.com/index.php/2012/08/16/breve/pussy-riot-rassemblement-de-soutien-vendredi-place-kleber/](http://www.rue89strasbourg.com/index.php/2012/08/16/breve/pussy-riot-rassemblement-de-soutien-vendredi-place-kleber/)
+[https://www.rue89strasbourg.com/index.php/2012/08/16/breve/pussy-riot-rassemblement-de-soutien-vendredi-place-kleber/](https://www.rue89strasbourg.com/index.php/2012/08/16/breve/pussy-riot-rassemblement-de-soutien-vendredi-place-kleber/)

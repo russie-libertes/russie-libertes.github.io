@@ -9,7 +9,7 @@ tags:
 ---
 
 ...
-![](http://www.russian.rfi.fr/sites/russian.filesrfi/imagecache/rfi_43_large/sites/images.rfi.fr/files/aef_image/Alexei%20Navalny.jpg)
+![](https://www.russian.rfi.fr/sites/russian.filesrfi/imagecache/rfi_43_large/sites/images.rfi.fr/files/aef_image/Alexei%20Navalny.jpg)
 
 Alexei Navalny. Source photo : RFI.
 

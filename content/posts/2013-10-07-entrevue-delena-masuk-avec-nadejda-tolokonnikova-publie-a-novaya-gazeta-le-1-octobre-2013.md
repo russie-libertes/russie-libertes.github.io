@@ -357,4 +357,4 @@ De quelles preuves il peut s’agir si je lui parlais en tête à tête dans un 
 
 **Traduction : Elena Colombo**
 
-http://www.novayagazeta.ru/society/60254.html
+https://www.novayagazeta.ru/society/60254.html

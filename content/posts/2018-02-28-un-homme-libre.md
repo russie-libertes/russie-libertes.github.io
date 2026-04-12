@@ -26,4 +26,4 @@ Selon Sergei Sokolov, journaliste à Novaya Gazeta, l’enquête sur le meurtre 
 Boris Nemtsov, quant à lui, est déjà entré dans l’histoire de son pays, un grand homme avec des grands espoirs et un sourire ravageur.
 
 Pour savoir plus sur l’enquête du meurtre de Boris Nemtsov, nous vous invitons à lire le rapport de l’avocat Vadim Prokhorov ici :
-[http://nemtsovfund.org/2018/ 01/rassledovanie-ubijstva- borisa-nemtsova-kratkaya- spravka-ot-vadima-prohorova/](http://nemtsovfund.org/2018/01/rassledovanie-ubijstva-borisa-nemtsova-kratkaya-spravka-ot-vadima-prohorova/)
+[https://nemtsovfund.org/2018/ 01/rassledovanie-ubijstva- borisa-nemtsova-kratkaya- spravka-ot-vadima-prohorova/](https://nemtsovfund.org/2018/01/rassledovanie-ubijstva-borisa-nemtsova-kratkaya-spravka-ot-vadima-prohorova/)

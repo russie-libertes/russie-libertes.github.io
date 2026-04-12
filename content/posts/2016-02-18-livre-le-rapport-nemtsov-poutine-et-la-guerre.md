@@ -23,4 +23,4 @@ __Boris Nemtsov n’a pas eu le temps d’achever ce réquisitoire. Il a été a
 __Ce rapport est donc basé sur les informations qu’il avait réunies et sélectionnées. Ses notes manuscrites, les documents rassemblés par lui, ont tous  été utilisés pour la rédaction finale de ce rapport qui restera comme une réponse prémonitoire à l’impudente propagande du pouvoir.__
 __Mais on le sait bien depuis Anna Politkovskaya assassinée et tant d’autres — en Russie,  le courage politique se paie au prix fort."__
 Plus d'informations ici :
-[http://www.actes-sud.fr/catalogue/sciences-politiques-et-geopolitique/le-rapport-nemtsov](http://www.actes-sud.fr/catalogue/sciences-politiques-et-geopolitique/le-rapport-nemtsov)
+[https://www.actes-sud.fr/catalogue/sciences-politiques-et-geopolitique/le-rapport-nemtsov](https://www.actes-sud.fr/catalogue/sciences-politiques-et-geopolitique/le-rapport-nemtsov)

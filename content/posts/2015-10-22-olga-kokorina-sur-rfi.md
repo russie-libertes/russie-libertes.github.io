@@ -12,4 +12,4 @@ tags:
 Dimanche 18 octobre, Olga Kokorina, vice-présidente de l'association Russie-Libertés, était l'invitée de l'émission "Carrefour de l'Europe" sur RFI.
 
 Vous pouvez réécouter cette émission ici :
-[http://www.rfi.fr/emission/20151018-russie-puissance-faible-forte-poutine-syrie-ukraine](http://www.rfi.fr/emission/20151018-russie-puissance-faible-forte-poutine-syrie-ukraine)
+[https://www.rfi.fr/emission/20151018-russie-puissance-faible-forte-poutine-syrie-ukraine](https://www.rfi.fr/emission/20151018-russie-puissance-faible-forte-poutine-syrie-ukraine)

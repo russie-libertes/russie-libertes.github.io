@@ -29,5 +29,5 @@ Nous demandons au parlement et gouvernement russes de reconsidérer la violence
 
 Nous espérons que le gouvernement russe fera ce changement, et se portera garant des droits fondamentaux de ses citoyen.ne.s. en s'engageant immédiatement à éliminer toutes les formes de discrimination et de violence à l'égard des femmes et des enfants.
 Pour aller plus loin, vous pouvez consulter notre focus sur l’état des droits des femmes en Russie,
-[cliquez ici.](http://russie-libertes.org/2016/11/08/focus-les-droits-des-femmes-en-russie/)
+[cliquez ici.](https://russie-libertes.org/2016/11/08/focus-les-droits-des-femmes-en-russie/)
 Nous vous invitons aussi à lire plus d’information sur ce sujet et des histoires personnelles des victimes en cherchant #family116 sur facebook ou vkontakte.

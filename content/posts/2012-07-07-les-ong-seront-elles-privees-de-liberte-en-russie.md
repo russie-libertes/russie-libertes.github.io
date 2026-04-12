@@ -12,11 +12,11 @@ tags:
   - "post-format-link"
 ---
 
-[http://fr.euronews.com/2012/07/07/les-ong-seront-elles-privees-de-liberte-en-russie](http://fr.euronews.com/2012/07/07/les-ong-seront-elles-privees-de-liberte-en-russie/)
+[https://fr.euronews.com/2012/07/07/les-ong-seront-elles-privees-de-liberte-en-russie](https://fr.euronews.com/2012/07/07/les-ong-seront-elles-privees-de-liberte-en-russie/)
 
-* [](http://fr.euronews.com/2012/07/06/les-ong-bientot-considerees-comme-des-agents-de-l-etranger-en-russie)
-* [](http://fr.euronews.com/2012/06/09/russie-une-loi-qui-durcit-la-legislation-sur-les-manifestations)
-* [](http://fr.euronews.com/2012/07/12/la-douma-russe-adopte-une-loi-qui-va-renforcer-le-controle-d-internet)
+* [](https://fr.euronews.com/2012/07/06/les-ong-bientot-considerees-comme-des-agents-de-l-etranger-en-russie)
+* [](https://fr.euronews.com/2012/06/09/russie-une-loi-qui-durcit-la-legislation-sur-les-manifestations)
+* [](https://fr.euronews.com/2012/07/12/la-douma-russe-adopte-une-loi-qui-va-renforcer-le-controle-d-internet)
  La Douma, la chambre basse du Parlement russe, vient d’approuver un projet de loi qui pourraient porter atteintes aux libertés des ONG installées dans le pays. Si ces organisations non-gouvernementales bénéficient de financements étrangers et qu’elles mènent des actions dites “politiques”, elle devront alors être enregistrées comme des “agents de l‘étranger”.
           Devant les portes du Parlement, des manifestants ont dénoncé un projet de loi anti-démocratique.
 “La loi sur les ONG rappelle les façons d’agir d’un Etat fasciste”, pouvait-on lire sur les banderoles.

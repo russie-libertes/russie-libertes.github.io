@@ -26,4 +26,4 @@ L'adresse : CERI-56 rue Jacob, 75006 Paris / Salle des conférences.
 Entrée libre dans la limite des places disponibles.
 
 La source de l'information :
-[http://www.sciencespo.fr/newsletter/archive-9f245704e090748b9ec5adc2b1f62feb.html](http://www.sciencespo.fr/newsletter/archive-9f245704e090748b9ec5adc2b1f62feb.html)
+[https://www.sciencespo.fr/newsletter/archive-9f245704e090748b9ec5adc2b1f62feb.html](https://www.sciencespo.fr/newsletter/archive-9f245704e090748b9ec5adc2b1f62feb.html)

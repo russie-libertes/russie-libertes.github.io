@@ -12,4 +12,4 @@ Notre asso y sera représentée par le membre du CA, ex-president Alexis Prokopi
 **Plus de 50 intervenants**
 ,
 auteurs, artistes, activistes, penseurs et médias, seront présents pour parler d’initiatives citoyennes, de contre-culture et de reconquête démocratique.
-le **26 janvier 2017** **— Gratuit** La Machine du Moulin Rouge, Paris 18e Dans le cadre de la Nuit des idées, en partenariat avec [MakeSense](https://www.makesense.org/fr) et l’ [Institut Français](http://www.institutfrancais.com/) . Gratuit. Inscription coupe-file sur [www.europeanlab.com/ winterforum](http://europeanlab.com/winterforum) http://europeanlab.com/winterforum/programmation/jeunesse-en-resistance/
+le **26 janvier 2017** **— Gratuit** La Machine du Moulin Rouge, Paris 18e Dans le cadre de la Nuit des idées, en partenariat avec [MakeSense](https://www.makesense.org/fr) et l’ [Institut Français](https://www.institutfrancais.com/) . Gratuit. Inscription coupe-file sur [www.europeanlab.com/ winterforum](https://europeanlab.com/winterforum) https://europeanlab.com/winterforum/programmation/jeunesse-en-resistance/

@@ -11,11 +11,11 @@ tags:
   - "cheine"
   - "russie"
 
-#[](http://russielibertes.files.wordpress.com/2012/04/562745_3029104208494_1289513218_32418354_2019869853_n.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/04/385607_3029101608429_1289513218_32418349_2001836676_n.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/04/562745_3029104208494_1289513218_32418354_2019869853_n.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/04/385607_3029101608429_1289513218_32418349_2001836676_n.jpg)
 ---
 
-... [http://www.youtube.com/watch?v=lAmUBsppRx4](http://www.youtube.com/watch?v=lAmUBsppRx4)
+... [https://www.youtube.com/watch?v=lAmUBsppRx4](https://www.youtube.com/watch?v=lAmUBsppRx4)
 
 Slogan en Russe "Cheïne tiens bon !"
 

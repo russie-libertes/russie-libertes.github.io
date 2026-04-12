@@ -18,11 +18,11 @@ tags:
 Le 24 mai 2012, la cour d’appel d’Aix en Provence a rejeté pour la seconde fois consécutive la demande d’extradition émise par le Parquet Général de Russie à l’encontre de Vitaly Arkhangelsky, PDG de la holding pétersbourgeoise Oslo Marine Group spécialisée dans le transport maritime et les activités portuaires. Ce rejet vient confirmer celui déjà prononcé en novembre 2011 par le même tribunal.
 **La décision de justice rendue par la cour d’appel d’Aix est, pour l’ensemble du système judiciaire russe, un camouflet cinglant articulé en trois points.**
 Pour formuler ses demandes d’extradition, la Russie peut se prévaloir de la
-[Convention](http://conventions.coe.int/treaty/fr/Treaties/Html/024.htm)
+[Convention](https://conventions.coe.int/treaty/fr/Treaties/Html/024.htm)
 du Conseil de l’Europe sur l’extradition, qu’elle a ratifiée en décembre 1999, et qui stipule que « les parties contractantes s'engagent à se livrer réciproquement les individus qui sont poursuivis pour une infraction ou recherchés aux fins d'exécution d'une peine ou d'une mesure de sûreté par les autorités judiciaires de la Partie requérante ». Cependant
 **chacun des pays signataires de cette Convention a émis un certain nombre de réserves limitant son champ d’application**
 . Parmi
-[celles formulées par la France](http://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=024&CM=1&DF=&CL=FRE&VL=0)
+[celles formulées par la France](https://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=024&CM=1&DF=&CL=FRE&VL=0)
 , l’une implique que « l'extradition ne sera accordée que pour les faits punis par la loi française et par la loi de l'Etat requérant, d'une peine ou mesure de sûreté privative de liberté d'un maximum d'au moins deux ans ». Une autre stipule que « l'extradition ne sera pas accordée lorsque la personne réclamée serait jugée dans l'Etat requérant par un tribunal n'assurant pas les garanties fondamentales de procédures et de protection des droits de la défense ». Une autre enfin pose que « l'extradition pourra être refusée si la remise à l’Etat requérant est susceptible d'avoir des conséquences d'une gravité exceptionnelle pour la personne réclamée».
 **Ce sont ces trois réserves qui ont été mises en avant pour refuser l’extradition de Vitaly Arkhangelsky**
 .
@@ -34,7 +34,7 @@ L’incompréhension entre les deux parties est donc totale et réciproque : les
 Le deuxième paragraphe de la décision de la cour d’appel d’Aix est encore plus intéressant. Il marque un précédent significatif et sans doute très inquiétant pour la partie russe. En effet, jusqu’à présent, lorsqu’une demande d’extradition était rejetée, c’était en lien avec les circonstances particulières d’une affaire donnée. Ainsi, le 4 mars 2009 la chambre de l’instruction de la cour d’appel de Paris avait refusé d’extrader un demandeur d’asile de nationalité russe, Ahmed Lepiev, accusé de terrorisme par la Russie, en arguant du fait que ses origines tchétchènes lui faisaient courir un danger particulier. Mais ce qui est affirmé dans l’arrêt de la chambre d’instruction sur le cas Arkhangelsky, c’est ni plus ni moins que
 **la Russie fait désormais partie des Etats qui n’assurent pas les droits fondamentaux de la défense**
 . Les juges se réfèrent au
-[rapport](http://assembly.coe.int/Documents/WorkingDocs/Doc09/FDOC11993.pdf)
+[rapport](https://assembly.coe.int/Documents/WorkingDocs/Doc09/FDOC11993.pdf)
 de la commission juridique des Droits de l’Homme au Conseil de l’Europe, en date du 7 aout 2009 , qui relève les nombreux cas de menaces et de pressions exercées sur les magistrats et les avocats, l’imprécision des chefs d’accusation, et le manque d’indépendance du ministère public et des juges, et tirent la conclusion qu’il y a « tout lieu d’avoir de sérieux doutes sur l’équité de la procédure pénale intentée à l’encontre de Vitaly Arkhangelsky, sur les garanties fondamentales de procédure et sur la protection effective des droits de sa défense ».
 
 Il est intéressant de noter qu’en revanche, l’argument politique avancé par les avocats de l’homme d’affaire a été balayé par les magistrats français, soucieux de ne pas mélanger persécution politique et persécution économique. L’amitié liant Arkhangelsky et plusieurs leaders de l’opposition russe, ses prises de position publiques sur la corruption en Russie et l’appartenance de ses persécuteurs aux cercles des proches de Vladimir Poutine n’ont pas été considérées comme des arguments suffisants pour faire jouer l’article 3 de la Convention Européenne sur l’extradition (refus automatique si l’infraction pour laquelle l’extradition est demandée est de nature politique). En revanche la cour d’Aix a été sensible au tableau présenté par la défense d’une justice russe complice de « raiders travaillants pour le système ».
@@ -42,7 +42,7 @@ Il est intéressant de noter qu’en revanche, l’argument politique avancé pa
 Enfin le troisième point avancé pour refuser l’extradition de Vitaly Arkhangelsky est le risque d’être soumis à des traitements inhumains et dégradants. Ici
 **les juges français s’appuient sur les nombreux arrêts de la Cour Européenne des Droits de l’Homme condamnant la Russie**
 , et qui font état de cas de tortures, de conditions d’emprisonnement incompatibles avec le droit à la vie, sur le rapport devant le Conseil de L’Europe précité, ainsi que sur le
-[rapport](http://www.amnesty.org/en/region/russia/report-2011)
+[rapport](https://www.amnesty.org/en/region/russia/report-2011)
 d’Amnesty International pour l’année 2011 . La chambre d’instruction se réfère en particulier à l’affaire Magnitsky pour conclure qu’elle « ne peut avoir la certitude que Vitaly Arkhangelsky, au regard du contexte complexe de cette affaire, ne risque en aucune façon de subir des traitements inhumains ou dégradants » et qu’en conséquence elle ne peut émettre qu’un avis défavorable à cette demande d’extradition.
 
 Il est donc clair que dans l’esprit des magistrats français, la réputation du système judiciaire russe est désormais tellement douteuse qu’elle est de nature à annuler de facto la convention d’extradition signée par les deux pays.

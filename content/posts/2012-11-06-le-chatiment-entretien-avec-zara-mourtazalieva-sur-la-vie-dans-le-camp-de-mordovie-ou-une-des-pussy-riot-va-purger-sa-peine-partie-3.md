@@ -7,8 +7,8 @@ categories:
 ---
 
 Deux parties précédemment publiées sont :
-**[1°. Sur les types de camp et leur structure sociale.](http://russie-libertes.org/2012/10/25/la-peine-linterview-avec-zara-sur-les-conditions-de-detention-dans-un-camp-en-mordovie/)**
-[**2°. Sur la détention dans un camp de 2 membres du groupe punk Pussy Riot.**](http://russie-libertes.org/2012/10/28/la-peine-interview-avec-zara-mourtazalieva-sur-la-detention-dans-une-colonie-en-mordovie-ou-une-des-pussy-riot-va-passer-sa-condamnation-partie-2/)
+**[1°. Sur les types de camp et leur structure sociale.](https://russie-libertes.org/2012/10/25/la-peine-linterview-avec-zara-sur-les-conditions-de-detention-dans-un-camp-en-mordovie/)**
+[**2°. Sur la détention dans un camp de 2 membres du groupe punk Pussy Riot.**](https://russie-libertes.org/2012/10/28/la-peine-interview-avec-zara-mourtazalieva-sur-la-detention-dans-une-colonie-en-mordovie-ou-une-des-pussy-riot-va-passer-sa-condamnation-partie-2/)
 
 ## 
 

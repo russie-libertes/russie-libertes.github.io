@@ -10,4 +10,4 @@ categories:
 
 L'association Russie-Libertés vous souhaite une bonne année 2015.
 
-Adhérer en 2015 ? >>> [http://russie-libertes.org/formulaire-d-adhesion-russie-libertes/](http://russie-libertes.org/formulaire-d-adhesion-russie-libertes/)
+Adhérer en 2015 ? >>> [https://russie-libertes.org/formulaire-d-adhesion-russie-libertes/](https://russie-libertes.org/formulaire-d-adhesion-russie-libertes/)

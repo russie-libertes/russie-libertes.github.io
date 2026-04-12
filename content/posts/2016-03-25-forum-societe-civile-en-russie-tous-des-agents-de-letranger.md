@@ -13,7 +13,7 @@ tags:
   - "societe-civile"
 ---
 
-[](http://russie-libertes.org/wp-content/uploads/2016/03/flyer2-1.png)
+[](https://russie-libertes.org/wp-content/uploads/2016/03/flyer2-1.png)
 **FORUM ASSOCIATIF**
 **SOCIETE CIVILE EN RUSSIE – TOUS DES « AGENTS DE L’ETRANGER » ?**
 **SAMEDI 9 AVRIL 15H – 18H30**

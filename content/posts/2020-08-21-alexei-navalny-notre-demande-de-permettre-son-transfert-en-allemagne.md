@@ -1,6 +1,6 @@
 ---
 title: "Nous demandons le transfert d’Alexeï Navalny pour des soins dans un pays européen."
-#url: "http://russie-libertes.org/2020/08/21/alexei-navalny-notre-demande-de-permettre-son-transfert-en-allemagne/"
+#url: "https://russie-libertes.org/2020/08/21/alexei-navalny-notre-demande-de-permettre-son-transfert-en-allemagne/"
 description: "Alexeï Navalny est dans le coma. Depuis ce matin, l’avion avec tout le matériel médical nécessaire se trouve à l’aéroport d’Omsk. Mais l’épouse de Navalny n’est pas au…"
 date: 2020-08-21
 #coverImage: "images/2020_08_5f3e0bb91e00004d004743c7.jpeg"

@@ -19,7 +19,7 @@ Alexeï Navalny, opposant politique et avocat anti-corruption russe, risque jusq
 Alors que le verdict est prévu pour le 18 juillet 2013, l'association Russie-Libertés organise une action de soutien le même jour à 19h30 sur le Parvis des Droits de l'Homme (Trocadéro) à Paris. Quelque soit notre opinion sur les positions politiques de Navalny nous trouvons inacceptable le caractère politique de ce procès.
 
 Egalement, le 16 juillet 2013 l’association Russie-Libertés et l’Association russophone américaine de défense des droits de l’homme ont envoyé une pétition pour demander à la Haut Commissaire des Nations Unies aux Droits de l’Homme d’évaluer ce procès du point de vue des normes internationales des droits humains. La pétition est en ligne
-[sur le site Change.org](http://www.change.org/fr/p%C3%A9titions/non-au-proc%C3%A8s-politique-contre-l-opposant-russe-alexe%C3%AF-navalny)
+[sur le site Change.org](https://www.change.org/fr/p%C3%A9titions/non-au-proc%C3%A8s-politique-contre-l-opposant-russe-alexe%C3%AF-navalny)
 .
 
 Cette pétition a été notamment signée par l’écrivain Vitaly Amoursky, l’universitaire Cécile Vaissié, le philosophe André Glucksmann, le sénateur EELV André Gattolin et le conseiller national suisse Eric Voruz (PS).

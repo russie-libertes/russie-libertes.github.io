@@ -2,7 +2,7 @@
 title: "Lundi 9 juillet 2012, à 19h30 : Rencontre avec la militante écologiste russe Evguenia Chirikova"
 date: 2012-07-06
 author: "rus-lib"
-#[](http://russielibertes.files.wordpress.com/2012/07/chirikova_0.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/07/chirikova_0.jpg)
 categories:
   - "infos"
 tags:

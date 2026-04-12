@@ -11,7 +11,7 @@ tags:
 ---
 
 
-**Alexeï Navalny est en danger ! Signez la pétition pour exiger la libération immédiate de Navalny : [http://chng.it/4wrbPhqnTX](http://chng.it/4wrbPhqnTX)**
+**Alexeï Navalny est en danger ! Signez la pétition pour exiger la libération immédiate de Navalny : [https://chng.it/4wrbPhqnTX](https://chng.it/4wrbPhqnTX)**
 
 L’opposant russe et militant anti-corruption, Alexeï Navalny, a été arrêté à l’aéroport de Cheremetievo à Moscou le 17 janvier 2021, alors qu’il rentrait de Berlin, où il était en convalescence depuis qu’il avait été empoisonné au Novitchok et plongé dans le coma en août 2020. Un empoisonnement que la France a condamné comme un “acte criminel”.
 
@@ -23,4 +23,4 @@ Militant politique connu, ancien candidat déclaré à l’élection présidenti
 
 Alexeï Navalny est une nouvelle fois privé de liberté du fait de ses activités politiques pacifiques car il exerce son droit à la liberté d’expression, qui doit être garanti par la Constitution de la Fédération de Russie. Reconnaissant le caractère politique de ses multiples arrestations, la Cour européenne des Droits de l'Homme a d'ailleurs condamné la Russie à ce sujet. Ses proches et son organisation font aussi l’objet de pressions constantes de la part des autorités russes.
 
-**Signez la pétition pour exiger la libération immédiate de Navalny : [http://chng.it/4wrbPhqnTX](http://chng.it/4wrbPhqnTX)**
+**Signez la pétition pour exiger la libération immédiate de Navalny : [https://chng.it/4wrbPhqnTX](https://chng.it/4wrbPhqnTX)**

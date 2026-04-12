@@ -23,6 +23,6 @@ l'ouverture d'une enquête judiciaire sur les conditions de détention dans le c
 
 Après avoir envoyé une lettre et interpelé le Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants le 24 septembre dernier, Russie-Libertés exige aujourd’hui l'ouverture immédiate d'une enquête indépendante, objective et transparente sur les conditions de détention dans cette colonie.
 
-L'entretien est disponible ici: http://russie-libertes.org/2013/10/07/entrevue-delena-masuk-avec-nadejda-tolokonnikova-publie-a-novaya-gazeta-le-1-octobre-2013/
+L'entretien est disponible ici: https://russie-libertes.org/2013/10/07/entrevue-delena-masuk-avec-nadejda-tolokonnikova-publie-a-novaya-gazeta-le-1-octobre-2013/
 
 Olga Kokorina (Porte-Parole de l’association Russie-Libertés) : 06 30 86 01 73

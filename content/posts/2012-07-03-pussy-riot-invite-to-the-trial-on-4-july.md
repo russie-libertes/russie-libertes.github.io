@@ -16,4 +16,4 @@ The belief is now that the authorities want to end the case quickly to stem the 
 Due to the length of the Investigators Report the Defense feels it needs more time to prepare for the case and has asked to have the actual trial start in September and the women out on bail. This was not conceded to them.
 
 Miriam Elder’s update in the Guardian :
-[http://www.guardian.co.uk/world/2012/jun/30/support-pussy-riot-trio](http://www.guardian.co.uk/world/2012/jun/30/support-pussy-riot-trio)
+[https://www.guardian.co.uk/world/2012/jun/30/support-pussy-riot-trio](https://www.guardian.co.uk/world/2012/jun/30/support-pussy-riot-trio)

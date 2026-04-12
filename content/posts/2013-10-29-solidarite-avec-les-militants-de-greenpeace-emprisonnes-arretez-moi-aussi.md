@@ -1,7 +1,7 @@
 ---
 title: "Solidarité avec les militants de Greenpeace emprisonnés !  Arrêtez-moi aussi !"
 date: 2013-10-29
-#[](http://russielibertes.files.wordpress.com/2013/10/1385010_10151964474897458_1657044676_n.jpg)
+#[](https://russielibertes.files.wordpress.com/2013/10/1385010_10151964474897458_1657044676_n.jpg)
 author: "rus-lib"
 categories:
   - "nos-actions"

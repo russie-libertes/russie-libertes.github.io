@@ -14,7 +14,7 @@ tags:
 
 ...
 Nadejda Tolokonnikova, Maria Alekhina et Ekaterina Samoussevitch en détention provisoire depuis presque 3 mois.
-**[Les citations des jours 1 et 2 sont disponibles ici.](http://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)**
+**[Les citations des jours 1 et 2 sont disponibles ici.](https://russie-libertes.org/2012/08/01/pussy-riot-le-proces-infernal-citations-des-deux-premiers-jours-du-proces-traduites-en-francais/)**
 __Rappel, article 14 de la Constitution russe :__
 __1. La Fédération de Russie est un Etat laïc. Aucune religion ne peut s’instaurer en qualité de religion d’Etat ou obligatoire.__
 __2. Les associations religieuses sont séparées de l’Etat et égales devant la loi.__

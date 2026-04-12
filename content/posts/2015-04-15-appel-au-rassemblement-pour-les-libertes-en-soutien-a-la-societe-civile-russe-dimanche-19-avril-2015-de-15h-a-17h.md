@@ -28,17 +28,17 @@ Amnesty International France, Assemblée Européenne des Citoyens/IPAM, Russie-L
 Quelques photos :
 
 ...
-[](http://russie-libertes.org/wp-content/uploads/2015/04/11084223_10153275705564650_9092724398431044106_o.jpg)
+[](https://russie-libertes.org/wp-content/uploads/2015/04/11084223_10153275705564650_9092724398431044106_o.jpg)
 Anna Garmash, militante Ukraine Action. Photo : Pierre Raimbault.
 
 ...
-[](http://russie-libertes.org/wp-content/uploads/2015/04/10422553_537189743086425_462828608395647074_n.jpg)
+[](https://russie-libertes.org/wp-content/uploads/2015/04/10422553_537189743086425_462828608395647074_n.jpg)
 Geneviève Garrigos, présidente d'Amnesty international France.
 
 ...
-[](http://russie-libertes.org/wp-content/uploads/2015/04/11152688_10153275704874650_4577469208032650405_n.jpg)
+[](https://russie-libertes.org/wp-content/uploads/2015/04/11152688_10153275704874650_4577469208032650405_n.jpg)
 Olga Nikolaeva, secrétaire de Russie-Libertés. Photo : Pierre Raimbault.
 
 ...
-[](http://russie-libertes.org/wp-content/uploads/2015/04/11174336_10153275706154650_676657159259545282_o.jpg)
+[](https://russie-libertes.org/wp-content/uploads/2015/04/11174336_10153275706154650_676657159259545282_o.jpg)
 Rassemblement pour les libertés en Russie. Photo : Pierre Raimbault.

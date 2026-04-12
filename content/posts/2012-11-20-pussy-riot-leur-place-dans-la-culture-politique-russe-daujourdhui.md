@@ -3,22 +3,22 @@ title: "Pussy Riot : leur place dans la culture politique russe d'aujourd'hui"
 date: 2012-11-20
 author: "rus-lib"
 coverImage: "images/2012_11_picture13.jpg"
-#[](http://russielibertes.files.wordpress.com/2012/11/picture12.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture12.jpg)
 #[](images/2012_11_picture32.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture23.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/calendar.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture111.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/contest.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture121.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/harms.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture101.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture10.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture61.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture71.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture81.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture41.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture51.jpg)
-#[](http://russielibertes.files.wordpress.com/2012/11/picture91.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture23.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/calendar.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture111.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/contest.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture121.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/harms.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture101.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture10.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture61.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture71.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture81.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture41.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture51.jpg)
+#[](https://russielibertes.files.wordpress.com/2012/11/picture91.jpg)
 categories:
   - "infos"
 ---
@@ -32,16 +32,16 @@ Avertissement : la présentation contient les images interdites au moins de 18 a
 Chez Bakhtine, le carnaval comme moyen d’expression est le point de départ d’une forme de subversion face au discours officiel : « Le discours carnavalesque brise les lois du langage censuré par la grammaire et la sémantique, et par ce même mouvement il est une contestation sociale et politique : il ne s’agit pas d’équivalence, mais d’identité entre la contestation du code linguistique officiel et la contestation de la loi officielle ». Julia Kristeva, « Bakhtine. Le mot, le dialogue et le roman », p.83, Recherches pour une sémanalyse.
 
 Les Pussy Riot se définissent elles-mêmes comme “un groupe punk (
-[sous-genre oi !](http://fr.wikipedia.org/wiki/Oi!)
-) qui se produit illégalement en public. L’idée du groupe PUSSY RIOT est apparue en 2011 quand, à la faveur du printemps arabe, il est devenu clair qu’il manquait à  la Russie la liberté politique et sexuelle, l’audace, la cravache féministe et une femme-président. […] Les intérêts politiques des participantes et participants du groupe sont le féminisme, la lutte contre les services judiciaires [contre la police – ndt], la défense des LGBT, l’anti-poutinisme et la décentralisation radicale du pouvoir, la défense de la forêt de Khimki et le transfert de la ville capitale du pays en Sibérie de l’Est » (citation tirée du blog des Pussy Riot, source : http://pussy-riot.livejournal.com/).
+[sous-genre oi !](https://fr.wikipedia.org/wiki/Oi!)
+) qui se produit illégalement en public. L’idée du groupe PUSSY RIOT est apparue en 2011 quand, à la faveur du printemps arabe, il est devenu clair qu’il manquait à  la Russie la liberté politique et sexuelle, l’audace, la cravache féministe et une femme-président. […] Les intérêts politiques des participantes et participants du groupe sont le féminisme, la lutte contre les services judiciaires [contre la police – ndt], la défense des LGBT, l’anti-poutinisme et la décentralisation radicale du pouvoir, la défense de la forêt de Khimki et le transfert de la ville capitale du pays en Sibérie de l’Est » (citation tirée du blog des Pussy Riot, source : https://pussy-riot.livejournal.com/).
 
 Les Pussy Riot parlent un langage qui tient à la fois du discours politique (chansons « Poutine a eu la frousse » / Путин зассал, « A bas la prison, libérez la contestation!»/ Смерть тюрьме, свободу протесту!) et du discours féministe (« Tuez le sexiste » / Убей сексиста). Mais elles s’adressent à tous les citoyen(ne)s actifs(-ves)  , notamment à travers leur dernière chanson intitulée « Le pays en marche ! » / Страна идет!).
 **Féministes aux visages cagoulés contre sexistes-poutinistes**
-Les Pussy Riot dévoilent le caractère sexiste du pouvoir russe d’aujourd’hui, en phase avec l’image machiste de M. Poutine, qui se présente par exemple dans les médias torse nu et seul (bien qu’étant un homme marié). Pour faire la genèse de cette imagerie macho, on se souvient du cadeau offert par de jeunes étudiantes de la  faculté de journalisme de Moscou, qui ont publié un calendrier érotique le jour de l’anniversaire de Poutine (source : http://krispotupchik.livejournal.com/92592.html).
+Les Pussy Riot dévoilent le caractère sexiste du pouvoir russe d’aujourd’hui, en phase avec l’image machiste de M. Poutine, qui se présente par exemple dans les médias torse nu et seul (bien qu’étant un homme marié). Pour faire la genèse de cette imagerie macho, on se souvient du cadeau offert par de jeunes étudiantes de la  faculté de journalisme de Moscou, qui ont publié un calendrier érotique le jour de l’anniversaire de Poutine (source : https://krispotupchik.livejournal.com/92592.html).
 
 La couverture du calendrier, et l’illustration du mois de février, intitulée « Et si l’on faisait ça une troisième fois », une allusion à la possibilité pour Poutine de se présenter à la présidentielle pour la troisième fois.
 
-On peut aussi citer l’exemple du concours « Déchire pour Poutine » visant à sélectionner la meilleure vidéo d’une jeune fille déchirant ses vêtements pour « son président » (source : http://www.youtube.com/watch?v=1Easr8WTwxs).
+On peut aussi citer l’exemple du concours « Déchire pour Poutine » visant à sélectionner la meilleure vidéo d’une jeune fille déchirant ses vêtements pour « son président » (source : https://www.youtube.com/watch?v=1Easr8WTwxs).
 
 **L’hypocrisie de bureaucrates n’a pas de foi**
 L’Eglise orthodoxe comme cible ?
@@ -73,7 +73,7 @@ Dès lors, le succès des initiatives des Pussy Riot comme de celles de leurs pr
 **« Centre E »**
 . Ce service s’occupe officiellement de la lutte contre l’extrémisme, mais qualifie souvent d’extrémistes tous les activistes politiques.
 
-« Les art-actionnistes [artistes activistes – ndt] ont piqué le pouvoir à vif : il est permis de rire de tout thème et de n’importe quelle image, à l’exception d’une image sacrée – celle du soi-disant leader national » (source : « Арт-акционисты нащупали наиболее болезненную для власти мозоль: можно ерничать практически на тему любых образов, нельзя смеяться лишь над одним святым ликом — ликом так называемого национального лидера », Alek D. Epstein, source : http://www.gazeta.ru/culture/2012/08/09/a_4718321.shtml)
+« Les art-actionnistes [artistes activistes – ndt] ont piqué le pouvoir à vif : il est permis de rire de tout thème et de n’importe quelle image, à l’exception d’une image sacrée – celle du soi-disant leader national » (source : « Арт-акционисты нащупали наиболее болезненную для власти мозоль: можно ерничать практически на тему любых образов, нельзя смеяться лишь над одним святым ликом — ликом так называемого национального лидера », Alek D. Epstein, source : https://www.gazeta.ru/culture/2012/08/09/a_4718321.shtml)
 
 L’exposition en soutien aux Pussy Riot était aussi inacceptable par le pouvoir russe que l’exposition des artistes des années 60-70 en URSS.
 
@@ -81,7 +81,7 @@ L’exposition en soutien aux Pussy Riot était aussi inacceptable par le pouvoi
 
 
 **Notes :**
-Nadia Tolokonnikova, une des Pussy Riot condamnée à 2 ans de peine en Mordovie, était dans les années 2007-2011 membre du collectif « Voïna ». Elle décrit ainsi ce groupe artistique : « la naissance de « Voïna » a résulté de ma rencontre avec Piotr Verzilov, Oleg Vorotnikov et Natalia Sokol. Ils avaient tous un bagage commun : de la sympathie pour une culture rebelle, et le refus de se chercher une place dans les milieux artistiques et politiques établis. […] Le format du groupe « Voïna » allait devenir un genre auquel tous ceux qui souhaitent se révolter pourraient  avoir recours. C’est le but ultime de ce groupe : montrer la voie » (source – http://wisegizmo.livejournal.com/57735.html)
+Nadia Tolokonnikova, une des Pussy Riot condamnée à 2 ans de peine en Mordovie, était dans les années 2007-2011 membre du collectif « Voïna ». Elle décrit ainsi ce groupe artistique : « la naissance de « Voïna » a résulté de ma rencontre avec Piotr Verzilov, Oleg Vorotnikov et Natalia Sokol. Ils avaient tous un bagage commun : de la sympathie pour une culture rebelle, et le refus de se chercher une place dans les milieux artistiques et politiques établis. […] Le format du groupe « Voïna » allait devenir un genre auquel tous ceux qui souhaitent se révolter pourraient  avoir recours. C’est le but ultime de ce groupe : montrer la voie » (source – https://wisegizmo.livejournal.com/57735.html)
 
 Anton Nikolaev, beau-fils du célèbre artiste Oleg Kulik, connu pour ces performances radicales des années 1990-2000, a joué un rôle important dans la création de ce groupe. C’est dans son yourte, que Kulik a amené de Mongolie pour son exposition « Je crois » en 2007 à Moscou, que Piotr Verzilov et Oleg Vorotnikov se rapprochèrent et décidèrent de travailler ensemble. « Là-bas, nous vivions comme dans l’état major. Et par la suite, deux semaines plus tard, le concept de « Voïna » est né » (Piotr Verzilov, source : la lettre à Alek D. Epstein, cité dans le livre d’Alek D. Epstein « Totalnaya Voïna », page 18).
 
@@ -131,9 +131,9 @@ mai 2000, avec des slogans absurdes promouvant les services de particuliers à p
 Les conditions d’expression de l’opinion politique en Russie aujourd’hui évoquent par certains aspects la censure qui existait en URSS. En 2012, une série de lois a été adoptée par le Parlement à l’encontre de la liberté d’expression : les manifestations libres ne sont plus possibles, la documentation des ONG soutenues par des dons provenants de l’étranger doit obligatoirement porter la mention « agent de l’étranger » en guise d’avertissement, les mesures contre la haute trahison ont été durcies, un projet de la loi pour la protection des sentiments des croyants a été présenté, etc.
 
 Mais la parole cherche toujours des moyens de s’exprimer. Des manifestations artistiques ressemblant à certaines initiatives évoquées dans cette présentation ont eu lieu en URSS depuis les années 70. «
-[Le conceptualisme de Moscou](http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC)
+[Le conceptualisme de Moscou](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC)
 », notamment, a présenté en 1977 son slogan, aussi absurde que la « monstratsïa » d’aujourd’hui (voir sur la photo à gauche : « je ne me plains de rien, j’aime tout, malgré le fait que je n’ai jamais été ici et je ne connais rien de cet endroit » par le groupe « Les actions collectives, Коллективные действия», 1977. Ce groupe était, d’après un des inspirateurs de « Voïna », Alexey Plucer-Sarno, l’une des sources d’inspiration principales de ce qu’on appelle aujourd’hui en Russie « l’activisme politique ». (source : "Я НИ НА ЧТО НЕ ЖАЛУЮСЬ И МНЕ ВСЕ НРАВИТСЯ, НЕСМОТРЯ НА ТО, ЧТО Я ЗДЕСЬ НИКОГДА НЕ БЫЛ И НЕ ЗНАЮ НИЧЕГО ОБ ЭТИХ МЕСТАХ",
-[http://plucer.livejournal.com/190952.html](http://plucer.livejournal.com/190952.html)
+[https://plucer.livejournal.com/190952.html](https://plucer.livejournal.com/190952.html)
 ).
 
 La photo de droite montre la performance d’Oleg Kulik à Zurich, où il s’est présenté sous la forme d’un chien, nu et gardant l’entrée du vernissage. L’interprétation de son action est la suivante : « Je voulais protéger les gens de cet art effrayant, l’art commercial. Je voulais dire que la chose la plus importante dans l’art, c’est l’homme, sa vie, son énergie, ses sentiments et ses souffrances. Et en Suisse, c’était très visible, cette approche marketing par rapport à l’art. Beaux objets de meuble, tout est beau, protégé. Et c’est mieux que ça soit de l’art abstrait que l’on puisse déposer dans une banque. Mais ce n’est pas une bonne conception de l’art : l’art est un expérience de l’esprit, c’est sale, ça fait mal, c’est une souffrance. Ce n’est pas la vitrine d’un magasin ». (Source : le film d’Evguéni Mitta « Oleg Kulik : le défi et la provocation », 2011). Il a également déclaré : « L’artiste nu est une métaphore de sa sincérité ». (Soure : le film d’Evguéni Mitta, «Напряжение в искусстве создается только той страстью, которую он в него вкладывает. Если человек что-то так яростно защищает, то там что-то есть, там что-то важное. И они войдут в галерею, а там ничего нет – чистый воздух. И они поймут, что самое важное – это та страсть, энергия, которую ты проявляешь в искусстве. Любовь, а не какие-то те или иные построения. […] Художник голый – это некая метафора его искренности »).

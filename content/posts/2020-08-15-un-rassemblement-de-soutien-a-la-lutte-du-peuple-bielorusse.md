@@ -1,6 +1,6 @@
 ---
 title: "Un rassemblement en soutien au peuple biélorusse"
-#url: "http://russie-libertes.org/2020/08/15/un-rassemblement-de-soutien-a-la-lutte-du-peuple-bielorusse/"
+#url: "https://russie-libertes.org/2020/08/15/un-rassemblement-de-soutien-a-la-lutte-du-peuple-bielorusse/"
 description: "Le 14 août, à 19 heures, un rassemblement en soutien au peuple biélorusse qui se mobilise contre les falsifications et répressions au Bélarus a eu lieu près de l’ambassade du Bélarus à Paris.…"
 date: 2020-08-15
 #coverImage: "images/2020_08_579c4953-12de-4c02-8273-1506656ce2ad-1200x400.jpg"

@@ -18,4 +18,4 @@ Russie-Libertés soutient la conférence
 organisée en partenariat avec la revue Caucasus Survey, Centre d'études caucasiennes, et avec le soutien de FMSH, Comité Tchétchénie, Fondation Un monde par tous, Habitat-Cité, réseau ELENA et l'association Caucase-DOSH, qui aura lieu le 27 mai 2016 à SciencesPo-CERI à Paris.
 
 Programme et informations pratiques ici :
-[http://www.sciencespo.fr/ceri/evenements/#/?lang=fr&id=4907](http://www.sciencespo.fr/ceri/evenements/#/?lang=fr&id=4907)
+[https://www.sciencespo.fr/ceri/evenements/#/?lang=fr&id=4907](https://www.sciencespo.fr/ceri/evenements/#/?lang=fr&id=4907)

@@ -6,7 +6,7 @@ categories:
   - "nos-actions"
 ---
 
-![](http://www.sildav.org/images/stories/logomeonoir.png)
+![](https://www.sildav.org/images/stories/logomeonoir.png)
 
 Sotchi, un village olympique sur un cimetière
 

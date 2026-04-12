@@ -22,7 +22,7 @@ Par ailleurs, Mikhail Fedotov, à la tête du très officiel Conseil présidenti
 Contact presse: russie.libertes@gmail.com
 
 Page facebook de la manifestation à Paris:
-[http://www.facebook.com/events/375478775845796/](http://www.facebook.com/events/375478775845796/)
+[https://www.facebook.com/events/375478775845796/](https://www.facebook.com/events/375478775845796/)
 -----------------------------------------------------------------------------------------------------
 
 СООБЩЕНИЕ ДЛЯ ПРЕССЫ
@@ -41,4 +41,4 @@ Page facebook de la manifestation à Paris:
 Адрес для связи: russie.libertes@gmail.com
 
 Страница манифестации в facebook:
-[http://www.facebook.com/events/375478775845796/](http://www.facebook.com/events/375478775845796/)
+[https://www.facebook.com/events/375478775845796/](https://www.facebook.com/events/375478775845796/)

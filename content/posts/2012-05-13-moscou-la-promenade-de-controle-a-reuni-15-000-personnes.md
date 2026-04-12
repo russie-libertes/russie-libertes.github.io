@@ -15,7 +15,7 @@ tags:
 via
 **larussiedaujourdhui.fr**
 Une action nommée la « Promenade de controle » a eu lieu dans le centre de Moscou, organisée par des écrivains célèbres russes, qui ont décidé de vérifier s'il est possible de se promener à Moscou sans l'autorisation spéciale des autorités.
-![promenade](http://nl.media.rbth.ru/web/fr-rbth/images/2012-05/big/progulka_468.jpg)
+![promenade](https://nl.media.rbth.ru/web/fr-rbth/images/2012-05/big/progulka_468.jpg)
 
 « L’objectif de cette expérience est de vérifier si les Moscovites ont encore le droit de circuler librement dans leur propre ville ou s'ils ont besoin d’obtenir une autorisation spéciale », a écrit sur son blogue écrivain populaire Boris Akounine. « Faisant mine de discuter paisiblement de littérature (en réalité, en tremblant de peur) nous allons nous promener d’un Alexandre Sergueïevitch à l’autre Alexandre Sergueïevitch (c'est-à-dire entre les deux monuments des écrivains russes classiques homonymes : Griboïedov et Pouchkine,
 __ndlr__
@@ -25,6 +25,6 @@ Selon la police, 2 000 personnes ont participé à cet événement, mais des mil
 
 L'idée de la « Promenade de contrôle » a eu lieu après les arrestations massives des membres de l'opposition au jour de l'investiture du Président Poutine.
 
-http://larussiedaujourdhui.fr/articles/2012/05/15/a_moscou_lecteurs_et_ecrivains_se_promenent_en_toute_liberte_ou_pres_14606.html
+https://larussiedaujourdhui.fr/articles/2012/05/15/a_moscou_lecteurs_et_ecrivains_se_promenent_en_toute_liberte_ou_pres_14606.html
 
-Sur le même sujet: http://french.ruvr.ru/2012_05_13/Moscou-ecrivains-Place-Pouchkine/
+Sur le même sujet: https://french.ruvr.ru/2012_05_13/Moscou-ecrivains-Place-Pouchkine/

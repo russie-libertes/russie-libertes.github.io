@@ -14,7 +14,7 @@ tags:
 ---
 
 
-Le 22 janvier, nous nous réunissons, à Paris et dans de nombreuses villes du monde, pour crier notre colère et notre indignation face à la répression en Russie. Coordonnée avec la communauté des russes contre la guerre ( [www.freerussians.net/events-worldwide](http://www.freerussians.net/events-worldwide?fbclid=IwAR3GcwnbrkRT6yKe5ANYpxMD48OXBbvw5fMzEk9gy3mSAzO-E_oZHTBNqa8) ), cette manifestation marque les 2 ans d’emprisonnement d’Alexei Navalny et notre soutien à son courage ainsi qu’à celui de tous les prisonniers politiques en Russie.
+Le 22 janvier, nous nous réunissons, à Paris et dans de nombreuses villes du monde, pour crier notre colère et notre indignation face à la répression en Russie. Coordonnée avec la communauté des russes contre la guerre ( [www.freerussians.net/events-worldwide](https://www.freerussians.net/events-worldwide?fbclid=IwAR3GcwnbrkRT6yKe5ANYpxMD48OXBbvw5fMzEk9gy3mSAzO-E_oZHTBNqa8) ), cette manifestation marque les 2 ans d’emprisonnement d’Alexei Navalny et notre soutien à son courage ainsi qu’à celui de tous les prisonniers politiques en Russie.
 
 Depuis de nombreuses années, le régime de Poutine s'efforce de réprimer toute forme de contestation et de censurer toute voix dissidente. Les élections sont falsifiées et les partis d'opposition sont interdits. 
 

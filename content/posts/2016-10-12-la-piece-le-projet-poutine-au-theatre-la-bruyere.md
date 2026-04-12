@@ -15,7 +15,7 @@ Russie-Libertés est partenaire de la soirée-débat du 17 octobre 2016 autour d
 Soirée exceptionnelle le
 **lundi 17 octobre à 19h30 au Théâtre la Bruyère**
 . La pièce
-["Le Projet Poutine"](http://blog.ticketac.com/2016/09/hugues-leforestier-et-nathalie-mann-au-theatre-la-bruyere/)
+["Le Projet Poutine"](https://blog.ticketac.com/2016/09/hugues-leforestier-et-nathalie-mann-au-theatre-la-bruyere/)
 sera suivie d'un débat animé par Eric Naulleau et des représentants des 3 ONG partenaires : Amnesty international, Reporters sans frontières et Russie-Libertés. Un pot sera offert à l'issue du débat.
 
 Réservation obligatoire au 01 48 74 76 99. Tarif unique 15€. Placement libre. Tarif étudiant 12€.

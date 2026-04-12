@@ -29,4 +29,4 @@ Aujourd'hui,  Petro Porochenko, le président ukrainien, est en visite officiell
 , militant ukrainien et
 **Evan O'Connell**
 , militant européen profitent de l'occasion pour l'interpeller sur l'enquête sur les morts du Maïdan.
-[A lire sur Mediapart.](http://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/220415/monsieur-porochenko-quelle-justice-pour-les-morts-du-maidan)
+[A lire sur Mediapart.](https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/220415/monsieur-porochenko-quelle-justice-pour-les-morts-du-maidan)
