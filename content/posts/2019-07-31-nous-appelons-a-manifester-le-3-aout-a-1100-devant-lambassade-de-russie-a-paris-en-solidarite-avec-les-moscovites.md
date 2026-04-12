@@ -19,6 +19,6 @@ categories:
 
 **Russie-Libertés exige des autorités russes le respect des droits constitutionnels de tous les candidats et électeurs, et de permettre la tenue d’élections libres, honnêtes et démocratiques sur tout le territoire de la Fédération de Russie. Nous exigeons également la libération de tous les prisonniers politiques injustement emprisonnés en Russie.**
 
-**En solidarité avec les Moscovites, nous appelons à manifester le 3 août devant l&rsquo;ambassade de Russie à Paris.**
+**En solidarité avec les Moscovites, nous appelons à manifester le 3 août devant l’ambassade de Russie à Paris.**
 
 **Russie-Libertés**

@@ -11,7 +11,7 @@ categories:
 
 [![pussyriot_500](images/2012_07_pussyriot_500.jpg)](images/2012_07_pussyriot_500.jpg)
 
-Dans le cadre de la journée mondiale d&rsquo;action en soutien des membres du groupe Pussy Riot, **un rassemblement sera organisé le vendredi 17 août à 12h30 à Paris.**
+Dans le cadre de la journée mondiale d’action en soutien des membres du groupe Pussy Riot, **un rassemblement sera organisé le vendredi 17 août à 12h30 à Paris.**
 
 **Lieu : Place Stravintsky (près du Centre Pompidou).**
 

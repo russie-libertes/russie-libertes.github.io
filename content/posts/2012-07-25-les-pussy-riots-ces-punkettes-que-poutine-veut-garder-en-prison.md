@@ -7,7 +7,7 @@ categories:
 ---
 
 **PUNK -** 21/07/2012 - [Rue89, avec Aujourd’hui la Russie](https://www.rue89.com/2012/07/21/les-pussy-riots-ces-punkettes-que-poutine-veut-garder-en-prison-234044)
-[Les Pussy Riots lors de leur comparution vendredi &agrave; Khamovnitcheski](https://www.rue89.com/sites/news/files/assets/image/2012/07/000_par7239618.jpg) Les Pussy Riots lors de leur comparution vendredi à Khamovnitcheski (AFP) Nadejda Tolokonnikova, 22 ans, Ekaterina Samoutsevitch, 29 ans, et Maria Alekhina, 24 ans, resteront en prison au moins jusqu’en janvier 2013. Arrêtées il y a quatre mois pour un happening anti-Poutine, les trois musiciennes du groupe punk russe Pussy Riots ont comparu vendredi devant le tribunal de Khamovnitcheski qui les a maintenues en détention, comme le demandait le parquet.
+[Les Pussy Riots lors de leur comparution vendredi à Khamovnitcheski](https://www.rue89.com/sites/news/files/assets/image/2012/07/000_par7239618.jpg) Les Pussy Riots lors de leur comparution vendredi à Khamovnitcheski (AFP) Nadejda Tolokonnikova, 22 ans, Ekaterina Samoutsevitch, 29 ans, et Maria Alekhina, 24 ans, resteront en prison au moins jusqu’en janvier 2013. Arrêtées il y a quatre mois pour un happening anti-Poutine, les trois musiciennes du groupe punk russe Pussy Riots ont comparu vendredi devant le tribunal de Khamovnitcheski qui les a maintenues en détention, comme le demandait le parquet.
 
 Cet acharnement politico-judiciaire choque une partie de l’élite intellectuelle éclairée de Russie, qui a signé le mois dernier une pétition pour demander leur libération.
 

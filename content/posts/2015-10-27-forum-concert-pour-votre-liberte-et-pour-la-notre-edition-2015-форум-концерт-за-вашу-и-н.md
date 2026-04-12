@@ -22,12 +22,12 @@ categories:
 
 **Samedi 14 novembre 2015, de 18h30 à 22h30 au Centre Cerise, 46 Rue Montorgueil, 75002 Paris, France.**
 
-**« Société civile en Russie - tous des « agents de l&rsquo;étranger » ? »**
+**« Société civile en Russie - tous des « agents de l’étranger » ? »**
 
 Trois ans après l’entrée en vigueur de la loi obligeant les ONG à s’enregistrer sous l’appellation dégradante d’ »agents de l’étranger », où en est aujourd’hui la société civile en Russie ? Quelles sont les conséquences pour les associations, les militants, mais aussi pour la population russe ? Comment les défenseurs des droits humains résistent-ils en Russie, face à un État qui tente de les étouffer ?
 
 Des militants russes confrontés aux pressions des autorités tenteront de répondre à ces questions. Avec, notamment :
-- Nadejda Koutepova, fondatrice de Planète de l&rsquo;espoir (ONG d’aide aux victimes de radiations nucléaires),
+- Nadejda Koutepova, fondatrice de Planète de l’espoir (ONG d’aide aux victimes de radiations nucléaires),
 - Oleg Khabibrakhmanov, membre du Conseil du Comité pour la prévention de la torture,
 - Yulia Berezovskaya, rédactrice en chef du site d’information grani.ru.
 - **La conférence sera suivie par un concert de :**

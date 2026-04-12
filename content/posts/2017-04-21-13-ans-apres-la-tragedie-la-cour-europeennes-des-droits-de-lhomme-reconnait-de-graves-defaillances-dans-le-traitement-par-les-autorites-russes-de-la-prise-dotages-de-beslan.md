@@ -1,5 +1,5 @@
 ---
-title: "13 ans après la tragédie, la Cour européennes des droits de l&#39;homme reconnaît de graves  défaillances dans le traitement par les autorités russes de la prise d’otages de Beslan"
+title: "13 ans après la tragédie, la Cour européennes des droits de l'homme reconnaît de graves  défaillances dans le traitement par les autorités russes de la prise d’otages de Beslan"
 date: 2017-04-21
 coverImage: "images/2017_04_content_001_bes.jpg"
 author: "ruslibinfo"

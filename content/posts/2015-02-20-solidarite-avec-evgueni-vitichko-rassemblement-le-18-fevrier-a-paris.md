@@ -1,5 +1,5 @@
 ---
-title: "Solidarité avec Evgueni Vitichko : rassemblement le 18 février à Paris&nbsp;!"
+title: "Solidarité avec Evgueni Vitichko : rassemblement le 18 février à Paris !"
 date: 2015-02-20
 coverImage: "images/2015_02_cropped-ozCtls-saFA1.jpg"
 author: "rus-lib"

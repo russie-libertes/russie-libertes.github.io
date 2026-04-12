@@ -1,5 +1,5 @@
 ---
-title: "Rapport « Corruption en Russie : éviter le piège, lutter contre le fléau&nbsp;»"
+title: "Rapport « Corruption en Russie : éviter le piège, lutter contre le fléau »"
 date: 2014-09-20
 coverImage: "images/2015_02_image3.jpeg"
 author: "rus-lib"
