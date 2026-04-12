@@ -2,6 +2,7 @@
 title: "Nicolay Koblyakov : Russie-Libertés envoie la pétition au Président et au Premier Ministre de la Bulgarie"
 date: 2014-08-06
 author: "rus-lib"
+coverImage: "images/2014_07_10537045_10154415174905302_4008847779968678331_n.jpg"
 categories:
   - "communique-de-presse"
   - "infos"
@@ -10,13 +11,14 @@ tags:
   - "koblyakov"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/07/10537045_10154415174905302_4008847779968678331_n.jpg)
 English version below.
 
 -----
 
 Communiqué de presse
+
 6 août 2014
+
 **Nicolay Koblyakov : Russie-Libertés envoie la pétition au Président et au Premier Ministre de la Bulgarie**
 Vendredi 1er août 2014 la Cour régionale de Sofia a remis en liberté Nicolay Koblyakov et l’a placé sous contrôle judiciaire. Nous sommes satisfaits car Nicolay Koblyakov n’a pas été maintenu en détention. Toutefois il risque encore d’être extradé vers la Russie.
 
@@ -27,8 +29,9 @@ Nous adressons donc aujourd’hui au Président et au Premier Ministre de la Bul
 . Nous vous invitons à continuer à signer cette pétition !
 
 Russie-Libertés
-[Pour télécharger la lettre cliquez ici.](http://russie-libertes.info/wp-content/uploads/2014/08/lettre-bulgarie-eng.pdf)
-[Click here to download the lettre.](http://russie-libertes.info/wp-content/uploads/2014/08/lettre-bulgarie-eng.pdf)
+- [Pour télécharger la lettre cliquez ici.](uploads/2014/08/lettre-bulgarie-eng.pdf)
+- [Click here to download the lettre.](uploads/2014/08/lettre-bulgarie-eng.pdf)
+
 English version :
 
 Presse Release

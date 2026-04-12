@@ -2,11 +2,11 @@
 title: "Urgent : le tribunal de Sofia a rejeté l'extradition de Nicolay Koblyakov vers la Russie"
 date: 2014-10-21
 author: "rus-lib"
+coverImage: "images/2014_07_non-extra-nicolay-page-001-copie.jpg"
 categories:
   - "infos"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/07/non-extra-nicolay-page-001-copie.jpg)
 Urgent : le tribunal de Sofia a rejeté l'extradition de Nicolay Koblyakov vers la Russie !
 
 AFP :

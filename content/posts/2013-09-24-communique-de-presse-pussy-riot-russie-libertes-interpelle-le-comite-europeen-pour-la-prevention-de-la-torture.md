@@ -2,11 +2,11 @@
 title: "Communiqué de presse /// Pussy Riot : Russie-Libertés interpelle le Comité européen pour la prévention de la torture"
 date: 2013-09-24
 author: "rus-lib"
+coverImage: "images/2012_07_alexander-nemenovafpgetty-images.jpg"
 categories:
   - "communique-de-presse"
 ---
 
-[](http://russielibertes.files.wordpress.com/2012/07/alexander-nemenovafpgetty-images.jpg)
 Paris, 24/09/13
 
 Communiqué de presse
@@ -28,6 +28,8 @@ Elle décrit également des scènes assimilables à de la torture.
 L'association Russie-Libertés est particulièrement choquée par ces révélations. Ce n'est pas la première fois que des prisonniers d'opinion subissent les mauvais traitements en prison en Russie.
 Pour Russie-Libertés il s'agit d'une nouvelle violation manifeste du droit international, des conventions en vigueur au Conseil de l'Europe et au sein de l'ONU.
 Russie-Libertés exige la libération de Nadia et Maria du groupe Pussy Riot et interpelle le Comité européen pour la prévention de la torture et des peines ou traitements inhumains ou dégradants
-[par la lettre jointe à ce communiqué.](http://russielibertes.files.wordpress.com/2013/09/lettre-cpt_russie.pdf)
+[par la lettre jointe à ce communiqué.](uploads/2013_09_lettre-cpt_russie.pdf)
+
 Russie-Libertés
-[Pour télécharger la lettre cliquez ici.](http://russielibertes.files.wordpress.com/2013/09/lettre-cpt_russie.pdf)
+
+[Pour télécharger la lettre cliquez ici.](uploads/2013_09_lettre-cpt_russie.pdf)

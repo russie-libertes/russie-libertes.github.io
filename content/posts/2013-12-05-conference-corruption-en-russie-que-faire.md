@@ -2,24 +2,20 @@
 title: "Conférence  Corruption en Russie : que faire ? "
 date: 2013-12-05
 author: "rus-lib"
+coverImage: "images/2013_12_photo-4.jpg"
 categories:
   - "nos-actions"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/12/photo-4.jpg)
 Salle comble hier à SciencesPo Paris pour la conférence organisée par Russie-Libertés "Corruption en Russie : que faire ?".
 
 avec la participation de :
 
--
-**Serguei Gouriev**
-, professeur d’économie à Sciences Po, ancien recteur de la New Economic School à Moscou
--
-**William Bourdon**
-, avocat et président de l’association SHERPA
+- **Serguei Gouriev**, professeur d’économie à Sciences Po, ancien recteur de la New Economic School à Moscou
+- **William Bourdon** , avocat et président de l’association SHERPA
+
 Animation :
-**Jonathan Morice**
-, Russie-Libertés
+**Jonathan Morice**, Russie-Libertés
 
 La question du développement des relations économiques entre la France et la Russie est constamment empoisonnée par le « climat des affaires ». Autoroute au nord de Moscou, JO de Sotchi, affaire Magnitsky, lutte de clans au sommet de l’Etat en Russie, implantation d’hypermarchés… beaucoup de ses dossiers soulèvent des question liées à la corruption, et des collusions entre milieux économiques et politiques. Le phénomène est difficile à cerner et à chiffrer, mais selon le think tank « Indem », les pots-de-vin en tout genre représentent plus de 15 % du PIB russe. 80% des Russes considèrent que le niveau de corruption en Russie est "élevé" voire "très élevé", selon les sondages du Centre panrusse d’étude de l’opinion publique (VTsIOM). Les entreprises françaises et plus largement européennes sont immédiatement suspectées lorsqu’elles cherchent à s’implanter sur le marché russe dans ces conditions. Beaucoup d’entre elles s’en plaignent, à juste titre.
 

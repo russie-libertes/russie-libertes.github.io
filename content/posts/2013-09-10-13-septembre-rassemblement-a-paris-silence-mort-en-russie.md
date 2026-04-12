@@ -1,14 +1,16 @@
 ---
 title: "13 septembre, Rassemblement à Paris  Silence = Mort en Russie "
 date: 2013-09-10
+coverImage: "images/2013_09_992297_164061487129638_652633406_n.jpg"
 author: "rus-lib"
 categories:
   - "infos"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/09/992297_164061487129638_652633406_n.jpg)
 **Russie-Libertés vous invite à participer au rassemblement contre les lois homophobes et les violences contre la communauté LGBT en Russie. Vendredi 13 septembre, rdv à 18h le Parvis des droits de l'homme, place du Trocadéro (Paris).**
+
 Facebook event : https://www.facebook.com/events/223162047834753/
+
 > Voici le communiqué des organisations à l'origine de ce rassemblement :
 > 
 > Lettre ouverte à la communauté LGBT de Russie:

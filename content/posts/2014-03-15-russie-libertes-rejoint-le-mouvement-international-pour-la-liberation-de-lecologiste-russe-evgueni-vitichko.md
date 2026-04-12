@@ -2,6 +2,7 @@
 title: "Russie-Libertés rejoint le mouvement international pour la libération de l'écologiste russe Evgueni Vitichko."
 date: 2014-03-15
 author: "rus-lib"
+coverImage: "images/2014_03_12711_663758263663247_357542745_n.jpg"
 categories:
   - "nos-actions"
 tags:
@@ -9,7 +10,6 @@ tags:
   - "vitichko"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/03/12711_663758263663247_357542745_n.jpg)
 **Russie-Libertés rejoint le mouvement international pour la libération de l'écologiste russe Evgueni Vitichko.**
 Evgueni Vitichko est un géologue et militant écologiste reconnu. Il est notamment l'auteur de travaux sur l'écologie du Caucase et de la région de Krasnodar, au sud de la Russie. Il a également participé à la rédaction d'un rapport dénonçant l'impact sur l'environnement des Jeux Olympiques d'hiver 2014 à Sotchi.
 

@@ -8,7 +8,7 @@ categories:
 ---
 
 
-[](http://russielibertes.files.wordpress.com/2013/10/logos25.jpg)
+![](images/2013_10_logos25.jpg)
 
  | **>>> ATTENTION : LE FORUM-CONCERT EST COMPLET - IL N'Y A PLUS DE PLACES DISPONIBLES <<<**   INVITATION   FORUM-CONCERT   **« RUSSIE : DES VOIX POUR LA LIBERTÉ »**   **Vendredi 25 octobre 2013, de 18h à minuit**   Péniche Six/Huit - 74-78 Quai d'Austerlitz, Paris. Métro Gare d'Austerlitz   Entrée libre / Inscriptions par mail : [russie.libertes@gmail.com](mailto:russie.libertes@gmail.com)   Facebook : [https://www.facebook.com/events/482571195175439/](https://www.facebook.com/events/482571195175439/) | 
  | ---- | 
@@ -47,8 +47,7 @@ Avec :
 
 Partenaire média du forum-concert :
 [http://www.mediapart.fr](http://www.mediapart.fr/)
+
 ![](http://www.carlosdasilva.fr/wp-content/uploads/2013/09/logo-Mediapart-HD.jpg)
 
-Lieu :
-Péniche amarrée quai d'Austerlitz, à côté
-du Musée de la Mode [](http://www.six-huit.com/media/site/plan_acces.pdf)
+Lieu : [Péniche amarrée quai d'Austerlitz, à côté du Musée de la Mode ](http://www.six-huit.com/media/site/plan_acces.pdf)

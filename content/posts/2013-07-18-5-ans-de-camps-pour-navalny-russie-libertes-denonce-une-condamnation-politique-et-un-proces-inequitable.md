@@ -2,13 +2,13 @@
 title: "5 ans de camps pour Navalny : Russie-Libertés dénonce une condamnation politique et un procès inéquitable !"
 date: 2013-07-18
 author: "rus-lib"
+coverImage: "images/2013_07_nalvanyfrench.jpg"
 categories:
   - "communique-de-presse"
 tags:
   - "navalny"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/07/nalvanyfrench.jpg)
 Paris, 18 juillet 2013
 
 Communiqué de presse

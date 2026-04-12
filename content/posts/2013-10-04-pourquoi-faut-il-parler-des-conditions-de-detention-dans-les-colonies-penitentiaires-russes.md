@@ -2,19 +2,18 @@
 title: "Pourquoi faut-il parler des conditions de détention dans les colonies pénitentiaires russes?"
 date: 2013-10-04
 author: "rus-lib"
+coverImage: "images/2013_10_kopeisk_0.jpg"
 categories:
   - "infos"
 ---
 
-Les conditions de détention dans les prisons russes sont devenues l'objet d'une grande discussion partout dans le monde suite aux manifestations de Nadia Tolokonnikova, une des Pussy Riot, contre les violations des droits des détenues par l'administration de la colonie IK-14 en Mordovie.
-
 ...
-[](http://russielibertes.files.wordpress.com/2013/10/kopeisk_0.jpg)
 La révolte des détenus dans une colonie IK-6 à Kopeisk, Russie. Source photo: AFP. Les slogans: "L'administration extorque de l'argent", "Nous sommes 1500 personnes"
 
-Dans
-[le dernier numéro de Lettre Droits de l'Homme](http://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n7.pdf)
-l'enjeu de la transparence dans les colonies et prisons russes est aussi traité par l'association Russie-Libertés. L'auteur remercie la Ligue des Droits de l'Homme, ainsi que les membres d'ONK russes qui ont présenté les témoignages très riches en informations sur les conditions de détention et les difficultés que rencontrent des commissions de surveillance publique lors de leurs visites dans les prisons russes.
+
+Les conditions de détention dans les prisons russes sont devenues l'objet d'une grande discussion partout dans le monde suite aux manifestations de Nadia Tolokonnikova, une des Pussy Riot, contre les violations des droits des détenues par l'administration de la colonie IK-14 en Mordovie.
+
+Dans [le dernier numéro de Lettre Droits de l'Homme](http://www.ldh-france.org/IMG/pdf/lettre_ldh_europe_centrale_et_orientale_n7.pdf) l'enjeu de la transparence dans les colonies et prisons russes est aussi traité par l'association Russie-Libertés. L'auteur remercie la Ligue des Droits de l'Homme, ainsi que les membres d'ONK russes qui ont présenté les témoignages très riches en informations sur les conditions de détention et les difficultés que rencontrent des commissions de surveillance publique lors de leurs visites dans les prisons russes.
 
 Voici l'article en entier avec plus de témoignages  sur la situation dans les colonies pénitentiaires russes et un vidéo-témoignage par un détenu  :
 

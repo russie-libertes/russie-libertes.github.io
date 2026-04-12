@@ -2,6 +2,7 @@
 title: "Compte rendu : Bastrykine à la Sorbonne"
 date: 2013-11-21
 author: "rus-lib"
+coverImage: "images/2013_11_d184d0bed182d0be.jpg"
 categories:
   - "infos"
 ---
@@ -9,7 +10,7 @@ categories:
 Le 20 novembre 2013, l’amphithéâtre Turgot de l’université Paris 1 – Panthéon Sorbonne a rassemblé un groupe de juristes sur le thème de la réforme de la procédure pénale en Russie en comparaison avec le système français. La salle était à peine remplie à moitié : la plupart des étudiants se sont peu intéressés à la conférence.. Par contre, dans la salle étaient présents de simples citoyens (français et russes) et des militants des ONG (dont des militants de Russie-Libertés) qui sont venus voir le président du Comité d’Instruction en Russie, organisme réputé pour ses infractions aux règles de la Déclaration universelle des Droits de l’Homme.
 
 La séance a été introduite par M. Philippe Boutry, Président de l’Université, qui a fait part de son grand plaisir d’accueillir M. Alexander Bastrykine en tant que principal intervenant. Bastrykine a son tour s’est montré ravi de revenir en France (depuis dix ans il le fait régulièrement et chaque fois vient à un bon restaurant pour déguster un bon vin – il a même montré un signe d’appartenance à l’ordre des Tastevins) et en reconnaissance a offert ses livres à la Bibliothèque de la Sorbonne. Ensuite, il est entré dans le vif du sujet et a abordé le thème de la réforme judiciaire en Russie qui vise à  instaurer le Comité d’Instruction indépendant de la Procurature (le Parquet Général).
-[](http://russielibertes.files.wordpress.com/2013/11/d184d0bed182d0be.jpg)
+
 Depuis six ans, selon Bastrykine, la réforme est engagée en « bonne voie », avec certains bémols, bien sûr, comme la nécessité de supprimer des postes au Parquet Général. Comme conséquences cette reforme a diminué le nombre des verdicts  d’acquittement dus aux lacunes de l’instruction et les délais d’instruction sont accrus. Sont par la suite intervenus le Sénateur Patrice Gelard, président du Groupe d’Amitié France-Russie du Sénat et plusieurs chercheurs et spécialistes du Droit.
 
 La discussion s’est poursuivie avec les questions du public, moment tant attendu par l’auditoire.

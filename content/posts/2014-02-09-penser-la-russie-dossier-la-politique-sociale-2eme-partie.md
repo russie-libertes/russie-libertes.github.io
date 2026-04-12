@@ -2,12 +2,12 @@
 title: "Penser la Russie : dossier  La politique sociale, 2ème partie "
 date: 2014-02-09
 author: "rus-lib"
+coverImage: "images/2014_02_pilitique_soc_2.jpg"
 categories:
   - "infos"
 ---
 
 ...
-[](http://russie-libertes.info/wp-content/uploads/2014/02/pilitique_soc_2.jpg)
 (c) Dmitry Ryzhov
 
 Penser la Russie : dossier "La politique sociale, 2ème partie"
@@ -24,4 +24,5 @@ Même si la natalité augmente, la famille nombreuse et la pauvreté sont, en R
 paru dans le journal
 __Kommersant__
 dont Penser la Russie publie un résumé synthétique.
+
 [Lire le dossier ici](http://penserlarussie.org/2014/02/07/la-politique-sociale-en-russie-2-partie/)

@@ -2,13 +2,13 @@
 title: "Rassemblement à Paris le Jeudi 18 juillet à 19h30. Parvis des Droits de l'Homme. Trocadéro.  « Non au procès politique contre l’opposant russe Alexeï Navalny ! »"
 date: 2013-07-17
 author: "rus-lib"
+coverImage: "images/2013_07_934634_265574766914592_1208584153_n.jpg"
 categories:
   - "communique-de-presse"
 tags:
   - "navalny"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/07/934634_265574766914592_1208584153_n.jpg)
 Communiqué de presse
 **Rassemblement à Paris le Jeudi 18 juillet à 19h30.**
 **Parvis des Droits de l'Homme. Trocadéro.**

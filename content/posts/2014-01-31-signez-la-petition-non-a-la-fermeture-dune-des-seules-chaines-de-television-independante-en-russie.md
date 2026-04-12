@@ -2,6 +2,7 @@
 title: "Signez la pétition : Non à la fermeture d'une des seules chaînes de télévision indépendante en Russie !"
 date: 2014-01-31
 author: "rus-lib"
+coverImage: "images/2014_01_omayjkajjtdkfhk-556x313-nopad.jpg"
 categories:
   - "communique-de-presse"
   - "nos-actions"
@@ -10,7 +11,6 @@ tags:
   - "dozhd"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/01/omayjkajjtdkfhk-556x313-nopad.jpg)
 >>> Signez la pétition ici : https://www.change.org/petitions/ministry-of-communications-and-mass-media-of-russia-no-to-shutdown-of-russian-independent-tv-dozhd
 **Le Kremlin veut fermer une des seules chaînes de télévision indépendante en Russie !**
 __TV Dozhd ( [tvrain.ru](http://tvrain.ru) ) est à ce jour une des seules chaînes de télévision indépendante en Russie. Ces derniers jours les pouvoirs publics ont multiplié les pressions et les menaces de fermeture sur la chaîne, plusieurs bouquets satellites l'ont exclue de leur offre.__

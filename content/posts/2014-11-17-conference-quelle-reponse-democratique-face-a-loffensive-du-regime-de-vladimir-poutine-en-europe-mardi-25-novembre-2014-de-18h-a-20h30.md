@@ -1,13 +1,14 @@
 ---
 title: "Conférence  Quelle réponse démocratique face à l'offensive du régime de Vladimir Poutine en Europe ? . Mardi 25 novembre 2014, de 18h à 20h30."
 date: 2014-11-17
+coverImage: "images/2014_11_25novan.jpg"
 author: "rus-lib"
 categories:
   - "nos-actions"
 ---
 
 
- | [](http://russie-libertes.info/wp-content/uploads/2014/11/25novan.jpg)  Conférence   **"Quelle réponse démocratique face à l'offensive du régime de Vladimir Poutine en Europe ?"**   **Mardi 25 novembre 2014, de 18h à 20h30**   Palais Bourbon, 1 er bureau, 126 rue de l’Université 75007 Paris.   Métro Assemblée nationale ou Invalides.   Inscription obligatoire* avant le 24/11 par mail : [victorthomas.an@gmail.com](mailto:victorthomas.an@gmail.com) | 
+ | Conférence   **"Quelle réponse démocratique face à l'offensive du régime de Vladimir Poutine en Europe ?"**   **Mardi 25 novembre 2014, de 18h à 20h30**   Palais Bourbon, 1 er bureau, 126 rue de l’Université 75007 Paris.   Métro Assemblée nationale ou Invalides.   Inscription obligatoire* avant le 24/11 par mail : [victorthomas.an@gmail.com](mailto:victorthomas.an@gmail.com) | 
  | ---- | 
 
 

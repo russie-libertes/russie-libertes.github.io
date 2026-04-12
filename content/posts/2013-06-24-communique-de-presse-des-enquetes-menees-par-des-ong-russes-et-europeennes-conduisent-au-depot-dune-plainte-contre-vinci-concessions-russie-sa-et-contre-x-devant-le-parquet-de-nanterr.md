@@ -6,10 +6,12 @@ categories:
   - "communique-de-presse"
 ---
 
-[](http://russielibertes.files.wordpress.com/2013/06/logos2.jpg)
+![](images/2013_06_logos2.jpg)
+
 **Communiqué de presse**
 - Sherpa, Russie-Libertés, CEE Bankwatch Network et MOBO Princip ainsi que des membres de la société civile russe, dont Evgenia TCHIRIKOVA, militante écologiste russe, informent que, ce jour, a été déposée entre les mains du Parquet de Nanterre (France), une plainte simple relative aux conditions dans lesquelles a été attribué, en 2009, à la société NORTH WEST CONCESSION COMPANY (NWCC), détenue à 100% par la société française VINCI CONCESSIONS RUSSIE, un marché public relatif à la construction de l’autoroute entre Moscou et Saint-Pétersbourg.
-    De nombreuses enquêtes ont été effectuées ces dernières années par un certain nombre d’ONG européennes et internationales.
+
+De nombreuses enquêtes ont été effectuées ces dernières années par un certain nombre d’ONG européennes et internationales.
 
 Ce travail d’investigation nous a convaincu de l’existence de présomptions sérieuses de la commission par la société VINCI CONCESSIONS RUSSIE, et de personnes morales et physiques restant à identifier, d’infractions pénales financières incluant notamment des faits de corruption d’agents publics étrangers ainsi que du recel de trafic d’influence.
 

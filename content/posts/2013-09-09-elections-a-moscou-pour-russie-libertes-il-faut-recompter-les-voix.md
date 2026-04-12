@@ -2,6 +2,7 @@
 title: "Élections à Moscou : pour Russie-Libertés  il faut recompter les voix "
 date: 2013-09-09
 author: "rus-lib"
+coverImage: "images/2013_09_btpxk26iyaa6ovk.jpg"
 categories:
   - "communique-de-presse"
 tags:
@@ -11,8 +12,7 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/09/btpxk26iyaa6ovk.jpg)
-(photo de Nina Zakharkina-Berezner, membre de Russie-Libertés, observatrice hier lors des élections du maire de Moscou. https://twitter.com/ninaberezner)
+photo de Nina Zakharkina-Berezner, membre de Russie-Libertés, observatrice hier lors des élections du maire de Moscou. https://twitter.com/ninaberezner 
 
 Communiqué de presse
 **Élections à Moscou : pour Russie-Libertés "il faut recompter les voix"**

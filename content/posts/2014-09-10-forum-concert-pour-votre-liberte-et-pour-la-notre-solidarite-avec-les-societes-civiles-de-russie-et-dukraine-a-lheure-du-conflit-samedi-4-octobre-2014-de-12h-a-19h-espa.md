@@ -2,6 +2,7 @@
 title: "FORUM – CONCERT « POUR VOTRE LIBERTÉ ET POUR LA NOTRE ». Solidarité avec les sociétés civiles de Russie et d'Ukraine à l'heure du conflit."
 date: 2014-09-10
 author: "rus-lib"
+coverImage: "images/2014_09_afisha-fc-okt.jpg"
 categories:
   - "communique-de-presse"
   - "infos"
@@ -12,8 +13,6 @@ tags:
   - "tnmk"
 ---
 
-
-[](http://russie-libertes.info/wp-content/uploads/2014/09/afisha-fc-okt.jpg)
 
 **>>> INVITATION <<<**
 

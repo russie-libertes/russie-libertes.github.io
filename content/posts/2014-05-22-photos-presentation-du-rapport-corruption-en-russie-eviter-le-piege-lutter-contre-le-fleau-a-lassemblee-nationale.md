@@ -2,6 +2,7 @@
 title: "Présentation du rapport  Corruption en Russie : éviter le piège, lutter contre le fléau  à l'Assemblée nationale"
 date: 2014-05-22
 author: "rus-lib"
+coverImage: "images/2014_05_image3.jpeg"
 categories:
   - "infos"
   - "nos-actions"
@@ -11,7 +12,6 @@ tags:
   - "rapport"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/05/image3.jpeg)
 Mercredi 21 mai 2014 l'association "Russie-Libertés" a présenté le
 [rapport "Corruption en Russie : éviter le piège, lutter contre le fléau"](http://russie-libertes.org/2014/05/15/presentation-du-rapport-corruption-en-russie-eviter-le-piege-lutter-contre-le-fleau-mercredi-21-mai-2014-a-19h45/)
 à l'Assemblée nationale.
@@ -31,8 +31,8 @@ Avec le soutien de Serguei Gouriev, professeur d’économie à Sciences Po, anc
 Le constat du rapport est clair : « l'ampleur de la corruption en Russie est clairement disproportionnée par rapport à son niveau de développement économique » et « le Gouvernement russe opte pour une position d’inaction, voire de création de climat favorable au développement de ce fléau. » Il s'agit donc d'une violation manifeste des droits humains des citoyens russes, qui devraient avoir la protection de l'Etat de Droit malheureusement inexistant, mais aussi un risque certain et avéré, surtout dans le contexte actuel, pour les entreprises et organisations européennes qui souhaitent travailler avec la Russie.
 
 Aujourd'hui, le système corrompu alimente et renforce le régime en Russie ce qui place, compte tenu du climat, la lutte contre ce fléau comme une priorité.
-[](http://russie-libertes.info/wp-content/uploads/2014/05/image5.jpeg)
-[](http://russie-libertes.info/wp-content/uploads/2014/05/image2.jpeg)
+- ![](images/2014_05_image5.jpeg)
+- ![](images/2014_05_image2.jpeg)
 Dans les médias :
 
 - Novaya Gazeta :

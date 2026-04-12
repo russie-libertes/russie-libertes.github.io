@@ -2,6 +2,7 @@
 title: "La Russie: quel État laïque ?"
 date: 2013-11-22
 author: "rus-lib"
+coverImage: "images/2013_11_cerkov_sovok1.jpg"
 categories:
   - "infos"
 tags:
@@ -10,8 +11,9 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/11/cerkov_serpmolotk1.jpg)
+
 La Russie post-communiste : une idéologie habilement remplacée par une autre
+
 __Le 22 novembre plusieurs députés de la Douma ont soutenu l'idée de Elena Mizoulin__
 __a, défenseure des "valeurs traditionalistes" et co-auteure de la tristement célèbre loi sur l'homosexualité, de faire entrer l'orthodoxie dans la Constitution russe. Elle propose de changer la préambule de la Constitution et d'y introduire un article sur l’orthodoxie en tant que "base de l’identité nationale et culturelle de la Russie." La séparation de l'État et de l'Église n'étant actuellement garantie par la loi que formellement, et de moins en moins en pratique, risque d'être abandonnée au profit d'un nouveau État orthodoxe.__
 **Kristina Kovalskaya**

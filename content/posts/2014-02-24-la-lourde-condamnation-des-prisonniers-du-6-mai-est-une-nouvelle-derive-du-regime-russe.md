@@ -2,11 +2,11 @@
 title: "La lourde condamnation des  prisonniers du 6 mai  est une nouvelle dérive du régime russe"
 date: 2014-02-24
 author: "rus-lib"
+coverImage: "images/2014_02_bhovt-zcaaajw_m.jpg"
 categories:
   - "communique-de-presse"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/02/bhovt-zcaaajw_m.jpg)
 Paris, 24/02/2014
 
 Communiqué de presse

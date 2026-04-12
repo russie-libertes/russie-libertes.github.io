@@ -2,9 +2,14 @@
 title: "Débat du 13 septembre  LA MONTÉE DE L’OPPOSITION EN RUSSIE : ANALYSE DES ÉLECTIONS MUNICIPALES DU 8 SEPTEMBRE "
 date: 2013-09-10
 author: "rus-lib"
+coverImage: "images/2013_09_btpxk26iyaa6ovk.jpg"
 categories:
   - "infos"
 ---
+
+...
+photo de Nina Zakharkina-Berezner, membre de Russie-Libertés, observatrice lors des élections du maire de Moscou. https://twitter.com/ninaberezner
+
 
 Nous vous invitons ce vendredi, 13 septembre à 13h00, à participer au débat organisé par le CERI-Sciences Po à Paris sur les élections municipales en Russie le week end dernier avec la participation de :
 
@@ -15,10 +20,6 @@ Nous vous invitons ce vendredi, 13 septembre à 13h00, à participer au débat o
 Présidence :
 **Marie Mendras**
 , CNRS/CERI-Sciences Po.
-
-...
-[](http://russielibertes.files.wordpress.com/2013/09/btpxk26iyaa6ovk.jpg)
-(photo de Nina Zakharkina-Berezner, membre de Russie-Libertés, observatrice lors des élections du maire de Moscou. https://twitter.com/ninaberezner)
 
 L'adresse : CERI-56 rue Jacob, 75006 Paris / Salle des conférences.
 

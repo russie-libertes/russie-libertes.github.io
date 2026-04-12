@@ -2,6 +2,7 @@
 title: "Mardiros Demertchyan, martyre du chantier olympique"
 date: 2013-11-28
 author: "rus-lib"
+coverImage: "images/2013_11_demertchian.jpg"
 categories:
   - "infos"
 tags:
@@ -10,7 +11,6 @@ tags:
 ---
 
 ...
-[](http://russielibertes.files.wordpress.com/2013/11/demertchian.jpg)
 (c) Elena Ratchiova, Novaïa Gazeta
 
 En juin Mardiros Demertchyan, électricien sur le chantier olympique, avait réclamé à son employeur l’argent qu'on lui devait pour son travail, à la suite de quoi son contremaître l'avait accusé d'avoir volé un touret de câble, les policiers l’ont emmené au commissariat, l’ont battu, l’ont violé avec une barre halligan et l’ont fait signer un faux aveu de vol. Lorsque Mardiros a porté plainte, les policiers l'ont formellement poursuivi pour diffamation.

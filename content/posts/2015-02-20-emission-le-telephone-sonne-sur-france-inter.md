@@ -10,8 +10,6 @@ tags:
   - "radio"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2015/02/France_inter_2005_logo.svg_.png)
 Alexis Prokopiev, président de l’association Russie-Libertés, a participé le 12 février 2015 à l’émission « Le téléphone sonne » sur France Inter.
 
-Thème de l’émission : Conflit en Ukraine : l’accord de Minsk suffit-il ?
-[Pour écouter l’émission : cliquez ici.](http://www.franceinter.fr/emission-le-telephone-sonne-conflit-en-ukraine-laccord-de-minsk-suffit-il)
+Thème de l’émission : Conflit en Ukraine : l’accord de Minsk suffit-il ? [Pour écouter l’émission : cliquez ici.](http://www.franceinter.fr/emission-le-telephone-sonne-conflit-en-ukraine-laccord-de-minsk-suffit-il)

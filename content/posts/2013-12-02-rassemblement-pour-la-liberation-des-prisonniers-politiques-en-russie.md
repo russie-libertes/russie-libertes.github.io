@@ -2,12 +2,11 @@
 title: "Rassemblement pour la libération des prisonniers politiques en Russie"
 date: 2013-12-02
 author: "rus-lib"
+coverImage: "images/2013_12_8b8298b25f4e11e3aceb12f8a5fa1ad6_8.jpg"
 categories:
   - "infos"
 ---
 
-
-[](http://russielibertes.files.wordpress.com/2013/12/8b8298b25f4e11e3aceb12f8a5fa1ad6_8.jpg)
 
 **Samedi 7 décembre 2013 - 15h-17h - Parvis des Droits de l’Homme (Trocadéro)**
 
@@ -18,5 +17,4 @@ Parmi ces prisonniers : des participants à la manifestation du 6 mai 2012, des 
 Nous rappelons, que le 10 décembre est également la journée mondiale des Droits de l’Homme, mais en Russie ces droits fondamentaux sont bafoués. Quand la liberté de manifester est limitée en Russie , quand la liberté d’expression n’est qu’un mot et la torture est encore l’instrument de la pression (voir le rapport de l’ACAT sorti le 14 novembre 2013), nous appelons les citoyens du monde entier à soutenir ceux qui se battent pour le respect des Droits de l’Homme et pour la démocratie en Russie.
 Venez nombreux sur le Parvis des Droits de l’Homme (au Trocadéro) le 7 décembre. La manifestation est déclarée auprès de la Préfecture de la ville de Paris. Le rassemblement commence à 15h.
 
-La page de l'événement sur Facebook:
-[https://www.facebook.com/events/483638365089299/](https://www.facebook.com/events/483638365089299/)
+La page de l'événement sur Facebook: [https://www.facebook.com/events/483638365089299/](https://www.facebook.com/events/483638365089299/)

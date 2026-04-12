@@ -2,6 +2,7 @@
 title: "Sotchi : des barreaux derrière les anneaux"
 date: 2014-02-03
 author: "rus-lib"
+coverImage: "images/2014_02_sans-titre-1.jpg"
 categories:
   - "nos-actions"
 tags:
@@ -9,7 +10,6 @@ tags:
   - "sotchi"
 ---
 
-[](http://russie-libertes.info/wp-content/uploads/2014/02/sans-titre-1.jpg)
 **A une semaine de l’ouverture des Jeux olympiques (JO) d’hiver de Sotchi, Action des Chrétiens contre la torture (ACAT-France), Amnesty International France (AIF), la Fédération Internationale des Ligues des droits de l’Homme (FIDH), Inter-LGBT et Russie-Libertés se mobilisent.**
 Samedi 1er février, près de 200 personnes se sont retrouvées pour dénoncer ce que le faste des JO ne peut masquer ; une situation alarmante en matière de droits humains en Russie où manifester, informer, militer s’avère de plus en plus risqué, où les minorités sexuelles sont stigmatisées et victimes de violence, où le racisme et la xénophobie alimentent la violence.
 

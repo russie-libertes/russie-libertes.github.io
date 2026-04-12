@@ -1,19 +1,18 @@
 ---
 title: "Rassemblement en mémoire de Natalia Estemirova /// Lundi 15 juillet 2013 – 18h30 Paris – Place Igor Stravinsky – Beaubourg"
 date: 2013-07-12
+coverImage: "images/2013_07_img222.jpg"
 author: "rus-lib"
 categories:
   - "communique-de-presse"
 ---
 
 
-[](http://russielibertes.files.wordpress.com/2013/07/logos3.jpg)
+![](images/2013_07_logos3.jpg)
 
 **Rassemblement en mémoire de Natalia Estemirova**
 
 **Lundi 15 juillet 2013 – 18h30** **Paris – Place Igor Stravinsky – Beaubourg**
-
-[](http://russielibertes.files.wordpress.com/2013/07/img222.jpg)
 
 L’Action des Chrétiens pour l’Abolition de la torture (ACAT), Amnesty International France, le Comité Tchétchénie, le Convoi Syndical pour la Tchétchénie, la Fédération Internationale des ligues des Droits de l’Homme (FIDH), la Ligue des droits de l’homme, Reporters sans frontières, Russie Libertés organisent lundi 15 juillet 2013 un rassemblement à Paris en mémoire de Natalia Estemirova afin de dénoncer l’impunité qui entoure son assassinat et les répressions que subissent de plus en plus les militants, les journalistes et les défenseurs des droits humains en Russie.
     Natalia Estemirova a été enlevée devant son domicile à Grozny en Tchétchénie le 15 juillet 2009. Son corps a été retrouvé le même jour, portant des blessures par balles à la tête et dans la poitrine, près de Nazran, en Ingouchie.

@@ -2,6 +2,7 @@
 title: "« OUI aux libertés en Russie ! » Soirée vendredi 6 septembre à Paris"
 date: 2013-09-03
 author: "rus-lib"
+coverImage: "images/2013_09_konstantin-altounine-paris-rus-lib.png"
 categories:
   - "infos"
 ---
@@ -17,8 +18,8 @@ a basculé. Après la fermeture de son exposition à Saint-Pétersbourg il y a u
 [tableau représentant Poutine et Medvedev en nuisette et soutien-gorge](/Olga/Activism%202012-2013/Altounine/Visual/bigbrowser.blog.lemonde.fr/2013/08/28/deshabille-poutine-en-nuisette-une-oeuvre-dart-interdite/)
 . Maintenant Konstantin est à Paris. Sa femme et sa fille sont encore en Russie et subissent des menaces.
 
-Devenu réfugié en France,  Konstantin continue à travailler dans ces conditions difficiles. Grâce aux réseaux de solidarité il a trouvé son atelier temporaire à la Maison d’Europe et d’Orient pour cette semaine :
-[](http://russielibertes.files.wordpress.com/2013/09/konstantin-altounine-paris-rus-lib.png)
+Devenu réfugié en France,  Konstantin continue à travailler dans ces conditions difficiles. Grâce aux réseaux de solidarité il a trouvé son atelier temporaire à la Maison d’Europe et d’Orient pour cette semaine .
+
 Il va présenter ces nouveaux travaux à la Maison d’Europe et d’Orient et raconter son histoire et ses projets pendant la soirée du 6 septembre.
 
 Il y a également une semaine que
