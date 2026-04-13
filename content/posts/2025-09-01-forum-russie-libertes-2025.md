@@ -26,7 +26,6 @@ Cette année, le Forum se concentrera sur trois aspects principaux. D'une part, 
 
 10h00-12h00
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Ouverture du Forum**   
 
@@ -37,7 +36,6 @@ Cette année, le Forum se concentrera sur trois aspects principaux. D'une part, 
  
 12h30-14h00
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Table ronde 1 : Militarisation et Société - Les Russes sous Poutine**   
 
@@ -56,7 +54,6 @@ Cette table ronde explorera l’état actuel de la société russe et l’impact
  
 14h20-15h50
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Table Ronde 2 : Justice et voie vers la Paix – Les conditions de l’acceptable**   
 
@@ -77,7 +74,6 @@ Cette table ronde vise à définir les contours d’une paix acceptable pour les
  
 16h10-16h20
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### ****Intervention introductive****
 
@@ -86,7 +82,6 @@ ____Brice Roquefeuil____ , Directeur de l’Europe continentale, Ministère de l
  
 16h20-17h50
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Table ronde 3 : Propagande et guerre : Comment percer la bulle de la désinformation dans la société russe**
 
@@ -107,7 +102,6 @@ ____Brice Roquefeuil____ , Directeur de l’Europe continentale, Ministère de l
  
 17h50-18h20
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Présentation : L'expertise des médias indépendants russes en France - l'exemple de Novaya Gazeta Europe et The Bell Pro**   
 
@@ -120,7 +114,6 @@ Intervenants confirmés : __Arnold Khatchaturov__ (journaliste et sociologue, r�
  
 18h40-18h50
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### ****Mot d'accueil****
 
@@ -129,7 +122,6 @@ __François Vauglin,__ Maire du 11ème arrondissement de Paris
  
 18h50-19h20
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### **Keynote speaker**
 
@@ -140,7 +132,6 @@ __Yulia Navalnaya__ , femme politique russe et épouse du défunt Alexeï Navaln
  
 19h20-19h30
  
-<br class="unsupported svg" data-shortcode="" />
  
 ### ****Mot de clôture****
 

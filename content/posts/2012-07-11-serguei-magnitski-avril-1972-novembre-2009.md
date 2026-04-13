@@ -15,17 +15,12 @@ tags:
 
 ### **Sergueï Magnitski, avril 1972 - novembre 2009**
 
+* **PAR DANIEL COHN-BENDIT** , __Députe européen EE-LV__
+* **ANDRÉ GATTOLIN** , __Sénateur (France)__
+* **DENIS MCSHANE**, __Députe travailliste et ancien ministre des Affaires européennes (Royaume-Uni)__
+* **MATTEO MECACCI**, __Députe radical (Italie)__
+* **MATS JOHANSSON**, __Députe modéré (Suède)__
 
-**PAR DANIEL COHN-BENDIT 
-<br class="unsupported small" data-shortcode="" />**
-**ANDRÉ GATTOLIN 
-<br class="unsupported small" data-shortcode="" />**
-**DENIS MCSHANE 
-<br class="unsupported small" data-shortcode="" />**
-**MATTEO MECACCI 
-<br class="unsupported small" data-shortcode="" />**
-**MATS JOHANSSON 
-<br class="unsupported small" data-shortcode="" />**
 Sergueï Magnitski. Son nom ne vous dit probablement rien. Pourtant, sa seule évocation suffit à provoquer la fureur de Vladimir Poutine. De même qu’il faisait mine d’ignorer le travail «insignifiant» d’Anna Politkovskaïa, elle aussi assassinée, celui de Magnitski ne mériterait rien d’autre, aux yeux du président russe, que de tomber dans l’oubli. Le simple fait de prononcer son nom serait un crime de lèse-majesté.
     L’histoire tragique de Magnitski a ceci de gênant qu’elle renvoie directement aux terribles dérives du pouvoir russe et de ses affidés. Lui qui était avocat et défendait, il y a quelques années encore, les intérêts d’investisseurs américains basés en Russie paya de sa vie des révélations qu’il fit dans le cadre de sa profession. A savoir une vaste opération d’escroquerie au détriment de ses clients, et plus encore de l’Etat russe, qui consista à détourner 230 millions de dollars des caisses publiques, après leur perception par le fisc, avec la complicité d’agents des impôts et de la police. Des agents eux-mêmes chargés d’enquêter sur les faits dont ils étaient accusés et qui embastillèrent celui qui avait levé le voile sur leurs activités. Devenus riches et ayant été promus depuis, ils s’activent désormais à persécuter la mère et la veuve de Magnitski. Car Magnitski a succombé le 16 novembre 2009 sous les coups de ses geôliers, après de longs mois passés en prison à subir de multiples mauvais traitements. Précision : le calvaire dont Magnitski a été la victime, comme les agissements qu’il avait dénoncés, ne font aujourd’hui aucun doute. Ses amis n’ont eu de cesse de réunir une irréfutable documentation pour attester de ce qui lui était arrivé. A tel point qu’une commission officielle indépendante russe en charge de dénoncer les mauvais traitements en prison a utilisé le terme de torture. Pourtant, non seulement les responsables de ce drame restent tranquilles et impunis, mais les «poursuites» qu’ils avaient engagées contre leur victime continuent à titre posthume.
 

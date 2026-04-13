@@ -14,12 +14,12 @@ tags:
 **« Menace pour la sécurité nationale ».**
 **Enquête d’Ilya Yashin sur le régime de Ramzan Kadyrov en Tchétchénie.**
 
-<br class="unsupported u" data-shortcode="" />
+__Synthèse en français__
 
 (traduction et rédaction par Elena Colombo et Michèle Poussard).
 __Russie-Libertés publie une synthèse de l’enquête « Menace pour la sécurité nationale » sur le régime de Ramzan Kadyrov en Tchétchénie, présentée par Ilya Yashin le 23 février 2016 à Moscou. [**[1]**](#_ftn1)__
 __L’enquête met l’accent sur le fait que sous Ramzan Kadyrov un « groupe criminel a remplacé l’État tchétchène » et vit aujourd’hui « selon ses propres lois». Il s’agit, d’après Ilya Yashin, d’un « régime dangereux » dont la loyauté repose uniquement sur « la satisfaction des appétits financiers et politiques de Ramzan Kadyrov ». L’objectif de ce document, présenté sous forme de rapport, est donc « d’ouvrir les yeux de la société russe sur la réalité de ce régime » ainsi que sur la « menace qu’il représente pour la sécurité nationale » du pays.__
-**<br class="unsupported u" data-shortcode="" />**
+__Points-clés du rapport :__
 **Ramzan Kadyrov n’éprouve aucun regret d’avoir combattu contre les forces fédérales russes pendant la première guerre en Tchétchénie.**
 Le rapport rappelle que la journaliste Anna Politkovskaïa décrivait le rôle de Ramzan Kadyrov pendant la première guerre en Tchétchénie ainsi : « tirer, tuer, enlever ». En 2013, dans une interview sur la chaîne télévisée « Russie 1 », Ramzan Kadyrov a affirmé n'éprouver aucun regret d’avoir participé à la guerre qui pour lui a été une « grande école » et l’a aidé à « connaitre la vérité ».
 **Ramzan Kadyrov**

@@ -2,13 +2,16 @@
 title: "À quoi ressemble un camp de travail russe ?"
 date: 2012-08-23
 author: "rus-lib"
+coverImage: "images/2012_08_d0bad0bed0bbd0bed0bdd0b8d18f-d0b2d0bbd0b0d0b4d0b8d0bcd0b8d180-d0b1d0b0d0b7d0b0d0bd.jpg"
 categories:
   - "infos"
 ---
+    
+__Plusieurs associations dénoncent des méthodes héritées des goulags. ©Vladimir Bazan__
 
 [Un article de Maryam Lévy sur le site Quoi.info](https://quoi.info/actualite-international/2012/08/23/a-quoi-ressemble-une-colonie-penitentiaire-russe-1148534/)
 
-<br class="unsupported header" data-shortcode="" />
+**En Russie, les membres du groupe de musique punk Pussy Riot ont été condamnés à 2 ans d'enfermement dans une colonie pénitentiaire.**
 
 [La condamnation des Pussy Riot à 2 ans d'emprisonnement dans un camp de travail](https://www.lemonde.fr/europe/article/2012/08/17/la-condamnation-des-pussy-riot-digne-de-l-inquisition_1747276_3214.html)
 (pour avoir récité une prière punk) rappelle l'époque où les dissidents russes étaient envoyés au goulag sous le régime soviétique.

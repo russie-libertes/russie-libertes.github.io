@@ -7,4 +7,4 @@ categories:
   - "infos"
 ---
 
-Russie-Libertés exprime sa solidarité avec [ <br class="unsupported s" data-shortcode="" />  **CharlieHebdo**](https://twitter.com/hashtag/CharlieHebdo?src=hash) . Plus que jamais défendons les libertés face à la haine !
+Russie-Libertés exprime sa solidarité avec [# **CharlieHebdo**](https://twitter.com/hashtag/CharlieHebdo?src=hash) . Plus que jamais défendons les libertés face à la haine !

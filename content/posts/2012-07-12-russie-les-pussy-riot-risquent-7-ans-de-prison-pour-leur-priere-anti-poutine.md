@@ -13,8 +13,8 @@ tags:
 
 
 **RTBF.Be Info - Jeudi 12 juillet 2012**
-
-<br class="unsupported header" data-shortcode="" />
+    
+> Le dossier des trois femmes membres du groupe de punk Pussy Riot en détention depuis plus de quatre mois pour une "prière" anti-Poutine dans une cathédrale de Moscou a été transmis à un tribunal où elle risquent jusqu'à sept ans de prison, a indiqué jeudi le parquet général russe.
 
 "
 __Le parquet de Moscou a transmis le dossier des membres du groupe Pussy Riot (...) devant le tribunal Khamovnitcheski__

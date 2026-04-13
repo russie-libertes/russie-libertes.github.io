@@ -14,8 +14,7 @@ tags:
 #### [EDITO - 2 août 2012](https://www.liberation.fr/monde/2012/08/02/sauveur_837340)
 
  
-<br class="unsupported small" data-shortcode="" />
- FRANÇOIS SERGENT 
+__Par__ FRANÇOIS SERGENT 
 ### **Sauveur**
 
  Pendant que Poutine se pavane aux JO, un procès de Moscou menace de sept ans de prison trois jeunes femmes membres d’un groupe de rock drôle et subversif. Le «crime» des Pussy Riot : avoir chanté dans la cathédrale du Christ-Sauveur une chanson anti-Poutine. Arrêtées et accusées «de hooliganisme», une charge fourre-tout du despotisme russe, elles sont depuis cinq mois en prison, soumises à de dures conditions d’incarcération, privées de sommeil et de nourriture. Ainsi va la Russie de l’ancien colonel du KGB qui traite ses opposants comme l’Union soviétique le faisait de ses dissidents.

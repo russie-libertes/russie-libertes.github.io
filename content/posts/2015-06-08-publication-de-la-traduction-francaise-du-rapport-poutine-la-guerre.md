@@ -503,9 +503,7 @@ La seconde « vague » de cercueils a été envoyée en Russie en janvier et dé
 
 La mort de nombreux soldats russes est liée à la succession d’offensives et de contre- offensives, en particulier aux abords de Debaltsevé. Contrairement à ce qui se pratiquait l’année dernière, cette année, avant de partir pour le Donbass, les soldats russes démissionnaient officiellement des forces armées à la demande du commandement.
 [](https://ukraineaction.org/wp-content/uploads/2015/06/p15.jpg)
-__Note écrite par Boris Nemtsov, peu avant sa mort : « J’ai été contacté par des parachutistes d’Ivanovo… 17 tués,….ils n’ont pas été payés…. mais ils ont peur de 
-<br class="unsupported u" data-shortcode="" />
- pour l’instant. »__
+__Note écrite par Boris Nemtsov, peu avant sa mort : « J’ai été contacté par des parachutistes d’Ivanovo… 17 tués,….ils n’ont pas été payés…. mais ils ont peur de parler pour l’instant. »__
 De cette façon, il était prévu de cacher la participation de notre armée aux combats en faisant passer nos soldats pour des volontaires. Les commandants donnaient leur parole aux soldats qu’en cas de blessure ou de décès, leurs proches toucheraient une pension de guerre comparable aux sommes versées durant l’été 2014.
 
 Concrètement, cette fois, les proches n’ont perçu aucune compensation. Officiellement, ils étaient dans l’impossibilité de demander une indemnisation puisque les soldats décédés ne faisaient plus formellement partie de l’armée.

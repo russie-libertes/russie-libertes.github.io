@@ -21,8 +21,6 @@ L'article de
 __Crédits photo : musée du goulag (https://gulagmuseum.org)__
 En décembre 2011, en miroir du printemps arabe, on attendait l’hiver russe. Selon l’habitude historique, le froid hivernal devient plutôt un catalyseur de l’activité citoyenne en Russie. Des centaines des milliers des personnes qui sont sortis dans les rues de Moscou et bien d’autres villes russes et même étrangères  (500 manifestants rien qu’à Paris).Voilà qui avait l’air sérieux. L’action spectaculaire dite du « Cercle blanc », une chaîne humaine ininterrompue  tout au long de la voie circulaire qui ceinture le centre de Moscou (16 km, ou à peu près la moitié du périphérique) s’est tenue le 27 février 2012. On sentait une véritable montée de l’activisme civique, avec par exemple
 
-<br class="unsupported del" data-shortcode="" />
-
 la croissance du nombre de volontaires engagés comme observateurs pendant les élections, ou encore les brigades de bénévoles en soutien des victimes de l’inondation cataclysmique dans le sud de la Russie, à Krymsk, en juillet dernier.
 
 La glace semblait rompue. Mais si au début le pouvoir observait avec effarement l’éveil de la société civique, la réaction n’a pas tardé : l’adoption des lois liberticides, dont la loi limitant sévèrement le droit de manifester, la loi de censure sur Internet et loi « d’encadrement » des ONG. Les initiatives législatives sont accompagnées de procès politiques retentissants qui sont loin de se limiter à l’affaire des Pussy Riot. La comparaison avec les procès staliniens des années 30 semble de moins en moins exagérée.
@@ -37,11 +35,7 @@ Vladimir Akimenkov, 25 ans, activiste du Front de Gauche russe, souffre de colob
 Akimenkov est l’un des figurants de « l’affaire du bourbier » – le procès sur les participants de la manifestation du 6 mai sur la place Bolotnaïa à Moscou. Cette manifestation nommée « La marche des millions » a été autorisée par des organismes officiels. Contrairement à cet accord, une grande partie du pont Bolchoï Kamenny par lequel la manifestation devait passer a été bloquée par les services militaires. Ceci a créé un engorgement et provoqué des affrontements entre la police et les manifestants. 30 policiers ont été blessés et ont reçu des récompenses, y compris des appartements. Les juges d’instruction considèrent les évènements comme «troubles de masse » et ont déjà ouvert une enquête sur 19 boucs émissaires, dont 13 sont en prison. L’un de ces prisonniers, Oleg Arkhipenkov, n’est jamais allé sur la place Bolotnaïa.
 L’affaire a connu une nouvelle ampleur après la sortie du  documentaire (ou autoproclamé comme tel) sur la chaîne officieuse NTV « L’anatomie de contestation-2 ».  D’après ce film des personnes ressemblant aux membres du Front de gauche russe, dont Léonid Razvozjaev, Konstantin Lébédev et d’autres, seraient allés à Minsk pour négocier avec Guivi Targamadzé, l’ex-chef du Comité de Défense du Parlement de la Géorgie,  le financement de l’opposition et le calendrier des actions, y compris la manifestation du 6 mai. Ce film a servi de
 [base d’accusation](https://fr.ria.ru/russia/20121017/196335945.html)
-, notamment sur le fondement d’une « expertise » commanditée par le Comité d’Investigation, qui prétend que son authenticité est démontrée. Cette « démonstration » est d’une logique d’autant plus surprenante que  la rencontre avec Targamadzé aurait eu lieu en juin d’après leur propre documentaire, soit un mois après ce qu’ils appellent les « troubles de masse ». L’ouverture de l’enquête sur ces personnes n’a pas tardé. Léonid Razvozjaev qui a essayé de fuir en Ukraine pour demander l’asile politique
-
-<br class="unsupported ins" data-shortcode="" />
-
-a été kidnappé par les services secrets russes (ce fait est déjà confirmé par le Ministère de l’Intérieur de l’Ukraine). Il a été torturé pendant deux jours et il a été forcé à signer l’autodénonciation dans laquelle il reconnaît tous les faits.
+, notamment sur le fondement d’une « expertise » commanditée par le Comité d’Investigation, qui prétend que son authenticité est démontrée. Cette « démonstration » est d’une logique d’autant plus surprenante que  la rencontre avec Targamadzé aurait eu lieu en juin d’après leur propre documentaire, soit un mois après ce qu’ils appellent les « troubles de masse ». L’ouverture de l’enquête sur ces personnes n’a pas tardé. Léonid Razvozjaev qui a essayé de fuir en Ukraine pour demander l’asile politique a été kidnappé par les services secrets russes (ce fait est déjà confirmé par le Ministère de l’Intérieur de l’Ukraine). Il a été torturé pendant deux jours et il a été forcé à signer l’autodénonciation dans laquelle il reconnaît tous les faits.
 
 **2012 vs 1937**
 «
@@ -87,8 +81,6 @@ __Et vous, professeur Margolis, vous êtes qui__
 Le pouvoir ne fait pas que gêner le travail de recherche et falsifier son résultat. Même la question de commémoration des victimes des répressions ne se pose presque pas. À Moscou, plus de 30 000 personnes ont été fusiliées en 1937-38 et trois fois plus ont été déportées. Cependant, il n’y a aucun monument consacré à ces évènements  Le projet de parc commémoratif dans la forêt Kovalevsky traîne depuis 2009 sans aucun résultat. Dans le terrain de Boutovo, près de Moscou, il y a un ensemble commémoratif créé par l’Église orthodoxe russe. Sans nier le fait que l’église a beaucoup souffert pendant cette période, la décision des autorités de déléguer le problème à l’église semble trop réductrice, en particulier parce que beaucoup de victimes étaient athées.
 
 Un peuple qui oublie son passé se condamne à le revivre. Surtout lorsque le passé
-
-<br class="unsupported del" data-shortcode="" />
 
 n’a jamais vraiment été un passé. Une nouvelle loi liberticide sur la haute trahison a été approuvée par le Parlement russe le 31 octobre. Vladimir Poutine ne tardera pas à la promulguer. Amnesty International a déjà exprimé  sa préoccupation. Le retour du concept d’ennemi du peuple ?
 **Maria Khachaturyan**

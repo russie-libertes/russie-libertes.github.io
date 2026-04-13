@@ -13,7 +13,7 @@ categories:
 
 Ten years ago, I was walking on a boulevard in central Moscow when my phone rang.
 
-It was a glorious summer day. The day before, I had returned from a [week-long trip to Chechnya](https://web.archive.org/web/20200804161609/https://www.opendemocracy.net/en/natalia-estemirova-champion-of-ordinary-chechens/), which was grueling but productive. After melting in a stifling car from morning to dusk in different villages, interviewing local residents about torture, killings, and house-burnings, and then typing it all up until 3 a.m. every night, everything was ready to make these harrowing abuses public.
+It was a glorious summer day. The day before, I had returned from a [week-long trip to Chechnya](https://www.opendemocracy.net/en/natalia-estemirova-champion-of-ordinary-chechens/), which was grueling but productive. After melting in a stifling car from morning to dusk in different villages, interviewing local residents about torture, killings, and house-burnings, and then typing it all up until 3 a.m. every night, everything was ready to make these harrowing abuses public.
 
 There were practically no loose ends to tie up before I could finally take a week of vacation. Squinting at the sun, I lazily thought about how my favorite sundress was frayed at the seams. Some shopping was in order. I was mentally working on a shopping list when I pulled out the buzzing phone from my bag.
 
