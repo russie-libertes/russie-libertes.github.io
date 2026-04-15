@@ -7,7 +7,7 @@ def main(args):
     if not args.input_path and args.config_path:
         config = json.load(open(args.config_path))
         googlecalendar_id = config['googlecalendar_id']
-        args.input_path = f'https://calendar.google.com/calendar/r?cid={googlecalendar_id}';
+        args.input_path = f'https://calendar.google.com/calendar/ical/{googlecalendar_id}/public/basic.ics?orderby=starttime&sortorder=descending'
 
     with urllib.request.urlopen(args.input_path) as f:
         ics_data = f.read().decode('utf-8')
