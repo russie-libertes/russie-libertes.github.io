@@ -8,6 +8,10 @@ categories:
   - "nos-actions"
 ---
 
+...
+![](images/2018_10_image_content_24278427_20181008205850-300x151.jpg)
+L’allumage de douze bougies en mémoire d'Anna.
+
 Depuis 2014, il fait campagne en citoyen pour honorer au Havre la mémoire d’Anna Politkovskaïa. Dominique Rougeventre a organisé hier, à 18 h, un nouveau rassemblement, quartier de l’Eure, rue des Chargeurs réunis, dans la plaine de jeux qui porte le nom de la journaliste russe abattue le 7 octobre 2006. Après avoir obtenu qu’y soit installée une plaque en son hommage, inaugurée en juin dernier, le militant souhaite donner d’autres formes à ses témoignages d’estime envers celle qui dénonçait les excès du pouvoir russe, des guerres en Tchétchénie, la corruption et surtout les privations de liberté.
 **Souhaitez-vous organiser un rassemblement chaque année, à la date anniversaire de sa mort**
 **?**
@@ -26,6 +30,3 @@ __, au Studio, NDLR__
 **» - de 2008.**
 « Elle y témoigne. Il traite de son parcours, de son travail, de la situation de l’époque. Qui reste terrible aujourd’hui en Russie. »
 [https://www.paris-normandie.fr/region/au-havre-vers-d-autres-formes-d-hommages-pour-la-journaliste-anna-politkovskaia-IJ13929919](https://www.paris-normandie.fr/region/au-havre-vers-d-autres-formes-d-hommages-pour-la-journaliste-anna-politkovskaia-IJ13929919)
-...
-[](https://russie-libertes.org/wp-content/uploads/2018/10/image_content_24278427_20181008205850.jpg)
-L’allumage de douze bougies en mémoire d'Anna.

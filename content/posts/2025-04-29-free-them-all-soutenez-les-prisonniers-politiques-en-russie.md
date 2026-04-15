@@ -22,7 +22,7 @@ Il s'agit d'une estimation basse, car les défenseurs des droits humains ont tr�
 
 **Nous appelons toutes les personnalités politiques et publiques à rejoindre notre campagne :** 
 
- - Téléchargez et imprimez l'affiche **[TELECHARGER](https://russie-libertes.org/wp-content/uploads/2025/05/Free-them-all-ENG-without-logo.png)** 
+ - Téléchargez et imprimez l'affiche **[TELECHARGER](images/2025_05_Free-them-all-ENG-without-logo.png)** 
 
  - Prenez vous en photo avec 
 
@@ -61,7 +61,7 @@ This is a conservative estimate, as human rights defenders have very little info
 
 **We call on all political and public figures to join our campaign:** 
 
- - Download and print the poster : **[DOWNLOAD](https://russie-libertes.org/wp-content/uploads/2025/05/Free-them-all-ENG-without-logo.png)** 
+ - Download and print the poster : **[DOWNLOAD](images/2025_05_Free-them-all-ENG-without-logo.png)** 
 
  - Take a photo with it 
 

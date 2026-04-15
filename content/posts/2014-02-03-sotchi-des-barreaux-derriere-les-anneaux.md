@@ -13,9 +13,8 @@ tags:
 **A une semaine de l’ouverture des Jeux olympiques (JO) d’hiver de Sotchi, Action des Chrétiens contre la torture (ACAT-France), Amnesty International France (AIF), la Fédération Internationale des Ligues des droits de l’Homme (FIDH), Inter-LGBT et Russie-Libertés se mobilisent.**
 Samedi 1er février, près de 200 personnes se sont retrouvées pour dénoncer ce que le faste des JO ne peut masquer ; une situation alarmante en matière de droits humains en Russie où manifester, informer, militer s’avère de plus en plus risqué, où les minorités sexuelles sont stigmatisées et victimes de violence, où le racisme et la xénophobie alimentent la violence.
 
-### 
 
-
+![](images/2014_02_expression.img_assist_custom-136x136.png)
 ### Répression des manifestations
 
 
@@ -28,9 +27,7 @@ La tendance s'est poursuivie après le début de l'année 2014: un rassemblement
 
 De petits rassemblements de rue pacifiques, « non autorisés », ont été régulièrement dispersés par la police avec des moyens souvent injustifiés ou disproportionnés. Aucune plainte n'a fait l'objet d'une enquête effective.
 
-### 
-
-
+![](images/2014_02_journaliste.img_assist_custom-136x136.png)
 ### Restriction de la liberté de parole et de l'information
 
 
@@ -38,11 +35,8 @@ Une nouvelle loi de fin décembre prévoit le blocage immédiat des sites Intern
 **Novembre 2012 :**
 adoption d’une loi obligeant les ONG recevant des fonds de l'étranger et engagées dans des activités très généralement qualifiées de « politiques » à s'enregistrer comme des « agents étrangers ». Plus d’un millier d’inspections ont ainsi eu lieu courant 2013. Plus de cinquante organisations ont reçu des avertissements officiels et plusieurs d’entre elles font l’objet de poursuites. Cinq organisations ont été condamnées au versement d’une amende, parmi elles deux ont eu gain de cause en appel. Au moins trois autres ont cessé d’exister.
 
-### 
-
-
+![](images/2014_02_sexe.img_assist_custom-136x136.png)
 ### Discriminations en raison de l'orientation sexuelle ou de l'identité de gentre
-
 
 **Juin 2013 :**
 promulgation d’une loi discriminatoire interdisant la « propagande en faveur des relations sexuelles non traditionnelles auprès des mineurs». Au moins 3 personnes ont été condamnées à des amendes.
@@ -51,13 +45,13 @@ un militant LGBT qui avait manifesté seul contre les discriminations, dans la v
 
 Ces lois liberticides mettent en péril la lutte contre les épidémies de VIH/SIDA et d’Hépatite C en Russie : En dix ans, lenombre de séropositifs y est passé de 100 000 à plus d'un million dont seul 25% ont accès à des traitements.
 
-### 
-
+![](images/2014_02_migrant.img_assist_custom-136x136.png)
+### Stigmatisation et exploitation des migrants
 
 La xénophobie et le racisme, en montée constante en Russie, en partie provoqués par le discours des autorités souvent intolérant et discriminatoire, conduisent à de véritables pogroms dans diverses régions de la Russie et à une exploitation en toute impunité des milliers des migrants. Chaque année, plusieurs dizaines de personnes trouvent la mort dans les rues de Russie suite à des agressions racistes.
 
-### 
-
+![](images/2014_02_torture.img_assist_custom-136x136.png)
+### Recours à la torture 
 
 Le recours à la torture et aux mauvais traitements est présent à tous les stades de la chaîne pénale russe, depuis l’arrestation jusqu’à l’exécution de la peine en colonie pénitentiaire. Malgré les espoirs suscités par des réformes en cours, ce phénomène perdure grâce à l’impunité et à l’absence de volonté politique au plus haut niveau de prévenir et réprimer la torture.
 
@@ -68,6 +62,7 @@ Les libérations emblématiques des Pussy Riot et de Mikhail Khodorkovsky interv
 .
 
 Le climat politique en Russie laisse craindre un nouveau durcissement de la répression après les festivités olympiques.
-[](https://russie-libertes.info/wp-content/uploads/2014/02/img_6100.jpg)
-[](https://russie-libertes.info/wp-content/uploads/2014/02/p1100656.jpg)
-[](https://russie-libertes.info/wp-content/uploads/2014/02/p11006581.jpg)
+
+- ![](images/2014_02_img_6100.jpg)
+- ![](images/2014_02_p1100656.jpg)
+- ![](images/2014_02_p11006581.jpg)

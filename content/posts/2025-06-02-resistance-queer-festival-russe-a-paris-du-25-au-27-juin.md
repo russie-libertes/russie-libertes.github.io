@@ -13,7 +13,7 @@ Du 25 au 27 juin **Espace Libertés | Reforum Space Paris** et **Russie-Liberté
 Le thème central du festival, qui relie toutes les œuvres et les événements, est : la résistance. La résistance nous pousse à créer, à affirmer qui nous sommes, à continuer d’exister malgré tout. Et dans la réalité actuelle en Russie, se définir comme une personne queer est déjà un acte de résistance !
 
 ---
-- [**ПРОГРАММА НА РУССКОМ ЯЗЫКЕ**](https://russie-libertes.org/wp-content/uploads/2025/06/Queer-Fest-Programme.pdf)
+- [**ПРОГРАММА НА РУССКОМ ЯЗЫКЕ**](uploads/2025_06_Queer-Fest-Programme.pdf)
 ---
 
 **Jour 1 – 25 juin. La situation actuelle en Russie** 

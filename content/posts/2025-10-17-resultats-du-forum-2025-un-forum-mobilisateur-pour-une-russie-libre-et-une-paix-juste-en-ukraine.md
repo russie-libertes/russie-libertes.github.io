@@ -179,14 +179,14 @@ Le Forum a également été l’occasion de :
 * **Accueillir 25 militants** venus d’Europe et de Russie pour des sessions de travail en marge du Forum et une rencontre au Ministère de l'Europe et des Affaires étrangères.
 
 ---
-- ![1](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3291-1.jpg)
-- ![2](https://russie-libertes.org/wp-content/uploads/2025/10/signal-2025-10-13-192418_002-1.jpeg)
-- ![3](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3835-scaled.jpg)
-- ![4](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3855-scaled.jpg)
-- ![5](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_4291.jpg)
-- ![6](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3853-scaled.jpg)
-- ![7](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3831-1-scaled.jpg)
-- ![8](https://russie-libertes.org/wp-content/uploads/2025/10/IMG_3706-scaled.jpg)
+- ![1](images/2025_10_IMG_3291-1.jpg)
+- ![2](images/2025_10_signal-2025-10-13-192418_002-1.jpeg)
+- ![3](images/2025_10_IMG_3835-scaled.jpg)
+- ![4](images/2025_10_IMG_3855-scaled.jpg)
+- ![5](images/2025_10_IMG_4291.jpg)
+- ![6](images/2025_10_IMG_3853-scaled.jpg)
+- ![7](images/2025_10_IMG_3831-1-scaled.jpg)
+- ![8](images/2025_10_IMG_3706-scaled.jpg)
 ---
 
 __« Ces échanges sont essentiels pour renforcer les liens entre les activistes en exil et ceux restés en Russie. Ensemble, nous construisons une alternative à la dictature. »__ – **Olga Kokorina** , directrice de l’Espace Libertés | Reforum Space Paris.

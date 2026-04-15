@@ -15,7 +15,7 @@ tags:
 ---
 
 La traduction française du rapport "Poutine. La guerre" a été réalisée grâce à une coopération de plusieurs associations et de traducteurs indépendants, avec l'accord d’Ilya Yashin.
-[Pour télécharger la version française du rapport en PDF cliquez ici.](https://russie-libertes.org/wp-content/uploads/2015/06/Putin_La_Guerre_68p.pdf)
+[Pour télécharger la version française du rapport en PDF cliquez ici.](uploads/2015_06_Putin_La_Guerre_68p.pdf)
 
 # Un rapport d'experts indépendants
 

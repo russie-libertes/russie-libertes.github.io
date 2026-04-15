@@ -14,15 +14,9 @@ tags:
   - "guerre"
 ---
 
-Un groupe d'experts, dirigé notamment par l'opposant Ilya Yashin, a publié aujourd'hui le rapport "Poutine. Guerre". Ce rapport est disponible en Russe (
-[cliquer ici](https://drive.google.com/file/d/0B4SOYKcoF01KbERJUm1HaTJiUWs/view)
-) et peut être
-[téléchargé sur notre site (cliquer ici)](https://russie-libertes.org/wp-content/uploads/2015/05/Putin.Voina_.pdf)
-.
+Un groupe d'experts, dirigé notamment par l'opposant Ilya Yashin, a publié aujourd'hui le rapport "Poutine. Guerre". Ce rapport est disponible en Russe ([cliquer ici](https://drive.google.com/file/d/0B4SOYKcoF01KbERJUm1HaTJiUWs/view)) et peut être [téléchargé sur notre site (cliquer ici)](uploads/2015_05_Putin.Voina_.pdf).
 
-Ce rapport a été commencé par Boris Nemtsov avant qu'il ne soit
-[assassiné le 27 février dernier à Moscou](https://russie-libertes.org/2015/03/02/paris-rassemblement-en-memoire-de-boris-nemtsov-et-de-toutes-les-victimes-dassassinats-politiques-en-russie/)
-. Le travail a été continué par ses proches au sein d'un groupe d'experts.
+Ce rapport a été commencé par Boris Nemtsov avant qu'il ne soit [assassiné le 27 février dernier à Moscou](https://russie-libertes.org/2015/03/02/paris-rassemblement-en-memoire-de-boris-nemtsov-et-de-toutes-les-victimes-dassassinats-politiques-en-russie/). Le travail a été continué par ses proches au sein d'un groupe d'experts.
 
 Le rapport "Poutine. Guerre" compile des informations, des témoignages et des preuves de la présence de militaires russes sur le territoire ukrainien. Il analyse également les raisons de l'implication russe, les outils de communication employés par le Kremlin et le coût de la guerre pour les citoyens russes.
 **Chiffres-clés du rapport :**

@@ -11,14 +11,18 @@ categories:
 Le constat qui a été fait à l’occasion de la conférence du 9 décembre sur les
 **«(R)ÉVOLUTIONS ET DROITS HUMAINS EN RUSSIE : 1917 – 2017»**
 , organisée à la Sorbonne par l’association Russie-Libertés et l’association des Droits de l’Homme de la Sorbonne, révèle que ces révolutions de 1917 ont laissé des séquelles qui n’ont de cesse de trouver leurs échos dans une société russe en quête de son identité nouvelle. Comme l’a justement souligné Cécile Vaissié : « en Russie il y a une guerre froide autour de la mémoire et de la redéfinition de l’identité russe. » Selon David Satter, la Russie n’a pas encore dépassé l’héritage du bolchevisme. Ainsi, alors que la dépouille de Lénine repose toujours au mausolée, la commémoration de 1917 n'est plus ce qu'elle était et les événements de 1917 sont qualifiés comme événements les plus contradictoires de l'histoire du pays.
-[](https://russie-libertes.org/wp-content/uploads/2017/12/IMG_20171209_153013.jpg)
+
+![](images/2017_12_IMG_20171209_153013-300x169.jpg)
+
 De toute évidence, la notion de révolution n'est pas ce que l’État souhaite commémorer aujourd'hui. La crainte du Kremlin vis-à-vis de la notion révolutionnaire réside dans le danger des conséquences d’une contestation quelconque. « La seule chose que craint le pouvoir russe est que toute la lumière soit faite », constate Ksenia Larina. Et pour cela, l’action des ONGs, des militants, des artistes et toute autre voix de résistance est extrêmement importante. « Toute réaction, surtout non anonyme, et même si celle-ci provient de l’étranger, pourra aider considérablement », ajoutait Gregoriy Shvedov.
-[](https://russie-libertes.org/wp-content/uploads/2017/12/IMG_20171209_115414.jpg)
+
+![](images/2017_12_IMG_20171209_115414.jpg)
+
 Le recul des droits se constate dans toutes les sphères de la vie des citoyens russes. Ainsi, les artistes se voient privés de leur liberté artistique. Les écologistes privés de leurs actions pour l’environnement. Et les citoyens poussés vers une indifférence généralisée.
-[](https://russie-libertes.org/wp-content/uploads/2017/12/ASSO-25299982_1765130693497964_5644482889941709157_o.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2017/12/ASSO-25074855_1765132253497808_8728835553669312071_o.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2017/12/ASSO-25073533_1765121990165501_4041415634086688039_o.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2017/12/ASSO-24958717_1765128220164878_8485034048910447492_o.jpg)
+- ![](images/2017_12_ASSO-25299982_1765130693497964_5644482889941709157_o-300x199.jpg)
+- ![](images/2017_12_ASSO-25074855_1765132253497808_8728835553669312071_o-300x199.jpg)
+- ![](images/2017_12_ASSO-25073533_1765121990165501_4041415634086688039_o-300x199.jpg)
+- ![](images/2017_12_ASSO-24958717_1765128220164878_8485034048910447492_o-300x199.jpg)
 « Hier, à l’avant-première du ballet « Noureev » au théâtre Bolchoï, toute l’élite était présente : les fonctionnaires, les ministres, même le ministre de la Culture ! Quel niveau de cynisme faut-il atteindre pour d’une main applaudir et d’une autre enfermer le metteur en scène du ballet ? », s’exclamait Ksenia Larina sur la situation de Kirill Serebrennikov assigné à résidence depuis le 23 août 2017.
 Une dissidence artistique est née en Russie, comme à l’époque Stalinienne. Des artistes sont pourchassés, des théâtres fermés et des films interdits.
 La situation avec les écologistes est la même. Comme en témoignent Nadezhda Kutepova et Evguenia Tchirikova. Mais de plus en plus de mouvements citoyens naissent en Russie et les revendications sont multiples. Ces mouvements sont faibles et ont besoin de soutien. Le soutien de l’Europe est important et sans une pression extérieure sur le Kremlin, les choses ne pourront avancer.
