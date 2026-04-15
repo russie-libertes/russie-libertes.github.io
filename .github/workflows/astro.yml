@@ -85,6 +85,8 @@ jobs:
           DBUS_SESSION_BUS_ADDRESS: "unix:path=/var/run/dbus/system_bus_socket"
 
         run: |
+          npm run googlecalendar
+          cat ./content/scrape/googlecalendar.json
           echo OK
           #npm run helloasso
           #sudo -E xvfb-run --server-args='-screen 0, 1024x768x16' -a -e /dev/stdout npm run helloasso
