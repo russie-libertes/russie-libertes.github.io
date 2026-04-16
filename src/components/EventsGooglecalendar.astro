@@ -14,18 +14,24 @@ function formatMapsLink(location)
     return url;
 }
 
-function formatIcsFileName(evt)
+function formatIcsFileName(startdate_iso)
 {
-    return evt.startDate.toJSDate().toISOString().replaceAll(':', '-').replaceAll('.', '-') + '.ics';
+    return startdate_iso.replaceAll(':', '-').replaceAll('.', '-') + '.ics';
 }
 
-function formatIcsDataUri(vevent)
+function formatIcalStr(vevent)
 {
     // https://stackoverflow.com/a/18847018/445810
     const vcal = new ICAL.Component(['vcalendar', [], []]);
     vcal.addSubcomponent(vevent);
     const icalsample = vcal.toString();
-    return "data:text/calendar," + encodeURIComponent(icalsample);
+    return icalsample;
+    //return "data:text/calendar," + encodeURIComponent(icalsample);
+}
+
+function isPast(evt, now_without_time = withoutTime(now || new Date()))
+{
+    return withoutTime(evt.startDate.toJSDate()) < now_without_time;
 }
 
 const currentLocale = getCurrentLocale(Astro);
@@ -34,7 +40,6 @@ const { googlecalendar_id, future, past, auto, embed, subscribe, now } = Astro.p
 
 const withoutTime = dt => dt.setHours(0,0,0,0);
 
-const now_without_time = withoutTime(now || new Date());
 
 const embed_url     = `https://calendar.google.com/calendar/embed?src=${googlecalendar_id}`;
 const subscribe_url = `https://calendar.google.com/calendar/r?cid=${googlecalendar_id}`;
@@ -53,8 +58,8 @@ if(ics !== '')
     const comp = new ICAL.Component(jcalData);
     const vevents_events = Array.from(comp.getAllSubcomponents("vevent")).map(vevent => [vevent, new ICAL.Event(vevent)]);
     
-    const future_events = vevents_events.filter(([vevent, evt]) => withoutTime(evt.startDate.toJSDate()) >= now_without_time).map(([vevent, evt]) => [vevent, evt, false]);; 
-    const past_events = vevents_events.filter(([vevent, evt]) => withoutTime(evt.startDate.toJSDate()) < now_without_time).map(([vevent, evt]) => [vevent, evt, true]);
+    const past_events = vevents_events.filter(([vevent, evt]) =>  isPast(evt)).map(([vevent, evt]) => [vevent, evt, true]);
+    const past_events = vevents_events.filter(([vevent, evt]) => !isPast(evt)).map(([vevent, evt]) => [vevent, evt, false]);
     
     if(auto)
     {
@@ -77,29 +82,31 @@ if(ics !== '')
     }
 }
 
+const events_joined = events.map(([vevent, evt, past]) => ({summary: evt.summary, location: evt.location, description: evt.description, startdate_iso: evt.startDate.toJSDate().toISOString(), past: past, ical_str : formatIcalStr(vevent)}));
+
 ---
 
 <div class="card-grid">
-    {events.map(([vevent, evt, past]) => (
-        <article class="card">
-            { past ? (
-                <h2 class="card-title">{evt.summary}</h2>
-            ) : (
-            <a download={formatIcsFileName(evt)} href={formatIcsDataUri(vevent)}>
-                <h2 class="card-title">{evt.summary}</h2>
+{events_joined.map(e => (
+    <article class="card">
+        { e.past ? (
+            <h2 class="card-title">{e.summary}</h2>
+        ) : (
+        <a download={formatIcsFileName(e.startdate_iso)} href={"data:text/calendar," + encodeURIComponent(e.ical_str)}>
+            <h2 class="card-title">{e.summary}</h2>
+        </a>
+        )}
+        <div class="card-meta">
+            <time datetime={e.startdate_iso}>{e.startdate_iso}<!-- formatDateTime(e.evt.startDate.toJSDate(), currentLocale)--></time>
+            <a href={formatMapsLink(e.location)}>
+                <address>{e.location}</address>
             </a>
-            )}
-            <div class="card-meta">
-                <time datetime={evt.startDate.toJSDate().toISOString()}>{formatDateTime(evt.startDate.toJSDate(), currentLocale)}</time>
-                <a href={formatMapsLink(evt.location)}>
-                    <address>{evt.location}</address>
-                </a>
-            </div>
-            <blockquote class="card-excerpt">{excerpt(evt.description)}<blockquote/>
-        </article>
-    ))}
+        </div>
+        <blockquote class="card-excerpt">{excerpt(e.description)}<blockquote/>
+    </article>
+))}
 </div>
-{events.length == 0 && (<p><slot /></p>)}
+{events_joined.length == 0 && (<p><slot /></p>)}
 
 {!embed && subscribe && (
 <div style="display:flex; margin-top:1em">
