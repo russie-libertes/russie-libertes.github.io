@@ -12,7 +12,7 @@ Le 22 mars 2024, un terrible attentat du Crocus City Hall à Krasnogorsk près d
 
 Le service fédéral de sécurité russe (FSB) dont est issu Poutine et qui a été financé à outrance par des fonds budgétaires pendant les 25 dernières années, n’a pas été capable d’empêcher cet acte de terrorisme atroce.
 
-[]() Pourtant, le service de renseignement russe se montre très performant pour arrêter tous ceux qui déplaisent à Poutine et les poursuivre pour « terrorisme et extrémisme » pour de simples paroles ou actes anti-guerre.
+Pourtant, le service de renseignement russe se montre très performant pour arrêter tous ceux qui déplaisent à Poutine et les poursuivre pour « terrorisme et extrémisme » pour de simples paroles ou actes anti-guerre.
 
 Selon l'enquête du projet RE:Russia, en 2022, le nombre de personnes reconnues coupables de « terrorisme » en Russie a augmenté de 40 fois par rapport à la moyenne des années qui ont précédé le retour de Poutine au Kremlin en 2012.
 

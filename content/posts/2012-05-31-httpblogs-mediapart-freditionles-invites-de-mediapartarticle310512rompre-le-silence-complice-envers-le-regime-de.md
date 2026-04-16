@@ -10,24 +10,26 @@ tags:
 
 **Lettre à Mme Angela Merkel et M. François Hollande signée par de célèbres dissidents russes et des associations de défense des droits de l'Homme (texte disponible en français, allemand et russe).**
 __« Nous attendons de [François Hollande et Angela Merkel] une position courageuse qui ne fera l'impasse ni sur les élections falsifiées, ni sur le manque de libertés publiques et politiques, ni sur les violations des droits humains, ni sur les arrestations arbitraires d'opposants. »__
-[https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/310512/rompre-le-silence-complice-envers-le-regime-de-](https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/310512/rompre-le-silence-complice-envers-le-regime-de-)
-[Русская версия на RFI](https://www.russian.rfi.fr/rossiya/20120601-vladimir-bukovskii-natalya-gorbanevskaya-i-mezhdunarodnye-assotsiatsii-napisali-obr)
-[](https://politzeki.tumblr.com/post/24365921647/open-letter-in-le-monde-to-putin-demanding-release-of)
+- [https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/310512/rompre-le-silence-complice-envers-le-regime-de-](https://blogs.mediapart.fr/edition/les-invites-de-mediapart/article/310512/rompre-le-silence-complice-envers-le-regime-de-)
+- [Русская версия на RFI](https://www.russian.rfi.fr/rossiya/20120601-vladimir-bukovskii-natalya-gorbanevskaya-i-mezhdunarodnye-assotsiatsii-napisali-obr)
+- [Open letter in le monde to Putin demanding release of Russia's political prisoners](https://politzeki.tumblr.com/post/24365921647/open-letter-in-le-monde-to-putin-demanding-release-of)
+
 **Signataires:**
-[Vladimir Boukovski](https://fr.wikipedia.org/wiki/Vladimir_Boukovski)
-[Natalia Gorbanevskaya](https://en.wikipedia.org/wiki/Natalya_Gorbanevskaya)
-[Sergeï Kovalev](https://fr.wikipedia.org/wiki/Sergue%C3%AF_Kovalev)
-[Vladimir Albrecht](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D1%80%D0%B5%D1%85%D1%82,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%AF%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
-[Alexandre Podrabinek](https://en.wikipedia.org/wiki/Alexandr_Podrabinek)
-[Alexandre Bolonkine](https://www.sakharov-center.ru/asfcd/auth/?t=author&i=1006)
-[Association Russie-Libertés](https://russie-libertes.org/)
-(France)
-[Speak Up](https://russiaspeakup.wordpress.com/about/)
-! (Royaume-Uni)
-[American Russian-Speaking Association for Civil & Human Rights](https://amrusrights.wordpress.com/about/)
-(Etats-Unis)
-[Fair Vote for Russia](https://fairvoteforrussia.org/)
-– Berlin (Allemagne)
+- [Vladimir Boukovski](https://fr.wikipedia.org/wiki/Vladimir_Boukovski)
+- [Natalia Gorbanevskaya](https://en.wikipedia.org/wiki/Natalya_Gorbanevskaya)
+- [Sergeï Kovalev](https://fr.wikipedia.org/wiki/Sergue%C3%AF_Kovalev)
+- [Vladimir Albrecht](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D1%80%D0%B5%D1%85%D1%82,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%AF%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
+- [Alexandre Podrabinek](https://en.wikipedia.org/wiki/Alexandr_Podrabinek)
+- [Alexandre Bolonkine](https://www.sakharov-center.ru/asfcd/auth/?t=author&i=1006)
+- [Association Russie-Libertés](https://russie-libertes.org/)
+- (France)
+- [Speak Up](https://russiaspeakup.wordpress.com/about/)
+- ! (Royaume-Uni)
+- [American Russian-Speaking Association for Civil & Human Rights](https://amrusrights.wordpress.com/about/)
+- (Etats-Unis)
+- [Fair Vote for Russia](https://fairvoteforrussia.org/)
+
+Berlin (Allemagne)
 
 ---------------------------------      ---------------------------------
 

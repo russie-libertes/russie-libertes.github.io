@@ -59,7 +59,7 @@ Les notes originales du rapport sont numérotées en rouge de 1 à 155 et sont p
 [Chapitre 11. Le coût de la guerre en Ukraine](#_Toc421261861)
 [Conclusion](#_Toc421261862)
 
-# []() Avant-propos
+# Avant-propos
 
 
 L'idée de ce rapport revient à Boris Nemtsov. Un jour, entrant dans le QG du parti, il annonça à voix haute : « Je sais ce qu’il faut faire, rédiger un rapport "Poutine, et la guerre", le tirer en beaucoup d'exemplaires et le distribuer dans les rues. On va raconter comment Vladimir Poutine a déclenché cette guerre. C’est comme ça qu’on va vaincre sa propagande ». Il nous regardait tous en triomphant, comme il le faisait à chaque fois qu'il avait une bonne idée. « Qu’est-ce que tu en penses, Chorina
@@ -73,9 +73,10 @@ Personne en Russie, à part Vladimir Poutine et son entourage, n’avait besoin 
 Notre objectif est de dire la vérité sur l’ingérence du Kremlin dans la politique ukrainienne, une ingérence qui a provoqué la guerre entre nos deux peuples, cette guerre que nous devons stopper sans attendre.
 [[1]](#_ftnref1)
 Olga Chorina, directrice exécutive du parti RPR-Parnas, dont Boris Nemtsov était l’un des co-dirigeants. Ce parti a été créé en 1990 et est l’un des partis russes ayant la plus longue histoire, ndt
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p1.jpg)
 
-# []() Chapitre 1. Pourquoi Poutine a besoin de cette guerre
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p1.jpg)
+
+# Chapitre 1. Pourquoi Poutine a besoin de cette guerre
 
 
 __Depuis l'automne 2011, la cote de popularité de Vladimir Poutine commençait à baisser sensiblement. À la veille de l'élection présidentielle de 2012, il semblait peu probable qu'il l'emporte dès le premier tour. Ce scénario créait un risque significatif d'affaiblissement de l'image de V. Poutine et aurait mis fin à sa légitimité. Diriger le pays dans son style autoritaire habituel de « leader national » serait devenu plus difficile.__
@@ -100,7 +101,7 @@ La révolution à Kiev et la fuite du pays du président Viktor Ianoukovytch, au
 [3](https://www.youtube.com/watch?v=t42-71RpRgI)
 ).
 **Cote de popularité de Vladimir Poutine auprès des électeurs, avant et après le déclenchement de la guerre avec l'Ukraine**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p2.png)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p2.png)
 __Sondage de FOMnibus réalisé les 14 et 15 mars 2015 : 204 localités, 64 sujets de la Fédération de Russie, 3000 participants.__
 Le rattachement de la Crimée à la Russie, activement soutenu par la propagande, a permis à Poutine de renforcer considérablement sa propre légitimité. Sa cote de popularité a atteint un record
 [4](https://www.kommersant.ru/doc/2434037)
@@ -121,9 +122,9 @@ Tout d'abord, les autorités russes doivent continuer de soutenir les séparatis
 Ensuite, la poursuite de la confrontation avec l'Occident, l'isolement et les sanctions peuvent causer des dommages importants à l'économie russe. Cela crée un risque de protestations sociales qui pourraient miner à nouveau la cote de popularité du chef de l'État russe.
 
 Enfin, l'affaiblissement des positions de Poutine sur la scène internationale et l'escalade du conflit russo-ukrainien représentent un risque véritable de poursuites pénales à l'encontre de l'actuel président de la Russie. La modification de la situation politique internationale pourrait très bien conduire Poutine à une accusation formelle pour crimes de guerre et le mener sur le banc de la Cour pénale internationale.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p3.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p3.jpg)
 
-# []() Chapitre 2. Mensonges et propagande
+# Chapitre 2. Mensonges et propagande
 
 
 __Celui qui déciderait de décrire la carrière politique de Vladimir Poutine, ferait face à un problème insurmontable : le président russe n'en a jamais eue ! La carrière de Poutine s'est faite à la télévision et toutes ses étapes, en commençant par le fameux « On ira les buter (les terroristes) jusque dans les chiottes » ou son « prenez soin de la Russie », ne sont rien de plus que des séquences médiatiques.__
@@ -154,7 +155,7 @@ __Russie unie__
 de Poutine, et cela malgré le fait que ce parti ait obtenu moins de 2 % des voix lors des élections ukrainiennes.
 > __Le nom du parti nationaliste ukrainien Pravy Sektor a été mentionné dans les médias russes [8](https://kashin.guru/2014/06/02/pravisektor/) un nombre de fois plus élevé que celui du parti Russie unie__
 
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p4.png)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p4.png)
 __Occurrence des noms de partis et organisations politiques dans les médias russes (mai 2014). [de gauche à droite : Pravy Sektor (parti nationaliste ukrainien), Edinaïa Rossia (Russie unie, parti au pouvoir), KPRF (parti communiste russe), LDPR (parti libéral démocrate russe), ndt]__
 __Source : www.kashin.guru__
 Après la fuite de Viktor Ianoukovytch, les chaînes de télévision russes ont commencé à qualifier les nouveaux dirigeants de l'Ukraine exclusivement de « junte de Kiev » et l'opération militaire contre les séparatistes dans l'est du pays, d'opération « punitive ».
@@ -221,7 +222,9 @@ __Maïak__
 .
 
 En fait, tous les médias d'État russes nourrissent une atmosphère de haine en continu et sans s'en cacher. Lorsque tout cela trouvera sa fin, la Russie passera beaucoup de temps à se rétablir et à se débarrasser des normes éthiques et comportementales de sa propagande des années 2014 et 2015.
-**[](https://ukraineaction.org/wp-content/uploads/2015/06/p5.jpg)**
+
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p5.jpg)
+
 __Vladimir Poutine au Kremlin décorant de l'Ordre d'Honneur le présentateur des émissions de télévision Vladimir Soloviov. Photo: kremlin.ru__
 [[1]](#_ftnref1)
 Le terme « banderoviste » est dérivé de Stepan Bandera (1909-1959), homme politique et idéologue nationaliste
@@ -232,7 +235,7 @@ La première chaîne de télévision publique russe, ndt.
 [[3]](#_ftnref3)
 Boutique de surplus militaire, ndt.
 
-# []() Chapitre 3. L'annexion de la Crimée
+# Chapitre 3. L'annexion de la Crimée
 
 
 __Le 4 mars 2014, Vladimir Poutine, répondant aux questions des journalistes, notamment à la question du journaliste de l'agence Bloomberg sur l’identité de gens en uniforme, ressemblant à celui de l’armée russe, bloquant les unités militaires ukrainiennes en Crimée, a déclaré : « C'étaient des unités de la résistance locale ». Il a également justifié la présence de l’uniforme militaire russe, « Vous avez ici affaire au territoire post-soviétique. Il y a plein d'uniformes qui se ressemblent... Allez faire les boutiques par là-bas, vous pourrez y acheter n'importe quel uniforme » [18](https://kremlin.ru/transcripts/20366) .__
@@ -260,7 +263,7 @@ Récit d'Alekseï Karouna (âgé de 20 ans, il a fait son service militaire dans
 La création par le Ministère de la Défense de la Fédération de Russie de la médaille « Pour le retour de la Crimée » est une confirmation indirecte de l'opération militaire russe en Crimée (initialement secrète, l'information diffusée sur Internet a été retirée et est réapparue à plusieurs reprises)
 [21](https://www.gazeta.ru/politics/ news/2014/03/25/n_6037281.shtml)
 .
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p6-300x300.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p6-300x300.jpg)
 __La__
 __médaille dite « Pour le retour de la Crimée », frappée par le ministère de la Défense.__
 Les premières médailles ont été présentées le 24 mars 2014. C'est le ministre de la Défense de la Fédération de Russie, Sergueï Choïgou, qui a décoré personnellement les Marines, les officiers du commandement de la Flotte de la mer Noire de la marine russe, ainsi que les employés de l'armée du district militaire central et celui du sud. L'existence de cette récompense a été ensuite confirmée par l'attaché de presse du district militaire central Iaroslav Rochtchoupkine, qui a noté que « l'on a décerné ces médailles, en effet, à un certain nombre de militaires ». Toutefois, il a immédiatement formulé une réserve disant que « les soldats ne se trouvaient pas en Crimée » mais « aidaient seulement à assurer la communication sur le territoire de la Russie, le transport, etc. »
@@ -289,7 +292,7 @@ __Rossia 1__
 , où le président de la Fédération de Russie a directement admis qu'il a dirigé personnellement les actions des troupes russes en Crimée
 [25](https://www.youtube.com/watch?v=t42-71RpRgI)
 . Il a raconté quand et dans quelles circonstances il a donné l'ordre de commencer l'annexion.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p7-300x169.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p7-300x169.jpg)
 __Voici les trois citations clés de Poutine :__
 __« Ce fut la nuit du 22 au 23 février, nous avons terminé [la réunion] à sept heures du matin environ, j'ai renvoyé tout le monde et suis allé me coucher. Et, en guise d’au revoir, je ne vais pas le nier, j'ai dit à tous mes collègues, à quatre d'entre eux précisément, que la situation en Ukraine avait pris une telle tournure que nous devions commencer à travailler au retour de la Crimée au sein de la Russie. »__
 __« Pour bloquer et désarmer 20 000 hommes bien armés, un personnel nombreux et qualifié était nécessaire. Nous avions besoin de spécialistes qui sachent s'y prendre. Alors, je ne le cache pas, j'ai donné l'ordre au ministère de la Défense, sous le prétexte de renforcer la protection de nos installations militaires en Crimée, de transférer là-bas des unités spéciales des services secrets, des forces du corps des Marines, ainsi que des parachutistes. »__
@@ -303,7 +306,7 @@ Par ces déclarations publiques, Poutine a effectivement signé l'annexion de la
 [[1]](#_ftnref1)
 Soldat des forces spéciales de l’armée russe, ndt.
 
-# []() Chapitre 4. Des soldats russes à l’est de l’Ukraine
+# Chapitre 4. Des soldats russes à l’est de l’Ukraine
 
 
 __Quelque temps après le rattachement de la Crimée à la Russie, une confrontation armée entre les forces armées ukrainiennes et des séparatistes a commencé à l'est de l'Ukraine, ces derniers exigeant que les régions de Donetsk et de Louhansk soient intégrées à la Fédération de Russie. Les représentants officiels de la Fédération de Russie ont démenti avec ardeur toute participation de soldats de l’armée russe aux combats se déroulant en territoire ukrainien.__
@@ -381,7 +384,7 @@ __VKontakte__
 
 Lors d’interrogatoires, des parachutistes russes ont également relaté qu'avant leur départ vers l'Ukraine ils ont couvert de peinture les plaques d'immatriculation des véhicules de combat.
 **Les aveux des tankistes russes aux abords d'Ilovaisk**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p8.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p8.jpg)
 __L'interrogatoire des tankistes russes interpellés. Capture d'écran de la vidéo publiée sur le site Youtube.com__
 Un autre groupe de soldats russes a été arrêté en Ukraine en août 2014, et leur interrogatoire a été rendu public par le service de sécurité de l'Ukraine (SBU)
 [41](https://www.youtube.com/watch?v=-AitK5LeV9I)
@@ -390,7 +393,7 @@ Un autre groupe de soldats russes a été arrêté en Ukraine en août 2014, et 
 
 Quatre soldats ont été arrêtés au total, tous signalant les informations suivantes: Ivan Aleksandrovitch est né en 1988 à Vologda, militaire de la 6ème Brigade autonome de chars (unité militaire № 54096), Evgueni Iourievitch né en 1995 à Kalouga, militaire de la 6ème Brigade autonome de chars (unité militaire № 54096), Nikita Guenadievitch, né en 1993 à Iaroslavl, de la 31ème Brigade de la Garde d'assaut aéroportée (unité militaire № 73612), Evgueni Achotovitch, né en 1994, de la 1ère Brigade autonome de la Garde (unité militaire № 73612).
 **Les aveux du soldat Khokhlov**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p9.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p9.jpg)
 __L'interrogatoire du soldat Piotr Khokhlov. Capture d'écran de la vidéo publiée sur le site Youtube.com__
 Le 16 août [2014, ndt.], un autre militaire russe a livré un témoignage qui a été rendu public par les autorités ukrainiennes. Il s'agit de Piotr S. Khokhlov, né en 1995, soldat sous contrat du 1er bataillon d'infanterie motorisée de la 9ème Brigade autonome d'infanterie motorisée des forces armées de la Fédération de Russie (Novy, région de Nijni Novgorod) de la 20ème armée (Moulino) de la circonscription militaire Ouest
 [42](https://www.youtube.com/watch?v=IjUHGijm9lI)
@@ -409,7 +412,7 @@ D'après Khokhlov, avant d'envoyer des véhicules de combat dans le Donbass, on 
 
 Khokhlov a déclaré avoir quitté de son propre gré son unité militaire le 8 août, accompagné de son compagnon d'armes, Rouslan Garafiev, avant de gagner la région de Louhansk. Selon ses dires, ils allaient rejoindre les forces armées des séparatistes dans l'espoir de toucher une rémunération plus gratifiante que leur salaire de militaire russe sous contrat. Cependant, Khokhlov a été arrêté le 27 août près du village de Novosvitlivka par des militaires ukrainiens et remis aux agents du service de sécurité de l'Ukraine (SBU).
 **Le parachutiste Kozlov**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p10.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p10.jpg)
 __Nikolaï Kozlov en uniforme de soldat des troupes aéroportées.__
 Une information
 [43](https://www.novayagazeta.ru/society/65158.html)
@@ -420,7 +423,7 @@ Selon le commissariat militaire d'Ozersk, Nikolaï Kozlov, âgé de 21 ans et m�
 Kozlov a participé à des opérations sur le territoire de l'Ukraine depuis le début de la confrontation. En mars 2014, il a été impliqué dans le blocage d'installations en Crimée par des militaires russes. Il est important de noter que le militaire russe Kozlov effectuait des missions militaires en Crimée habillé en uniforme de policier ukrainien. Les photos publiées par son père dans le réseau social
 __VKontakte__
 en mai 2014 en attestent.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p11.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p11.jpg)
 __Nikolaï Kozlov en uniforme de policier ukrainien lors d'une opération en Crimée.__
 Selon l'oncle du parachutiste, cette photo a été prise dans un couloir du Conseil suprême de Crimée. Kozlov était déguisé en employé du ministère de l'Intérieur ukrainien pendant qu’il participait au blocage du Conseil. Après la fin de l'opération, il est rentré à Oulianovsk, où il a reçu une médaille « Pour le retour de la Crimée » et s'est marié.
 > __Il a été envoyé combattre dans le Donbass en août 2014, alors que l'armée russe venait de lancer une opération de grande envergure__
@@ -429,7 +432,7 @@ Il a été envoyé combattre dans le Donbass en août 2014, alors que l'armée r
 
 Selon Sergueï Kozlov, le détachement de son neveu a été pris en embuscade alors qu'il faisait une tentative pour libérer des prisonniers-compagnons d'armes. Le 24 août, le détachement a subi des tirs antichars, un des tirs a arraché une jambe à Kozlov. Après cela, il a été rapatrié et s'est retrouvé à l'hôpital de Rostov, avant d’être transféré à Moscou.
 **Ces soldats que l’on fait passer pour des volontaires**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p12.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p12.jpg)
 Après la contre-offensive des séparatistes et des unités de l’armée russe, des négociations de paix se sont tenues à Minsk, auxquelles ont participé le président ukrainien Petro Porochenko et le président russe Vladimir Poutine. Aux termes des consultations, les parties présentes ont réussi à s’entendre sur un cessez-le-feu, ce qui a permis un arrêt temporaire des hostilités sur le territoire ukrainien.
 
 La reprise des combats a eu lieu à la fin de l’année 2014. Dès janvier 2015, des soldats russes ont pris une part active aux affrontements face aux forces armées ukrainiennes et ont permis l’offensive des forces séparatistes contre une agglomération d’importance stratégique, Debaltsevé.
@@ -458,7 +461,7 @@ Dans l’interview qu’il a accordée le 13 février 2015 au journal
 __Gazeta.ru__
 , le lieutenant-colonel Viatcheslav Okanev a confirmé l’authenticité de l’enregistrement audio.
 **Les aveux du volontaire Sapojnikov**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p13.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p13.jpg)
 __Dmitri Sapojnikov, combattant de la RPD.__
 Les déclarations du soldat Dmitri Sapojnikov, qui a participé aux combats dans le Donbass, ont été rendues publiques le 31 mars 2015. Il a publiquement témoigné de la participation de l’armée russe dans ce conflit armé
 [46](https://www.bbc.co.uk/russian/ international/2015/03/150325_donetsk_rebel_interview)
@@ -471,7 +474,7 @@ Il a également indiqué que les militaires russes avaient été informés au pr
 
 En outre, Sapojnikov a confirmé que c’étaient bien des généraux de l’armée russe qui commandaient les principales opérations militaires sur le territoire ukrainien. « Les opérations, surtout celles de grande ampleur comme les « poches », sont dirigées par des militaires russes, des généraux russes. Ils conçoivent les plans de bataille conjointement avec nos commandants. Il m’est souvent arrivé de me trouver à l’état-major, de m’y rendre, d’y rapporter des informations. La coordination s’y passe simplement. Ils conçoivent tous ensemble, ils créent ensemble et nous, on exécute », expliquait le combattant.
 **Le récit d’un tankiste bouriate**
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p14.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p14.jpg)
 __Dorji Batomounkouïev à l’hôpital après avoir été blessé à Debaltsevé.__
 La présence de troupes russes sur le territoire ukrainien a été confirmée par un autre soldat ayant participé aux combats, Dorji Batomounkouïev, 20 ans, militaire sous contrat de la 5ème Brigade mécanisée basée à Oulan-Oudé (unité militaire № 46108), matricule № 200220, livret militaire № 2609999. Il a raconté sa participation aux combats dans le Donbass à la journaliste de
 __Novaïa Gazeta__
@@ -502,7 +505,7 @@ Selon les sources de Nemtsov, cela tiendrait à ce que les proches des soldats a
 La seconde « vague » de cercueils a été envoyée en Russie en janvier et début février 2015. Selon notre estimation, pas moins de 70 soldats russes sont morts en Ukraine sur cette période. Au moins 17 parachutistes russes d’Ivanovo sont morts en Ukraine (ceci provenant d’une note écrite de la main de Boris Nemtsov, note que les auteurs de ce rapport ont eue à disposition).
 
 La mort de nombreux soldats russes est liée à la succession d’offensives et de contre- offensives, en particulier aux abords de Debaltsevé. Contrairement à ce qui se pratiquait l’année dernière, cette année, avant de partir pour le Donbass, les soldats russes démissionnaient officiellement des forces armées à la demande du commandement.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p15.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p15.jpg)
 __Note écrite par Boris Nemtsov, peu avant sa mort : « J’ai été contacté par des parachutistes d’Ivanovo… 17 tués,….ils n’ont pas été payés…. mais ils ont peur de parler pour l’instant. »__
 De cette façon, il était prévu de cacher la participation de notre armée aux combats en faisant passer nos soldats pour des volontaires. Les commandants donnaient leur parole aux soldats qu’en cas de blessure ou de décès, leurs proches toucheraient une pension de guerre comparable aux sommes versées durant l’été 2014.
 
@@ -518,7 +521,7 @@ Le terme militaire « poche » désigne une partie de territoire tenue par l'enn
 [[2]](#_ftnref2)
 Le FSB le Service fédéral de sécurité, ndt
 
-# []() Chapitre 5. Volontaires ou mercenaires ?
+# Chapitre 5. Volontaires ou mercenaires ?
 
 
 __Les unités régulières de l'armée russe ont en grande partie prédéterminé les succès militaires des séparatistes dans l'est de l'Ukraine. Cependant, l'apport des prétendus « volontaires » arrivant en permanence de Russie dans la zone du conflit a joué un rôle considérable dans les forces armées de RPD et RPL.__
@@ -545,7 +548,7 @@ __Russie Unie__
 à la Douma d’État a publiquement confirmé son rôle dans ce processus
 [51](https://svodka.net/index.php?option=com_content& view=article&id=144847:deputat-gosdumi-priznalsvoyu- rol-v-otpravke-rossiyskih-naemnikov-nadonbass&catid=1:svodki)
 . Comme en témoignent les « volontaires », les points de ralliement pour les futurs combattants sont souvent les bureaux d'enrôlement militaires dans les villes russes.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p16.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p16.jpg)
 __Aleksandr Mojaev (alias Babaï) et des combattants de la RPD (République Populaire de Donetsk).__
 Un citoyen russe, combattant dans les rangs des séparatistes dans le Donbass, a décrit de façon détaillée en septembre 2014
 [52](https://www.novayagazeta.ru/society/65096.html)
@@ -623,7 +626,7 @@ __KAMAZ__
 , transportant des combattants séparatistes ont été détruits. La participation des Tchétchènes dans ces confrontations a été confirmée par le témoignage du chirurgien traumatologue Denis Kloss, qui était venu du district russe autonome de Tchoukotka pour aider les séparatistes. « J'étais dans le deuxième camion avec les Tchétchènes blessés. Une mine a explosé sous notre camion, le véhicule a été renversé, ses roues avant arrachées. Puis les tirs ont repris, nous avons été contraints de stopper des voitures sur la route pour évacuer nos blessés et les envoyer à l'hôpital », a-t-il dit.
 > __Un énième renfort massif composé de combattants tchétchènes est arrivé dans le Donbass en août 2014__
 
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p17.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p17.jpg)
 __Le président russe Vladimir Poutine et le chef de la République tchétchène Ramzan Kadyrov.__
 Le premier ministre de la RPD, Aleksandr Borodaï, a déclaré que 33 citoyens russes ont été identifiés parmi les morts du 26 mai. Borodaï a souligné que des autochtones tchétchènes se battent dans les rangs séparatistes, « prêts à défendre leurs frères russes »
 [63](https://rusplt.ru/news/boroday-podtverdil-sodeystvieurojentsev- severnogo-kavkaza-dnr-140398.html)
@@ -632,9 +635,9 @@ Le premier ministre de la RPD, Aleksandr Borodaï, a déclaré que 33 citoyens r
 . Selon Kloss, après la bataille désastreuse pour l'aéroport de Donetsk et des pertes importantes, les hommes de Kadyrov « ont exprimé leur désaccord avec cette façon de mener la guerre et sont repartis en Tchétchénie »
 [65](https://rusplt.ru/society/u-opolchentsev-slishkommnogo-komandirov-12007.html)
 . Cette information a été confirmée par Aleksandr Khodakovski le 1er juin 2014 : selon lui, les Tchétchènes qui ont combattu dans son bataillon « sont partis en emportant leurs blessés ».
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p18.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p18.jpg)
 __Lettre de Boris Nemtsov adressée au directeur du FSB, Aleksandr Bortnikov.__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p18_1.png)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p18_1.png)
 __Traduction française de la lettre de Boris Nemtsov adressée au directeur du FSB, Aleksandr Bortnikov.__
 Un énième renfort massif composé de combattants tchétchènes est arrivé dans le Donbass en août 2014, quand une opération de grande envergure de l'armée russe a commencé avec pour objectif d'arrêter la contre-offensive des forces armées ukrainiennes contre les positions séparatistes.
 
@@ -650,8 +653,8 @@ et au Comité d'enquête de la Fédération de Russie en exigeant de procéder �
 Une autre vidéo tournée par un combattant de Kadyrov au cours de la « purge » de la ville de Horlivka a été rendue publique le 30 août. Sur les images on voit comment un groupe d'hommes armés entièrement équipés descend la rue et échange des paroles en un mélange de langues russe et tchétchène. « Groupe de la purge », dit le cameraman filmant les actions des combattants
 [67](https://www.youtube.com/watch?v=UsPvylvsXtU)
 .
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p21.jpg)
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p22.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p21.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p22.jpg)
 __A gauche sur la photo - le commandant du bataillon tchétchène « La mort », Apti Bolotkhanov.__
 Après la signature des accords de paix à Minsk, le 5 septembre 2014, une partie importante des combattants de Kadyrov est restée sur le territoire du Donbass contrôlé par les séparatistes. Des preuves de la présence de Tchétchènes armés dans les rangs des séparatistes ont continué d'apparaître avec une remarquable régularité.
 
@@ -670,8 +673,8 @@ Marina Akhmedova a publié des déclarations
 des commandants de ce bataillon faites sur le territoire de leur campement principal dans la région de Donetsk. Les soldats de ce bataillon ont participé, en particulier, à la bataille pour l'aéroport de Donetsk et la ville d'Ilovaïsk. Parmi les membres de ce bataillon, selon ses commandants, « quatre-vingt-dix pour cent sont d'anciens séparatistes » qui se sont battus contre l'armée russe, mais qui, une fois « amnistiés », ont déposé leurs armes et ont rejoint plus tard les forces de sécurité contrôlées par Ramzan Kadyrov.
 > __Jusqu'à soixante-dix pour cent des miliciens séparatistes proviennent des forces spéciales, de l’armée de la Fédération de Russie ou des services secrets russes.__
 
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p19.jpg)
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p20.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p19.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p20.jpg)
 __Combattants tchétchènes dans le Donbass.__
 L'identité de l'un des commandants du bataillon
 __La mort__
@@ -705,11 +708,11 @@ __Sauvage__
 [[1]](#_ftnref1)
 Dénomination méprisante réservée aux Ukrainiens, ndt.
 
-# []() Chapitre 6. Grouz-200
+# Chapitre 6. Grouz-200
 
 
 __La confrontation armée dans le Donbass accroît quotidiennement le nombre de victimes des deux côtés belligérants. En avril 2015, le Bureau des Nations Unies pour la coordination des affaires humanitaires a recensé 6 108 personnes tuées dans la zone de conflit. Le rapport note que ces données sont « sous-estimées » et n'incluent pas d'information sur les personnes qui ont perdu la vie lors de l'intensification des combats en janvier-février 2015 [73](https://tass.ru/mezhdunarodnaya-panorama/1900118) .__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p24.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p24.jpg)
 __Certificat de décès d'un combattant russe de la RPD, mort aux abords de l'aéroport de Donetsk.__
 Dès le début du conflit, les autorités russes ont pris soin de cacher toutes les données concernant les citoyens russes ayant trouvé la mort sur le territoire ukrainien et, surtout, concernant les militaires russes impliqués dans les combats. Il leur a cependant été impossible de dissimuler totalement ces faits.
 
@@ -730,7 +733,7 @@ L'information sur les militaires russes morts dans le Donbass est restée longte
 Les premières preuves concernant les militaires russes morts sur le territoire de l'Ukraine ont été dévoilées par le député de Pskov, Lev Chlosberg. Il a signalé
 [75](https://gubernia.pskovregion.org/number_705/01.php)
 l’enterrement de deux soldats dans le cimetière de Vybouty, le 25 août 2014, près de Pskov : Leonid Iourievitch Kitchatkine (30/09/1984-19/08/2014) et Aleksandr Sergueevitch Ossipov (15/12/1993-20/08/2014).
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p25.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p25.jpg)
 À la veille des funérailles, l'épouse de Leonid Kitchatkine, Oksana, a parlé de la mort de son mari dans le réseau social
 __VKontakte :__
 « La vie s'est arrêtée !!!!!!!!!! », « Leonid est mort, enterrement lundi à 10 heures, ses funérailles se tiendront à Vybouty. Ceux qui veulent lui dire au revoir, venez, on sera heureux de vous voir tous ». Cependant, tous ces messages ont été très vite supprimés et remplacés par un message déclarant Kitchatkine en vie : « Mon mari est vivant et en bonne santé et maintenant nous célébrons le baptême de notre fille »
@@ -738,9 +741,9 @@ __VKontakte :__
 .
 
 Le premier message s’est révélé exact comme en témoignent les tombes des parachutistes de Pskov, Leonid Kitchatkine et Aleksandr Ossipov, apparues dans le cimetière de Vybouty.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p27.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p27.jpg)
 __La tombe d’Ossipov Aleksandr Sergueevitch 15/12/1993-20/08/2014.__
-__[](https://ukraineaction.org/wp-content/uploads/2015/06/p26.jpg)__
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p26.jpg)
 __La tombe de Kitchatkine Leonid Iourievitch 30/09/1984-19/08/2014.__
 Le ministre de la Défense Sergueï Choïgou et le commandant des troupes aéroportées Vladimir Chamanov affirment que la 76ème Division aérienne n'a pas été impliquée dans les combats sur le territoire de l'Ukraine et, en conséquence, n'a pas subi de pertes. Cependant, selon Chlosberg, les parachutistes décédés étaient enterrés par cette même division aérienne. Par ailleurs, une semaine avant les funérailles, Vladimir Poutine a décoré les militaires de cette division de l'Ordre de Souvorov : « Pour l’exécution réussie des missions de commandement où le contingent a fait preuve de courage et d'héroïsme »
 [77](https://www.znak.com/moscow/news/2014-08-19/1027090.html)
@@ -805,7 +808,7 @@ Voici les données confirmées concernant les morts :
 > __Les familles des soldats décédés ont reçu en 2014 d’importantes compensations financières en signant des engagements de non-divulgation__
 
 Des brigades d'infanterie motorisée : la 21ème de la région d'Orenbourg, la 9ème de Nijni-Novgorod, les 17ème et 18ème de Tchétchénie, ont également subi des pertes dans le Donbass. Les médias locaux ont rapporté que les soldats de l'infanterie motorisée Vadim Larionov, Konstantine Kouzmine, Marcel Araptanov, Vasili Karavaïev, Armen Davoïan, Aleksandr Voronov ont été tués, soit « sur la frontière avec l'Ukraine », soit lors d'un exercice dans la région de Rostov.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p28.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p28.jpg)
 __Les dépouilles des Russes morts dans le Donbass sont rapatriées dans des camions marqués « Grouz-200 ». Photo : Maria Tourtchenkova.__
 Les funérailles du conscrit Vasili Karavaïev ont été signalées par le journal
 __AiF-Prikamie__
@@ -831,7 +834,7 @@ le 27 janvier 2015. Il a demandé de vérifier les informations sur la mort des 
 [[1]](#_ftnref1)
 Habitant de la région de Tchita, ndt.
 
-### []() Chapitre 7. Le surplus militaire de Poutine
+### Chapitre 7. Le surplus militaire de Poutine
 
 
 __Lors de la conférence de presse du 4 mars 2014, Vladimir Poutine a démenti toute implication militaire de la Russie dans le blocage des bases militaires ukrainiennes sur le territoire de la péninsule de la Crimée. Selon le président, ce blocage a été effectué uniquement par des « forces locales d’autodéfense» et l’uniforme des hommes armés ressemblait à l’uniforme de l’armée russe car ce dernier est en vente libre dans le commerce. Selon Poutine, il est possible d’acheter ce type d’uniforme dans n'importe quel surplus militaire [86](https://ria.ru/defense_safety/20140304/998097348.html) .__
@@ -886,9 +889,9 @@ __Tornado-G__
 est entré en service dans l’armée russe en 2012. Tandis que le LRM
 __Tornado-S__
 , mentionné dans le deuxième accord de Minsk, n’existe probablement que sous la forme de projet pilote. Or cette arme s’est non seulement retrouvée dans les mains des séparatistes, mais a en plus été citée expressément dans l'accord international signé par Vladimir Poutine.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p31.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p31.jpg)
 __Système russe de lance-roquettes Tornado. Photo: https://smitsmitty.livejournal.com__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p32.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p32.jpg)
 __Char russe T-72B3, pris par des militaires ukrainiens aux séparatistes.__
 __Photo: https://smitsmitty.livejournal.com__
 Dans le même temps, la nature des combats et leur intensité prouve que la livraison incessante de munitions aux « forces séparatistes » ne peut provenir que du territoire de la Russie. L'ancien ministre de la Défense de la République populaire autoproclamée de Donetsk (RPD), Igor Guirkine, a déclaré qu’à la fin de la bataille de Debaltsevé une seule division d'infanterie séparatiste consommait environ 150 tonnes de munitions par jour
@@ -908,7 +911,7 @@ __Strela-10__
 , 1
 __Ossa__
 ). Selon l'expert, une partie de cet armement a été prise aux militaires ukrainiens, notamment 23 chars, 56 véhicules de combat d'infanterie, 26 véhicules blindés de transport de troupes, 19 canons automoteurs, 17 canons tractés, 2 LRM. M. Khramtchikhine présume que le reste des armes a été fourni par la Russie. Il n’exclut pas l’hypothèse que les séparatistes aient « acheté » des armes à des militaires ukrainiens corrompus.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p33.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p33.jpg)
 __Système antiaérien__
 Pantsir-S1
 __à Louhansk, ville contrôlée par les séparatistes.__
@@ -948,7 +951,7 @@ n’est limitrophe de l'Ukraine. Il est évident que ce système ne pouvait entr
 
 Ainsi, malgré les démentis officiels du Kremlin, des armes russes sont livrées aux séparatistes et utilisées activement contre l'armée ukrainienne. Des livraisons d'armes dans une zone de conflit ne peuvent être considérées autrement que comme une intervention militaire dans les affaires d'un État voisin.
 
-### []() Chapitre 8. Qui a abattu le Boeing ?
+### Chapitre 8. Qui a abattu le Boeing ?
 
 
 __Le 17 juillet 2014 le Boeing 777 de la compagnie aérienne Malaysia Airlines assurant le vol MH17 entre Amsterdam et Kuala Lumpur a été abattu dans la zone du conflit armé à l'est de l'Ukraine.__
@@ -1183,7 +1186,7 @@ re au-delà. Avec une telle distance entre deux points (celui du lancement de mi
 Le journaliste russe Sergueï Parkhomenko a réussi à retrouver l'auteur de la photo en question et à obtenir son original. En regardant le fichier jpeg (ou encore, les fichiers initiaux NEF en format RAW), il est clair qu'il n'y a pas de « rayures » ou de « taches », que les sceptiques ont trouvé suspectes. Tous ces « défauts » sont dus à la compression du fichier initial de grande taille au format nécessaire pour télécharger des photos sur Twitter. L'image originale est beaucoup plus lumineuse que la version qui a été publiée le 17 juillet 2014. Elle a été rendue plus « sombre » avant d'être
 __tweetée__
 pour rendre la fumée plus visible au centre du cadre.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p35.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p35.jpg)
 __Photo originale du tracé du missile qui a abattu le Boeing MH-17. Publiée par Sergueï Parkhomenko.__
 > __Les images transmises par le photographe contiennent suffisamment de repères pour relier la vue prise en photo au terrain réel__
 
@@ -1200,8 +1203,8 @@ __Boeing MH-17__
 .
 
 Les images transmises par le photographe contiennent suffisamment de repères pour relier la vue prise en photo au terrain réel. Il est facile de les identifier sur la première photo, où l'angle de prise de vue est le plus large.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p36.jpg)
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p37.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p36.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p37.jpg)
 En continuant l'analyse, on cherche à identifier ces mêmes éléments caractéristiques sur la
 __vue de dessus__
 obtenue par les images satellite. Nous avons à notre disposition beaucoup d'images de ce type et elles sont toutes de bonne qualité, en grande résolution et accessibles notamment aux utilisateurs de
@@ -1209,7 +1212,7 @@ __Google Earth__
 .
 
 Voici une partie d'une image satellite où l’on voit parfaitement tous les repères marqués sur les deux photos.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p38.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p38.jpg)
 La position de l'auteur des photos est marquée par le point
 __A__
 , elle a été indiquée par l'auteur lui-même. Sur l'image satellite on peut retrouver effectivement tout ce qui est trouvé dans le cadre : la ferme, certains arbres, deux villages de datcha, les lignes de pylônes électriques grands et petits, des terrils bien identifiables (tous les repères sont marqués avec les mêmes lettres que sur la photo originale). Cela prouve que l'auteur des photos a indiqué son emplacement avec précision.
@@ -1228,7 +1231,7 @@ __Boeing__
 Avec une grande probabilité, le missile
 __BUK__
 , qui a porté le tir mortel, se trouvait à cet endroit.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p39.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p39.jpg)
 C'est un champ se trouvant le long de la route. Près de son côté gauche, on voit clairement des traces de manœuvres de véhicules militaires lourds et à coté, un grand morceau de terre brûlée, noire, déjà partiellement labourée. Cette position est adaptée pour le placement d'un lanceur de missiles : juste à côté de la route il y a une descente étroite qui passe à travers une ceinture de forêt dense, qui protège le champ des regards indiscrets. Encore un détail : cette route mène au village de Snijné où de nombreuses photos et vidéos
 [121](https://www.youtube.com/watch?v=VdfEL5yWE7w)
 du système
@@ -1246,7 +1249,7 @@ a été touché par un missile sol-air
 __BUK__
 , qui provenait de Russie et était sous le contrôle des séparatistes.
 
-### []() []() Chapitre 9. Qui contrôle le Donbass ?
+### Chapitre 9. Qui contrôle le Donbass ?
 
 
 __En avril 2014, les Républiques populaires de Donetsk et de Louhansk ont proclamé leur indépendance et ont déclaré ne plus obéir aux autorités ukrainiennes. Cependant, la souveraineté revendiquée n'est qu'une déclaration autoproclamée. En réalité, les RPD et RPL sont contrôlées depuis l'extérieur par des ordres venant de Moscou, et les décisions-clés prises dans ces républiques relèvent des responsables et des stratèges politiques russes. Dans le même temps, le Kremlin n'a jamais reconnu légalement la souveraineté des républiques autoproclamées et considère toujours officiellement leur territoire comme une partie de l'Ukraine.__
@@ -1281,7 +1284,7 @@ ayant commis une série de meurtres médiatisés et croyant l'avoir fait avec l'
 . Le stratège politique Pavel Karpov a également travaillé dans les organes gouvernementaux de la RPL. Il collaborait auparavant avec l'administration du président de la Fédération de la Russie dans le cadre de la supervision des organisations nationalistes
 [128](https://znak.com/print.php?article_id=103685)
 .
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p55.png)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p55.png)
 __Des citoyens russes, organisateurs et participants aux opérations militaires contre l'Ukraine__
 .
 
@@ -1329,11 +1332,11 @@ __Dipservice Hall__
 __Kommersant__
 , Vladimir Poutine a dit à ses collègues qu'il était nécessaire d'expliquer à Aleksandr Zakhartchenko et Igor Plotnitski pourquoi ils avaient tort. « Je ne peux pas mettre de pression sur eux », a-t-il répété à plusieurs reprises. Mais que pouvait-il en être alors ? Angela Merkel a proposé de tout expliquer aux dirigeants des RPD et RPL via le Conseil des ministres de l'UE qui allait commencer à Bruxelles. Elle a dit qu'il fallait déclarer aux séparatistes qu'ils avaient une demi-heure pour entériner cet accord. Pas une minute de plus. Sinon les dirigeants de la France et de l'Allemagne partiraient et ne reviendraient pas, aucune négociation ne serait plus possible quel que soit son objet. Il était nécessaire que le dirigeant russe soutienne cet ultimatum. Et il l'a soutenu ... Alors ils ont attendu. Vladimir Poutine les a quitté et est revenu dans la salle des négociations alors qu'il restait deux minutes au terme de l’ultimatum. Il a dit avoir reçu un coup de fil de Vladislav Sourkov et a ajouté : « Ils ont tous signé ».
 
-### []() Chapitre 10. La catastrophe humanitaire
+### Chapitre 10. La catastrophe humanitaire
 
 
 __L’ingérence de Poutine et des troupes russes dans le conflit à l’est de l’Ukraine a transformé une portion du territoire d’un État voisin en zone de guerre. Le Donbass en 2014-2015, ce sont des meurtres impunis, des centaines de milliers de réfugiés, des infrastructures détruites et l’effondrement du système social. Les autorités ukrainiennes et russes, ainsi que les représentants de la communauté internationale considèrent de plus en plus la situation dans le Donbass comme une catastrophe humanitaire.__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p41.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p41.jpg)
 Le quartier Oktiabrski de Donetsk après les affrontements entre séparatistes et armée ukrainienne. Photo : Evgueni Feldman /
 __Novaïa Gazeta__
 .
@@ -1355,10 +1358,10 @@ __Grad__
 en provenance de territoires sous contrôle séparatiste.
 
 À l’heure actuelle, la quasi-totalité du Donbass est quadrillée de postes de contrôle. Si les postes de contrôle mis en place par des soldats ukrainiens peuvent donner lieu à des abus, ils n’en restent pas moins soumis à la législation nationale en vigueur, tandis que les positions fortifiées équivalentes du côté séparatiste se trouvent en dehors de tout cadre légal et dépourvues d’un centre de commandement unique. Cet état de fait ouvre la porte aux jugements arbitraires : entrave au passage de personnes tentant de quitter la zone de conflit, hommes d’affaires rackettés, violences infondées des combattants séparatistes à l’égard des civils, assujettissement de la population locale à des travaux pénibles.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p42.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p42.jpg)
 __Traitement avilissant de l’Ukrainienne Iryna Dovhan à Donetsk [**[1]**](#_ftn1) .__
 __Photo : Mauricio Lima / The New York Times.__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p43.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p43.jpg)
 __Poste de contrôle séparatiste à l’entrée de Donetsk [**[2]**](#_ftn2) . Photo : Evgueni Feldman / Novaïa Gazeta.__
 Les habitants des agglomérations sous contrôle séparatiste subissent régulièrement des violences de la part des combattants. Sloviansk est un exemple qui illustre bien la situation. Après la libération par les forces ukrainiennes de cette ville tenue par les séparatistes, une fosse commune y a été découverte contenant les corps d’habitants locaux présentant des traces de torture ou de mauvais traitement
 [140](https://tvrain.ru/teleshow/here_and_now/ hrw_v_slavjanske_obnaruzhili_massovoe_zahoronenie_-373020/)
@@ -1386,7 +1389,7 @@ venaient d’une zone sous contrôle séparatiste. Ces tirs ont touché un autob
 La population du Donbass doit désormais faire face à la faim et à la misère. Cela s’est tout particulièrement ressenti durant l’hiver 2014-2015. La journaliste Ekaterina Sergatskova a pu recueillir des témoignages attestant de morts dues au manque de vivres
 [144](https://www.colta.ru/articles/society/5675) :
 __Sergueï K., bénévole et organisateur de cantines gratuites pour les plus démunis, récemment contraint de quitter précipitamment Donetsk pour regagner les territoires libérés, a annoncé que 7 personnes étaient mortes de faim à Kirovské, 5 à Snijné et 68 personnes à Chervonopartyzansk dans la région de Louhansk. De plus, d’après ce qu’ont pu constater ses habitants, les corps sont transportés à travers la ville sur des traîneaux parce qu’il n’y a pas d’autre moyen de transport pour les cadavres. Les morts de famine sont enregistrés comme des décès dus à un arrêt cardiaque. Cela est d’ailleurs indirectement confirmé par les déclarations de l’ex-ministre de la Défense de la RPD, Igor Guirkine (Strelkov). Il écrit : « Dans les Républiques de Donetsk et de Louhansk, il y a beaucoup de nourriture mais les personnes âgées et les handicapés (et pas qu’eux) n’ont absolument pas les moyens d’en acheter. Malheureusement, les autorités s’en moquent complètement. Sinon, elles auraient organisé depuis longtemps la distribution des vivres. Il est complètement aberrant que des gens meurent de faim alors que les magasins sont remplis. Aujourd’hui, on m’a rapporté qu’officiellement, à Donetsk, il y avait eu plus de 20 décès par malnutrition. Aussi transmis que la situation n’est pas meilleure dans la région de Louhansk ».__
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p44.jpg)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p44.jpg)
 __L’autobus mitraillé par des séparatistes à Volnovakha. Photo : REUTERS / Nikolaï Riabtchenko.__
 Les autorités des soi-disant RPD et RPL n’ont pas réussi à mettre en place une juste répartition de l’aide humanitaire, aide qui reste encore très insuffisante. Les chefs des séparatistes reconnaissent eux-mêmes qu’une importante partie de l’aide humanitaire est volée. Par exemple, le célèbre commandant séparatiste Arseni Pavlov (un ressortissant russe surnommé
 __Motorola)__
@@ -1407,7 +1410,7 @@ __Elle tue nos enfants, l'agent des massacreurs », ndt.__
 [[2]](#_ftnref2)
 __L’orthographe ukrainienne du nom de la ville de Donetsk est transformée en orthographe russe grâce à la lettre barrée, ndt.__
 
-### []() Chapitre 11. Le coût de la guerre en Ukraine.
+### Chapitre 11. Le coût de la guerre en Ukraine.
 
 
 __Deux aspects doivent être considérés pour estimer le coût qui incombe à la Russie pour cette campagne militaire menée par Vladimir Poutine en Ukraine. Il faut d'une part estimer à combien s’élèvent pour la Russie les coûts des actions militaires proprement dites dans lesquelles sont impliquées des forces militaires « hybrides » (les soi-disant « vacanciers » ou « volontaires »). Il s'agit des coûts directs de la guerre et évidemment ceux-ci ne seront pas très élevés à l’échelle nationale. Mais il est très important, d'autre part, d’analyser les coûts indirects liés aux sanctions imposées envers ses banques et ses entreprises, liés à l’embargo alimentaire mis en place de façon asymétrique par la Russie, liés à l’inflation et à la dévaluation du rouble et à la vaste détérioration de sa situation économique globale. Et ces chiffres vont se révéler beaucoup plus importants.__
@@ -1484,7 +1487,7 @@ __Ozero [**[3]**](#_ftn3)__
 Ce sont les sanctions financières qui ont eu l’effet le plus dévastateur sur l’économie russe, notamment l’interdiction imposée aux entreprises américaines et européennes d’octroyer des prêts, des crédits, d’acheter des actions et des obligations aux banques et à d’autres entités russes contrôlées par l’État. A la suite de ces mesures, les emprunteurs ont dû, afin de pouvoir payer leurs dettes extérieures, gonfler leur demande de devises étrangères sur le marché interne en automne 2014, ce qui a provoqué une dévaluation brutale du rouble et fait flamber l’inflation.
 
 Toutefois, l’accélération de l’inflation avait commencé plus tôt, au moment où le président Poutine, par son décret du 6 août 2014, avait interdit l’importation des produits agricoles, des matières premières et des produits alimentaires en provenance de l’Union Européenne, des États-Unis, d’Australie, du Canada et de la Norvège. Cette mesure a déclenché une réduction de l'offre sur le marché russe et la hausse des prix. La Russie possède d’énormes surfaces en terres agricoles mais notre agriculture n’est pas en mesure de nourrir sa propre population. En 2013, en Russie, le ratio d’importation s’est élevé pour les fruits et les baies à 70 %, pour le bœuf à 41 %, pour le porc à 28 % et pour les produits laitiers à 23 %. Suite à la décision du président Poutine, rien qu’au troisième trimestre, les importations des produits laitiers et de la viande ont chuté de 26 % et celles de poisson de 48 % par rapport à l’année 2013. Selon l’Institut d’analyse stratégique financière et des affaires, la hausse des prix provoquée par cette interdiction, a couté aux Russes la somme annuelle de 147 milliards de roubles [2,6 milliards d’euros, ndt], c’est-à-dire que chaque Russe a déjà payé mille roubles de sa poche.
-[](https://ukraineaction.org/wp-content/uploads/2015/06/p66.png)
+![](https://ukraineaction.org/wp-content/uploads/2015/06/p66.png)
 En 2013, le taux d’inflation des prix à la consommation s'est élevé à 6,5 %. En l'espace de 12 mois à partir de l’annexion de la Crimée, l'inflation s’est accélérée et a atteint 17 % par an, ce qui a provoqué une diminution des revenus et de l’épargne des Russes de 11,5 %. Selon la Banque de Russie, près de 80 % de cette accélération seraient dus à la dévaluation du rouble et 20 % à l’interdiction des importations de produits alimentaires. À l'évidence, la dévaluation du rouble est causée non seulement par les sanctions mais aussi par la baisse des prix du pétrole. La répartition de l’impact de ces deux facteurs est de l’ordre de 1 à 2, c’est-à-dire que suite à la mise en œuvre des sanctions, l’inflation s’est accélérée de 3 %.
 
 Ainsi, la confrontation avec l’Ukraine a coûté aux citoyens russes un supplément d'inflation de 5,5 % sur l’année écoulée depuis l’annexion de la Crimée. Ces 5,5 % de surcoût signifient que les Russes ont perdu environ 2 trillions de roubles [35,7 milliards d’euros, ndt] sur leurs salaires et près de 750 milliards de roubles [13,4 milliards d’euros, ndt] sur leurs économies.
@@ -1497,7 +1500,7 @@ La coopérative
 __Ozero (Le lac)__
 est fondée en 1996 par le président Poutine et des personnes devenues depuis de hauts responsables de l’État, https://en.wikipedia.org/wiki/Ozero, ndt
 
-### []() Conclusion
+### Conclusion
 
 
 La guerre dans l'est de l'Ukraine est souvent qualifiée « d'hybride ». On dit que c’est une invention ingénieuse de Vladimir Poutine : en aucun cas une agression militaire directe, mais une forme déguisée de conflit armé sur le territoire d'un pays voisin interdisant de réclamer formellement quoi que ce soit à son auteur. Le Donbass est en feu, mais le président russe peut jouer l'innocent : « Quel sont vos preuves ? »

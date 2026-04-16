@@ -16,5 +16,5 @@ Si vous ne pouvez pas venir : envoyez-nous votre mot sur contact@russie-libertes
 et il sera déposé près de l'ambassade.
 
 Quelques photos :
-[](https://russie-libertes.org/wp-content/uploads/2015/04/11083679_902269493129905_7490999883595067447_n.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2015/04/10953144_902269466463241_787862101904905283_o.jpg)
+- ![](images/2015_04_11083679_902269493129905_7490999883595067447_n.jpg)
+- ![](images/2015_04_10953144_902269466463241_787862101904905283_o.jpg)

@@ -26,5 +26,3 @@ A cette occasion, Russie-Libertés vous invite à la Maison d'Europe et d'Orient
 La manifestation sera retransmise
 [en direct](https://www.svobodanews.ru/content/article/24708540.html)
 sur grand écran depuis Moscou.
-[](https://www.sildav.org/)
-[](https://russie-libertes.org/)

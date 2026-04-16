@@ -16,7 +16,9 @@ tags:
 
 **>>> COMPLET <<<**
 
- | [](https://russie-libertes.org/wp-content/uploads/2015/06/Putin.Voina_.Cover_-724x1024-e1433778977775.jpg) | **Mardi 23 juin à 19h.** **Conférence exceptionnelle** **Présentation du rapport « Poutine et la guerre »** **et de sa traduction en français.** __**--- Attention changement de salle ---**__ __**Nouvelle salle : 6 ème bureau** ****126 rue de l’Université, Paris 75007** **métro Assemblée Nationale.****__ | 
+![](images/2015_06_Putin.Voina_.Cover_-724x1024-e1433778977775.jpg)
+
+ |  | **Mardi 23 juin à 19h.** **Conférence exceptionnelle** **Présentation du rapport « Poutine et la guerre »** **et de sa traduction en français.** __**--- Attention changement de salle ---**__ __**Nouvelle salle : 6 ème bureau** ****126 rue de l’Université, Paris 75007** **métro Assemblée Nationale.****__ | 
  | ---- | ---- | 
 
 

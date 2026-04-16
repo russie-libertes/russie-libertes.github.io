@@ -1,13 +1,13 @@
 ---
 title: "Appel conjoint au G8 pour une libération immédiate des prisonniers politiques en Russie"
 date: 2012-05-19
+coverImage: "images/2012_05_424479-leaders-of-the-major-industrial-economies-noda-mont-harper-hollande-obama-cameron-medvedev-merkel-va.jpg"
 author: "rus-lib"
 categories:
   - "communique-de-presse"
   - "infos"
 ---
 
-[](https://md0.libe.com/photo/424479/?modified_at=1337420353)
 **Appel conjoint aux participants du [Sommet du G8](https://www.campdavidg8summit.com/) à Camp David, Etats-Unis, les 18-19 mai 2012,**
 par Russie-Libertés, avec l' [Association américaine russophone de défense des droits civiques et humains](https://amrusrights.wordpress.com/2012/05/19/ara-national-convention-appeal-to-the-participants-of-the-2012-summit-of-the-group-of-eight-industrialized-nations/) , et le mouvement international " [Speak Up!](https://russiaspeakup.wordpress.com/about/) ", pour faire pression par tous les moyens diplomatiques sur la Russie afin d'obtenir la libération immédiate des prisonniers politiques de la liste du __Conseil présidentiel pour le développement de la société civile et des droits de l'Homme__ . La [liste complète](https://www.president-sovet.ru/structure/group_6/materials/spisok.php?sphrase_id=529) est visible sur le [site](https://www.president-sovet.ru) du Conseil.
 [**APPEAL TO THE PARTICIPANTS** **OF THE G8 SUMMIT OF INDUSTRIALIZED NATIONS IN CAMP DAVID, MD**](https://amrusrights.wordpress.com/2012/05/19/ara-national-convention-appeal-to-the-participants-of-the-2012-summit-of-the-group-of-eight-industrialized-nations/)

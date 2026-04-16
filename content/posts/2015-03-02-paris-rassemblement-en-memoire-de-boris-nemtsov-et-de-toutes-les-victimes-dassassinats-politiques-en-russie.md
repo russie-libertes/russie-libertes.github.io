@@ -30,20 +30,7 @@ Dans les médias :
 [RTS : https://www.rts.ch/info/monde/6582660-il-y-a-un-climat-de-haine-aujourd-hui-en-russie.html](https://www.rts.ch/info/monde/6582660-il-y-a-un-climat-de-haine-aujourd-hui-en-russie.html)
 Quelques photos :
 
-...
-[](https://russie-libertes.org/wp-content/uploads/2015/03/10455194_10153152047974650_6816825736181299392_n.jpg)
-Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.
-
-...
-[](https://russie-libertes.org/wp-content/uploads/2015/03/11000656_10153152048124650_8549990761529336438_n.jpg)
-Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.
-
-...
-[](https://russie-libertes.org/wp-content/uploads/2015/03/11021244_10153152047859650_5125758185008717410_n.jpg)
-Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.
-
- 
-
-...
-[](https://russie-libertes.org/wp-content/uploads/2015/03/10998082_10153152047324650_2382069142994793397_o.jpg)
-Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.
+- ![Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.](images/2015_03_10455194_10153152047974650_6816825736181299392_n-150x150.jpg)
+- ![Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.](images/2015_03_11000656_10153152048124650_8549990761529336438_n-150x150.jpg)
+- ![Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.](images/2015_03_11021244_10153152047859650_5125758185008717410_n.jpg)
+- ![Rassemblement en mémoire de Boris Nemtsov à Paris. (01.03.2015) Photo : Pierre Raimbault.](images/2015_03_10998082_10153152047324650_2382069142994793397_o.jpg)

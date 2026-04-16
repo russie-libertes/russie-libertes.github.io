@@ -11,12 +11,10 @@ tags:
   - "post-format-link"
 ---
 
-[](https://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
-
 # PRESS RELEASE
 
 
-## [Parliamentarians vote for visa ban bill, rule of law in Russia](https://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
+[Parliamentarians vote for visa ban bill, rule of law in Russia](https://www.oscepa.org/news-a-media/press-releases/1025-parliamentarians-vote-for-visa-ban-bill-rule-of-law-in-russia)
 
 
 MONACO, 8 July 2012 – Parliamentarians from across Europe, Central Asia and North America today voted today to call on parliaments to ban visas and freeze assets for human rights abusers connected to the death of Russian whistleblower Sergei Magnitsky.

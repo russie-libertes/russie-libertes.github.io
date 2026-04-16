@@ -19,7 +19,6 @@ Comme en témoignent les très nombreux observateurs indépendants du scrutin pr
 
 Pour être précis, prenons l'exemple de Saint-Pétersbourg, deuxième ville du pays avec presque 5 millions d'habitants et un nombre conséquent d'observateurs qualifiés.
 (c) Serguei Evseev
-[](https://axelus.livejournal.com/profile)
 [**axelus**](https://axelus.livejournal.com/)
 Dans de très nombreux bureaux de vote, des observateurs, membres des commissions électorales ou journalistes, ont été empêchés de faire leur travail ou même interdits d'entrer dans les bureaux, avec pour seule explication que leur place était déjà occupée par d'autres. Même les représentants officiels des candidats n'ont pas réussi à visionner les documents justifiant l'enregistrement de ces faux observateurs, tandis que certains observateurs réels étaient conduits au poste pour "vérification" des papiers.
 D'autres bureaux de vote (par exemple le n°71 et n°1994) étaient simplement inaccessibles, non seulement aux observateurs, mais aussi aux électeurs et à la police. Officiellement, ces bureaux de vote seraient parvenus à un résultat de 98% et 94% en faveur de Vladimir Poutine, avec respectivement environ 1500 et 2300 votants. Des résultats surréalistes, semblables à ceux des républiques du Caucase, qui approchent si agréablement les 100%, score habituel des tyrans.

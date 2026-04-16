@@ -12,8 +12,9 @@ tags:
   - "climat"
 ---
 
+![](images/2015_11_banner_9dec_2.png)
 
-[](https://russie-libertes.org/wp-content/uploads/2015/11/banner_9dec_2.png) **Conférence-débat** **COP21 : la Russie, moteur ou frein** **de la lutte contre le changement climatique ?**
+**Conférence-débat** **COP21 : la Russie, moteur ou frein** **de la lutte contre le changement climatique ?**
 
 **9 décembre 2015, 18h30-20h30**
 **INALCO, Amphi 5, 65 Rue des Grands Moulins, Paris**
@@ -33,5 +34,5 @@ Modération : Céline Bayou, revue Regard sur l’Est et Alexis Prokopiev, assoc
 Langues : Français et Russe, traduction en Français.
 
 Photos de la conférence :
-[](https://russie-libertes.org/wp-content/uploads/2015/11/12311263_617861678352564_4390198575633642177_n1.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2015/11/12360131_617861685019230_8821145435214779022_n.jpg)
+- ![](images/2015_11_12311263_617861678352564_4390198575633642177_n1.jpg)
+- ![](images/2015_11_12360131_617861685019230_8821145435214779022_n.jpg)

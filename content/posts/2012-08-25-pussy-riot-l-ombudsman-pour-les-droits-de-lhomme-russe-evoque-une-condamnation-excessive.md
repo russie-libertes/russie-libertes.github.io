@@ -6,7 +6,7 @@ categories:
   - "infos"
 ---
 
-[](https://dropbears.com/p/pussy_riot/)
+[https://dropbears.com/p/pussy_riot/](https://dropbears.com/p/pussy_riot/)
 L'ombudsman de la Fédération de Russie pour les droits de l'Homme Vladimir Loukine a estimé jeudi que
 [la condamnation à deux ans de prison des trois chanteuses du groupe punk «Pussy Riot»](https://www.20minutes.fr/monde/russie/986935-moscou-pussy-riot-condamnees-deux-ans-camp-hooliganisme)
 était «excessive» et s'est inquiété que cette affaire ne crée de dangereuses tensions au sein de la société.

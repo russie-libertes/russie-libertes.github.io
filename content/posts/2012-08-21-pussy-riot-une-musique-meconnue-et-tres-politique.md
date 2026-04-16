@@ -10,7 +10,9 @@ categories:
 Par [La page de Esther Degbe](https://plus.lefigaro.fr/page/esther-degbe) le 20/08/2012
 ![Capture d'écran des Pussy Riot en plein concert sauvage.](https://www.lefigaro.fr/medias/2012/08/20/903f0fd4-ead8-11e1-8983-6488f44b8618-493x328.jpg)
  Capture d'écran des Pussy Riot en plein concert sauvage.
-[](https://www.lefigaro.fr/musique/2012/08/20/03006-20120820ARTFIG00404-pussy-riot-une-musique-meconnue-et-tres-politique.php)
+
+[Le Figaro: Pussy Riot: une musique méconnue et tres politique](https://www.lefigaro.fr/musique/2012/08/20/03006-20120820ARTFIG00404-pussy-riot-une-musique-meconnue-et-tres-politique.php)
+
 Activistes, féministes et musiciennes, Maria Alekhina, Ekaterina Samoutsevitch et Nadejda Tolokonnikova du groupe russe [Pussy Riot](https://plus.lefigaro.fr/tag/pussy-riot) ont été condamnées vendredi dernier à [deux ans de prison](https://www.lefigaro.fr/international/2012/08/17/01003-20120817ARTFIG00326-russie-les-pussy-riot-jugees-coupables-de-hooliganisme.php) pour «hooliganisme» et «incitation à la haine religieuse». Le groupe, qui se revendique comme féministe, s'est fait connaître du peuple russe en jouant dans des lieux insolites.
 
 Méconnues jusqu'ici, les Pussy Riot ont puisé dans la musique punk la rage et la colère inspiré par le gouvernement en place et particulièrement Vladimir Poutine, président russe, qu'elles attaquent dans chacun de leurs titres présents sur leur album __Kill The Sexist__ .

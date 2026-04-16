@@ -38,13 +38,13 @@ Nous devons faire tout pour empêcher Poutine de poursuivre sa guerre criminelle
 
 **HISTOIRES DE DÉSERTEURS**
 
-![](images/2024_05_blanc-1024x1024.png)
+![HISTOIRES DE DÉSERTEURS](images/2024_05_blanc-1024x1024.png)
 
 **Phare** – c’est son surnom de déserteur.
 
 Il a 24 ans. Il est tatar et musulman. Il fut officier de l’armée russe.
 
-« Je []() voulais devenir officier depuis l’enfance, la carrière militaire me paraissait noble. Je suis entré à l’école militaire et après la fin des études, j’y ai pris le poste d’enseignant pour former de futurs officiers.
+« Je voulais devenir officier depuis l’enfance, la carrière militaire me paraissait noble. Je suis entré à l’école militaire et après la fin des études, j’y ai pris le poste d’enseignant pour former de futurs officiers.
 
 Petit à petit, je me suis intéressé aux enquêtes de la Fondation anti-corruption d’Alexeï Navalny. À cette époque, j'ai commencé déjà à penser que j'avais fait une erreur en reliant ma vie à l'armée russe. Le 24 février 2022, je n’avais plus de doute : mon pays a commencé une guerre criminelle - il a envahi le territoire d’un autre pays pour tuer des civils, détruire des villes, piller et violer. Je ne pouvais pas soutenir cela ».
 
@@ -130,7 +130,7 @@ Son surnom est Moby-Dick parce qu’il est en fuite permanente.
 
 Il a 33 ans. Il est sportif professionnel. Il fut officier de l’armée russe.
 
-[]() Enfant, il n'était pas très bon à l'école, mais le sport l’intéressait vivement. Sa mère l'élevait seule dans un petit village, un endroit aussi dépourvu d'espoir que d'emplois. Elle l’a inscrit dans une école militaire, car cette formation était gratuite. Cela ressemblait à un ticket pour une vie meilleure.
+Enfant, il n'était pas très bon à l'école, mais le sport l’intéressait vivement. Sa mère l'élevait seule dans un petit village, un endroit aussi dépourvu d'espoir que d'emplois. Elle l’a inscrit dans une école militaire, car cette formation était gratuite. Cela ressemblait à un ticket pour une vie meilleure.
 
 « Comme on disait chez nous, l’armée va te nourrir, te loger, t’habiller. En plus, elle ferait de moi un vrai homme ».
 
@@ -186,7 +186,7 @@ Son surnom est Lénine parce qu'il inspire les gens à se révolter contre l'inj
 
 Il a 26 ans. Il ne faisait jamais confiance aux militaires. Il fut officier de l’armée russe.
 
-« La []() carrière militaire n’était pas mon choix. J’avais toujours peur de l’armée. Mais on dit qu’il faut affronter nos peurs. Mes parents ont insisté que j’entre dans l’école militaire. Ma famille n’est pas riche et n’avait pas assez d’argent pour payer mes études. Alors que dans l’armée on te nourrit, on t’habille et on te loge. Dès les premiers jours, j’ai réalisé que ce n’était pas pour moi : une vie routinière et l’irrespect total des droits humains ».
+« La carrière militaire n’était pas mon choix. J’avais toujours peur de l’armée. Mais on dit qu’il faut affronter nos peurs. Mes parents ont insisté que j’entre dans l’école militaire. Ma famille n’est pas riche et n’avait pas assez d’argent pour payer mes études. Alors que dans l’armée on te nourrit, on t’habille et on te loge. Dès les premiers jours, j’ai réalisé que ce n’était pas pour moi : une vie routinière et l’irrespect total des droits humains ».
 
 Dès son arrivée dans l'unité militaire, il a tenté de démissionner du service militaire en déposant à plusieurs reprises des rapports au commandement.
 

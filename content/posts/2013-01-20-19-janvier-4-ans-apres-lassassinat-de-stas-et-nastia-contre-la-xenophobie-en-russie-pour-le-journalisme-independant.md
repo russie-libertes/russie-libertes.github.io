@@ -16,16 +16,13 @@ Le 19 janvier, 4 ans après le double assassinat de l'avocat Stanislav Markelov 
 Sur la place de Joachim-du-Bellay ("Fontaine des Innocents") on a distribué presque
 [400 tracts pour informer les gens sur la situation alarmante en Russie](uploads/2013_01_listovka-19-jan_paris_russie-libertes.pdf)
 .
-[](images/2013_01_19-jan.jpg)
+![Vitaly Amoursky](images/2013_01_19-jan.jpg)
 Le poète Vitaly Amoursky était aussi avec nous sur la place. Son poème écrit en janvier 2009 pour pleurer la mort de Stas et Nastia reste toujours d'actualité 4 ans plus tard. L'auteur nous permet de
 **[publier ce poème (en Russe)](https://russielibertes.files.wordpress.com/2013/01/d0bed182-d0b2-d0b0d0bcd183d180d181d0bad0bed0b3d0be-19-01-2013.pdf)**
 , qui apparaît dans son recueil de poèmes intitulé "L'automne de Skythe" (l'édition "Aleteïa", 2011).
 
-...
-[](images/2013_01_img_8646.jpg)
+![Tikhon Dzyadko et Elena Servettaz](images/2013_01_img_8646.jpg)
 "Etre un journaliste indépendant en Russie ?" - Tikhon Dzyadko et Elena Servettaz.
-
-
 
 Photo par François Christophe.
 

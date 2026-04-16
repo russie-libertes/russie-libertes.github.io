@@ -22,4 +22,5 @@ La question du développement des relations économiques entre la France et la R
 De leur côté, 73% des français, selon un sondage IFOP commandé par l’Association Russie-Libertés à l’occasion de la visite de Français Hollande à Moscou en février dernier, demandent plus de transparence sur l’origine de certains capitaux russes investis en France. Alors que certains préfèrent fermer les yeux sur cette question et « déconnecter » les questions des droits et libertés des questions de développement économique, Russie Liberté, association créée en 2012 (
 [https://russie-libertes.org/](https://www.facebook.com/l.php?u=http%3A%2F%2Frussie-libertes.org%2F&h=lAQEZzSFO&enc=AZM7IDuYJYDHMwYLZMdoiN84XEftPZtAr2MN1HoB8r3MM51EjW1bQ2o17qUkMvkyQxqgV8CcsN-ad0dn7fMdgv66KaTY_f36g4bo97qyahy9pA&s=1)
 ), propose de créer une réflexion sur la corruption, afin d’essayer de démêler le vrai du faux et d’en tirer les conséquences pour l’action, peser à son niveau, avec des relais nationaux et européens, pour plus de transparence et de justice économique, au service du développement et du respect des droits humains.
-[](https://russielibertes.files.wordpress.com/2013/12/photo-2.jpg)
+
+![](images/2013_12_photo-2.jpg)

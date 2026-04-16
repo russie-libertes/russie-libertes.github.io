@@ -26,6 +26,6 @@ Le rapport « Poutine et la guerre » compile des informations et des témoignag
 Conférence avec la participation de Ilya Yashin – militant de l’opposition russe, membre du conseil politique de RPR-PARNAS, co-auteur du rapport « Poutine et la guerre », Krystyna Biletska – militante de l’association « Ukraine Action », coordinatrice de la traduction du rapport « Poutine et la guerre », Danielle Auroi – députée du Puy-de-Dôme, présidente de la commission des Affaires européennes de l’Assemblée nationale, Alexis Prokopiev – militant pour les droits humains et les libertés, président de l’association « Russie-Libertés ».
 
 Photos :
-[](https://russie-libertes.org/wp-content/uploads/2015/06/IMG_20150623_194428.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2015/06/IMG_20150623_191610.jpg)
-[](https://russie-libertes.org/wp-content/uploads/2015/06/IMG_20150623_191516.jpg)
+- ![](images/2015_06_IMG_20150623_194428.jpg)
+- ![](images/2015_06_IMG_20150623_191610.jpg)
+- ![](images/2015_06_IMG_20150623_191516.jpg)
