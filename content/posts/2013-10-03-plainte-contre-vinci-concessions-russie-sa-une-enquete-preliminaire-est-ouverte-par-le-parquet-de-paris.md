@@ -1,7 +1,7 @@
 ---
 title: "Plainte contre VINCI CONCESSIONS RUSSIE SA : une enquête préliminaire est ouverte par le Parquet de Paris"
 date: 2013-10-03
-coverImage: "images/2013_06_Autouroute-du-d%C3%A9saccord.jpg"
+coverImage: "images/2013_06_Autouroute-du-desaccord.jpg"
 author: "rus-lib"
 categories:
   - "communique-de-presse"
