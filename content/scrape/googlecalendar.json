@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "5i9ucnsm3av7u1ucr7v9tkgsko@google.com",
+    "name": null,
+    "summary": "Inauguration Exposition Portraits des Femmes russes victimes des répressions",
+    "description": null,
+    "organizer": null,
+    "location": "Maison de la Vie Associative et Citoyenne du 12ème, 181 Av. Daumesnil, 75012 Paris, France",
+    "dtstart_iso": "2023-03-08T17:00:00+00:00",
+    "dtend_iso": "2023-03-08T19:00:00+00:00"
+  },
+  {
+    "uid": "1npf1hn8t83cgismpm26ofnm5j@google.com",
+    "name": null,
+    "summary": "Marche pour l'Ukraine - 1 an de guerre massive",
+    "description": null,
+    "organizer": null,
+    "location": "Place de la République, Paris, France",
+    "dtstart_iso": "2023-02-25T13:00:00+00:00",
+    "dtend_iso": "2023-02-25T15:00:00+00:00"
+  },
+  {
+    "uid": "61rp18pra9cflpdruee395fie1@google.com",
+    "name": null,
+    "summary": "LES VOIES DE DÉPOUTINISATION DE LA RUSSIE - CONFÉRENCE",
+    "description": "Amphitéatre 7, 2ème étage\n\nhttps://russie-libertes.org/index.php/2023/01/30/conference-les-voies-de-depoutinisation-de-la-russie/",
+    "organizer": null,
+    "location": "Inalco, 65 Rue des Grands Moulins, 75013 Paris, France",
+    "dtstart_iso": "2023-02-09T18:00:00+00:00",
+    "dtend_iso": "2023-02-09T19:30:00+00:00"
+  }
+]

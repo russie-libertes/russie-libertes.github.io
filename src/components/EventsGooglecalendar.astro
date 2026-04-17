@@ -1,103 +1,45 @@
 ---
-import ICAL from 'ical.js';
 
 import { formatDateTime, getCurrentLocale, excerpt, isProd } from '../scripts/utils.js';
+
+import googlecalendar_events from '../../content/scrape/googlecalendar.json';
+
+const currentLocale = getCurrentLocale(Astro);
+const { googlecalendar_id, future, past, auto, embed, subscribe, now } = Astro.props;
+const embed_url     = `https://calendar.google.com/calendar/embed?src=${googlecalendar_id}`;
+const subscribe_url = `https://calendar.google.com/calendar/r?cid=${googlecalendar_id}`;
 
 function formatMapsLink(location)
 {
     if(!location)
         return '';
-
     const google_maps_prefix = 'https://www.google.com/maps/search/?api=1&query=';
     const query = location.split().join('+');
     const url = google_maps_prefix + query;
     return url;
 }
 
-function formatIcsFileName(startdate_iso)
+function formatIcsFileName(dtstart_iso)
 {
-    return startdate_iso.replaceAll(':', '-').replaceAll('.', '-') + '.ics';
+    return dtstart_iso.replaceAll(':', '-').replaceAll('.', '-') + '.ics';
 }
 
-function formatIcalStr(vevent)
-{
-    // https://stackoverflow.com/a/18847018/445810
-    const vcal = new ICAL.Component(['vcalendar', [], []]);
-    vcal.addSubcomponent(vevent);
-    const icalsample = vcal.toString();
-    return icalsample;
-    //return "data:text/calendar," + encodeURIComponent(icalsample);
-}
-
-function isPast(evt, now_without_time = withoutTime(now || new Date()))
-{
-    return withoutTime(evt.startDate.toJSDate()) < now_without_time;
-}
-
-const currentLocale = getCurrentLocale(Astro);
-
-const { googlecalendar_id, future, past, auto, embed, subscribe, now } = Astro.props;
-
-const withoutTime = dt => dt.setHours(0,0,0,0);
-
-
-const embed_url     = `https://calendar.google.com/calendar/embed?src=${googlecalendar_id}`;
-const subscribe_url = `https://calendar.google.com/calendar/r?cid=${googlecalendar_id}`;
-const ical_url      = `https://calendar.google.com/calendar/ical/${googlecalendar_id}/public/basic.ics?orderby=starttime&sortorder=descending`; 
-
-// curl -L 'https://calendar.google.com/calendar/ical/c_8b8659dad12e20ac1130806694372259da336128023574166b99a96057a2c6ad@group.calendar.google.com/public/basic.ics?orderby=starttime&sortorder=descending&iCalUID=1npf1hn8t83cgismpm26ofnm5j@google.com'
-
-// &futureevents=true
-// https://www.googleapis.com/calendar/v3/calendars/${googlecalendar_id}/events
-
-const ics = await fetch(ical_url).then(r => {if(!r.ok) throw r; return r.text()}).catch(() => (''));
-let events = [];
-if(ics !== '')
-{
-    const jcalData = ICAL.parse(ics);
-    const comp = new ICAL.Component(jcalData);
-    const vevents_events = Array.from(comp.getAllSubcomponents("vevent")).map(vevent => [vevent, new ICAL.Event(vevent)]);
-    
-    const past_events = vevents_events.filter(([vevent, evt]) =>  isPast(evt)).map(([vevent, evt]) => [vevent, evt, true]);
-    const past_events = vevents_events.filter(([vevent, evt]) => !isPast(evt)).map(([vevent, evt]) => [vevent, evt, false]);
-    
-    if(auto)
-    {
-        events = future_events.length > 0 ? future_events : past_events;
-    }
-    else
-    {
-        if(!past && future)
-        {
-            events = future_events;
-        }
-        else if(past && !future)
-        {
-            events = past_events;
-        }
-        else if(!past && !future)
-        {
-            events = [];
-        }
-    }
-}
-
-const events_joined = events.map(([vevent, evt, past]) => ({summary: evt.summary, location: evt.location, description: evt.description, startdate_iso: evt.startDate.toJSDate().toISOString(), past: past, ical_str : formatIcalStr(vevent)}));
+const events_joined = googlecalendar_events;
 
 ---
 
 <div class="card-grid">
 {events_joined.map(e => (
     <article class="card">
-        { e.past ? (
+        { (true || "e.past") ? (
             <h2 class="card-title">{e.summary}</h2>
         ) : (
-        <a download={formatIcsFileName(e.startdate_iso)} href={"data:text/calendar," + encodeURIComponent(e.ical_str)}>
+        <a download={formatIcsFileName(e.dtstart_iso)} href={"data:text/calendar," + encodeURIComponent(e.ical_str || "")}>
             <h2 class="card-title">{e.summary}</h2>
         </a>
         )}
         <div class="card-meta">
-            <time datetime={e.startdate_iso}>{e.startdate_iso}<!-- formatDateTime(e.evt.startDate.toJSDate(), currentLocale)--></time>
+            <time datetime={e.dtstart_iso}>{e.dtstart_iso}<!-- formatDateTime(e.evt.startDate.toJSDate(), currentLocale)--></time>
             <a href={formatMapsLink(e.location)}>
                 <address>{e.location}</address>
             </a>

@@ -22,7 +22,6 @@
     "@sveltia/cms": "^0.149.1",
     "@tailwindcss/vite": "^4.1.17",
     "astro": "^5.16.4",
-    "ical.js": "^2.2.1",
     "remark": "^15.0.1",
     "tailwindcss": "^4.1.17",
     "unist-util-visit": "^5.0.0"
