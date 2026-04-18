@@ -19,7 +19,7 @@ def main(args):
     res = []
     for component in calendar.walk():
         if component.name == "VEVENT":
-            cal = Calendar()
+            cal = icalendar.Calendar()
             cal.add('prodid', '-//My Calendar Product//mxm.dk//')
             cal.add('version', '2.0')
             cal.add_component(component)
