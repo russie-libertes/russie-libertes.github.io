@@ -12,6 +12,7 @@
     "helloasso": "python helloasso.py -c ./content/site.config.json  -o ./content/scrape/helloasso.json --scrape",
     "instagram": "python instagram.py -c ./content/site.config.json  -o ./content/scrape/instagram.json --image-dir ./public/instagram",
     "googlecalendar": "python googlecalendar.py -c ./content/site.config.json -o ./content/scrape/googlecalendar.json",
+    "facebookevents": "python facebookevents.py -i ./content/main/facebookevents.md -o ./content/scrape/facebookevents.json",
     "buildnocache": "rm -rf .astro node_modules/.astro || true; astro build",
     "devnocache": "rm -rf .astro node_modules/.astro || true; astro dev"
   },
