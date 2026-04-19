@@ -1,15 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
 import EventsPreview from '../components/EventsPreview.astro' 
-import { isPast } from '../../scripts/utils.js'
+import { isPast } from '../scripts/utils.js'
 
 import SiteConfig from '../../content/site.config.json';
 
-import googlecalendarevents from '../../content/scrape/googlecalendar.json';
-import facebookevents from '../../content/scrape/facebookevents.json';
+import googlecalendarevents_all from '../../content/scrape/googlecalendar.json';
+import facebookevents_all from '../../content/scrape/facebookevents.json';
 
-const events_joined = googlecalendarevents;
-
+const events_joined = googlecalendarevents_all;
 const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
 
 ---
