@@ -8,7 +8,7 @@ const { googlecalendar_id, events, embed, subscribe } = Astro.props;
 ---
 
 <div class="card-grid">
-{events.map(e => (
+{(events || []).map(e => (
     <article class="card">
         <a download={e.ical_str ? formatIcsFileName(e.dtstart_iso) : null} href={e.ical_str ? ("data:text/calendar," + encodeURIComponent(e.ical_str)) : null} >
             <h2 class="card-title">{e.summary}</h2>
@@ -23,7 +23,7 @@ const { googlecalendar_id, events, embed, subscribe } = Astro.props;
     </article>
 ))}
 </div>
-{events.length == 0 && (<p><slot /></p>)}
+{(!events ||events.length == 0) && (<p><slot /></p>)}
 
 {!embed && subscribe && (
 <div class="googlecalendar-subscribe-button-container">

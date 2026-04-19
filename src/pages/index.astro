@@ -41,7 +41,7 @@ const instagram_posts = instagram_posts_all.slice(0, 4);
 const media_posts = media_all.filter(m => m.meta).slice(0, 4);
 const events_joined = googlecalendarevents;
 const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
-const events = future_events.length > 0 ? future_events : past_events;
+const events = (future_events && future_events.length > 0) ? future_events : past_events;
 
 
 const PartnersMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'partners.md'));
