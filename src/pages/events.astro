@@ -12,7 +12,7 @@ const events_joined = googlecalendarevents_all;
 const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
 
 ---
-<BaseLayout>
+<BaseLayout pageTitle="Events">
     <main>
         <section>
             <EventsPreview events={future_events} googlecalendar_id={SiteConfig.googlecalendar_id} subscribe={true} embed={true} />
