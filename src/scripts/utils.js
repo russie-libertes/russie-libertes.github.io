@@ -10,7 +10,7 @@ export function isProd()
     return import.meta.env.MODE == 'production';
 }
 
-function isPast(dtstart_iso, now = new Date())
+export function isPast(dtstart_iso, now = new Date())
 {
     if(!dtstart_iso)
         return false;
@@ -18,7 +18,7 @@ function isPast(dtstart_iso, now = new Date())
     return withoutTime(new Date(dtstart_iso)) < withoutTime(now);
 }
 
-function formatMapsLink(location)
+export function formatMapsLink(location)
 {
     if(!location)
         return '';
@@ -28,7 +28,7 @@ function formatMapsLink(location)
     return url;
 }
 
-function formatIcsFileName(dtstart_iso)
+export function formatIcsFileName(dtstart_iso)
 {
     if(!dtstart_iso)
         return 'default.ics';
