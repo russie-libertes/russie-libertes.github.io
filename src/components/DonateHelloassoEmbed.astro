@@ -4,7 +4,7 @@ import { isProd } from '../scripts/utils.js';
 ---
 
 {isProd() ? (
-<iframe width="100%" height="850px" allowtransparency="true" allow="payment" scrolling="no" src={Astro.props.helloasso_donate_widget_url} ></iframe>
+<iframe class="helloasso-donate-embed" allow="payment" src={Astro.props.helloasso_donate_widget_url} ></iframe>
 ) : (
 <p>Not displaying donate box in development to avoid bans</p>
 )}

@@ -20,7 +20,7 @@ const {campaigns, embed} = Astro.props;
 
 <ul>
 {campaigns.map(entry => (
-    <li><iframe height="400px" width="100%" allowtransparency="true" src={entry.widgetVignetteHorizontalUrl}></iframe></li>
+    <li><iframe class="helloasso-campaign-embed"src={entry.widgetVignetteHorizontalUrl}></iframe></li>
 ))}
 </ul>
 

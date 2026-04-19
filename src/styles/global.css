@@ -1,3 +1,7 @@
+.text-center {
+    text-align:center
+}
+
 .site-nav {
     display: flex;
     align-items: center;
@@ -1043,11 +1047,18 @@ main > section > h1:first-child:first-of-type {
 }
 .googlecalendar-embed {
     border: 0;
+    overflow: hidden;
     width: 100%;
     height: 600px;
-    overflow: hidden;
 }
 
-.text-center {
-    text-align:center
+.helloasso-donate-embed {
+    border: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 850px;
+}
+.helloasso-campaign-embed {
+    width: 100%;
+    height: 400px;
 }
