@@ -39,7 +39,7 @@ const posts = await getCollection('posts');
 const posts_recent = getRecentByDate(posts, currentLocale, 4);
 const instagram_posts = instagram_posts_all.slice(0, 4);
 const media_posts = media_all.filter(m => m.meta).slice(0, 4);
-const events_joined = googlecalendarevents;
+const events_joined = googlecalendarevents_all;
 const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
 const events = (future_events && future_events.length > 0) ? future_events : past_events;
 
