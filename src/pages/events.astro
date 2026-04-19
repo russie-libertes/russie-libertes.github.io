@@ -1,18 +1,27 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro'
-import EventsGooglecalendar from '../components/EventsGooglecalendar.astro' 
+import EventsPreview from '../components/EventsPreview.astro' 
+import { isPast } from '../../scripts/utils.js'
 
 import SiteConfig from '../../content/site.config.json';
+
+import googlecalendarevents from '../../content/scrape/googlecalendar.json';
+import facebookevents from '../../content/scrape/facebookevents.json';
+
+const events_joined = googlecalendarevents;
+
+const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
+
 ---
 <BaseLayout>
     <main>
         <section>
-            <EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} future={true} past={false} subscribe={true} embed={true} />
+            <EventsPreview events={future_events} googlecalendar_id={SiteConfig.googlecalendar_id} subscribe={true} embed={true} />
         </section>
 
         <section>
             <h1>Archive</h1>
-            <EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} future={false} past={true} subscribe={false} embed={false} />
+            <EventsPreview events={past_events}  />
         </section>
     </main>
 </BaseLayout>

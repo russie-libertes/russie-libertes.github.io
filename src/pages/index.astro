@@ -16,11 +16,11 @@ import MediaPreview from '../components/MediaPreview.astro'
 import SubscribeMailchimp from '../components/SubscribeMailchimp.astro'
 import DonateHelloassoEmbed from '../components/DonateHelloassoEmbed.astro'
 import CampaignsHelloassoPreview from '../components/CampaignsHelloassoPreview.astro'
-import EventsGooglecalendar from '../components/EventsGooglecalendar.astro' 
+import EventsPreview from '../components/EventsPreview.astro' 
 import Lspan from '../components/LocalizedSpan.astro'
 import La from '../components/LocalizedLink.astro'
 
-import { getMarkdownEntryForLocale, getRecentByDate, getCurrentLocale } from '../scripts/utils.js';
+import { getMarkdownEntryForLocale, getRecentByDate, getCurrentLocale, isPast } from '../scripts/utils.js';
 
 import SiteConfig from '../../content/site.config.json';
 
@@ -28,6 +28,8 @@ import instagram_posts_all from '../../content/scrape/instagram.json';
 import changeorg_petitions_all from '../../content/scrape/changeorg.json'
 import helloasso_campaigns_all from '../../content/scrape/helloasso.json'
 import media_all from '../../content/scrape/media.json'
+import googlecalendarevents_all from '../../content/scrape/googlecalendar.json';
+import facebookevents_all from '../../content/scrape/facebookevents.json';
 
 const currentLocale = getCurrentLocale(Astro);
 
@@ -37,6 +39,10 @@ const posts = await getCollection('posts');
 const posts_recent = getRecentByDate(posts, currentLocale, 4);
 const instagram_posts = instagram_posts_all.slice(0, 4);
 const media_posts = media_all.filter(m => m.meta).slice(0, 4);
+const events_joined = googlecalendarevents;
+const {past_events, future_events}  = Object.groupBy(events_joined, e => isPast(e.dtstart_iso) ? "past_events" : "future_events"); 
+const events = future_events.length > 0 ? future_events : past_events;
+
 
 const PartnersMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'partners.md'));
 const TeamIntroMarkdown = await render(getMarkdownEntryForLocale(main, currentLocale, 'teamintro.md'));
@@ -127,12 +133,12 @@ const team_rehype_config = [
 					<Lspan lang="ru">Мероприятия</Lspan>
 				</La>
 			</h1>
-			<EventsGooglecalendar googlecalendar_id={SiteConfig.googlecalendar_id} auto={true} subscribe={true}>
-				<div style="text-align:center">
+			<EventsPreview events={events} googlecalendar_id={SiteConfig.googlecalendar_id} subscribe={true} embed={false}>
+				<div class="text-center">
 					<Lspan lang="fr">Pas d'événements prévu</Lspan>
 					<Lspan lang="ru">В ближайшее время нет запланированных мероприятий</Lspan>
 				</div>
-			</EventsGooglecalendar>
+			</EventsPreview>
 		</section>
 
 		<section id="crowdfunding">

@@ -1,0 +1,39 @@
+---
+
+import { formatDateTime, getCurrentLocale, excerpt, isProd, formatMapsLink, formatIcsFileName } from '../scripts/utils.js';
+
+const currentLocale = getCurrentLocale(Astro);
+const { googlecalendar_id, events, embed, subscribe } = Astro.props;
+
+---
+
+<div class="card-grid">
+{events.map(e => (
+    <article class="card">
+        <a download={e.ical_str ? formatIcsFileName(e.dtstart_iso) : null} href={e.ical_str ? ("data:text/calendar," + encodeURIComponent(e.ical_str)) : null} >
+            <h2 class="card-title">{e.summary}</h2>
+        </a>
+        <div class="card-meta">
+            <time datetime={e.dtstart_iso}>{formatDateTime(new Date(e.dtstart_iso), currentLocale)}</time>
+            <a href={formatMapsLink(e.location)}>
+                <address>{e.location}</address>
+            </a>
+        </div>
+        <blockquote class="card-excerpt">{excerpt(e.description)}<blockquote/>
+    </article>
+))}
+</div>
+{events.length == 0 && (<p><slot /></p>)}
+
+{!embed && subscribe && (
+<div class="googlecalendar-subscribe-button-container">
+    <a class="googlecalendar-subscribe-button" href={"https://calendar.google.com/calendar/r?cid=" + googlecalendar_id} class="link-button" target="_blank">Add to Google Calendar</a>
+</div>
+)}
+
+{(embed && isProd()) ? (
+<iframe  class="googlecalendar-embed" frameborder="0" scrolling="no" src={"https://calendar.google.com/calendar/embed?src=" + googlecalendar_id}></iframe>
+) : embed ? (
+<p>Not displaying Google Calendar embed in development to avoid bans</p>
+) : (<p></p>)
+}

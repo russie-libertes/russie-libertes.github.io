@@ -10,6 +10,31 @@ export function isProd()
     return import.meta.env.MODE == 'production';
 }
 
+function isPast(dtstart_iso, now = new Date())
+{
+    if(!dtstart_iso)
+        return false;
+    const withoutTime = dt => dt.setHours(0,0,0,0);
+    return withoutTime(new Date(dtstart_iso)) < withoutTime(now);
+}
+
+function formatMapsLink(location)
+{
+    if(!location)
+        return '';
+    const google_maps_prefix = 'https://www.google.com/maps/search/?api=1&query=';
+    const query = location.split().join('+');
+    const url = google_maps_prefix + query;
+    return url;
+}
+
+function formatIcsFileName(dtstart_iso)
+{
+    if(!dtstart_iso)
+        return 'default.ics';
+    return dtstart_iso.replaceAll(':', '-').replaceAll('.', '-') + '.ics';
+}
+
 export function extractLocale(filePath)
 {
     const filename = filePath.split('/').pop();

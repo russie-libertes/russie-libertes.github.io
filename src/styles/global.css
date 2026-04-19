@@ -1,4 +1,3 @@
-
 .site-nav {
     display: flex;
     align-items: center;
@@ -1034,4 +1033,20 @@ main > section > h1:first-child:first-of-type {
     &:focus {
       outline-style: none;
     }
+}
+
+.googlecalendar-subscribe-button-container{
+    display:flex; margin-top:1em
+}
+.googlecalendar-subscribe-button {
+    margin:auto
+}
+.googlecalendar-embed {
+    border: 0;
+    width: 100%;
+    height: 600px;
+}
+
+.text-center {
+    text-align:center
 }
