@@ -23,7 +23,7 @@ export function formatMapsLink(location)
     if(!location)
         return '';
     const google_maps_prefix = 'https://www.google.com/maps/search/?api=1&query=';
-    const query = location.split().join('+');
+    const query = location.replaceAll(' ', '+');
     const url = google_maps_prefix + query;
     return url;
 }
