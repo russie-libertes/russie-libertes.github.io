@@ -50,13 +50,12 @@ const DonateMarkdown = await render(getMarkdownEntryForLocale(main, currentLocal
                 <h2>PayPal</h2>
 
                 <div class="link-button-container">
-                    <a href="https://www.paypal.com/fundraiser/charity/4864486" class="link-button">PayPal Giving Fund charity page</a>
+                    <a href={SiteConfig.paypal_giving_fund_url} class="link-button">PayPal Giving Fund charity page</a>
                 </div>
             
                 <div class="link-button-container">
                     <a href="https://www.paypal.com/donate/?hosted_button_id=JYQZQRW85XRK4" class="link-button">PayPal Donate hosted button</a> 
                 </div>
-                
                 
                 <div>
                     <DonatePaypalForm business={SiteConfig.paypal_business_email} currency_code={SiteConfig.paypal_currency_code} amounts="20 50 100" default_amount="50">
@@ -64,7 +63,7 @@ const DonateMarkdown = await render(getMarkdownEntryForLocale(main, currentLocal
                     </DonatePaypalForm>
                 </div>
                 <div>
-                    <DonatePaypalButton business={SiteConfig.paypal_business_email} currency_code={SiteConfig.paypal_currency_code}"EUR" item_name="Donation">
+                    <DonatePaypalButton business={SiteConfig.paypal_business_email} currency_code={SiteConfig.paypal_currency_code} item_name="Donation">
                         <span>Donate via PayPal: choose your amount</span>
                     </DonatePaypalButton>
                 </div>
