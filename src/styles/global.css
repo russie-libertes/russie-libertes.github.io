@@ -959,7 +959,10 @@ main > section > h1:first-child:first-of-type {
   color: var(--color-white);
   cursor:pointer;
 }
-
+.link-button-container {
+  display:flex;
+  margin: 1em;
+}
 
 
 
